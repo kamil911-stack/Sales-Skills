@@ -12,31 +12,83 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 
 ## Available Skills
 
-| Skill | Description | Triggers |
-|-------|-------------|----------|
-| [ab-test-setup](skills/ab-test-setup/) | Plan and run sales experiments | "sales test," "outreach experiment," "A/B test emails" |
-| [analytics-tracking](skills/analytics-tracking/) | Pipeline reporting and sales metrics | "pipeline metrics," "sales dashboard," "forecast" |
-| [competitor-alternatives](skills/competitor-alternatives/) | Competitive selling and positioning | "vs competitor," "battle card," "competitive deal" |
-| [copy-editing](skills/copy-editing/) | Refine sales communications | "edit my email," "review my proposal," "polish outreach" |
-| [copywriting](skills/copywriting/) | Sales messaging and value propositions | "value prop," "sales messaging," "pitch deck copy" |
-| [email-sequence](skills/email-sequence/) | Build prospecting sequences | "outreach sequence," "cold email," "follow-up cadence" |
-| [form-cro](skills/form-cro/) | Optimize lead qualification forms | "qualification form," "lead scoring," "intake form" |
-| [free-tool-strategy](skills/free-tool-strategy/) | Sales enablement tools | "sales tools," "demo environment," "ROI calculator" |
-| [launch-strategy](skills/launch-strategy/) | New product sales launches | "product launch," "GTM strategy," "sales rollout" |
-| [marketing-ideas](skills/marketing-ideas/) | 100+ sales tactics and strategies | "sales tactics," "prospecting ideas," "pipeline generation" |
-| [marketing-psychology](skills/marketing-psychology/) | Sales psychology and buyer behavior | "buyer psychology," "objection handling," "negotiation" |
-| [onboarding-cro](skills/onboarding-cro/) | Customer onboarding and implementation | "customer onboarding," "implementation," "time-to-value" |
-| [page-cro](skills/page-cro/) | Optimize sales pages and proposals | "proposal optimization," "sales page," "one-pager" |
-| [paid-ads](skills/paid-ads/) | Paid lead generation for sales | "paid leads," "LinkedIn ads," "lead gen campaigns" |
-| [paywall-upgrade-cro](skills/paywall-upgrade-cro/) | Account expansion and upselling | "upsell," "expansion," "cross-sell," "land and expand" |
-| [popup-cro](skills/popup-cro/) | Lead capture and meeting conversion | "meeting booking," "demo request," "lead capture" |
-| [pricing-strategy](skills/pricing-strategy/) | Pricing negotiation and value defense | "pricing objection," "discount request," "negotiation" |
-| [programmatic-seo](skills/programmatic-seo/) | Sales playbook development | "sales playbook," "sales process," "methodology" |
-| [referral-program](skills/referral-program/) | Customer referrals and partner sales | "referral," "partner sales," "channel sales" |
-| [schema-markup](skills/schema-markup/) | Deal documentation and CRM best practices | "CRM," "deal notes," "pipeline hygiene" |
-| [seo-audit](skills/seo-audit/) | Deal review and win/loss analysis | "win/loss," "deal review," "pipeline audit" |
-| [signup-flow-cro](skills/signup-flow-cro/) | Sales process optimization | "sales process," "deal flow," "cycle reduction" |
-| [social-content](skills/social-content/) | Social selling and LinkedIn prospecting | "LinkedIn," "social selling," "warm prospecting" |
+### Core Sales Skills (20)
+
+| Skill | Description |
+|-------|-------------|
+| [active-listening](skills/active-listening/) | Understand prospects and hear what's really being said |
+| [adaptability](skills/adaptability/) | Adjust approach based on buyer personality and situation |
+| [asking-effective-questions](skills/asking-effective-questions/) | Discovery and qualifying questions using SPIN and other frameworks |
+| [building-rapport](skills/building-rapport/) | Create genuine connection and trust quickly |
+| [closing](skills/closing/) | Recognize buying signals and ask for the sale |
+| [competitive-positioning](skills/competitive-positioning/) | Differentiate without disparaging competitors |
+| [discovery](skills/discovery/) | Run thorough needs assessments before proposing |
+| [empathy](skills/empathy/) | Genuinely understand the buyer's situation and pressures |
+| [follow-up-discipline](skills/follow-up-discipline/) | Persistent but respectful outreach that keeps deals moving |
+| [negotiation](skills/negotiation/) | Find mutually beneficial outcomes without eroding value |
+| [objection-handling](skills/objection-handling/) | Address concerns and overcome resistance |
+| [pipeline-management](skills/pipeline-management/) | Maintain healthy deal flow and accurate forecasting |
+| [presentation-skills](skills/presentation-skills/) | Deliver clear, engaging demos and pitches |
+| [product-knowledge](skills/product-knowledge/) | Understand what you sell and how it solves problems |
+| [qualifying-leads](skills/qualifying-leads/) | Quickly identify who's worth pursuing |
+| [resilience](skills/resilience/) | Bounce back from rejection without losing momentum |
+| [social-selling](skills/social-selling/) | Leverage LinkedIn and social platforms for warm outreach |
+| [storytelling](skills/storytelling/) | Use narratives and case studies to make benefits tangible |
+| [time-management](skills/time-management/) | Prioritize high-value activities and prospects |
+| [written-communication](skills/written-communication/) | Craft compelling emails, proposals, and follow-ups |
+
+### Sales Process & Strategy (23)
+
+| Skill | Description |
+|-------|-------------|
+| [ab-test-setup](skills/ab-test-setup/) | Test and optimize sales approaches and outreach |
+| [analytics-tracking](skills/analytics-tracking/) | Pipeline reporting, metrics, and forecasting |
+| [competitor-alternatives](skills/competitor-alternatives/) | Battlecards, competitive intel, and positioning |
+| [copy-editing](skills/copy-editing/) | Edit and improve sales messages and scripts |
+| [copywriting](skills/copywriting/) | Write cold outreach, emails, and sales scripts |
+| [email-sequence](skills/email-sequence/) | Create prospecting sequences and follow-up cadences |
+| [form-cro](skills/form-cro/) | Design lead qualification forms and scoring |
+| [free-tool-strategy](skills/free-tool-strategy/) | Build ROI calculators and sales enablement tools |
+| [launch-strategy](skills/launch-strategy/) | Plan territory launches and sales campaigns |
+| [marketing-ideas](skills/marketing-ideas/) | 100+ sales tactics and pipeline generation strategies |
+| [marketing-psychology](skills/marketing-psychology/) | 70+ psychological principles for sales conversations |
+| [onboarding-cro](skills/onboarding-cro/) | Optimize customer onboarding and time-to-value |
+| [page-cro](skills/page-cro/) | Create pitch decks, demos, and sales presentations |
+| [paid-ads](skills/paid-ads/) | Outbound prospecting and lead sourcing strategy |
+| [paywall-upgrade-cro](skills/paywall-upgrade-cro/) | Upselling, cross-selling, and deal expansion |
+| [popup-cro](skills/popup-cro/) | Improve meeting show rates and prospect engagement |
+| [pricing-strategy](skills/pricing-strategy/) | Handle pricing objections and negotiate value |
+| [programmatic-seo](skills/programmatic-seo/) | Build and scale sales playbooks and processes |
+| [referral-program](skills/referral-program/) | Generate referrals and build partner channels |
+| [schema-markup](skills/schema-markup/) | Deal documentation and CRM hygiene |
+| [seo-audit](skills/seo-audit/) | Win/loss analysis and pipeline audits |
+| [signup-flow-cro](skills/signup-flow-cro/) | Optimize sales process and reduce deal friction |
+| [social-content](skills/social-content/) | LinkedIn prospecting and personal branding for sales |
+
+### AI SDR & Bot Skills (20)
+
+| Skill | Description |
+|-------|-------------|
+| [ab-message-testing](skills/ab-message-testing/) | Automatically test message variations to optimize conversion |
+| [appointment-booking](skills/appointment-booking/) | Calendar integration and autonomous meeting scheduling |
+| [compliance-handling](skills/compliance-handling/) | Handle opt-outs, DNC lists, TCPA/ACMA compliance |
+| [conversation-memory](skills/conversation-memory/) | Reference previous interactions across channels |
+| [conversational-flow-management](skills/conversational-flow-management/) | Keep exchanges natural while progressing toward outcomes |
+| [data-enrichment-integration](skills/data-enrichment-integration/) | Pull firmographic and contact data mid-conversation |
+| [fallback-gracefully](skills/fallback-gracefully/) | Handle unexpected inputs without breaking conversation |
+| [handoff-detection](skills/handoff-detection/) | Know when to escalate to a human rep |
+| [intent-detection](skills/intent-detection/) | Recognize prospect intent from responses |
+| [lead-qualification-logic](skills/lead-qualification-logic/) | Automated lead scoring and routing |
+| [multi-channel-coordination](skills/multi-channel-coordination/) | Orchestrate SMS, email, voice, and chat |
+| [objection-recognition](skills/objection-recognition/) | Identify pushbacks and deliver appropriate responses |
+| [performance-analytics](skills/performance-analytics/) | Track bot conversion rates and drop-off points |
+| [personalization-at-scale](skills/personalization-at-scale/) | Dynamic personalization with names, company details |
+| [re-engagement-sequencing](skills/re-engagement-sequencing/) | Nurture cold leads back into active conversations |
+| [response-latency-management](skills/response-latency-management/) | Reply timing that feels natural |
+| [sentiment-analysis](skills/sentiment-analysis/) | Gauge prospect tone and adjust responses |
+| [timing-optimization](skills/timing-optimization/) | Send messages when prospects most likely to engage |
+| [tone-matching](skills/tone-matching/) | Adapt formality based on prospect communication style |
+| [urgency-creation](skills/urgency-creation/) | Introduce scarcity without being pushy |
 
 ## Installation
 
@@ -108,11 +160,14 @@ Once installed, just ask Claude Code to help with sales tasks:
 "Create a competitive battle card vs Salesforce"
 → Uses competitor-alternatives skill
 
-"Review this deal and tell me what's missing"
-→ Uses seo-audit (deal-review) skill
-
 "Help me prepare for a discovery call"
-→ Uses marketing-psychology (sales-psychology) skill
+→ Uses discovery skill
+
+"What questions should I ask to uncover pain?"
+→ Uses asking-effective-questions skill
+
+"Build an AI SDR that can detect when to hand off to a human"
+→ Uses handoff-detection skill
 ```
 
 You can also invoke skills directly:
@@ -120,47 +175,19 @@ You can also invoke skills directly:
 ```
 /pricing-strategy
 /email-sequence
-/competitor-alternatives
+/objection-handling
+/discovery
 ```
 
 ## Skill Categories
 
-### Prospecting & Outreach
-- `email-sequence` - Cold outreach and follow-up sequences
-- `social-content` - LinkedIn prospecting and social selling
-- `marketing-ideas` - 100+ sales tactics and pipeline generation
-- `popup-cro` - Lead capture and meeting booking optimization
+**63 skills** organized into three categories:
 
-### Discovery & Qualification
-- `marketing-psychology` - Sales psychology and buyer behavior
-- `form-cro` - Lead qualification and scoring
-- `signup-flow-cro` - Sales process optimization
+- **Core Sales Skills (20)** — Fundamental human skills every seller needs: active listening, rapport building, discovery, objection handling, negotiation, closing, storytelling, and more.
 
-### Competitive Selling
-- `competitor-alternatives` - Battle cards and competitive positioning
-- `copywriting` - Value propositions and differentiation
+- **Sales Process & Strategy (23)** — Tactical frameworks and methodologies: prospecting sequences, competitive positioning, pricing strategy, pipeline management, playbook development, and sales analytics.
 
-### Deal Execution
-- `pricing-strategy` - Negotiation and value defense
-- `page-cro` - Proposals and sales collateral
-- `schema-markup` - CRM documentation and deal hygiene
-- `programmatic-seo` - Sales playbooks and methodology
-
-### Pipeline Management
-- `analytics-tracking` - Pipeline metrics and forecasting
-- `seo-audit` - Win/loss analysis and deal reviews
-- `ab-test-setup` - Sales experimentation
-
-### Account Growth
-- `paywall-upgrade-cro` - Expansion and upselling
-- `onboarding-cro` - Customer onboarding and implementation
-- `referral-program` - Referrals and partner sales
-
-### Sales Enablement
-- `free-tool-strategy` - Demo environments and sales tools
-- `launch-strategy` - New product GTM and sales rollout
-- `paid-ads` - Paid lead generation
-- `copy-editing` - Sales communication refinement
+- **AI SDR & Bot Skills (20)** — Skills for building autonomous sales bots: intent detection, sentiment analysis, conversation memory, compliance handling, handoff detection, and multi-channel coordination.
 
 ## Sales Methodologies Included
 
