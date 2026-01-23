@@ -64,30 +64,50 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [sales-tactics](skills/sales-tactics/) | 100+ sales tactics and pipeline generation strategies |
 | [territory-account-launch](skills/territory-account-launch/) | Plan territory launches and sales campaigns |
 
-### AI SDR & Bot Skills (20)
+### AI SDR & Bot Skills (40)
 
 | Skill | Description |
 |-------|-------------|
 | [ab-message-testing](skills/ab-message-testing/) | Automatically test message variations to optimize conversion |
 | [appointment-booking](skills/appointment-booking/) | Calendar integration and autonomous meeting scheduling |
+| [attachment-media-handling](skills/attachment-media-handling/) | Contextual content delivery and media sharing |
+| [buying-signal-amplification](skills/buying-signal-amplification/) | Recognize and reinforce buying signals |
+| [callback-scheduling](skills/callback-scheduling/) | Handle "call me later" requests intelligently |
+| [channel-preference-detection](skills/channel-preference-detection/) | Detect SMS, email, or phone preferences |
+| [competitor-mention-handling](skills/competitor-mention-handling/) | Respond strategically to competitor mentions |
 | [compliance-handling](skills/compliance-handling/) | Handle opt-outs, DNC lists, TCPA/ACMA compliance |
+| [conversation-branching](skills/conversation-branching/) | Dynamic conversation paths based on responses |
 | [conversation-memory](skills/conversation-memory/) | Reference previous interactions across channels |
+| [conversation-pause-intelligence](skills/conversation-pause-intelligence/) | Interpret silence and non-response signals |
+| [conversation-summarization](skills/conversation-summarization/) | Create handoff notes and CRM summaries |
 | [conversational-flow-management](skills/conversational-flow-management/) | Keep exchanges natural while progressing toward outcomes |
 | [data-enrichment-integration](skills/data-enrichment-integration/) | Pull firmographic and contact data mid-conversation |
+| [drip-pacing-intelligence](skills/drip-pacing-intelligence/) | Adaptive sequence timing based on engagement |
+| [duplicate-conversation-prevention](skills/duplicate-conversation-prevention/) | Prevent contacting same prospect across channels simultaneously |
+| [entity-extraction](skills/entity-extraction/) | Pull key data from unstructured responses |
 | [fallback-gracefully](skills/fallback-gracefully/) | Handle unexpected inputs without breaking conversation |
 | [handoff-detection](skills/handoff-detection/) | Know when to escalate to a human rep |
 | [intent-detection](skills/intent-detection/) | Recognize prospect intent from responses |
 | [lead-qualification-logic](skills/lead-qualification-logic/) | Automated lead scoring and routing |
 | [multi-channel-coordination](skills/multi-channel-coordination/) | Orchestrate SMS, email, voice, and chat |
+| [multi-turn-context-retention](skills/multi-turn-context-retention/) | Maintain conversation context across exchanges |
+| [multilingual-support](skills/multilingual-support/) | Language detection and routing |
 | [objection-recognition](skills/objection-recognition/) | Identify pushbacks and deliver appropriate responses |
+| [out-of-scope-request-handling](skills/out-of-scope-request-handling/) | Graceful redirection for off-topic requests |
 | [performance-analytics](skills/performance-analytics/) | Track bot conversion rates and drop-off points |
 | [personalization-at-scale](skills/personalization-at-scale/) | Dynamic personalization with names, company details |
+| [pricing-discussion-logic](skills/pricing-discussion-logic/) | When to quote, deflect, or escalate pricing |
+| [question-disambiguation](skills/question-disambiguation/) | Clarify vague or ambiguous responses |
 | [re-engagement-sequencing](skills/re-engagement-sequencing/) | Nurture cold leads back into active conversations |
 | [response-latency-management](skills/response-latency-management/) | Reply timing that feels natural |
 | [sentiment-analysis](skills/sentiment-analysis/) | Gauge prospect tone and adjust responses |
+| [spam-bot-detection-avoidance](skills/spam-bot-detection-avoidance/) | Deliverability best practices and spam prevention |
+| [timezone-awareness](skills/timezone-awareness/) | Respect local time for outreach |
 | [timing-optimization](skills/timing-optimization/) | Send messages when prospects most likely to engage |
 | [tone-matching](skills/tone-matching/) | Adapt formality based on prospect communication style |
 | [urgency-creation](skills/urgency-creation/) | Introduce scarcity without being pushy |
+| [voicemail-drop-optimization](skills/voicemail-drop-optimization/) | Optimize voicemail timing and content |
+| [warm-transfer-execution](skills/warm-transfer-execution/) | Seamless handoff to human reps |
 
 ## Installation
 
@@ -180,13 +200,13 @@ You can also invoke skills directly:
 
 ## Skill Categories
 
-**62 skills** organized into three categories:
+**82 skills** organized into three categories:
 
 - **Core Sales Skills (20)** — Fundamental human skills every seller needs: active listening, rapport building, discovery, objection handling, negotiation, closing, storytelling, and more.
 
 - **Sales Process & Strategy (22)** — Tactical frameworks and methodologies: prospecting sequences, competitive positioning, pricing strategy, pipeline management, playbook development, and sales analytics.
 
-- **AI SDR & Bot Skills (20)** — Skills for building autonomous sales bots: intent detection, sentiment analysis, conversation memory, compliance handling, handoff detection, and multi-channel coordination.
+- **AI SDR & Bot Skills (40)** — Skills for building autonomous sales bots: intent detection, sentiment analysis, conversation memory, compliance handling, handoff detection, multi-channel coordination, entity extraction, timezone awareness, and conversation summarization.
 
 ## Sales Methodologies Included
 
