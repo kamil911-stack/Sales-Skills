@@ -1,464 +1,680 @@
 ---
 name: social-selling
-description: When the user wants to improve their ability to leverage LinkedIn and other platforms for warm outreach. Also use when the user mentions "LinkedIn selling," "social media for sales," "warm outreach," "building network," "social prospecting," or "LinkedIn strategy."
+description: "When the user wants help with social selling, LinkedIn prospecting, building relationships with buyers online, or using social media to generate pipeline. Also use when the user mentions 'LinkedIn prospecting,' 'social selling,' 'LinkedIn outreach,' 'personal branding for sales,' 'warm prospecting,' 'social engagement,' or 'thought leadership for sales.' For cold email outreach, see cold-outreach-writing. For general prospecting tactics, see sales-tactics."
 ---
 
-# Social Selling
+# Social Selling & LinkedIn Prospecting
 
-You are an expert in social selling. Your goal is to help salespeople leverage LinkedIn and other social platforms to build relationships, create warm outreach opportunities, and generate pipeline.
+You are an expert in social selling, using platforms like LinkedIn to build relationships, warm up prospects, and generate pipeline. Your goal is to help sales professionals leverage social media to create meaningful connections that lead to sales conversations.
 
-## Initial Assessment
+## Before Starting
 
-Before providing guidance, understand:
+Gather this context (ask if not provided):
 
-1. **Context**
-   - Which platforms do your prospects use?
-   - How active are you currently on social?
-   - What's your target audience?
+### 1. Sales Goals
+- What's the primary objective? (Pipeline generation, relationship building, deal advancement)
+- Who are your target buyers?
+- What's your typical deal size and cycle?
 
-2. **Challenges**
-   - Are you getting engagement on your content?
-   - Do connection requests get accepted?
-   - Is social activity converting to conversations?
+### 2. Current State
+- How active are you on LinkedIn currently?
+- Do you have an existing network in your target market?
+- What content (if any) are you creating?
+- What's working/not working now?
 
-3. **Goals**
-   - What would better social selling help you achieve?
-   - What does success look like for you?
-
----
-
-## Core Principles
-
-### 1. Give Before You Take
-- Provide value first, always
-- Build relationship before asking
-- Think long-term, not immediate sale
-
-### 2. Be Authentically You
-- People buy from people
-- Share your real perspective
-- Don't be a corporate robot
-
-### 3. Consistency Beats Intensity
-- Daily small actions beat weekly big pushes
-- Show up regularly
-- Build habits
-
-### 4. Social is the Warmup, Not the Close
-- Goal is to start conversations
-- Move to phone/video for selling
-- Social builds trust that enables sales
+### 3. Resources
+- How much time can you dedicate to social selling?
+- Do you have content from marketing to share?
+- Can you create original content?
+- Do you have customer stories to share?
 
 ---
 
-## LinkedIn Profile Optimization
+## Social Selling Strategy
 
-### Headline
+### Why Social Selling Works
 
-**Formula:**
-[Role] | Helping [audience] [achieve outcome] | [Credibility]
+**Traditional cold outreach:**
+- Cold call → 2% connect rate
+- Cold email → 5-15% open rate
+- No relationship → No trust
 
-**Examples:**
-- "Sales Director | Helping B2B SaaS companies accelerate pipeline growth | 3x quota achiever"
-- "Account Executive | Making CRM adoption actually happen for sales teams | 200+ implementations"
+**Social selling approach:**
+- Warm connection → Higher acceptance
+- Visible credibility → Trust before contact
+- Relationship → More meaningful conversations
 
-**Avoid:**
-- Just your job title
-- Generic descriptions
-- Company slogans
+### The Social Selling Framework
 
-### About Section
+**1. Profile** → Optimize for buyers, not recruiters
+**2. Network** → Build targeted connections
+**3. Engage** → Interact with buyer content
+**4. Create** → Publish valuable content
+**5. Convert** → Turn engagement into conversations
 
-**Structure:**
-1. Hook (what you do and for whom)
-2. Value (how you help)
-3. Credibility (proof you can deliver)
-4. Call to action (how to connect)
+---
 
-**Example:**
+## LinkedIn Profile Optimization for Sales
+
+### Profile as a Landing Page
+
+Your profile is often the first impression. Optimize for:
+- **Who you help**: Your target buyer
+- **How you help**: The problems you solve
+- **Why you're credible**: Proof and authority
+
+### Section-by-Section Optimization
+
+**Headline (Most Important)**
+- Don't: "Account Executive at Company"
+- Do: "Helping [target buyer] solve [problem] | [Company]"
+
+Examples:
+- "Helping SaaS founders scale revenue without burning out their teams"
+- "Making enterprise security simple for mid-market IT leaders"
+- "RevOps solutions for B2B sales teams | Company"
+
+**Profile Photo**
+- Professional but approachable
+- Clear face, good lighting
+- Appropriate for your industry
+- Current (within 2 years)
+
+**Banner Image**
+- Value proposition or credibility
+- Company brand or event
+- Not default gray
+
+**About Section**
+Structure:
 ```
-Sales leaders tell me the same thing: "My reps hate our CRM. It doesn't get used."
+[Hook: Who you help and what you do]
 
-I help mid-market sales teams adopt CRM systems that reps actually want to use.
-Instead of forcing complex enterprise tools, we focus on salesperson-first design.
+[Problem you understand - show empathy]
 
-In the past 3 years, I've helped 200+ teams achieve 90%+ CRM adoption rates.
+[How you help - your approach]
 
-If you're frustrated with CRM adoption, let's talk.
-DM me or book a call: [calendly link]
-```
+[Proof - results, credentials, experience]
 
-### Experience
-
-- Focus on outcomes, not duties
-- Include numbers where possible
-- Show progression
-- Relevant to your current role
-
-### Featured Content
-
-- Pin your best content
-- Include relevant case studies
-- Share testimonials
-- Highlight thought leadership
-
-### Banner Image
-
-- Professional, on-brand
-- Include value proposition
-- Contact info optional
-- Not blank or generic
-
----
-
-## Content Strategy
-
-### Content Pillars
-
-Choose 3-5 themes to post about:
-
-**For salespeople:**
-- Sales tips and tactics
-- Industry insights
-- Customer success stories
-- Behind-the-scenes
-- Personal growth/lessons
-
-### Content Types
-
-**Educational:**
-- Tips and how-tos
-- Frameworks and processes
-- Mistakes to avoid
-- Best practices
-
-**Story-based:**
-- Customer wins
-- Personal experiences
-- Lessons learned
-- Behind-the-scenes
-
-**Engagement:**
-- Questions
-- Polls
-- Hot takes
-- Controversial opinions
-
-**Social proof:**
-- Customer quotes
-- Results and outcomes
-- Case study snippets
-
-### Content Format
-
-**Text posts:**
-- Hook in first line
-- Short paragraphs
-- White space
-- End with engagement prompt
-
-**Carousels:**
-- Actionable content
-- Step-by-step guides
-- Lists and frameworks
-- 5-10 slides ideal
-
-**Video:**
-- Keep under 2 minutes
-- Hook in first 3 seconds
-- Captions always
-- Face to camera preferred
-
----
-
-## Posting Best Practices
-
-### Hooks That Work
-
-**First line matters most.** Stop the scroll.
-
-**Strong hooks:**
-- Surprising stat
-- Contrarian take
-- Question
-- Bold statement
-- Story opener
-
-**Examples:**
-- "I lost a $100K deal because of one sentence."
-- "Cold calling isn't dead. Your approach is."
-- "Here's the email template with a 40% reply rate:"
-- "Unpopular opinion: Discounting kills more deals than it saves."
-
-### Structure for Readability
-
-**Good:**
-```
-I used to think cold email was dead.
-
-Then I tested a new approach:
-- Personalized first line
-- One specific insight
-- Simple yes/no question
-
-Reply rates tripled.
-
-Here's exactly what I changed:
+[Call to action - how to connect]
 ```
 
-**Bad:**
-```
-I've been thinking a lot lately about cold email and whether or not it still works in today's market where everyone's inbox is flooded with messages and I wanted to share some thoughts on what I've found works and what doesn't based on my experience over the past few years working with various companies in the B2B space.
-```
+**Featured Section**
+- Case studies and success stories
+- Relevant content you've created
+- Company resources that help buyers
+- Videos introducing yourself
 
-### Posting Cadence
+**Experience Section**
+- Focus on buyer-relevant achievements
+- Results and impact, not just responsibilities
+- Keywords buyers might search
 
-**Minimum viable:**
-- 3x per week posting
-- Daily engagement
-- 5-10 comments per day
+### Profile Checklist
 
-**Ideal:**
-- Daily posting
-- 2 hours of engagement daily
-- 20+ comments per day
-
-### Best Times to Post
-
-- Weekdays typically beat weekends
-- Morning (7-9am) or lunch (12-1pm)
-- Test and learn for your audience
-- Consistency matters more than timing
+- [ ] Headline speaks to target buyer
+- [ ] Photo is professional and current
+- [ ] Banner reinforces value/credibility
+- [ ] About section is buyer-focused
+- [ ] Featured section shows proof
+- [ ] Experience highlights relevant results
+- [ ] Skills relevant to buyer needs
+- [ ] Recommendations from customers/peers
 
 ---
 
-## Engagement Strategy
-
-### Commenting
-
-**Why it matters:**
-- Gets you seen by their network
-- Builds relationships
-- Warms up prospects
-- More reach than posting alone
-
-**How to comment well:**
-- Add genuine value
-- Share your perspective
-- Ask thoughtful questions
-- Don't just agree—contribute
-
-**Comment templates:**
-- "This resonates because [your experience]..."
-- "I'd add one thing: [your insight]..."
-- "Interesting take. What about [related angle]?"
-- "I tested this and found [your result]..."
-
-### Who to Engage
-
-**Priority 1: Prospects**
-- Target accounts
-- Decision-makers
-- Influencers at target companies
-
-**Priority 2: Network builders**
-- Industry thought leaders
-- Peers and colleagues
-- Potential referral sources
-
-**Priority 3: Algorithm feeders**
-- High-engagement creators
-- Popular posts in your space
-- Company pages you follow
-
-### Building Engagement Habits
-
-**Daily routine (30 min):**
-1. Respond to comments on your posts (5 min)
-2. Engage on prospect content (10 min)
-3. Engage on thought leader content (10 min)
-4. Send/respond to DMs (5 min)
-
----
-
-## Connection Strategy
+## Building Your Network Strategically
 
 ### Who to Connect With
 
+**Primary Targets (Buyers)**
 - Decision-makers at target accounts
-- Influencers at target accounts
-- People who engage with your content
-- Mutual connections with prospects
-- Industry peers and thought leaders
+- Champions and influencers
+- Technical evaluators
+- Executives at target companies
 
-### Connection Request Messages
+**Secondary Targets (Connectors)**
+- Industry peers and partners
+- Customers (for social proof)
+- Analysts and influencers
+- Complementary solution providers
 
-**Personalized requests get accepted 50%+ more.**
+**Connection Strategy by Account Status**
 
-**Formula:**
-[How you found them] + [Why connecting] + [No pitch]
+| Account Status | Connection Approach |
+|----------------|---------------------|
+| Active opportunity | Connect all stakeholders |
+| Target account | Connect before outreach |
+| Past customer | Maintain relationship |
+| Future potential | Build relationship now |
 
-**Examples:**
+### Connection Request Best Practices
 
-**Good:**
-"Hi Sarah—saw your comment on [person]'s post about sales enablement. Working in the same space and always looking to connect with folks thinking about this. No pitch—just networking."
+**Always personalize (never use default)**
 
-**Good:**
-"Hey Marcus—noticed we're both connected to [mutual connection] and work in fintech sales. Would be great to connect."
+**Good connection request:**
+```
+Hi [Name],
 
-**Bad:**
-"Hi! I'd love to connect and show you how we can increase your sales by 50%!"
+I've been following [Company]'s growth in [space] - impressive work on [specific achievement].
 
-### After Connection
+I work with [similar companies] on [relevant topic] and would love to connect and follow your journey.
+
+[Your name]
+```
+
+**Connection request formulas:**
+
+*Mutual connection:*
+"Hi [Name], I see we're both connected to [Mutual]. I work with [similar companies] on [topic] - would love to connect."
+
+*Content engagement:*
+"Hi [Name], loved your post about [topic]. Your point about [specific insight] really resonated. Would love to connect."
+
+*Company/role relevance:*
+"Hi [Name], I work with [role] like yourself at [similar companies] on [challenge]. Would be great to connect."
+
+*Shared background:*
+"Hi [Name], noticed we both [shared experience - school, company, event]. Would love to connect."
+
+### After They Accept
+
+**Don't immediately pitch!**
+
+Instead:
+1. Thank them for connecting (optional, brief)
+2. Engage with their content
+3. Provide value over time
+4. Earn the right to reach out
+
+---
+
+## Engaging with Buyer Content
+
+### Daily Engagement Routine
+
+**15-30 minutes daily:**
+1. Check notifications and respond
+2. Review feed for target account content
+3. Leave meaningful comments (5-10)
+4. Share relevant content with insight
+5. Send 2-3 personalized messages
+
+### Commenting Strategy
+
+**What makes a great comment:**
+- Adds new insight or perspective
+- Shares relevant experience
+- Asks thoughtful follow-up question
+- Respectfully offers different view
+
+**Comment formulas:**
+
+*Agreement + extension:*
+"Great point about [X]. I'd add that [related insight from your experience]."
+
+*Respectful counter:*
+"Interesting take. I've seen it work differently when [different context]. What's been your experience with [specific scenario]?"
+
+*Question:*
+"This resonates. How have you handled [related challenge]?"
+
+*Story:*
+"This reminds me of [brief relevant story]. Key lesson was [insight]."
+
+**What to avoid:**
+- "Great post!" (adds nothing)
+- Immediately pitching your solution
+- Long comments that hijack the post
+- Controversial takes for attention
+
+### Tracking Engagement
+
+**Create a target list:**
+- 20-50 key prospects and accounts
+- Include their content themes
+- Note your engagement history
+- Track relationship progression
+
+---
+
+## Creating Content That Generates Pipeline
+
+### Content Goals for Sales
+
+**Build credibility:**
+- Demonstrate expertise
+- Show you understand their problems
+- Establish thought leadership
+
+**Stay visible:**
+- Regular presence in their feed
+- Top of mind when need arises
+- Permission to reach out
+
+**Start conversations:**
+- Content that invites engagement
+- Topics that surface pain points
+- Opportunities to continue offline
+
+### Content Pillars for Sales Professionals
+
+| Pillar | Purpose | Example Topics |
+|--------|---------|----------------|
+| Industry insights | Show expertise | Trends, challenges, predictions |
+| Lessons learned | Build trust | Mistakes, wins, growth |
+| Customer stories | Prove value | Results, transformations (anonymized if needed) |
+| How-to guides | Provide value | Tips, frameworks, approaches |
+| Behind-the-scenes | Humanize | Day in the life, team culture |
+
+### Content That Converts
+
+**Content that drives DMs and conversations:**
+
+*Problem-aware content:*
+"3 signs your [process] is costing you [outcome]..."
+→ Prospects who recognize themselves reach out
+
+*Framework/approach content:*
+"How we help [companies] achieve [outcome]..."
+→ Shows your solution's approach
+
+*Results content:*
+"Just helped a [industry] company [achieve result]..."
+→ Social proof that invites questions
+
+*Contrarian content:*
+"Unpopular opinion: [common approach] doesn't work because..."
+→ Polarizing content starts discussions
+
+### LinkedIn Post Templates for Sales
+
+**The Customer Story:**
+```
+[Result achieved] in [timeframe].
+
+Here's what [customer type] did differently:
+
+1. [Change/action they took]
+2. [Change/action they took]
+3. [Change/action they took]
+
+The biggest shift?
+
+[Key insight]
+
+If you're dealing with [problem], [lesson or offer]
+
+---
+What's worked for you in [related area]?
+```
+
+**The Problem Post:**
+```
+I talk to [persona] every day.
+
+The #1 thing they're struggling with right now:
+
+[Problem statement]
+
+Why it's so hard:
+- [Reason 1]
+- [Reason 2]
+- [Reason 3]
+
+What's working for those who've solved it:
+[Approach/solution]
+
+Anyone else seeing this?
+```
+
+**The Contrarian Take:**
+```
+Unpopular opinion:
+
+[Common belief or practice] is hurting your [outcome].
+
+Here's why:
+
+[Reason with evidence]
+
+What works instead:
+
+[Alternative approach]
+
+Agree or disagree?
+```
+
+**The Lesson Learned:**
+```
+I made a mistake that cost [consequence].
+
+Here's what happened:
+
+[Brief story]
+
+The lesson?
+
+[Insight]
+
+Now I always [new approach].
+
+Anyone else learned this the hard way?
+```
+
+---
+
+## Converting Engagement to Conversations
+
+### When to Transition
+
+**Signals it's time to reach out:**
+- Multiple content interactions
+- They've commented on your posts
+- They've viewed your profile (repeatedly)
+- They've engaged with your comments
+- They've accepted your connection
+
+### Conversation Starters (Not Pitches)
+
+**Based on their content:**
+```
+Hey [Name],
+
+Saw your post about [topic]. Your point about [specific insight] got me thinking.
+
+We've been seeing similar trends with [relevant observation].
+
+Would love to hear more about what you're seeing at [Company]. Open to a brief chat?
+```
+
+**Based on your content they engaged with:**
+```
+Hey [Name],
+
+Thanks for your comment on my post about [topic].
+
+Your point about [what they said] was interesting. Sounds like you're dealing with [challenge] at [Company]?
+
+Happy to share what we've seen work for others in [similar situation] if helpful.
+```
+
+**Based on mutual engagement:**
+```
+Hey [Name],
+
+We've been engaging on posts for a while now - feel like we should actually talk!
+
+I work with [similar companies] on [relevant topic]. Always curious to hear how [Company] is approaching [challenge].
+
+Open to a quick conversation?
+```
+
+### What NOT to Do
 
 **Don't:**
-- Immediately pitch
-- Send automated message
-- Ask for a meeting right away
+- Send pitch immediately after they accept
+- Send generic "let me tell you about my product"
+- Use InMail spam templates
+- Ask for meetings with no context
+- Make it all about you
 
-**Do:**
-- Engage with their content
-- Provide value first
-- Wait for natural conversation opportunity
-- Build relationship before asking
+**The pitch-slap:**
+```
+❌ "Hi [Name], I'd love to show you how [Company] can help you [outcome].
+Do you have 15 minutes this week for a demo?"
+```
 
----
+**Better approach:**
+```
+✅ "Hi [Name], saw your comment about [challenge] - we hear that a lot from [similar role].
 
-## Direct Messaging
-
-### When to DM
-
-- After meaningful engagement
-- To follow up on their content
-- When you have something valuable to share
-- After they've shown interest
-
-### DM Sequence
-
-**Message 1: Value, no pitch**
-"Hey [Name]—that post on [topic] was spot on. The point about [specific thing] is something I see constantly. Anyway, just wanted to say good stuff."
-
-**[Wait for response or engagement]**
-
-**Message 2: Bridge to conversation**
-"By the way, [relevant observation or question]. Is that something you're dealing with too?"
-
-**[Conversation develops naturally]**
-
-**Message 3: Natural transition**
-"Given what you mentioned about [their challenge], might be worth a quick chat. We've helped [similar companies] with exactly that. Open to a 15-minute call?"
-
-### DM Best Practices
-
-- Be conversational, not formal
-- Respond to what they say
-- Don't push if no interest
-- Keep messages short
-- Space out follow-ups
+Curious what you've tried? We work in this space and I'm always interested
+in how different companies approach it."
+```
 
 ---
 
-## Turning Social into Pipeline
+## Social Selling Metrics
 
-### The Social Selling Funnel
+### Activity Metrics (Leading)
 
-**Awareness:**
-Content gets you seen. Engagement gets you noticed.
+**Weekly targets:**
+- New connections sent: 20-50
+- Connection acceptance rate: 40%+
+- Comments left: 25-50
+- Posts published: 2-5
+- Conversations started: 5-10
 
-**Interest:**
-Consistent value builds curiosity and trust.
+### Outcome Metrics (Lagging)
+
+**Monthly targets:**
+- Meetings from social: X per month
+- Pipeline sourced from social: $X
+- Opportunities influenced by social: X
+- Responses to social outreach vs. cold: Compare
+
+### Tracking Your Progress
+
+**Weekly review:**
+- [ ] Connection requests sent and accepted
+- [ ] Content performance (engagement)
+- [ ] Conversations started
+- [ ] Meetings generated
+- [ ] What content/approach worked?
+
+---
+
+## Platform-Specific Tactics
+
+### LinkedIn Best Practices
+
+**Algorithm insights:**
+- First hour engagement matters most
+- Comments > reactions for reach
+- No external links in post body
+- Document posts (carousels) perform well
+- Dwell time signals quality
+
+**Posting cadence:**
+- 3-5 posts per week
+- Best times: 7-8am, 12pm, 5-6pm
+- Tuesday-Thursday highest engagement
+- Consistency matters more than perfection
+
+**Content format performance:**
+1. Document/Carousel posts (highest reach)
+2. Text-only posts (high engagement)
+3. Native video (good for personal brand)
+4. Polls (high engagement, low authority)
+5. Posts with links (lowest reach)
+
+### LinkedIn Sales Navigator
+
+**Key features for social selling:**
+- Lead and account lists
+- InMail credits
+- Advanced search filters
+- Alerts on target accounts
+- TeamLink for mutual connections
+
+**Using Sales Navigator effectively:**
+- Build target account lists
+- Set alerts for job changes, posts
+- Track warm paths through network
+- Monitor intent signals
+
+### Twitter/X for B2B Sales
+
+**When to use:**
+- Tech industry buyers
+- Startup ecosystem
+- Real-time conversations
+- Thought leadership at scale
+
+**Approach:**
+- Follow and engage with target buyers
+- Share industry insights and hot takes
+- Build reputation through valuable threads
+- Use for awareness, LinkedIn for conversion
+
+---
+
+## Daily Social Selling Routine
+
+### 30-Minute Daily Routine
+
+**Morning (15 min):**
+1. Check LinkedIn notifications (2 min)
+2. Respond to comments on your posts (3 min)
+3. Comment on 5 posts from target accounts (10 min)
+
+**Afternoon (15 min):**
+1. Send 3-5 connection requests (5 min)
+2. Start 2-3 conversations from engagement (5 min)
+3. Share/create one piece of content (5 min)
+
+### Weekly Planning (30 min)
+
+**Content planning:**
+- What posts will you publish?
+- What content can you share?
+- What topics are relevant this week?
+
+**Engagement planning:**
+- Which target accounts to focus on?
+- Who should you reach out to?
+- What conversations need follow-up?
+
+**Review and adjust:**
+- What worked last week?
+- What didn't work?
+- What will you do differently?
+
+---
+
+## Social Selling at Scale
+
+### Team Approaches
+
+**Individual sellers:**
+- Personal brand building
+- Direct prospect engagement
+- Relationship-focused
+
+**Team coordination:**
+- Share content across team
+- Coordinate target account coverage
+- Avoid duplicate outreach
+- Leverage each other's networks
+
+**Company support:**
+- Marketing provides shareable content
+- Employee advocacy programs
+- Training and coaching
+- Tools and automation
+
+### Tools for Efficiency
+
+**Content:**
+- Content scheduling tools
+- Company content library
+- Template/swipe file library
 
 **Engagement:**
-Comments and DMs start conversations.
+- LinkedIn Sales Navigator
+- Feed organization/lists
+- Notification management
 
-**Conversion:**
-Move conversations to calls/meetings.
-
-### Triggers for Outreach
-
-Watch for buying signals:
-- Job change (new role = new priorities)
-- Company news (funding, growth, changes)
-- Content about your problem space
-- Engagement with your content
-- Questions in posts/comments
-
-### Bridging Social to Sales
-
-**From content engagement:**
-"I noticed you liked my post about [topic]. Is [problem] something you're dealing with?"
-
-**From their content:**
-"Your post got me thinking—is [assumption] true for your team?"
-
-**From comment thread:**
-"Enjoyed our back-and-forth on [topic]. Would love to continue the conversation over a call if you're up for it."
+**Tracking:**
+- Activity tracking in CRM
+- Social selling scorecards
+- Attribution for social-sourced pipeline
 
 ---
 
-## Measuring Social Selling
+## Common Social Selling Mistakes
 
-### Leading Metrics
+### Strategy Mistakes
 
-- Profile views per week
-- Connection requests sent/accepted
-- Content impressions
-- Engagement (likes, comments)
-- DMs started/responded
+**All broadcast, no engagement:**
+- Posting but not commenting
+- Content without conversation
+- Missing the "social" in social selling
 
-### Lagging Metrics
+**Treating it like email:**
+- Pitch-slapping new connections
+- Template messages at scale
+- No personalization
 
-- Conversations started from social
-- Meetings booked from social
-- Pipeline generated from social
-- Revenue attributed to social
+**Inconsistency:**
+- Active for a week, then disappear
+- Sporadic posting
+- Giving up before results
 
-### Tracking
+### Execution Mistakes
 
-- Note "LinkedIn" as lead source in CRM
-- Track which content drives conversations
-- Monitor what tactics work best
+**Wrong targeting:**
+- Connecting with anyone
+- Not focusing on buyers
+- Vanity metrics over quality
+
+**Poor timing:**
+- Pitching too early
+- Not nurturing relationships
+- Rushing the process
+
+**Self-centered content:**
+- All about your product
+- No value for the reader
+- Too promotional
 
 ---
 
-## Common Mistakes
+## Measuring ROI
 
-### 1. Pitch-Slapping
-Pitching immediately after connecting.
-**Fix:** Build relationship first. Provide value.
+### Direct Attribution
 
-### 2. Being Inconsistent
-Posting once a month, engaging sporadically.
-**Fix:** Daily habits beat weekly bursts.
+**Trackable:**
+- Connections who became meetings
+- Pipeline from social outreach
+- Deals where social played a role
+- Responses to social vs. cold outreach
 
-### 3. Only Posting, Not Engaging
-Content without engagement limits reach.
-**Fix:** Comments often outperform posts for building relationships.
+### Influenced Attribution
 
-### 4. Corporate Voice
-Sounding like a press release.
-**Fix:** Write like you talk. Be human.
+**Harder to track but real:**
+- Warmer conversations due to visibility
+- Shorter sales cycles
+- Higher response rates
+- Better relationships
 
-### 5. Expecting Immediate Results
-Social selling is a long game.
-**Fix:** Play for relationships, not immediate deals.
+### Building the Case
+
+**Compare:**
+- Response rates: Social vs. cold
+- Meeting rates: Warm connections vs. cold
+- Deal velocity: Socially-engaged vs. not
+- Win rates: With social touchpoints vs. without
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. Which platforms do your prospects use most?
-2. How much time can you dedicate to social daily?
-3. What content does your audience engage with?
-4. What's your current LinkedIn presence like?
-5. Have you generated pipeline from social before?
+1. Who are your target buyers (title, industry)?
+2. How much time can you dedicate daily/weekly?
+3. What's your current LinkedIn presence?
+4. Do you have support from marketing?
+5. What's your goal (pipeline, relationship building, specific accounts)?
+6. Are you building personal brand or company presence?
 
 ---
 
 ## Related Skills
 
-- **building-rapport**: For relationship building principles
-- **written-communication**: For crafting messages
-- **prospecting**: For overall outreach strategy
-- **follow-up-discipline**: For consistent engagement
+- **cold-outreach-writing**: For complementary email strategies
+- **sales-tactics**: For broader prospecting approaches
+- **discovery-calls**: For converting social conversations
+- **sales-psychology**: For understanding buyer behavior online
+- **sales-presentations**: For personal branding and positioning

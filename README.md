@@ -37,7 +37,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [time-management](skills/time-management/) | Prioritize high-value activities and prospects |
 | [written-communication](skills/written-communication/) | Craft compelling emails, proposals, and follow-ups |
 
-### Sales Process & Strategy (23)
+### Sales Process & Strategy (22)
 
 | Skill | Description |
 |-------|-------------|
@@ -46,24 +46,23 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [competitor-alternatives](skills/competitor-alternatives/) | Battlecards, competitive intel, and positioning |
 | [copy-editing](skills/copy-editing/) | Edit and improve sales messages and scripts |
 | [copywriting](skills/copywriting/) | Write cold outreach, emails, and sales scripts |
+| [customer-onboarding](skills/customer-onboarding/) | Optimize customer onboarding and time-to-value |
+| [customer-referrals](skills/customer-referrals/) | Generate referrals and build partner channels |
+| [deal-documentation](skills/deal-documentation/) | Deal documentation and CRM hygiene |
+| [deal-review-win-loss](skills/deal-review-win-loss/) | Win/loss analysis and pipeline audits |
+| [deal-upselling](skills/deal-upselling/) | Upselling, cross-selling, and deal expansion |
 | [email-sequence](skills/email-sequence/) | Create prospecting sequences and follow-up cadences |
-| [form-cro](skills/form-cro/) | Design lead qualification forms and scoring |
-| [free-tool-strategy](skills/free-tool-strategy/) | Build ROI calculators and sales enablement tools |
-| [launch-strategy](skills/launch-strategy/) | Plan territory launches and sales campaigns |
-| [marketing-ideas](skills/marketing-ideas/) | 100+ sales tactics and pipeline generation strategies |
-| [marketing-psychology](skills/marketing-psychology/) | 70+ psychological principles for sales conversations |
-| [onboarding-cro](skills/onboarding-cro/) | Optimize customer onboarding and time-to-value |
-| [page-cro](skills/page-cro/) | Create pitch decks, demos, and sales presentations |
-| [paid-ads](skills/paid-ads/) | Outbound prospecting and lead sourcing strategy |
-| [paywall-upgrade-cro](skills/paywall-upgrade-cro/) | Upselling, cross-selling, and deal expansion |
-| [popup-cro](skills/popup-cro/) | Improve meeting show rates and prospect engagement |
-| [pricing-strategy](skills/pricing-strategy/) | Handle pricing objections and negotiate value |
-| [programmatic-seo](skills/programmatic-seo/) | Build and scale sales playbooks and processes |
-| [referral-program](skills/referral-program/) | Generate referrals and build partner channels |
-| [schema-markup](skills/schema-markup/) | Deal documentation and CRM hygiene |
-| [seo-audit](skills/seo-audit/) | Win/loss analysis and pipeline audits |
-| [signup-flow-cro](skills/signup-flow-cro/) | Optimize sales process and reduce deal friction |
-| [social-content](skills/social-content/) | LinkedIn prospecting and personal branding for sales |
+| [lead-qualification](skills/lead-qualification/) | Design lead qualification forms and scoring |
+| [meeting-conversion](skills/meeting-conversion/) | Improve meeting show rates and prospect engagement |
+| [outbound-prospecting](skills/outbound-prospecting/) | Outbound prospecting and lead sourcing strategy |
+| [pricing-negotiation](skills/pricing-negotiation/) | Handle pricing objections and negotiate value |
+| [sales-enablement-tools](skills/sales-enablement-tools/) | Build ROI calculators and sales enablement tools |
+| [sales-playbook-scaling](skills/sales-playbook-scaling/) | Build and scale sales playbooks and processes |
+| [sales-presentations](skills/sales-presentations/) | Create pitch decks, demos, and sales presentations |
+| [sales-process-optimization](skills/sales-process-optimization/) | Optimize sales process and reduce deal friction |
+| [sales-psychology](skills/sales-psychology/) | 70+ psychological principles for sales conversations |
+| [sales-tactics](skills/sales-tactics/) | 100+ sales tactics and pipeline generation strategies |
+| [territory-account-launch](skills/territory-account-launch/) | Plan territory launches and sales campaigns |
 
 ### AI SDR & Bot Skills (20)
 
@@ -101,7 +100,7 @@ Use [add-skill](https://github.com/vercel-labs/add-skill) to install skills dire
 npx add-skill louisblythe/salesskills
 
 # Install specific skills
-npx add-skill louisblythe/salesskills --skill pricing-strategy competitive-selling
+npx add-skill louisblythe/salesskills --skill pricing-negotiation competitor-alternatives
 
 # List available skills
 npx add-skill louisblythe/salesskills --list
@@ -155,7 +154,7 @@ Once installed, just ask Claude Code to help with sales tasks:
 → Uses email-sequence skill
 
 "How should I handle a pricing objection?"
-→ Uses pricing-strategy skill
+→ Uses pricing-negotiation skill
 
 "Create a competitive battle card vs Salesforce"
 → Uses competitor-alternatives skill
@@ -173,7 +172,7 @@ Once installed, just ask Claude Code to help with sales tasks:
 You can also invoke skills directly:
 
 ```
-/pricing-strategy
+/pricing-negotiation
 /email-sequence
 /objection-handling
 /discovery
@@ -181,11 +180,11 @@ You can also invoke skills directly:
 
 ## Skill Categories
 
-**63 skills** organized into three categories:
+**62 skills** organized into three categories:
 
 - **Core Sales Skills (20)** — Fundamental human skills every seller needs: active listening, rapport building, discovery, objection handling, negotiation, closing, storytelling, and more.
 
-- **Sales Process & Strategy (23)** — Tactical frameworks and methodologies: prospecting sequences, competitive positioning, pricing strategy, pipeline management, playbook development, and sales analytics.
+- **Sales Process & Strategy (22)** — Tactical frameworks and methodologies: prospecting sequences, competitive positioning, pricing strategy, pipeline management, playbook development, and sales analytics.
 
 - **AI SDR & Bot Skills (20)** — Skills for building autonomous sales bots: intent detection, sentiment analysis, conversation memory, compliance handling, handoff detection, and multi-channel coordination.
 
