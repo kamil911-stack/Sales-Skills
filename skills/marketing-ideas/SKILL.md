@@ -1,565 +1,424 @@
 ---
-name: marketing-ideas
-description: "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' or 'ideas to grow.' This skill provides 140 proven marketing approaches organized by category."
+name: sales-tactics
+description: "When the user needs sales tactics, prospecting ideas, or pipeline generation strategies. Also use when the user asks for 'sales ideas,' 'prospecting tactics,' 'how to find leads,' 'outreach strategies,' 'pipeline generation,' 'ways to get meetings,' or 'ideas to close more deals.' This skill provides 100+ proven sales approaches organized by category."
 ---
 
-# Marketing Ideas for SaaS
+# Sales Tactics & Pipeline Generation
 
-You are a marketing strategist with a library of 140 proven marketing ideas. Your goal is to help users find the right marketing strategies for their specific situation, stage, and resources.
+You are a sales strategist with a library of 100+ proven sales tactics. Your goal is to help users find the right sales strategies for their specific situation, sales cycle, and resources.
 
 ## How to Use This Skill
 
-When asked for marketing ideas:
-1. Ask about their product, audience, and current stage if not clear
-2. Suggest 3-5 most relevant ideas based on their context
-3. Provide details on implementation for chosen ideas
-4. Consider their resources (time, budget, team size)
+When asked for sales tactics:
+1. Ask about their product, target buyer, and current challenges if not clear
+2. Suggest 3-5 most relevant tactics based on their context
+3. Provide details on implementation for chosen tactics
+4. Consider their resources (team size, budget, tools)
 
 ---
 
-## The 140 Marketing Ideas
+## The 100+ Sales Tactics
 
 Organized by category for easy reference.
 
 ---
 
-## Content & SEO
+## Prospecting & Lead Generation
 
-### 3. Easy Keyword Ranking
-Target low-competition keywords where you can rank quickly. Find terms competitors overlook—niche variations, long-tail queries, emerging topics. Build authority in micro-niches before expanding.
+### 1. Trigger-Based Outreach
+Monitor buying signals and reach out when timing is right: funding announcements, leadership changes, job postings, technology changes, office moves, bad reviews of competitors.
 
-### 7. SEO Audit
-Conduct comprehensive technical SEO audits of your own site and share findings publicly. Document fixes and improvements to build authority while improving your rankings.
+### 2. LinkedIn Sales Navigator Deep Dive
+Use advanced filters to find exact-fit prospects. Save searches, set alerts, track account activity. Build lists of decision-makers at target accounts.
 
-### 39. Glossary Marketing
-Create comprehensive glossaries defining industry terms. Each term becomes an SEO-optimized page targeting "what is X" searches, building topical authority while capturing top-of-funnel traffic.
+### 3. Intent Data Prospecting
+Use tools like Bombora, 6sense, or G2 to identify accounts actively researching your category. Prioritize accounts showing buying intent.
 
-### 40. Programmatic SEO
-Build template-driven pages at scale targeting keyword patterns. Location pages, comparison pages, integration pages—any pattern with search volume can become a scalable content engine.
+### 4. Competitive Intelligence Mining
+Track competitor customer announcements, case studies, and reviews. Their customers are proven buyers of solutions like yours.
 
-### 41. Content Repurposing
-Transform one piece of content into multiple formats. Blog post becomes Twitter thread, YouTube video, podcast episode, infographic. Maximize ROI on content creation.
+### 5. Job Posting Analysis
+Companies hiring for roles your product supports signal budget and priority. "Hiring 5 SDRs" = investing in sales. "Looking for data analyst" = need analytics tools.
 
-### 56. Proprietary Data Content
-Leverage unique data from your product to create original research and reports. Data competitors can't replicate creates linkable, quotable assets.
+### 6. Event Attendee Lists
+Conference attendee lists are pre-qualified prospect lists. Reach out before, during, and after events.
 
-### 67. Internal Linking
-Strategic internal linking distributes authority and improves crawlability. Build topical clusters connecting related content to strengthen overall SEO performance.
+### 7. Podcast Guest Mining
+Identify executives who appear on industry podcasts. They're thought leaders who value visibility—and take meetings.
 
-### 73. Content Refreshing
-Regularly update existing content with fresh data, examples, and insights. Refreshed content often outperforms new content and protects existing rankings.
+### 8. Community Participation
+Join Slack groups, Discord servers, and forums where your buyers hang out. Add value first, build relationships, earn the right to sell.
 
-### 74. Knowledge Base SEO
-Optimize help documentation for search. Support articles targeting problem-solution queries capture users actively seeking solutions.
+### 9. Content Engagement Tracking
+Monitor who engages with your company's content (downloads, webinars, social engagement). Warm outreach to engaged leads.
 
-### 137. Parasite SEO
-Publish content on high-authority platforms (Medium, LinkedIn, Substack) that rank faster than your own domain. Funnel that traffic back to your product.
+### 10. Referral Mining
+Systematically ask every customer, partner, and contact for introductions. The warmest leads come from trusted referrals.
 
----
+### 11. Lost Deal Re-Engagement
+Revisit deals lost 6-12 months ago. Circumstances change: new leadership, budget cycles, competitive frustrations.
 
-## Competitor & Comparison
+### 12. Closed-Lost Competitor Analysis
+When competitors close deals you lost, track those accounts for dissatisfaction signals. They're proven buyers who may be open to switching.
 
-### 2. Competitor Comparison Pages
-Create detailed comparison pages positioning your product against competitors. "[Your Product] vs [Competitor]" and "[Competitor] alternatives" pages capture high-intent searchers.
+### 13. Champion Tracking
+When your champions change jobs, follow them. They already know and trust your product—now with fresh budget.
 
-### 4. Marketing Jiu-Jitsu
-Turn competitor weaknesses into your strengths. When competitors raise prices, launch affordability campaigns. When they have outages, emphasize your reliability.
+### 14. Alumni Network Prospecting
+Target companies where your existing customers' employees have moved. Built-in credibility and potential warm introductions.
 
-### 38. Competitive Ad Research
-Study competitor advertising through tools like SpyFu or Facebook Ad Library. Learn what messaging resonates, then improve on their approach.
-
----
-
-## Free Tools & Engineering
-
-### 5. Side Projects as Marketing
-Build small, useful tools related to your main product. Side projects attract users who may later convert, generate backlinks, and showcase your capabilities.
-
-### 30. Engineering as Marketing
-Build free tools that solve real problems for your target audience. Calculators, analyzers, generators—useful utilities that naturally lead to your paid product.
-
-### 31. Importers as Marketing
-Build import tools for competitor data. "Import from [Competitor]" reduces switching friction while capturing users actively looking to leave.
-
-### 92. Quiz Marketing
-Create interactive quizzes that engage users while qualifying leads. Personality quizzes, assessments, and diagnostic tools generate shares and capture emails.
-
-### 93. Calculator Marketing
-Build calculators solving real problems—ROI calculators, pricing estimators, savings tools. Calculators attract links, rank well, and demonstrate value.
-
-### 94. Chrome Extensions
-Create browser extensions providing standalone value. Chrome Web Store becomes another distribution channel while keeping your brand in daily view.
-
-### 110. Microsites
-Build focused microsites for specific campaigns, products, or audiences. Dedicated domains can rank faster and allow bolder positioning.
-
-### 117. Scanners
-Build free scanning tools that audit or analyze something for users. Website scanners, security checkers, performance analyzers—provide value while showcasing expertise.
-
-### 122. Public APIs
-Open APIs enable developers to build on your platform, creating an ecosystem that attracts users and increases switching costs.
+### 15. Investor Portfolio Prospecting
+If you have investors, ask for introductions to their portfolio companies. If you don't, target VC portfolio companies as proven growth-stage buyers.
 
 ---
 
-## Paid Advertising
+## Cold Outreach
 
-### 18. Podcast Advertising
-Sponsor relevant podcasts to reach engaged audiences. Host-read ads perform especially well due to built-in trust.
+### 16. Personalized Video Messages
+Stand out with Loom or Vidyard videos showing prospect's website, LinkedIn, or specific challenge. 3x higher response rates than text.
 
-### 48. Pre-targeting Ads
-Show awareness ads before launching direct response campaigns. Warm audiences convert better than cold ones.
+### 17. The Research-First Email
+Lead with genuine insight about their business. Show you did homework before asking for time.
 
-### 55. Facebook Ads
-Meta's detailed targeting reaches specific audiences. Test creative variations and leverage retargeting for users who've shown interest.
+### 18. The Mutual Connection Approach
+Reference shared connections, experiences, or backgrounds. "I noticed we both worked at..." or "Saw you're connected to..."
 
-### 57. Instagram Ads
-Visual-first advertising for products with strong imagery. Stories and Reels ads capture attention in native formats.
+### 19. The Problem-Focused Cold Call
+Open with the problem you solve, not your product. "Companies in [industry] tell us [problem] is costing them [impact]..."
 
-### 60. Twitter Ads
-Reach engaged professionals discussing industry topics. Promoted tweets and follower campaigns build visibility.
+### 20. The Breakup Email
+After multiple unreturned touches, send a "closing the loop" email. Creates urgency and often prompts response.
 
-### 62. LinkedIn Ads
-Target by job title, company size, and industry. Premium CPMs justified by B2B purchase intent.
+### 21. Direct Mail Prospecting
+Physical mail cuts through digital noise. Send books, handwritten notes, or creative packages to high-value prospects.
 
-### 64. Reddit Ads
-Reach passionate communities with authentic messaging. Reddit users detect inauthentic ads quickly—transparency wins.
+### 22. LinkedIn Voice Messages
+Audio messages feel more personal and have higher engagement than text. Use for follow-ups and introductions.
 
-### 66. Quora Ads
-Target users actively asking questions your product answers. Intent-rich environment for educational ads.
+### 23. The Executive-to-Executive Reach
+Have your CEO or VP reach out to their counterparts. Peer-level outreach carries more weight.
 
-### 68. Google Ads
-Capture high-intent search queries. Brand terms protect your name; competitor terms capture switchers; category terms reach researchers.
+### 24. The Warm Introduction Request
+Don't cold call—ask mutual connections for introductions. Leverage your network systematically.
 
-### 70. YouTube Ads
-Video ads with detailed targeting. Pre-roll and discovery ads reach users consuming related content.
-
-### 72. Cross-Platform Retargeting
-Follow users across platforms with consistent messaging. Retargeting converts window shoppers into buyers.
-
-### 129. Click-to-Messenger Ads
-Ads that open direct conversations rather than landing pages. Higher engagement through immediate dialogue.
+### 25. The Case Study Lead
+Open with a relevant customer story. "We helped [similar company] achieve [result]. Thought you might be interested..."
 
 ---
 
-## Social Media & Community
+## Discovery & Qualification
 
-### 42. Community Marketing
-Build and nurture communities around your product or industry. Slack groups, Discord servers, Facebook groups, or forums create loyal advocates.
+### 26. The SPIN Discovery Framework
+Situation → Problem → Implication → Need-Payoff. Uncover pain through questions that lead prospects to their own conclusions.
 
-### 43. Quora Marketing
-Answer relevant questions with genuine expertise. Include product mentions where naturally appropriate.
+### 27. The Gap Analysis Approach
+Map current state vs. desired state. The gap is your opportunity. Quantify the cost of the gap.
 
-### 76. Reddit Keyword Research
-Mine Reddit for real language your audience uses. Discover pain points, objections, and desires expressed naturally.
+### 28. The 3-Deep Question Technique
+Don't accept surface answers. Ask "Why?" three times to get to real motivations and pain.
 
-### 82. Reddit Marketing
-Participate authentically in relevant subreddits. Provide value first; promotional content fails without established credibility.
+### 29. The Day-in-the-Life Discovery
+Walk through their actual workflow. "Walk me through what happens when..." reveals real friction.
 
-### 105. LinkedIn Audience
-Build personal brands on LinkedIn for B2B reach. Thought leadership content builds authority and drives inbound interest.
+### 30. Stakeholder Mapping Early
+Ask about the buying process and decision-makers in the first call. "Who else would need to be involved in evaluating this?"
 
-### 106. Instagram Audience
-Visual storytelling for products with strong aesthetics. Behind-the-scenes, user stories, and product showcases build following.
+### 31. Budget Reality Check
+Understand budget early without being pushy. "What have you invested in solving this before?" or "Is there budget allocated for this initiative?"
 
-### 107. X Audience
-Build presence on X/Twitter through consistent value. Threads, insights, and engagement grow followings that convert.
+### 32. Timeline Qualification
+Determine urgency. "What happens if this isn't solved this quarter?" reveals real vs. nice-to-have priority.
 
-### 130. Short Form Video
-TikTok, Reels, and Shorts reach new audiences with snackable content. Educational and entertaining short videos spread organically.
+### 33. The Competitive Landscape Question
+"What else are you evaluating?" tells you where you stand and what to prepare for.
 
-### 138. Engagement Pods
-Coordinate with peers to boost each other's content engagement. Early engagement signals help content reach wider audiences.
+### 34. Champion Identification
+Find who will sell internally when you're not there. "Who else in the organization cares about solving this?"
 
-### 139. Comment Marketing
-Thoughtful comments on relevant content build visibility. Add value to discussions where your target audience pays attention.
-
----
-
-## Email Marketing
-
-### 17. Mistake Email Marketing
-Send "oops" emails when something genuinely goes wrong. Authenticity and transparency often generate higher engagement than polished campaigns.
-
-### 25. Reactivation Emails
-Win back churned or inactive users with targeted campaigns. Remind them of value, share what's new, offer incentives.
-
-### 28. Founder Welcome Email
-Personal welcome emails from founders create connection. Share your story, ask about their goals, start relationships.
-
-### 36. Dynamic Email Capture
-Smart email capture that adapts to user behavior. Exit intent, scroll depth, time on page—trigger popups at the right moment.
-
-### 79. Monthly Newsletters
-Consistent newsletters keep your brand top-of-mind. Curate industry news, share insights, highlight product updates.
-
-### 80. Inbox Placement
-Technical email optimization for deliverability. Authentication, list hygiene, and engagement signals determine whether emails arrive.
-
-### 113. Onboarding Emails
-Guide new users to activation with targeted email sequences. Behavior-triggered emails outperform time-based schedules.
-
-### 115. Win-back Emails
-Re-engage churned users with compelling reasons to return. New features, improvements, or offers reignite interest.
-
-### 116. Trial Reactivation
-Expired trials aren't lost causes. Targeted campaigns highlighting new value can recover abandoned trials.
+### 35. Success Criteria Discovery
+"What would need to be true for this to be a successful project?" aligns expectations and creates evaluation criteria.
 
 ---
 
-## Partnerships & Programs
+## Demo & Presentation
 
-### 9. Affiliate Discovery Through Backlinks
-Find potential affiliates by analyzing who links to competitors. Sites already promoting similar products may welcome affiliate relationships.
+### 36. The Discovery-Demo-Discovery Sandwich
+Start with questions, demo to the pain points uncovered, close with more questions. Never just "show and tell."
 
-### 27. Influencer Whitelisting
-Run ads through influencer accounts for authentic reach. Whitelisting combines influencer credibility with paid targeting.
+### 37. The 3-Scene Demo
+Structure: "You struggle with X" → "Here's how we solve X" → "This is what success looks like." Story, not features.
 
-### 33. Reseller Programs
-Enable agencies and service providers to resell your product. White-label options create invested distribution partners.
+### 38. Live Product Usage
+Use their actual data or scenario in the demo. Generic demos don't convert—personalized demos do.
 
-### 37. Expert Networks
-Build networks of certified experts who implement your product. Experts extend your reach while ensuring quality implementations.
+### 39. The "Day One" Demo
+Show what their first day using the product looks like. Make adoption feel achievable.
 
-### 50. Newsletter Swaps
-Exchange promotional mentions with complementary newsletters. Access each other's audiences without advertising costs.
+### 40. ROI in the Demo
+Don't just show features—quantify value. "This automation saves 2 hours per person per week. With 10 users, that's 1,000 hours per year."
 
-### 51. Article Quotes
-Contribute expert quotes to journalists and publications. Tools like HARO connect experts with writers seeking sources.
+### 41. Interactive Demo vs. Slide Deck
+Get them clicking, not watching. Hands-on experience creates ownership and investment.
 
-### 77. Pixel Sharing
-Partner with complementary companies to share remarketing audiences. Expand reach through strategic data partnerships.
+### 42. The Multi-Stakeholder Demo
+Different demos for different audiences. The technical buyer cares about different things than the economic buyer.
 
-### 78. Shared Slack Channels
-Create shared channels with partners and customers. Direct communication lines strengthen relationships.
+### 43. Reference Customer Demo
+Have a customer join to share their experience. Nothing sells like peer validation.
 
-### 97. Affiliate Program
-Structured commission programs for referrers. Affiliates become motivated salespeople earning from successful referrals.
+### 44. The Objection-Anticipation Demo
+Address known objections proactively during the demo before they become roadblocks.
 
-### 98. Integration Marketing
-Joint marketing with integration partners. Combined audiences and shared promotion amplify reach for both products.
-
-### 99. Community Sponsorship
-Sponsor relevant communities, newsletters, or publications. Aligned sponsorships build brand awareness with target audiences.
+### 45. The "Ugly Duckling" Demo
+Show a competitor's approach first (briefly), then yours. Contrast makes your solution shine.
 
 ---
 
-## Events & Speaking
+## Objection Handling
 
-### 15. Live Webinars
-Educational webinars demonstrate expertise while generating leads. Interactive formats create engagement and urgency.
+### 46. The Feel-Felt-Found Framework
+"I understand how you feel. Others have felt the same way. What they found was..."
 
-### 53. Virtual Summits
-Multi-speaker online events attract audiences through varied perspectives. Summit speakers promote to their audiences, amplifying reach.
+### 47. Isolate the Objection
+"If we could solve [objection], would you be ready to move forward?" Confirms it's the real blocker.
 
-### 87. Roadshows
-Take your product on the road to meet customers directly. Regional events create personal connections at scale.
+### 48. Price Objection: Value Reframe
+Don't defend price—demonstrate value. "Let's look at the ROI. If this saves [X], the price becomes trivial."
 
-### 90. Local Meetups
-Host or attend local meetups in key markets. In-person connections create stronger relationships than digital alone.
+### 49. Timing Objection: Cost of Delay
+"What's the cost of waiting another quarter? How much will [problem] cost between now and then?"
 
-### 91. Meetup Sponsorship
-Sponsor relevant meetups to reach engaged local audiences. Food, venue, or swag sponsorships generate goodwill.
+### 50. Competitor Objection: Differentiate
+Know your competitive strengths. "Where we're fundamentally different is..." Not "they're bad"—"we're better for your situation."
 
-### 103. Conference Speaking
-Speak at industry conferences to reach engaged audiences. Presentations showcase expertise while generating leads.
+### 51. The "Need to Think About It" Handler
+"Totally understand. What specifically would be helpful to think through? Maybe I can provide information that helps."
 
-### 126. Conferences
-Host your own conference to become the center of your industry. User conferences strengthen communities and generate content.
+### 52. The Risk Reversal
+Address risk directly with guarantees, pilots, or phased approaches. "We're confident enough to offer..."
 
-### 132. Conference Sponsorship
-Sponsor relevant conferences for brand visibility. Booth presence, speaking slots, and attendee lists justify investment.
+### 53. The Procurement Objection
+"What does your typical procurement process look like? Let's plan for that together."
 
----
+### 54. The Incumbent Objection
+"What would need to change for you to consider alternatives?" Find the trigger that creates openness.
 
-## PR & Media
-
-### 8. Media Acquisitions as Marketing
-Acquire newsletters, podcasts, or publications in your space. Owned media provides direct access to engaged audiences.
-
-### 52. Press Coverage
-Pitch newsworthy stories to relevant publications. Launches, funding, data, and trends create press opportunities.
-
-### 84. Fundraising PR
-Leverage funding announcements for press coverage. Rounds signal validation and create natural news hooks.
-
-### 118. Documentaries
-Create documentary content exploring your industry or customers. Long-form storytelling builds deep connection and differentiation.
+### 55. The "Not Now" Objection
+"When would be the right time? What would need to happen?" Qualify for nurture vs. disqualify.
 
 ---
 
-## Launches & Promotions
+## Negotiation & Closing
 
-### 21. Black Friday Promotions
-Annual deals create urgency and acquisition spikes. Promotional periods capture deal-seekers who become long-term customers.
+### 56. The Assumptive Close
+Assume the sale and discuss implementation. "When would you want to start onboarding?"
 
-### 22. Product Hunt Launch
-Structured Product Hunt launches reach early adopters. Preparation, timing, and community engagement drive successful launches.
+### 57. The Summary Close
+"So we've agreed that [value points]. The next step is [action]. Does that work?"
 
-### 23. Early-Access Referrals
-Reward referrals with earlier access during launches. Waitlist referral programs create viral anticipation.
+### 58. The Urgency Close
+Create genuine urgency with deadlines, limited availability, or business cost of waiting. Never fake urgency.
 
-### 44. New Year Promotions
-New Year brings fresh budgets and goal-setting energy. Promotional timing aligned with renewal mindsets increases conversion.
+### 59. The Trial Close
+Test readiness throughout the process. "How does this sound so far?" Identify concerns early.
 
-### 54. Early Access Pricing
-Launch with discounted early access tiers. Early supporters get deals while you build testimonials and feedback.
+### 60. The Alternative Close
+Give two positive options. "Would you prefer to start with the pilot or go directly to full implementation?"
 
-### 58. Product Hunt Alternatives
-Launch on alternatives to Product Hunt—BetaList, Launching Next, AlternativeTo. Multiple launch platforms expand reach.
+### 61. The "What Would It Take?" Close
+"What would it take to get this done this month?" Reveals hidden objections and negotiation room.
 
-### 59. Twitter Giveaways
-Engagement-boosting giveaways that require follows, retweets, or tags. Giveaways grow following while generating buzz.
+### 62. The Consequence Close
+"What happens if you don't solve this problem?" Make inaction uncomfortable.
 
-### 109. Giveaways
-Strategic giveaways attract attention and capture leads. Product giveaways, partner prizes, or experience rewards create engagement.
+### 63. The Executive Sponsor Close
+Bring in your executive to close at their level. VP-to-VP conversations often unlock stuck deals.
 
-### 119. Vacation Giveaways
-Grand prize giveaways generate massive engagement. Dream vacation packages motivate sharing and participation.
+### 64. The Mutual Action Plan
+Create a shared timeline with milestones for both sides. "Here's what needs to happen to go live by [date]."
 
-### 140. Lifetime Deals
-One-time payment deals generate cash and users. Lifetime deal platforms reach deal-hunting audiences willing to pay upfront.
-
----
-
-## Product-Led Growth
-
-### 16. Powered By Marketing
-"Powered by [Your Product]" badges on customer output create free impressions. Every customer becomes a marketing channel.
-
-### 19. Free Migrations
-Offer free migration services from competitors. Reduce switching friction while capturing users ready to leave.
-
-### 20. Contract Buyouts
-Pay to exit competitor contracts. Dramatic commitment removes the final barrier for locked-in prospects.
-
-### 32. One-Click Registration
-Minimize signup friction with one-click OAuth options. Pre-filled forms and instant access increase conversion.
-
-### 69. In-App Upsells
-Strategic upgrade prompts within the product experience. Contextual upsells at usage limits or feature attempts convert best.
-
-### 71. Newsletter Referrals
-Built-in referral programs for newsletters and content. Easy sharing mechanisms turn subscribers into promoters.
-
-### 75. Viral Loops
-Product mechanics that naturally encourage sharing. Collaboration features, public outputs, or referral incentives create organic growth.
-
-### 114. Offboarding Flows
-Optimize cancellation flows to retain or learn. Exit surveys, save offers, and pause options reduce churn.
-
-### 124. Concierge Setup
-White-glove onboarding for high-value accounts. Personal setup assistance increases activation and retention.
-
-### 127. Onboarding Optimization
-Continuous improvement of the new user experience. Faster time-to-value increases conversion and retention.
+### 65. The Paperwork-Ready Close
+Have contracts ready when they're ready. Don't lose momentum to document preparation.
 
 ---
 
-## Content Formats
+## Deal Acceleration
 
-### 1. Playlists as Marketing
-Create Spotify playlists for your audience—productivity playlists, work music, industry-themed collections. Daily listening touchpoints build brand affinity.
+### 66. The Proof of Value (POV)
+Structured trial with success criteria. Define what "good" looks like before starting.
 
-### 46. Template Marketing
-Offer free templates users can immediately use. Templates in your product create habit and dependency while showcasing capabilities.
+### 67. The Pilot Program
+Limited scope implementation to prove value before full commitment. Reduces risk perception.
 
-### 49. Graphic Novel Marketing
-Transform complex stories into visual narratives. Graphic novels stand out and make abstract concepts tangible.
+### 68. The Champion Enablement Kit
+Arm your champion with materials to sell internally: ROI summary, competitive comparison, executive summary.
 
-### 65. Promo Videos
-High-quality promotional videos showcase your product professionally. Invest in production value for shareable, memorable content.
+### 69. The Multi-Thread Strategy
+Build relationships with multiple stakeholders. Single-threaded deals die when champions leave.
 
-### 81. Industry Interviews
-Interview customers, experts, and thought leaders. Interview content builds relationships while creating valuable assets.
+### 70. The Business Case Builder
+Help your champion build the internal business case. Provide templates, data, and support.
 
-### 89. Social Screenshots
-Design shareable screenshot templates for social proof. Make it easy for customers to share wins and testimonials.
+### 71. The Executive Briefing
+Bring executives together for strategic conversation. Elevate from vendor to partner.
 
-### 101. Online Courses
-Educational courses establish authority while generating leads. Free courses attract learners; paid courses create revenue.
+### 72. The Site Visit
+Bring prospects to visit a customer. Nothing converts like seeing success in person.
 
-### 102. Book Marketing
-Author a book establishing expertise in your domain. Books create credibility, speaking opportunities, and media coverage.
+### 73. The Competitive Displacement Fast-Track
+When they're unhappy with a competitor, move fast. Offer migration support and quick implementation.
 
-### 111. Annual Reports
-Publish annual reports showcasing industry data and trends. Original research becomes a linkable, quotable reference.
+### 74. The End-of-Quarter Push
+Align with their budget cycles and decision timelines. Create genuine urgency around natural deadlines.
 
-### 120. End of Year Wraps
-Personalized year-end summaries users want to share. "Spotify Wrapped" style reports turn data into social content.
-
-### 121. Podcasts
-Launch a podcast reaching audiences during commutes and workouts. Regular audio content builds intimate audience relationships.
-
-### 63. Changelogs
-Public changelogs showcase product momentum. Regular updates demonstrate active development and responsiveness.
-
-### 112. Public Demos
-Live product demonstrations showing real usage. Transparent demos build trust and answer questions in real-time.
+### 75. The Contract Acceleration Discount
+Offer modest discount for signing by specific date. Time-bound incentive to prioritize your deal.
 
 ---
 
-## Unconventional & Creative
+## Account Expansion
 
-### 6. Awards as Marketing
-Create industry awards positioning your brand as tastemaker. Award programs attract applications, sponsors, and press coverage.
+### 76. The Quarterly Business Review
+Regular check-ins to review value delivered, identify new use cases, and plan expansion.
 
-### 10. Challenges as Marketing
-Launch viral challenges that spread organically. Creative challenges generate user content and social sharing.
+### 77. The Usage-Based Upsell
+Monitor usage for expansion signals. "You're hitting limits on [feature]—let's talk about upgrading."
 
-### 11. Reality TV Marketing
-Create reality-show style content following real customers. Documentary competition formats create engaging narratives.
+### 78. The Cross-Sell Discovery
+During success conversations, explore adjacent problems. "What else is on your plate this quarter?"
 
-### 12. Controversy as Marketing
-Strategic positioning against industry norms. Contrarian takes generate attention and discussion.
+### 79. The New Stakeholder Intro
+As customers grow and change, meet new stakeholders. Each is a potential expansion champion.
 
-### 13. Moneyball Marketing
-Data-driven marketing finding undervalued channels and tactics. Analytics identify opportunities competitors overlook.
+### 80. The Referral Ask
+Happy customers are your best source of new business. Ask systematically, not randomly.
 
-### 14. Curation as Marketing
-Curate valuable resources for your audience. Directories, lists, and collections provide value while building authority.
+### 81. The Case Study Trade
+Offer benefits in exchange for case studies. Their story becomes your prospecting tool.
 
-### 29. Grants as Marketing
-Offer grants to customers or community members. Grant programs generate applications, PR, and goodwill.
+### 82. The Multi-Location Expansion
+Successful single-location deployments become templates for rolling out across the organization.
 
-### 34. Product Competitions
-Sponsor competitions using your product. Hackathons, design contests, and challenges showcase capabilities while engaging users.
+### 83. The Adjacent Team Expansion
+Success in one department creates proof for expanding to related teams.
 
-### 35. Cameo Marketing
-Use Cameo celebrities for personalized marketing messages. Unexpected celebrity endorsements generate buzz and shares.
+### 84. The Executive Relationship Building
+Maintain relationships at the executive level even as day-to-day contacts change. Executives buy strategically.
 
-### 83. OOH Advertising
-Out-of-home advertising—billboards, transit ads, and placements. Physical presence in key locations builds brand awareness.
-
-### 125. Marketing Stunts
-Bold, attention-grabbing marketing moments. Well-executed stunts generate press coverage and social sharing.
-
-### 128. Guerrilla Marketing
-Unconventional, low-cost marketing in unexpected places. Creative guerrilla tactics stand out from traditional advertising.
-
-### 136. Humor Marketing
-Use humor to stand out and create memorability. Funny content gets shared and builds brand personality.
+### 85. The Renewal Expansion Bundle
+Combine renewal with expansion for better terms. "If we expand to [scope], we can offer [incentive]."
 
 ---
 
-## Platforms & Marketplaces
+## Sales Process Optimization
 
-### 24. Open Source as Marketing
-Open-source components or tools build developer goodwill. Open source creates community, contributions, and credibility.
+### 86. The Ideal Customer Profile Refinement
+Continuously refine ICP based on win/loss data. Focus effort on highest-probability prospects.
 
-### 61. App Store Optimization
-Optimize app store listings for discoverability. Keywords, screenshots, and reviews drive organic app installs.
+### 87. The Win/Loss Analysis
+Interview won and lost deals to understand what works. Pattern recognition improves win rates.
 
-### 86. App Marketplaces
-List in relevant app marketplaces and directories. Salesforce AppExchange, Shopify App Store, and similar platforms provide distribution.
+### 88. The Sales Playbook
+Document what works: talk tracks, objection handlers, competitive positioning. Make success repeatable.
 
-### 95. YouTube Reviews
-Get YouTubers to review your product. Authentic reviews reach engaged audiences and create lasting content.
+### 89. The Call Recording Review
+Review calls to identify improvement opportunities. Self-coaching and peer feedback.
 
-### 96. YouTube Channel
-Build a YouTube presence with tutorials, updates, and thought leadership. Video content compounds in value over time.
+### 90. The Deal Inspection Cadence
+Regular pipeline reviews with structured criteria. Identify at-risk deals early.
 
-### 108. Source Platforms
-Submit to platforms that aggregate tools and products. G2, Capterra, GetApp, and similar directories drive discovery.
+### 91. The Forecast Accuracy Focus
+Improve forecasting by requiring objective qualification criteria. Gut feel isn't a forecast.
 
-### 88. Review Sites
-Actively manage presence on review platforms. Reviews influence purchase decisions; actively request and respond to them.
+### 92. The Sales/Marketing Alignment
+Regular sync on lead quality, messaging, and content needs. Aligned teams outperform siloed teams.
 
-### 100. Live Audio
-Host live audio discussions on Twitter Spaces, Clubhouse, or LinkedIn Audio. Real-time conversation creates intimate engagement.
+### 93. The Competitive Intelligence Sharing
+Systematic collection and distribution of competitive intelligence. Everyone should know the landscape.
 
----
+### 94. The Customer Success Handoff
+Structured handoffs that set customers up for success. What sales learns should transfer to CS.
 
-## International & Localization
-
-### 133. International Expansion
-Expand to new geographic markets. Localization, partnerships, and regional marketing unlock new growth.
-
-### 134. Price Localization
-Adjust pricing for local purchasing power. Localized pricing increases conversion in price-sensitive markets.
+### 95. The Lost Deal Recovery Process
+Systematic re-engagement of lost deals when circumstances change. Pipeline you already built.
 
 ---
 
-## Developer & Technical
+## Personal Productivity
 
-### 104. Investor Marketing
-Market to investors for downstream portfolio introductions. Investors recommend tools to their portfolio companies.
+### 96. The Power Hour
+Dedicated daily time block for highest-impact activity (usually prospecting). Protected, non-negotiable.
 
-### 123. Certifications
-Create certification programs validating expertise. Certifications create invested advocates while generating training revenue.
+### 97. The Batch Processing Approach
+Group similar activities: all calls together, all emails together, all admin together. Context-switching kills productivity.
 
-### 131. Support as Marketing
-Turn support interactions into marketing opportunities. Exceptional support creates stories customers share.
+### 98. The CRM Discipline
+Update CRM religiously. If it's not in CRM, it didn't happen. Future you will thank present you.
 
-### 135. Developer Relations
-Build relationships with developer communities. DevRel creates advocates who recommend your product to peers.
+### 99. The Template Library
+Pre-built templates for common scenarios. Personalize, don't recreate from scratch.
 
----
-
-## Audience-Specific
-
-### 26. Two-Sided Referrals
-Reward both referrer and referred in referral programs. Dual incentives motivate sharing while welcoming new users.
-
-### 45. Podcast Tours
-Guest on multiple podcasts reaching your target audience. Podcast tours create compounding awareness across shows.
-
-### 47. Customer Language
-Use the exact words your customers use. Mining reviews, support tickets, and interviews for language that resonates.
+### 100. The Daily Standup
+Brief daily review: What did I accomplish? What will I accomplish? What's blocking me?
 
 ---
 
 ## Implementation Tips
 
-When suggesting ideas, consider:
+When suggesting tactics, consider:
+
+**By Sales Cycle:**
+- Short cycle: Focus on qualification, demo optimization, quick closes
+- Long cycle: Focus on multi-threading, stakeholder management, deal progression
+- Enterprise: Focus on procurement navigation, executive engagement, proof of value
+
+**By Team Size:**
+- Solo: Prioritize high-leverage activities, automate where possible
+- Small team: Create repeatable playbooks, share learnings
+- Large team: Specialize roles, optimize handoffs, measure rigorously
+
+**By Deal Size:**
+- Small deals: Efficiency and volume focus
+- Mid-market: Balance personalization with efficiency
+- Enterprise: High-touch, strategic approach
 
 **By Stage:**
-- Pre-launch: Waitlist referrals, early access, Product Hunt prep
-- Early stage: Content, SEO, community, founder-led sales
-- Growth stage: Paid acquisition, partnerships, events
-- Scale: Brand, international, acquisitions
-
-**By Budget:**
-- Free: Content, SEO, community, social media
-- Low budget: Targeted ads, sponsorships, tools
-- Medium budget: Events, partnerships, PR
-- High budget: Acquisitions, conferences, brand campaigns
-
-**By Timeline:**
-- Quick wins: Ads, email, social posts
-- Medium-term: Content, SEO, community building
-- Long-term: Brand, thought leadership, platform effects
+- Not enough meetings: Focus on prospecting tactics (1-25)
+- Meetings but no deals: Focus on discovery and demo (26-45)
+- Deals but not closing: Focus on objection handling and closing (46-65)
+- Need more revenue: Focus on expansion (76-85)
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What's your product and who's your target customer?
-2. What's your current stage and main growth goal?
-3. What's your marketing budget and team size?
-4. What have you already tried that worked or didn't?
-5. What are your competitors doing that you admire or want to counter?
+1. What are you selling and who's your target buyer?
+2. Where in the sales process are you struggling most?
+3. What's your typical deal size and sales cycle?
+4. What's your current team structure?
+5. What have you tried that's working or not working?
 
 ---
 
 ## Output Format
 
-When recommending ideas:
+When recommending tactics:
 
-**For each recommended idea:**
-- **Idea name**: One-line description
+**For each recommended tactic:**
+- **Tactic name**: One-line description
 - **Why it fits**: Connection to their situation
 - **How to start**: First 2-3 implementation steps
 - **Expected outcome**: What success looks like
-- **Resources needed**: Time, budget, skills required
+- **Resources needed**: Time, tools, skills required
 
 ---
 
 ## Related Skills
 
-- **programmatic-seo**: For scaling SEO content (#40)
-- **competitor-alternatives**: For comparison pages (#2)
-- **email-sequence**: For email marketing tactics
-- **free-tool-strategy**: For engineering as marketing (#30)
-- **page-cro**: For landing page optimization
-- **ab-test-setup**: For testing marketing experiments
+- **cold-outreach-writing**: For prospecting message templates
+- **sales-outreach-sequences**: For multi-touch campaign design
+- **discovery-calls**: For qualification frameworks
+- **competitive-selling**: For competitive positioning
+- **objection-handling**: For detailed objection responses
+- **sales-analytics**: For measuring sales performance

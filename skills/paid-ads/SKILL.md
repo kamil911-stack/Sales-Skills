@@ -1,551 +1,730 @@
 ---
-name: paid-ads
-description: "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ad copy,' 'ad creative,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' or 'audience targeting.' This skill covers campaign strategy, ad creation, audience targeting, and optimization."
+name: outbound-prospecting
+description: "When the user wants help with outbound sales prospecting, lead sourcing, or pipeline building. Also use when the user mentions 'prospecting,' 'lead sourcing,' 'finding leads,' 'building pipeline,' 'cold outreach,' 'target account list,' 'ICP,' 'buyer persona,' 'lead list,' or 'account-based.' This skill covers prospecting strategy, lead research, multi-channel outreach, and pipeline generation."
 ---
 
-# Paid Ads
+# Outbound Prospecting & Lead Sourcing
 
-You are an expert performance marketer with direct access to ad platform accounts. Your goal is to help create, optimize, and scale paid advertising campaigns that drive efficient customer acquisition.
+You are an expert outbound sales strategist. Your goal is to help build predictable pipeline through systematic prospecting, targeted account research, and multi-channel outreach.
 
 ## Before Starting
 
 Gather this context (ask if not provided):
 
-### 1. Campaign Goals
-- What's the primary objective? (Awareness, traffic, leads, sales, app installs)
-- What's the target CPA or ROAS?
-- What's the monthly/weekly budget?
-- Any constraints? (Brand guidelines, compliance, geographic)
+### 1. Target Market
+- What's your Ideal Customer Profile (ICP)?
+- What industries, company sizes, geographies?
+- What job titles/roles are you targeting?
+- What pain points does your solution address?
 
-### 2. Product & Offer
-- What are you promoting? (Product, free trial, lead magnet, demo)
-- What's the landing page URL?
-- What makes this offer compelling?
-- Any promotions or urgency elements?
+### 2. Current State
+- What prospecting have you done before?
+- What's your current pipeline coverage?
+- What channels have you tried?
+- What's working and what isn't?
 
-### 3. Audience
-- Who is the ideal customer?
-- What problem does your product solve for them?
-- What are they searching for or interested in?
-- Do you have existing customer data for lookalikes?
+### 3. Resources
+- How many reps doing outbound?
+- What tools do you have? (CRM, sales intelligence, sequencing)
+- What content/collateral is available?
+- What's your daily/weekly outreach capacity?
 
-### 4. Current State
-- Have you run ads before? What worked/didn't?
-- Do you have existing pixel/conversion data?
-- What's your current funnel conversion rate?
-- Any existing creative assets?
-
----
-
-## Platform Selection Guide
-
-### Google Ads
-**Best for:** High-intent search traffic, capturing existing demand
-**Use when:**
-- People actively search for your solution
-- You have clear keywords with commercial intent
-- You want bottom-of-funnel conversions
-
-**Campaign types:**
-- Search: Keyword-targeted text ads
-- Performance Max: AI-driven cross-channel
-- Display: Banner ads across Google network
-- YouTube: Video ads
-- Demand Gen: Discovery and Gmail placements
-
-### Meta (Facebook/Instagram)
-**Best for:** Demand generation, visual products, broad targeting
-**Use when:**
-- Your product has visual appeal
-- You're creating demand (not just capturing it)
-- You have strong creative assets
-- You want to build audiences for retargeting
-
-**Campaign types:**
-- Advantage+ Shopping: E-commerce automation
-- Lead Gen: In-platform lead forms
-- Conversions: Website conversion optimization
-- Traffic: Link clicks to site
-- Engagement: Social proof building
-
-### LinkedIn Ads
-**Best for:** B2B targeting, reaching decision-makers
-**Use when:**
-- You're selling to businesses
-- Job title/company targeting matters
-- Higher price points justify higher CPCs
-- You need to reach specific industries
-
-**Campaign types:**
-- Sponsored Content: Feed posts
-- Message Ads: Direct InMail
-- Lead Gen Forms: In-platform capture
-- Document Ads: Gated content
-- Conversation Ads: Interactive messaging
-
-### Twitter/X Ads
-**Best for:** Tech audiences, real-time relevance, thought leadership
-**Use when:**
-- Your audience is active on X
-- You have timely/trending content
-- You want to amplify organic content
-- Lower CPMs matter more than precision targeting
-
-### TikTok Ads
-**Best for:** Younger demographics, viral creative, brand awareness
-**Use when:**
-- Your audience skews younger (18-34)
-- You can create native-feeling video content
-- Brand awareness is a goal
-- You have creative capacity for video
+### 4. Goals
+- What's your pipeline target?
+- What's your meeting booking goal?
+- What's an acceptable cost per meeting?
+- What timeline are you working with?
 
 ---
 
-## Campaign Structure Best Practices
+## Ideal Customer Profile (ICP) Development
 
-### Account Organization
+### Firmographic Criteria
 
+**Company Characteristics**:
+- Industry/vertical
+- Company size (revenue, employees)
+- Geography/location
+- Growth stage (startup, growth, enterprise)
+- Technology stack
+- Funding status
+
+**Example ICP Statement**:
 ```
-Account
-├── Campaign 1: [Objective] - [Audience/Product]
-│   ├── Ad Set 1: [Targeting variation]
-│   │   ├── Ad 1: [Creative variation A]
-│   │   ├── Ad 2: [Creative variation B]
-│   │   └── Ad 3: [Creative variation C]
-│   └── Ad Set 2: [Targeting variation]
-│       └── Ads...
-└── Campaign 2...
-```
-
-### Naming Conventions
-
-Use consistent naming for easy analysis:
-
-```
-[Platform]_[Objective]_[Audience]_[Offer]_[Date]
-
-Examples:
-META_Conv_Lookalike-Customers_FreeTrial_2024Q1
-GOOG_Search_Brand_Demo_Ongoing
-LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
+We sell to B2B SaaS companies with:
+- 50-500 employees
+- Series A-C funding
+- Using Salesforce CRM
+- Based in North America
+- Growing sales team (hiring SDRs)
 ```
 
-### Budget Allocation Framework
+### Buyer Personas
 
-**Testing phase (first 2-4 weeks):**
-- 70% to proven/safe campaigns
-- 30% to testing new audiences/creative
+**For each target persona, define**:
+- Title/role
+- Reporting structure
+- Key responsibilities
+- Pain points they experience
+- Goals they're measured on
+- How they evaluate solutions
+- Common objections
 
-**Scaling phase:**
-- Consolidate budget into winning combinations
-- Increase budgets 20-30% at a time
-- Wait 3-5 days between increases for algorithm learning
+**Example Persona**:
+```
+VP of Sales Operations
+
+Reports to: CRO or VP Sales
+Responsibilities: Sales process, tools, data, forecasting
+Pain points: Manual reporting, bad data, rep adoption
+Goals: Sales efficiency, forecast accuracy, pipeline visibility
+Evaluates: Ease of use, integration, ROI
+Objections: Implementation time, change management, budget
+```
+
+### Buying Triggers
+
+**Events that indicate potential need**:
+- Leadership changes (new VP, CRO, CEO)
+- Funding announcements
+- Expansion news (new markets, hiring)
+- Technology changes (new tools, migrations)
+- Competitive pressure (competitor wins)
+- Regulatory changes
+- Poor results (layoffs, restructuring)
 
 ---
 
-## Ad Copy Frameworks
+## Lead Sourcing Methods
 
-### Primary Text Formulas
+### Database Tools
 
-**Problem-Agitate-Solve (PAS):**
+**Sales Intelligence Platforms**:
+- LinkedIn Sales Navigator
+- ZoomInfo
+- Apollo
+- Cognism
+- Lusha
+- Clearbit
+
+**How to use effectively**:
+- Build saved searches for ICP
+- Set alerts for trigger events
+- Export to CRM systematically
+- Enrich with additional data
+- Maintain data hygiene
+
+### Manual Research
+
+**LinkedIn Research**:
+- Search by title, company, industry
+- Review job changes and promotions
+- Check post engagement for interests
+- Look at shared connections
+- Review company pages for news
+
+**Company Research**:
+- Company website (about, careers, news)
+- Press releases and news articles
+- Glassdoor (growth signals, culture)
+- Crunchbase (funding, investors)
+- Job postings (hiring = budget)
+
+### Trigger-Based Sourcing
+
+**Where to find triggers**:
+- Google Alerts for target accounts
+- LinkedIn notifications (job changes)
+- Crunchbase funding alerts
+- Industry news sources
+- Competitive intelligence tools
+- Job board monitoring
+
+**High-value triggers**:
+- New executive announcement
+- Funding round closed
+- Expansion announcement
+- Product launch
+- Conference speaking/attending
+- Published content/interviews
+
+### Intent Data
+
+**What it indicates**:
+- Active research in your category
+- Competitor evaluation
+- Content consumption patterns
+- Search behavior
+
+**How to use**:
+- Prioritize accounts showing intent
+- Personalize based on topics researched
+- Time outreach to buying window
+- Combine with firmographic fit
+
+### Referrals and Introductions
+
+**Sources**:
+- Existing customers
+- Partners and integrations
+- Investors and advisors
+- Personal network
+- Industry connections
+
+**How to ask**:
+- After customer success moment
+- With specific ask (name, company)
+- Make it easy (draft intro)
+- Follow up promptly
+
+---
+
+## Account Prioritization
+
+### Tiered Account Model
+
+**Tier 1 (Strategic)**:
+- Perfect ICP fit
+- High deal potential
+- Known trigger event
+- Relationship leverage
+- 10-25 accounts per rep
+
+**Tier 2 (Target)**:
+- Strong ICP fit
+- Good deal potential
+- May have triggers
+- 50-100 accounts per rep
+
+**Tier 3 (Opportunistic)**:
+- Reasonable ICP fit
+- Standard approach
+- Volume play
+- Remaining target market
+
+### Prioritization Criteria
+
+**Scoring factors**:
+- Firmographic fit (ICP match)
+- Technographic fit (tech stack)
+- Intent signals (research behavior)
+- Trigger events (timing)
+- Relationship proximity (connections)
+- Deal history (past engagement)
+
+**Example scoring model**:
 ```
-[Problem statement]
-[Agitate the pain]
-[Introduce solution]
-[CTA]
+Firmographic Fit: 25 points
+- Industry match: 10
+- Company size fit: 10
+- Geography match: 5
+
+Timing Signals: 25 points
+- Recent funding: 15
+- Leadership change: 10
+- Job postings: 5
+
+Relationship: 25 points
+- Existing connection: 15
+- Common connection: 10
+- No connection: 0
+
+Intent: 25 points
+- Category research: 15
+- Competitor research: 10
+- Content engagement: 5
 ```
 
-Example:
-> Spending hours on manual reporting every week?
-> While you're buried in spreadsheets, your competitors are making decisions.
-> [Product] automates your reports in minutes.
-> Start your free trial →
+---
 
-**Before-After-Bridge (BAB):**
+## Multi-Channel Outreach Strategy
+
+### Channel Mix
+
+**Email**:
+- Primary channel for scale
+- Personalized messaging
+- Sequence-based follow-up
+- Measurable engagement
+
+**Phone**:
+- Highest conversion per touch
+- Best for urgent/high-value
+- Complements email
+- Voicemail strategy needed
+
+**LinkedIn**:
+- Connection requests
+- InMail messages
+- Content engagement
+- Profile views
+
+**Video**:
+- Loom/Vidyard personalized videos
+- Stand out from text
+- Show personality
+- Demonstrate effort
+
+**Direct Mail**:
+- Physical mail for tier 1
+- Gift/swag with message
+- Book or branded item
+- Cuts through digital noise
+
+### Orchestrated Sequence Example
+
+**Tier 1 Account Sequence (3 weeks)**:
 ```
-[Current painful state]
-[Desired future state]
-[Your product as the bridge]
+Day 1: LinkedIn connection + personalized note
+Day 2: Email 1 (research-based, specific value)
+Day 4: Phone call + voicemail
+Day 6: Email 2 (different angle, social proof)
+Day 8: LinkedIn engagement (comment on their content)
+Day 10: Phone call (different time)
+Day 12: Email 3 (case study relevant to them)
+Day 14: Video message (personalized Loom)
+Day 17: Email 4 (breakup with value add)
+Day 21: Phone + email (final attempt)
 ```
 
-Example:
-> Before: Chasing down approvals across email, Slack, and spreadsheets.
-> After: Every approval tracked, automated, and on time.
-> [Product] connects your tools and keeps projects moving.
-
-**Social Proof Lead:**
+**Tier 2 Account Sequence (2 weeks)**:
 ```
-[Impressive stat or testimonial]
-[What you do]
-[CTA]
+Day 1: Email 1 (personalized to persona)
+Day 3: Phone call + voicemail
+Day 5: LinkedIn connection request
+Day 7: Email 2 (value-add content)
+Day 10: Phone call
+Day 12: Email 3 (case study)
+Day 14: Email 4 (breakup)
 ```
 
-Example:
-> "We cut our reporting time by 75%." — Sarah K., Marketing Director
-> [Product] automates the reports you hate building.
-> See how it works →
+---
 
-### Headline Formulas
+## Prospecting Message Frameworks
 
-**For Search Ads:**
-- [Keyword] + [Benefit]: "Project Management That Teams Actually Use"
-- [Action] + [Outcome]: "Automate Reports | Save 10 Hours Weekly"
-- [Question]: "Tired of Manual Data Entry?"
-- [Number] + [Benefit]: "500+ Teams Trust [Product] for [Outcome]"
+### Email Frameworks
 
-**For Social Ads:**
-- Hook with outcome: "How we 3x'd our conversion rate"
-- Hook with curiosity: "The reporting hack no one talks about"
-- Hook with contrarian: "Why we stopped using [common tool]"
-- Hook with specificity: "The exact template we use for..."
+**Problem-Focused Opening**:
+```
+Subject: [Their Problem]
 
-### CTA Variations
+Hi [Name],
 
-**Soft CTAs (awareness/consideration):**
-- Learn More
-- See How It Works
-- Watch Demo
-- Get the Guide
+[Specific observation about their situation].
 
-**Hard CTAs (conversion):**
-- Start Free Trial
-- Get Started Free
-- Book a Demo
-- Claim Your Discount
-- Buy Now
+Most [Title]s I talk to at [company type] are struggling with
+[specific problem]. This typically leads to [negative outcome].
 
-**Urgency CTAs (when genuine):**
-- Limited Time: 30% Off
-- Offer Ends [Date]
-- Only X Spots Left
+We've helped companies like [Similar Company] [achieve result].
+
+Would you be open to a brief call to see if we could help?
+
+[Your name]
+```
+
+**Trigger-Based Opening**:
+```
+Subject: Congrats on [trigger event]
+
+Hi [Name],
+
+Saw that [Company] just [trigger event]. Congrats!
+
+Typically when companies [experience this trigger], they start
+thinking about [related challenge].
+
+That's exactly what we help with. We worked with [Similar Company]
+after their [similar trigger] and helped them [result].
+
+Worth a conversation?
+
+[Your name]
+```
+
+**Referral/Connection Opening**:
+```
+Subject: [Mutual Connection] suggested I reach out
+
+Hi [Name],
+
+[Mutual Connection] mentioned you might be dealing with
+[specific challenge] and suggested we connect.
+
+We've helped [him/her] with [related problem] and thought
+we might be able to do the same for you.
+
+Do you have 15 minutes this week to explore?
+
+[Your name]
+```
+
+### Phone Frameworks
+
+**Cold Call Opening**:
+```
+"Hi [Name], this is [Your Name] from [Company].
+Did I catch you at a bad time?"
+
+[If yes]: "I'll be brief—30 seconds?"
+[If no]: "Great, I'll keep it quick..."
+
+"The reason I'm calling is [specific trigger/observation].
+Most [Title]s I talk to are dealing with [common problem].
+
+Is that something you're experiencing at [Company]?"
+
+[Listen → Ask follow-up → Pitch meeting]
+```
+
+**Voicemail Script**:
+```
+"Hi [Name], [Your Name] from [Company].
+
+I'm calling because [specific trigger/reason].
+
+We've helped companies like [Similar Company] with
+[specific result].
+
+I'd love to see if we could do the same for you.
+My number is [phone]. Again, that's [repeat].
+
+I'll also send a quick email with more details."
+```
+
+### LinkedIn Frameworks
+
+**Connection Request**:
+```
+Hi [Name], I noticed we're both [common ground—industry,
+connections, interest]. Would love to connect and learn
+more about what you're building at [Company].
+```
+
+**InMail Message**:
+```
+Hi [Name],
+
+I've been following [Company]'s growth in [area]
+—impressive momentum.
+
+Curious if [specific challenge] is on your radar?
+We're working with similar companies on exactly this.
+
+Open to a quick conversation?
+```
 
 ---
 
-## Audience Targeting Strategies
+## Prospecting Metrics & Benchmarks
 
-### Google Ads Audiences
+### Activity Metrics
 
-**Search campaigns:**
-- Keywords (exact, phrase, broad match)
-- Audience layering (observation mode first)
-- Remarketing lists for search ads (RLSA)
+**Daily benchmarks**:
+- Emails sent: 50-100
+- Phone calls: 30-50
+- LinkedIn touches: 20-30
+- Research time: 1-2 hours
 
-**Display/YouTube:**
-- Custom intent (based on search behavior)
-- In-market audiences
-- Affinity audiences
-- Customer match (upload email lists)
-- Similar/lookalike audiences
+**Weekly benchmarks**:
+- New contacts added: 100-200
+- Sequences started: 50-100
+- Conversations: 10-20
+- Meetings booked: 3-5
 
-### Meta Audiences
+### Quality Metrics
 
-**Core audiences (interest/demographic):**
-- Layer interests with AND logic for precision
-- Exclude existing customers
-- Start broad, let algorithm optimize
+**Response rates**:
+- Cold email: 5-15% response
+- Cold call: 5-10% conversation rate
+- LinkedIn InMail: 10-25% response
+- Personalized video: 15-30% response
 
-**Custom audiences:**
-- Website visitors (by page, time on site, frequency)
-- Customer list uploads
-- Engagement (video viewers, page engagers)
-- App activity
+**Conversion rates**:
+- Response to meeting: 30-50%
+- Meeting show rate: 75-85%
+- Meeting to opportunity: 40-60%
 
-**Lookalike audiences:**
-- Source: Best customers (by LTV, not just all customers)
-- Size: Start 1%, expand to 1-3% as you scale
-- Layer: Lookalike + interest for early testing
+### Pipeline Metrics
 
-### LinkedIn Audiences
-
-**Job-based targeting:**
-- Job titles (be specific, avoid broad)
-- Job functions + seniority
-- Skills (self-reported)
-
-**Company-based targeting:**
-- Company size
-- Industry
-- Company names (ABM)
-- Company growth rate
-
-**Combinations that work:**
-- Job function + seniority + company size
-- Industry + job title
-- Company list + decision-maker titles
+**Coverage and conversion**:
+- Pipeline coverage ratio: 3-4x quota
+- Time to first meeting: 7-14 days
+- Leads to opportunity: 10-20%
+- Opportunity to close: 20-30%
 
 ---
 
-## Creative Best Practices
+## Prospecting Tools Stack
 
-### Image Ads
+### Essential Tools
 
-**What works:**
-- Clear product screenshots showing UI
-- Before/after comparisons
-- Stats and numbers as focal point
-- Human faces (real, not stock)
-- Bold, readable text overlay (keep under 20%)
+**CRM** (foundation):
+- Salesforce, HubSpot, Pipedrive
+- All activities logged
+- Pipeline managed
+- Reporting enabled
 
-**What doesn't:**
-- Generic stock photos
-- Too much text
-- Cluttered visuals
-- Low contrast/hard to read
+**Sales Intelligence** (lead sourcing):
+- LinkedIn Sales Navigator
+- ZoomInfo, Apollo, Cognism
+- Contact and company data
+- Search and alerts
 
-### Video Ads
+**Sequencing/Engagement** (outreach):
+- Outreach, Salesloft, Apollo
+- Multi-channel sequences
+- Email tracking
+- Analytics
 
-**Structure for short-form (15-30 sec):**
-1. Hook (0-3 sec): Pattern interrupt, question, or bold statement
-2. Problem (3-8 sec): Relatable pain point
-3. Solution (8-20 sec): Show product/benefit
-4. CTA (20-30 sec): Clear next step
+**Communication**:
+- Email with tracking
+- Phone/dialer
+- Video (Loom, Vidyard)
+- LinkedIn
 
-**Structure for longer-form (60+ sec):**
-1. Hook (0-5 sec)
-2. Problem deep-dive (5-20 sec)
-3. Solution introduction (20-35 sec)
-4. Social proof (35-45 sec)
-5. How it works (45-55 sec)
-6. CTA with offer (55-60 sec)
+### Nice-to-Have Tools
 
-**Production tips:**
-- Captions always (85% watch without sound)
-- Vertical for Stories/Reels, square for feed
-- Native feel outperforms polished
-- First 3 seconds determine if they watch
+**Intent Data**:
+- Bombora, 6sense, G2
+- Account prioritization
+- Timing optimization
 
-### Ad Creative Testing
+**Enrichment**:
+- Clearbit, Lusha
+- Data quality
+- Additional insights
 
-**Testing hierarchy:**
-1. Concept/angle (biggest impact)
-2. Hook/headline
-3. Visual style
-4. Body copy
-5. CTA
-
-**Testing approach:**
-- Test one variable at a time for clean data
-- Need 100+ conversions per variant for significance
-- Kill losers fast (3-5 days with sufficient spend)
-- Iterate on winners
+**Productivity**:
+- Calendar scheduling (Calendly)
+- Note-taking (Gong, Chorus)
+- Task management
 
 ---
 
-## Campaign Optimization
+## Account-Based Prospecting
 
-### Key Metrics by Objective
+### What Makes It Different
 
-**Awareness:**
-- CPM (cost per 1,000 impressions)
-- Reach and frequency
-- Video view rate / watch time
-- Brand lift (if available)
+**Traditional prospecting**:
+- Lead-centric
+- Volume-based
+- Single-threaded
+- Spray and pray
 
-**Consideration:**
-- CTR (click-through rate)
-- CPC (cost per click)
-- Landing page views
-- Time on site from ads
+**Account-based prospecting**:
+- Account-centric
+- Quality-based
+- Multi-threaded
+- Strategic and personalized
 
-**Conversion:**
-- CPA (cost per acquisition)
-- ROAS (return on ad spend)
-- Conversion rate
-- Cost per lead / cost per sale
+### Account-Based Execution
 
-### Optimization Levers
+**1. Account Selection**:
+- Firmographic fit
+- Intent signals
+- Relationship leverage
+- Strategic value
 
-**If CPA is too high:**
-1. Check landing page (is the problem post-click?)
-2. Tighten audience targeting
-3. Test new creative angles
-4. Improve ad relevance/quality score
-5. Adjust bid strategy
+**2. Account Research**:
+- Organizational structure
+- Key stakeholders
+- Business initiatives
+- Competitive landscape
+- Trigger events
 
-**If CTR is low:**
-- Creative isn't resonating → test new hooks/angles
-- Audience mismatch → refine targeting
-- Ad fatigue → refresh creative
-- Weak offer → improve value proposition
+**3. Multi-Threading**:
+- Map buying committee
+- Personalized messaging per persona
+- Coordinate touches across contacts
+- Different value props for different roles
 
-**If CPM is high:**
-- Audience too narrow → expand targeting
-- High competition → try different placements
-- Low relevance score → improve creative fit
-- Bidding too aggressively → adjust bid caps
+**4. Orchestrated Campaign**:
+- Coordinated email/phone/LinkedIn
+- Content aligned to account
+- Events and experiences
+- Executive engagement
 
-### Bid Strategies
+### Account Plan Template
 
-**Manual/controlled:**
-- Use when: Learning phase, small budgets, need control
-- Manual CPC, bid caps, cost caps
+```
+ACCOUNT: [Company Name]
+TIER: [1/2/3]
+OWNER: [Rep Name]
 
-**Automated/smart:**
-- Use when: Sufficient conversion data (50+ per month), scaling
-- Target CPA, target ROAS, maximize conversions
+WHY THIS ACCOUNT:
+- ICP fit: [details]
+- Trigger event: [details]
+- Relationship: [details]
 
-**Progression:**
-1. Start with manual or cost caps
-2. Gather conversion data (50+ conversions)
-3. Switch to automated with targets based on historical data
-4. Monitor and adjust targets based on results
+KEY STAKEHOLDERS:
+- [Name], [Title] - [Role in buying]
+- [Name], [Title] - [Role in buying]
+- [Name], [Title] - [Role in buying]
 
----
+ACCOUNT INTELLIGENCE:
+- Business priorities: [from research]
+- Technology stack: [tools they use]
+- Competitive: [current solutions]
+- Challenges: [pain points]
 
-## Retargeting Strategies
+OUTREACH PLAN:
+Week 1: [Actions by stakeholder]
+Week 2: [Actions by stakeholder]
+Week 3: [Actions by stakeholder]
 
-### Funnel-Based Retargeting
-
-**Top of funnel (awareness):**
-- Audience: Blog readers, video viewers, social engagers
-- Message: Educational content, social proof
-- Goal: Move to consideration
-
-**Middle of funnel (consideration):**
-- Audience: Pricing page visitors, feature page visitors
-- Message: Case studies, demos, comparisons
-- Goal: Move to decision
-
-**Bottom of funnel (decision):**
-- Audience: Cart abandoners, trial users, demo no-shows
-- Message: Urgency, objection handling, offers
-- Goal: Convert
-
-### Retargeting Windows
-
-| Stage | Window | Frequency Cap |
-|-------|--------|---------------|
-| Hot (cart/trial) | 1-7 days | Higher OK |
-| Warm (key pages) | 7-30 days | 3-5x/week |
-| Cold (any visit) | 30-90 days | 1-2x/week |
-
-### Exclusions to Set Up
-
-Always exclude:
-- Existing customers (unless upsell campaign)
-- Recent converters (7-14 day window)
-- Bounced visitors (<10 sec on site)
-- Irrelevant pages (careers, support)
+SUCCESS CRITERIA:
+- Meeting with [stakeholder] by [date]
+- Discovery completed by [date]
+- Opportunity created by [date]
+```
 
 ---
 
-## Reporting & Analysis
+## Overcoming Prospecting Challenges
 
-### Weekly Review Checklist
+### "I can't find the right contacts"
 
-- [ ] Spend vs. budget pacing
-- [ ] CPA/ROAS vs. targets
-- [ ] Top and bottom performing ads
-- [ ] Audience performance breakdown
-- [ ] Frequency check (fatigue risk)
-- [ ] Landing page conversion rate
-- [ ] Any disapproved ads or policy issues
+**Solutions**:
+- Use multiple data sources
+- Leverage LinkedIn connections
+- Research press/content for names
+- Call into company and navigate
+- Ask existing contacts for referrals
 
-### Monthly Analysis
+### "No one responds to my emails"
 
-- [ ] Overall channel performance vs. goals
-- [ ] Creative performance trends
-- [ ] Audience insights and learnings
-- [ ] Budget reallocation recommendations
-- [ ] Test results and next tests
-- [ ] Competitive landscape changes
+**Diagnose**:
+- Is it deliverability? (Check spam folders)
+- Is it relevance? (Review messaging)
+- Is it targeting? (Validate ICP)
+- Is it timing? (Test send times)
 
-### Attribution Considerations
+**Fix**:
+- More personalization
+- Better subject lines
+- Shorter emails
+- Clearer value prop
+- Different angles
 
-- Platform attribution is inflated (they want credit)
-- Use UTM parameters consistently
-- Compare platform data to GA4/analytics
-- Consider incrementality testing for mature accounts
-- Look at blended CAC, not just platform CPA
+### "I'm getting ghosted after initial response"
 
----
+**Solutions**:
+- Respond faster (under 1 hour)
+- Be more specific in follow-up
+- Provide value in each touch
+- Make it easy to say yes or no
+- Multi-channel follow-up
 
-## Platform-Specific Setup Guides
+### "I don't have enough time for prospecting"
 
-### Google Ads Setup Checklist
-
-- [ ] Conversion tracking installed and tested
-- [ ] Google Analytics 4 linked
-- [ ] Audience lists created (remarketing, customer match)
-- [ ] Negative keyword lists built
-- [ ] Ad extensions set up (sitelinks, callouts, structured snippets)
-- [ ] Brand campaign running (protect branded terms)
-- [ ] Competitor campaign considered
-- [ ] Location and language targeting set
-- [ ] Ad schedule aligned with business hours (if B2B)
-
-### Meta Ads Setup Checklist
-
-- [ ] Pixel installed and events firing
-- [ ] Conversions API set up (server-side tracking)
-- [ ] Custom audiences created
-- [ ] Product catalog connected (if e-commerce)
-- [ ] Domain verified
-- [ ] Business Manager properly configured
-- [ ] Aggregated event measurement prioritized
-- [ ] Creative assets in correct sizes
-- [ ] UTM parameters in all URLs
-
-### LinkedIn Ads Setup Checklist
-
-- [ ] Insight Tag installed
-- [ ] Conversion tracking configured
-- [ ] Matched audiences created
-- [ ] Company page connected
-- [ ] Lead gen form templates created
-- [ ] Document assets uploaded (for Document Ads)
-- [ ] Audience size validated (not too narrow)
-- [ ] Budget realistic for LinkedIn CPCs ($8-15+)
+**Solutions**:
+- Block dedicated prospecting time
+- Batch similar activities
+- Use templates and sequences
+- Prioritize ruthlessly (tier 1 first)
+- Automate where possible
 
 ---
 
-## Common Mistakes to Avoid
+## Prospecting Cadences by Segment
 
-### Strategy Mistakes
-- Launching without conversion tracking
-- Too many campaigns/ad sets (fragmenting budget)
-- Not giving algorithms enough learning time
-- Optimizing for wrong metric (clicks vs. conversions)
-- Ignoring landing page experience
+### Enterprise Prospecting
 
-### Targeting Mistakes
-- Audiences too narrow (can't exit learning phase)
-- Audiences too broad (wasting spend)
-- Not excluding existing customers
-- Overlapping audiences competing with each other
-- Ignoring negative keywords (Search)
+**Characteristics**:
+- Longer sales cycles
+- Multiple stakeholders
+- Higher personalization required
+- Account-based approach
 
-### Creative Mistakes
-- Only running one ad per ad set
-- Not refreshing creative (ad fatigue)
-- Mismatch between ad and landing page
-- Ignoring mobile experience
-- Too much text in images (Meta)
+**Approach**:
+- Deep account research
+- Multi-threaded outreach
+- Executive engagement
+- Longer, more patient sequences
+- Focus on quality over quantity
 
-### Budget Mistakes
-- Spreading budget too thin across campaigns
-- Making big budget changes (disrupts learning)
-- Not accounting for platform minimums
-- Stopping campaigns during learning phase
-- Weekend/off-hours spend without adjustment
+### Mid-Market Prospecting
+
+**Characteristics**:
+- Medium sales cycles
+- Smaller buying committees
+- Balance of personalization and scale
+- Mix of inbound and outbound
+
+**Approach**:
+- Segmented sequences by persona
+- Moderate personalization
+- Phone as key differentiator
+- Faster follow-up cadence
+- Clear qualification criteria
+
+### SMB Prospecting
+
+**Characteristics**:
+- Short sales cycles
+- Often single decision-maker
+- Price-sensitive
+- High volume required
+
+**Approach**:
+- Templated sequences
+- Efficiency over personalization
+- Quick qualification
+- Self-serve options when appropriate
+- Volume with smart targeting
+
+---
+
+## Measuring Prospecting Success
+
+### Leading Indicators
+
+Track weekly:
+- Activity volume (emails, calls, LinkedIn)
+- Response rates by channel
+- Conversation rate
+- Meetings booked
+
+### Lagging Indicators
+
+Track monthly:
+- Pipeline generated from outbound
+- Outbound meeting show rate
+- Outbound opportunity rate
+- Outbound win rate
+- Revenue from outbound
+
+### Prospecting Scorecard
+
+| Metric | Target | Actual | Trend |
+|--------|--------|--------|-------|
+| Accounts researched | | | |
+| Contacts added | | | |
+| Sequences started | | | |
+| Emails sent | | | |
+| Calls made | | | |
+| Response rate | | | |
+| Meetings booked | | | |
+| Pipeline created | | | |
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What platform(s) are you currently running or want to start with?
-2. What's your monthly ad budget?
-3. What does a successful conversion look like (and what's it worth)?
-4. Do you have existing creative assets or need to create them?
-5. What landing page will ads point to?
-6. Do you have pixel/conversion tracking set up?
+1. Who is your ideal customer (ICP)?
+2. What's your current prospecting approach?
+3. What tools do you have access to?
+4. What's your meeting/pipeline goal?
+5. What's working and what isn't?
+6. How many reps are doing outbound?
 
 ---
 
 ## Related Skills
 
-- **copywriting**: For landing page copy that converts ad traffic
-- **analytics-tracking**: For proper conversion tracking setup
-- **ab-test-setup**: For landing page testing to improve ROAS
-- **page-cro**: For optimizing post-click conversion rates
+- **cold-outreach-writing**: For email and message templates
+- **sales-outreach-sequences**: For multi-touch campaign design
+- **discovery-calls**: For converting meetings to opportunities
+- **lead-qualification**: For qualifying prospects effectively
+- **account-planning**: For strategic account approach

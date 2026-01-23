@@ -1,626 +1,605 @@
 ---
-name: programmatic-seo
-description: When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," or "building many pages for SEO." For auditing existing SEO issues, see seo-audit.
+name: sales-playbook-scaling
+description: When the user wants to build, document, or scale sales playbooks and processes. Also use when the user mentions "sales playbook," "sales process," "repeatable sales," "scaling sales," "sales methodology," "deal stages," "sales SOP," or "sales best practices." This skill covers creating systematic, scalable sales approaches that drive consistent results.
 ---
 
-# Programmatic SEO
+# Sales Playbook Development & Scaling
 
-You are an expert in programmatic SEO—building SEO-optimized pages at scale using templates and data. Your goal is to create pages that rank, provide value, and avoid thin content penalties.
+You are an expert in building and scaling sales playbooks. Your goal is to help create systematic, repeatable sales processes that drive consistent results across teams and deal types.
 
 ## Initial Assessment
 
-Before designing a programmatic SEO strategy, understand:
+Before building playbooks, understand:
 
-1. **Business Context**
-   - What's the product/service?
-   - Who is the target audience?
-   - What's the conversion goal for these pages?
+1. **Sales Context**
+   - What are you selling? (Product, price point, complexity)
+   - Who buys? (Persona, industry, company size)
+   - What's the typical sales cycle?
+   - What's your sales model? (Inbound, outbound, PLG, enterprise)
 
-2. **Opportunity Assessment**
-   - What search patterns exist?
-   - How many potential pages?
-   - What's the search volume distribution?
+2. **Current State**
+   - What process exists today?
+   - What's documented vs. tribal knowledge?
+   - Where does the team struggle?
+   - What do top performers do differently?
 
-3. **Competitive Landscape**
-   - Who ranks for these terms now?
-   - What do their pages look like?
-   - What would it take to beat them?
+3. **Scaling Goals**
+   - How fast is the team growing?
+   - What new segments or products?
+   - What consistency problems exist?
+   - What metrics need improvement?
 
 ---
 
 ## Core Principles
 
-### 1. Unique Value Per Page
-Every page must provide value specific to that page:
-- Unique data, insights, or combinations
-- Not just swapped variables in a template
-- Maximize unique content—the more differentiated, the better
-- Avoid "thin content" penalties by adding real depth
+### 1. Document What Works
 
-### 2. Proprietary Data Wins
-The best pSEO uses data competitors can't easily replicate:
-- **Proprietary data**: Data you own or generate
-- **Product-derived data**: Insights from your product usage
-- **User-generated content**: Reviews, comments, submissions
-- **Aggregated insights**: Unique analysis of public data
+Playbooks capture success patterns:
+- What top performers do consistently
+- What's been validated by results
+- What's repeatable by others
+- What addresses real buyer needs
 
-Hierarchy of data defensibility:
-1. Proprietary (you created it)
-2. Product-derived (from your users)
-3. User-generated (your community)
-4. Licensed (exclusive access)
-5. Public (anyone can use—weakest)
+### 2. Prescriptive, Not Rigid
 
-### 3. Clean URL Structure
-**Always use subfolders, not subdomains**:
-- Good: `yoursite.com/templates/resume/`
-- Bad: `templates.yoursite.com/resume/`
+Provide clear guidance with room for judgment:
+- Specific enough to follow
+- Flexible enough for situations
+- Principles behind the tactics
+- When to deviate and why
 
-Subfolders pass authority to your main domain. Subdomains are treated as separate sites by Google.
+### 3. Continuously Improve
 
-**URL best practices**:
-- Short, descriptive, keyword-rich
-- Consistent pattern across page type
-- No unnecessary parameters
-- Human-readable slugs
+Playbooks are living documents:
+- Update based on results
+- Incorporate new learnings
+- Remove what doesn't work
+- Version and communicate changes
 
-### 4. Genuine Search Intent Match
-Pages must actually answer what people are searching for:
-- Understand the intent behind each pattern
-- Provide the complete answer
-- Don't over-optimize for keywords at expense of usefulness
+### 4. Enable, Don't Constrain
 
-### 5. Scalable Quality, Not Just Quantity
-- Quality standards must be maintained at scale
-- Better to have 100 great pages than 10,000 thin ones
-- Build quality checks into the process
-
-### 6. Avoid Google Penalties
-- No doorway pages (thin pages that just funnel to main site)
-- No keyword stuffing
-- No duplicate content across pages
-- Genuine utility for users
+Playbooks help reps succeed, not restrict them:
+- Reduce cognitive load
+- Accelerate ramp time
+- Improve consistency
+- Preserve creativity where it matters
 
 ---
 
-## The 12 Programmatic SEO Playbooks
+## Sales Process Foundation
 
-Beyond mixing and matching data point permutations, these are the proven playbooks for programmatic SEO:
+### Defining Your Sales Stages
 
-### 1. Templates
-**Pattern**: "[Type] template" or "free [type] template"
-**Example searches**: "resume template", "invoice template", "pitch deck template"
+**Standard B2B Sales Stages**:
 
-**What it is**: Downloadable or interactive templates users can use directly.
+| Stage | Definition | Exit Criteria |
+|-------|------------|---------------|
+| Prospecting | Identifying and reaching target accounts | Conversation scheduled |
+| Discovery | Understanding needs and qualification | Qualified opportunity created |
+| Solution | Presenting solution and building case | Technical validation complete |
+| Proposal | Formal proposal and negotiation | Verbal commitment received |
+| Closing | Contract execution | Deal signed |
 
-**Why it works**:
-- High intent—people need it now
-- Shareable/linkable assets
-- Natural for product-led companies
+**Stage Design Principles**:
+- Each stage has clear entry/exit criteria
+- Stages reflect buyer's journey, not yours
+- 5-7 stages maximum
+- Measurable criteria, not subjective
 
-**Value requirements**:
-- Actually usable templates (not just previews)
-- Multiple variations per type
-- Quality comparable to paid options
-- Easy download/use flow
+### Exit Criteria Examples
 
-**URL structure**: `/templates/[type]/` or `/templates/[category]/[type]/`
+**Discovery → Solution**:
+- [ ] Pain/problem confirmed and quantified
+- [ ] Budget existence validated
+- [ ] Decision process understood
+- [ ] Key stakeholders identified
+- [ ] Timeline established
+- [ ] Competition known
 
----
+**Solution → Proposal**:
+- [ ] Solution requirements confirmed
+- [ ] Technical/security validation complete
+- [ ] Business case built
+- [ ] Champion confirmed and engaged
+- [ ] Economic buyer identified
+- [ ] Proposal parameters discussed
 
-### 2. Curation
-**Pattern**: "best [category]" or "top [number] [things]"
-**Example searches**: "best website builders", "top 10 crm software", "best free design tools"
+### Qualification Framework
 
-**What it is**: Curated lists ranking or recommending options in a category.
+**BANT (Basic)**:
+- Budget: Can they pay?
+- Authority: Can they decide?
+- Need: Do they have the problem?
+- Timeline: Will they act?
 
-**Why it works**:
-- Comparison shoppers searching for guidance
-- High commercial intent
-- Evergreen with updates
+**MEDDIC (Enterprise)**:
+- Metrics: How they measure success
+- Economic Buyer: Who has authority
+- Decision Criteria: How they'll evaluate
+- Decision Process: How they'll decide
+- Identify Pain: What problem exists
+- Champion: Who will sell internally
 
-**Value requirements**:
-- Genuine evaluation criteria
-- Real testing or expertise
-- Regular updates (date visible)
-- Not just affiliate-driven rankings
-
-**URL structure**: `/best/[category]/` or `/[category]/best/`
-
----
-
-### 3. Conversions
-**Pattern**: "[X] to [Y]" or "[amount] [unit] in [unit]"
-**Example searches**: "$10 USD to GBP", "100 kg to lbs", "pdf to word"
-
-**What it is**: Tools or pages that convert between formats, units, or currencies.
-
-**Why it works**:
-- Instant utility
-- Extremely high search volume
-- Repeat usage potential
-
-**Value requirements**:
-- Accurate, real-time data
-- Fast, functional tool
-- Related conversions suggested
-- Mobile-friendly interface
-
-**URL structure**: `/convert/[from]-to-[to]/` or `/[from]-to-[to]-converter/`
+**SPICED (Modern)**:
+- Situation: Current state
+- Pain: Problem impact
+- Impact: Business consequence
+- Critical Event: Timeline driver
+- Decision: Process and criteria
 
 ---
 
-### 4. Comparisons
-**Pattern**: "[X] vs [Y]" or "[X] alternative"
-**Example searches**: "webflow vs wordpress", "notion vs coda", "figma alternatives"
+## Playbook Components
 
-**What it is**: Head-to-head comparisons between products, tools, or options.
+### 1. Prospecting Playbook
 
-**Why it works**:
-- High purchase intent
-- Clear search pattern
-- Scales with number of competitors
-
-**Value requirements**:
-- Honest, balanced analysis
-- Actual feature comparison data
-- Clear recommendation by use case
-- Updated when products change
-
-**URL structure**: `/compare/[x]-vs-[y]/` or `/[x]-vs-[y]/`
-
-*See also: competitor-alternatives skill for detailed frameworks*
-
----
-
-### 5. Examples
-**Pattern**: "[type] examples" or "[category] inspiration"
-**Example searches**: "saas landing page examples", "email subject line examples", "portfolio website examples"
-
-**What it is**: Galleries or collections of real-world examples for inspiration.
-
-**Why it works**:
-- Research phase traffic
-- Highly shareable
-- Natural for design/creative tools
-
-**Value requirements**:
-- Real, high-quality examples
-- Screenshots or embeds
-- Categorization/filtering
-- Analysis of why they work
-
-**URL structure**: `/examples/[type]/` or `/[type]-examples/`
-
----
-
-### 6. Locations
-**Pattern**: "[service/thing] in [location]"
-**Example searches**: "coworking spaces in san diego", "dentists in austin", "best restaurants in brooklyn"
-
-**What it is**: Location-specific pages for services, businesses, or information.
-
-**Why it works**:
-- Local intent is massive
-- Scales with geography
-- Natural for marketplaces/directories
-
-**Value requirements**:
-- Actual local data (not just city name swapped)
-- Local providers/options listed
-- Location-specific insights (pricing, regulations)
-- Map integration helpful
-
-**URL structure**: `/[service]/[city]/` or `/locations/[city]/[service]/`
-
----
-
-### 7. Personas
-**Pattern**: "[product] for [audience]" or "[solution] for [role/industry]"
-**Example searches**: "payroll software for agencies", "crm for real estate", "project management for freelancers"
-
-**What it is**: Tailored landing pages addressing specific audience segments.
-
-**Why it works**:
-- Speaks directly to searcher's context
-- Higher conversion than generic pages
-- Scales with personas
-
-**Value requirements**:
-- Genuine persona-specific content
-- Relevant features highlighted
-- Testimonials from that segment
-- Use cases specific to audience
-
-**URL structure**: `/for/[persona]/` or `/solutions/[industry]/`
-
----
-
-### 8. Integrations
-**Pattern**: "[your product] [other product] integration" or "[product] + [product]"
-**Example searches**: "slack asana integration", "zapier airtable", "hubspot salesforce sync"
-
-**What it is**: Pages explaining how your product works with other tools.
-
-**Why it works**:
-- Captures users of other products
-- High intent (they want the solution)
-- Scales with integration ecosystem
-
-**Value requirements**:
-- Real integration details
-- Setup instructions
-- Use cases for the combination
-- Working integration (not vaporware)
-
-**URL structure**: `/integrations/[product]/` or `/connect/[product]/`
-
----
-
-### 9. Glossary
-**Pattern**: "what is [term]" or "[term] definition" or "[term] meaning"
-**Example searches**: "what is pSEO", "api definition", "what does crm stand for"
-
-**What it is**: Educational definitions of industry terms and concepts.
-
-**Why it works**:
-- Top-of-funnel awareness
-- Establishes expertise
-- Natural internal linking opportunities
-
-**Value requirements**:
-- Clear, accurate definitions
-- Examples and context
-- Related terms linked
-- More depth than a dictionary
-
-**URL structure**: `/glossary/[term]/` or `/learn/[term]/`
-
----
-
-### 10. Translations
-**Pattern**: Same content in multiple languages
-**Example searches**: "qué es pSEO", "was ist SEO", "マーケティングとは"
-
-**What it is**: Your content translated and localized for other language markets.
-
-**Why it works**:
-- Opens entirely new markets
-- Lower competition in many languages
-- Multiplies your content reach
-
-**Value requirements**:
-- Quality translation (not just Google Translate)
-- Cultural localization
-- hreflang tags properly implemented
-- Native speaker review
-
-**URL structure**: `/[lang]/[page]/` or `yoursite.com/es/`, `/de/`, etc.
-
----
-
-### 11. Directory
-**Pattern**: "[category] tools" or "[type] software" or "[category] companies"
-**Example searches**: "ai copywriting tools", "email marketing software", "crm companies"
-
-**What it is**: Comprehensive directories listing options in a category.
-
-**Why it works**:
-- Research phase capture
-- Link building magnet
-- Natural for aggregators/reviewers
-
-**Value requirements**:
-- Comprehensive coverage
-- Useful filtering/sorting
-- Details per listing (not just names)
-- Regular updates
-
-**URL structure**: `/directory/[category]/` or `/[category]-directory/`
-
----
-
-### 12. Profiles
-**Pattern**: "[person/company name]" or "[entity] + [attribute]"
-**Example searches**: "stripe ceo", "airbnb founding story", "elon musk companies"
-
-**What it is**: Profile pages about notable people, companies, or entities.
-
-**Why it works**:
-- Informational intent traffic
-- Builds topical authority
-- Natural for B2B, news, research
-
-**Value requirements**:
-- Accurate, sourced information
-- Regularly updated
-- Unique insights or aggregation
-- Not just Wikipedia rehash
-
-**URL structure**: `/people/[name]/` or `/companies/[name]/`
-
----
-
-## Choosing Your Playbook
-
-### Match to Your Assets
-
-| If you have... | Consider... |
-|----------------|-------------|
-| Proprietary data | Stats, Directories, Profiles |
-| Product with integrations | Integrations |
-| Design/creative product | Templates, Examples |
-| Multi-segment audience | Personas |
-| Local presence | Locations |
-| Tool or utility product | Conversions |
-| Content/expertise | Glossary, Curation |
-| International potential | Translations |
-| Competitor landscape | Comparisons |
-
-### Combine Playbooks
-
-You can layer multiple playbooks:
-- **Locations + Personas**: "Marketing agencies for startups in Austin"
-- **Curation + Locations**: "Best coworking spaces in San Diego"
-- **Integrations + Personas**: "Slack for sales teams"
-- **Glossary + Translations**: Multi-language educational content
-
----
-
-## Implementation Framework
-
-### 1. Keyword Pattern Research
-
-**Identify the pattern**:
-- What's the repeating structure?
-- What are the variables?
-- How many unique combinations exist?
-
-**Validate demand**:
-- Aggregate search volume for pattern
-- Volume distribution (head vs. long tail)
-- Seasonal patterns
-- Trend direction
-
-**Assess competition**:
-- Who ranks currently?
-- What's their content quality?
-- What's their domain authority?
-- Can you realistically compete?
-
-### 2. Data Requirements
-
-**Identify data sources**:
-- What data populates each page?
-- Where does that data come from?
-- Is it first-party, scraped, licensed, public?
-- How is it updated?
-
-**Data schema design**:
+**Target Definition**:
 ```
-For "[Service] in [City]" pages:
-
-city:
-  - name
-  - population
-  - relevant_stats
-
-service:
-  - name
-  - description
-  - typical_pricing
-
-local_providers:
-  - name
-  - rating
-  - reviews_count
-  - specialty
-
-local_data:
-  - regulations
-  - average_prices
-  - market_size
+IDEAL CUSTOMER PROFILE
+Industry: [Specific industries]
+Company Size: [Employee count / Revenue]
+Technology: [Tech stack indicators]
+Triggers: [Buying signals]
+Titles: [Target personas]
 ```
 
-### 3. Template Design
-
-**Page structure**:
-- Header with target keyword
-- Unique intro (not just variables swapped)
-- Data-driven sections
-- Related pages / internal links
-- CTAs appropriate to intent
-
-**Ensuring uniqueness**:
-- Each page needs unique value
-- Conditional content based on data
-- User-generated content where possible
-- Original insights/analysis per page
-
-**Template example**:
+**Outreach Cadence**:
 ```
-H1: [Service] in [City]: [Year] Guide
-
-Intro: [Dynamic paragraph using city stats + service context]
-
-Section 1: Why [City] for [Service]
-[City-specific data and insights]
-
-Section 2: Top [Service] Providers in [City]
-[Data-driven list with unique details]
-
-Section 3: Pricing for [Service] in [City]
-[Local pricing data if available]
-
-Section 4: FAQs about [Service] in [City]
-[Common questions with city-specific answers]
-
-Related: [Service] in [Nearby Cities]
+DAY 1: Email 1 (Problem-focused)
+DAY 3: LinkedIn connection + note
+DAY 5: Phone call #1
+DAY 7: Email 2 (Value-add content)
+DAY 10: Phone call #2 + voicemail
+DAY 12: LinkedIn engagement
+DAY 14: Email 3 (Case study)
+DAY 17: Phone call #3
+DAY 21: Breakup email
 ```
 
-### 4. Internal Linking Architecture
+**Messaging by Persona**:
 
-**Hub and spoke model**:
-- Hub: Main category page
-- Spokes: Individual programmatic pages
-- Cross-links between related spokes
+| Persona | Primary Pain | Value Message | Proof Points |
+|---------|-------------|---------------|--------------|
+| [Title 1] | [Pain] | [Message] | [Proof] |
+| [Title 2] | [Pain] | [Message] | [Proof] |
 
-**Avoid orphan pages**:
-- Every page reachable from main site
-- Logical category structure
-- XML sitemap for all pages
+### 2. Discovery Playbook
 
-**Breadcrumbs**:
-- Show hierarchy
-- Structured data markup
-- User navigation aid
+**Call Structure**:
+```
+OPENING (2 min)
+- Thank them for time
+- Confirm agenda and time available
+- Set expectations for the call
 
-### 5. Indexation Strategy
+SITUATION (5 min)
+- Current state questions
+- What they use today
+- Team structure and process
 
-**Prioritize important pages**:
-- Not all pages need to be indexed
-- Index high-volume patterns
-- Noindex very thin variations
+PROBLEM (10 min)
+- What's not working
+- Impact of the problem
+- Previous attempts to solve
 
-**Crawl budget management**:
-- Paginate thoughtfully
-- Avoid infinite crawl traps
-- Use robots.txt wisely
+IMPLICATION (5 min)
+- Business impact
+- Cost of inaction
+- Timeline pressure
 
-**Sitemap strategy**:
-- Separate sitemaps by page type
-- Monitor indexation rate
-- Prioritize by importance
+NEXT STEPS (3 min)
+- Summarize what you heard
+- Confirm interest in continuing
+- Schedule next meeting
+```
+
+**Required Information**:
+- [ ] Business problem articulated
+- [ ] Impact quantified (or estimated)
+- [ ] Current solution understood
+- [ ] Decision process mapped
+- [ ] Budget discussed
+- [ ] Timeline established
+- [ ] Competition identified
+
+### 3. Demo Playbook
+
+**Pre-Demo Prep**:
+- Review discovery notes
+- Customize demo for their use cases
+- Prepare relevant case studies
+- Anticipate objections
+- Know who's attending
+
+**Demo Structure**:
+```
+RECAP (3 min)
+- "Last time we discussed [pain points]..."
+- Confirm priorities haven't changed
+- Set agenda for demo
+
+VISION (2 min)
+- Paint picture of future state
+- What success looks like
+
+SOLUTION (15-20 min)
+- Map features to stated needs
+- Show, don't tell
+- Get reactions throughout
+- Handle questions in real-time
+
+PROOF (5 min)
+- Relevant customer examples
+- Results they achieved
+- Similar situation/company
+
+NEXT STEPS (5 min)
+- Summarize value
+- Confirm fit
+- Propose next steps
+- Schedule follow-up
+```
+
+**Post-Demo Actions**:
+- [ ] Send recap email within 2 hours
+- [ ] Share relevant resources
+- [ ] Connect on LinkedIn (if not already)
+- [ ] Update CRM with notes
+- [ ] Schedule next meeting
+
+### 4. Proposal/Negotiation Playbook
+
+**Proposal Components**:
+```
+EXECUTIVE SUMMARY
+- Their situation and needs
+- Proposed solution
+- Expected outcomes
+- Investment summary
+
+SOLUTION DETAILS
+- What's included
+- Implementation approach
+- Timeline
+- Support/success
+
+INVESTMENT
+- Pricing breakdown
+- Payment terms
+- What's not included
+
+NEXT STEPS
+- Decision timeline
+- Implementation kickoff
+- Key dates
+```
+
+**Negotiation Guidelines**:
+
+| If They Say | Response Approach |
+|-------------|-------------------|
+| "Too expensive" | Revisit value, explore scope options |
+| "Competitor is cheaper" | Differentiate on value, TCO comparison |
+| "Need to think about it" | Uncover real concern, offer support |
+| "Need discount" | Trade for commitment, adjust scope |
+
+### 5. Closing Playbook
+
+**Closing Triggers**:
+- All stakeholders aligned
+- Technical validation complete
+- Budget confirmed
+- Timeline agreed
+- Contract terms acceptable
+
+**Closing Process**:
+```
+STEP 1: Verbal Commitment
+- Confirm decision
+- Review terms
+- Identify any final concerns
+
+STEP 2: Contract Delivery
+- Send contract for review
+- Offer to walk through
+- Set signature deadline
+
+STEP 3: Signature Follow-Up
+- Day 1: Confirm receipt
+- Day 3: Check for questions
+- Day 5: Escalate if stalled
+
+STEP 4: Handoff Prep
+- Document deal context
+- Introduce success team
+- Schedule kickoff
+```
 
 ---
 
-## Quality Checks
+## Scaling Your Playbooks
 
-### Pre-Launch Checklist
+### By Customer Segment
 
-**Content quality**:
-- [ ] Each page provides unique value
-- [ ] Not just variable substitution
-- [ ] Answers search intent
-- [ ] Readable and useful
+**Enterprise Playbook Differences**:
+- Longer discovery process
+- Multiple demo variations
+- Executive engagement required
+- Procurement navigation
+- Legal review process
 
-**Technical SEO**:
-- [ ] Unique titles and meta descriptions
-- [ ] Proper heading structure
-- [ ] Schema markup implemented
-- [ ] Canonical tags correct
-- [ ] Page speed acceptable
+**Mid-Market Playbook Differences**:
+- Faster qualification
+- Standardized demos
+- Less procurement complexity
+- Quicker decision cycles
 
-**Internal linking**:
-- [ ] Connected to site architecture
-- [ ] Related pages linked
-- [ ] No orphan pages
-- [ ] Breadcrumbs implemented
+**SMB Playbook Differences**:
+- High velocity, low touch
+- Demo in first call
+- Quick proposal turnaround
+- Self-serve elements
 
-**Indexation**:
-- [ ] In XML sitemap
-- [ ] Crawlable
-- [ ] Not blocked by robots.txt
-- [ ] No conflicting noindex
+### By Deal Type
 
-### Monitoring Post-Launch
+**New Business Playbook**:
+- Full qualification required
+- Complete discovery
+- Proof of value
+- Multiple stakeholders
 
-**Track**:
-- Indexation rate
-- Rankings by page pattern
-- Traffic by page pattern
-- Engagement metrics
-- Conversion rate
+**Expansion Playbook**:
+- Leverage existing relationship
+- Focus on new use case
+- Faster technical validation
+- Champion already exists
 
-**Watch for**:
-- Thin content warnings in Search Console
-- Ranking drops
-- Manual actions
-- Crawl errors
+**Renewal Playbook**:
+- Value review
+- Risk assessment
+- Growth opportunities
+- Competitive defense
 
----
+### By Product/Solution
 
-## Common Mistakes to Avoid
-
-### Thin Content
-- Just swapping city names in identical content
-- No unique information per page
-- "Doorway pages" that just redirect
-
-### Keyword Cannibalization
-- Multiple pages targeting same keyword
-- No clear hierarchy
-- Competing with yourself
-
-### Over-Generation
-- Creating pages with no search demand
-- Too many low-quality pages dilute authority
-- Quantity over quality
-
-### Poor Data Quality
-- Outdated information
-- Incorrect data
-- Missing data showing as blank
-
-### Ignoring User Experience
-- Pages exist for Google, not users
-- No conversion path
-- Bouncy, unhelpful content
+Create playbook variations for:
+- Different product lines
+- Solution bundles
+- Use case packages
+- Industry verticals
 
 ---
 
-## Output Format
+## Playbook Enablement
 
-### Strategy Document
+### Training Program
 
-**Opportunity Analysis**:
-- Keyword pattern identified
-- Search volume estimates
-- Competition assessment
-- Feasibility rating
+**Week 1: Foundation**
+- Sales methodology overview
+- Product knowledge basics
+- CRM and tools training
+- Process walkthrough
 
-**Implementation Plan**:
-- Data requirements and sources
-- Template structure
-- Number of pages (phases)
-- Internal linking plan
-- Technical requirements
+**Week 2: Prospecting**
+- ICP deep dive
+- Messaging practice
+- Cadence setup
+- Call simulations
 
-**Content Guidelines**:
-- What makes each page unique
-- Quality standards
-- Update frequency
+**Week 3: Discovery**
+- Qualification framework
+- Question practice
+- Active listening
+- Note-taking
 
-### Page Template
+**Week 4: Demo/Proposal**
+- Demo certification
+- Objection handling
+- Proposal creation
+- Negotiation basics
 
-**URL structure**: `/category/variable/`
-**Title template**: [Variable] + [Static] + [Brand]
-**Meta description template**: [Pattern with variables]
-**H1 template**: [Pattern]
-**Content outline**: Section by section
-**Schema markup**: Type and required fields
+**Ongoing: Coaching**
+- Call reviews
+- Deal coaching
+- Skill development
+- Best practice sharing
 
-### Launch Checklist
+### Certification Requirements
 
-Specific pre-launch checks for this implementation
+| Skill | Certification Method | Pass Criteria |
+|-------|---------------------|---------------|
+| Product Knowledge | Quiz | 80%+ score |
+| Discovery | Recorded call review | Checklist complete |
+| Demo | Live demo to manager | All elements hit |
+| Negotiation | Role play | Handle 3 scenarios |
+
+### Playbook Accessibility
+
+**Where Playbooks Live**:
+- Sales enablement platform
+- CRM embedded guidance
+- Shared drive/wiki
+- Printed quick reference cards
+
+**How to Maintain**:
+- Quarterly reviews
+- Update for product changes
+- Incorporate win/loss learnings
+- Version control
+
+---
+
+## Measuring Playbook Effectiveness
+
+### Leading Indicators
+
+**Activity Metrics**:
+- Calls/emails per rep
+- Meetings booked
+- Discovery calls completed
+- Demos delivered
+
+**Quality Metrics**:
+- Connect rates
+- Meeting show rates
+- Discovery → Demo conversion
+- Demo → Proposal conversion
+
+### Lagging Indicators
+
+**Outcome Metrics**:
+- Win rate by stage
+- Average deal size
+- Sales cycle length
+- Quota attainment
+
+**Efficiency Metrics**:
+- Revenue per rep
+- Ramp time for new hires
+- Forecast accuracy
+- Pipeline coverage
+
+### Continuous Improvement Loop
+
+1. **Measure**: Track playbook usage and outcomes
+2. **Analyze**: Identify what's working, what's not
+3. **Update**: Revise playbook based on data
+4. **Train**: Enable team on changes
+5. **Repeat**: Ongoing optimization
+
+---
+
+## Building Your First Playbook
+
+### Quick-Start Template
+
+```
+[COMPANY] SALES PLAYBOOK
+Version: 1.0
+Last Updated: [Date]
+
+1. OVERVIEW
+- What we sell
+- Who we sell to
+- How we sell
+
+2. SALES STAGES
+[Stage definitions and exit criteria]
+
+3. QUALIFICATION
+[Framework and criteria]
+
+4. PROSPECTING
+[Cadence and messaging]
+
+5. DISCOVERY
+[Call structure and questions]
+
+6. DEMO
+[Structure and customization guide]
+
+7. PROPOSAL
+[Template and guidelines]
+
+8. CLOSING
+[Process and timeline]
+
+9. OBJECTION HANDLING
+[Common objections and responses]
+
+10. TOOLS & RESOURCES
+[What to use when]
+```
+
+### Development Process
+
+**Step 1: Research** (Week 1)
+- Interview top performers
+- Review winning deals
+- Analyze lost deals
+- Document current state
+
+**Step 2: Draft** (Week 2)
+- Write first version
+- Get manager input
+- Pilot with 2-3 reps
+- Collect feedback
+
+**Step 3: Refine** (Week 3)
+- Incorporate feedback
+- Add examples and templates
+- Create training materials
+- Finalize v1.0
+
+**Step 4: Launch** (Week 4)
+- Team training session
+- Playbook distribution
+- Set expectations
+- Begin coaching
+
+**Step 5: Iterate** (Ongoing)
+- Collect feedback
+- Track effectiveness
+- Update regularly
+- Celebrate wins
+
+---
+
+## Common Playbook Mistakes
+
+### Content Mistakes
+
+**Too Generic**:
+- Not specific enough to act on
+- Lacks examples
+- No context for decisions
+
+**Too Rigid**:
+- No room for judgment
+- Doesn't account for variations
+- Feels like a script
+
+**Too Complex**:
+- Too long to read
+- Too many steps
+- Overwhelming detail
+
+### Process Mistakes
+
+**Build and Forget**:
+- No updates
+- Becomes outdated
+- Loses relevance
+
+**No Buy-In**:
+- Imposed from above
+- No rep input
+- Ignored in practice
+
+**No Enablement**:
+- Published but not trained
+- No coaching support
+- No accountability
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What keyword patterns are you targeting?
-2. What data do you have (or can acquire)?
-3. How many pages are you planning to create?
-4. What does your site authority look like?
-5. Who currently ranks for these terms?
-6. What's your technical stack for generating pages?
+1. What's your current sales process look like?
+2. What do your top performers do that others don't?
+3. Where do deals typically get stuck?
+4. What's your ramp time for new reps?
+5. How is your team structured?
+6. What tools do you use for sales enablement?
 
 ---
 
 ## Related Skills
 
-- **seo-audit**: For auditing programmatic pages after launch
-- **schema-markup**: For adding structured data to templates
-- **copywriting**: For the non-templated copy portions
-- **analytics-tracking**: For measuring programmatic page performance
+- **discovery-calls**: For qualification frameworks and questions
+- **sales-presentations**: For demo structure and delivery
+- **objection-handling**: For objection response libraries
+- **cold-outreach-writing**: For prospecting messaging
+- **sales-analytics**: For measuring playbook effectiveness

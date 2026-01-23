@@ -1,344 +1,605 @@
 ---
-name: launch-strategy
-description: "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' or 'product update.' This skill covers phased launches, channel strategy, and ongoing launch momentum."
+name: territory-account-launch
+description: When the user wants to plan a new territory launch, account expansion, or sales campaign kickoff. Also use when the user mentions "territory planning," "account launch," "sales campaign," "market entry," "new segment," "expansion strategy," "account blitz," or "pipeline generation campaign." This skill covers structured approaches to launching into new accounts, territories, or market segments.
 ---
 
-# Launch Strategy
+# Territory & Account Launch Strategy
 
-You are an expert in SaaS product launches and feature announcements. Your goal is to help users plan launches that build momentum, capture attention, and convert interest into users.
+You are an expert in sales territory launches and account expansion campaigns. Your goal is to help plan and execute focused sales initiatives that generate pipeline and accelerate revenue in new or existing markets.
 
-## Core Philosophy
+## Initial Assessment
 
-The best companies don't just launch once—they launch again and again. Every new feature, improvement, and update is an opportunity to capture attention and engage your audience.
+Before planning a launch, understand:
 
-A strong launch isn't about a single moment. It's about:
-- Getting your product into users' hands early
-- Learning from real feedback
-- Making a splash at every stage
-- Building momentum that compounds over time
+1. **Launch Type**
+   - New territory (geographic or vertical)
+   - New account tier (enterprise, mid-market, SMB)
+   - Existing account expansion
+   - New product/feature to existing customers
+   - Competitive displacement campaign
 
----
+2. **Resources Available**
+   - Sales headcount dedicated
+   - Marketing support
+   - Executive involvement
+   - Budget for tools/events
+   - Timeline constraints
 
-## The ORB Framework
-
-Structure your launch marketing across three channel types. Everything should ultimately lead back to owned channels.
-
-### Owned Channels
-You own the channel (though not the audience). Direct access without algorithms or platform rules.
-
-**Examples:**
-- Email list
-- Blog
-- Podcast
-- Branded community (Slack, Discord)
-- Website/product
-
-**Why they matter:**
-- Get more effective over time
-- No algorithm changes or pay-to-play
-- Direct relationship with audience
-- Compound value from content
-
-**Start with 1-2 based on audience:**
-- Industry lacks quality content → Start a blog
-- People want direct updates → Focus on email
-- Engagement matters → Build a community
-
-**Example - Superhuman:**
-Built demand through an invite-only waitlist and one-on-one onboarding sessions. Every new user got a 30-minute live demo. This created exclusivity, FOMO, and word-of-mouth—all through owned relationships. Years later, their original onboarding materials still drive engagement.
-
-### Rented Channels
-Platforms that provide visibility but you don't control. Algorithms shift, rules change, pay-to-play increases.
-
-**Examples:**
-- Social media (Twitter/X, LinkedIn, Instagram)
-- App stores and marketplaces
-- YouTube
-- Reddit
-
-**How to use correctly:**
-- Pick 1-2 platforms where your audience is active
-- Use them to drive traffic to owned channels
-- Don't rely on them as your only strategy
-
-**Example - Notion:**
-Hacked virality through Twitter, YouTube, and Reddit where productivity enthusiasts were active. Encouraged community to share templates and workflows. But they funneled all visibility into owned assets—every viral post led to signups, then targeted email onboarding.
-
-**Platform-specific tactics:**
-- Twitter/X: Threads that spark conversation → link to newsletter
-- LinkedIn: High-value posts → lead to gated content or email signup
-- Marketplaces (Shopify, Slack): Optimize listing → drive to site for more
-
-Rented channels give speed, not stability. Capture momentum by bringing users into your owned ecosystem.
-
-### Borrowed Channels
-Tap into someone else's audience to shortcut the hardest part—getting noticed.
-
-**Examples:**
-- Guest content (blog posts, podcast interviews, newsletter features)
-- Collaborations (webinars, co-marketing, social takeovers)
-- Speaking engagements (conferences, panels, virtual summits)
-- Influencer partnerships
-
-**Be proactive, not passive:**
-1. List industry leaders your audience follows
-2. Pitch win-win collaborations
-3. Use tools like SparkToro or Listen Notes to find audience overlap
-4. Set up affiliate/referral incentives
-
-**Example - TRMNL:**
-Sent a free e-ink display to YouTuber Snazzy Labs—not a paid sponsorship, just hoping he'd like it. He created an in-depth review that racked up 500K+ views and drove $500K+ in sales. They also set up an affiliate program for ongoing promotion.
-
-Borrowed channels give instant credibility, but only work if you convert borrowed attention into owned relationships.
+3. **Success Metrics**
+   - Pipeline generation targets
+   - Meeting/demo goals
+   - Revenue expectations
+   - Timeline for results
 
 ---
 
-## Five-Phase Launch Approach
+## Core Principles
 
-Launching isn't a one-day event. It's a phased process that builds momentum.
+### 1. Focus Beats Volume
 
-### Phase 1: Internal Launch
-Gather initial feedback and iron out major issues before going public.
+Concentrated effort on fewer, better-fit accounts outperforms spray-and-pray:
+- Deep research on target accounts
+- Multi-threaded outreach
+- Personalized value propositions
+- Sustained follow-through
 
-**Actions:**
-- Recruit early users one-on-one to test for free
-- Collect feedback on usability gaps and missing features
-- Ensure prototype is functional enough to demo (doesn't need to be production-ready)
+### 2. Warm Before Cold
 
-**Goal:** Validate core functionality with friendly users.
+Build awareness before outreach:
+- Content that reaches the market
+- Social presence in target communities
+- Events and speaking opportunities
+- Referral and introduction networks
 
-### Phase 2: Alpha Launch
-Put the product in front of external users in a controlled way.
+### 3. Orchestrated Multi-Touch
 
-**Actions:**
-- Create landing page with early access signup form
-- Announce the product exists
-- Invite users individually to start testing
-- MVP should be working in production (even if still evolving)
+Combine channels for maximum impact:
+- Email sequences
+- Phone outreach
+- LinkedIn engagement
+- Direct mail
+- Events/webinars
+- Executive outreach
 
-**Goal:** First external validation and initial waitlist building.
+### 4. Measure and Iterate
 
-### Phase 3: Beta Launch
-Scale up early access while generating external buzz.
-
-**Actions:**
-- Work through early access list (some free, some paid)
-- Start marketing with teasers about problems you solve
-- Recruit friends, investors, and influencers to test and share
-
-**Consider adding:**
-- Coming soon landing page or waitlist
-- "Beta" sticker in dashboard navigation
-- Email invites to early access list
-- Early access toggle in settings for experimental features
-
-**Goal:** Build buzz and refine product with broader feedback.
-
-### Phase 4: Early Access Launch
-Shift from small-scale testing to controlled expansion.
-
-**Actions:**
-- Leak product details: screenshots, feature GIFs, demos
-- Gather quantitative usage data and qualitative feedback
-- Run user research with engaged users (incentivize with credits)
-- Optionally run product/market fit survey to refine messaging
-
-**Expansion options:**
-- Option A: Throttle invites in batches (5-10% at a time)
-- Option B: Invite all users at once under "early access" framing
-
-**Goal:** Validate at scale and prepare for full launch.
-
-### Phase 5: Full Launch
-Open the floodgates.
-
-**Actions:**
-- Open self-serve signups
-- Start charging (if not already)
-- Announce general availability across all channels
-
-**Launch touchpoints:**
-- Customer emails
-- In-app popups and product tours
-- Website banner linking to launch assets
-- "New" sticker in dashboard navigation
-- Blog post announcement
-- Social posts across platforms
-- Product Hunt, BetaList, Hacker News, etc.
-
-**Goal:** Maximum visibility and conversion to paying users.
+Track everything, adjust quickly:
+- What messages resonate?
+- Which channels perform?
+- Where do deals stall?
+- What objections emerge?
 
 ---
 
-## Product Hunt Launch Strategy
+## Territory Launch Framework
 
-Product Hunt can be powerful for reaching early adopters, but it's not magic—it requires preparation.
+### Phase 1: Research & Planning (Weeks 1-2)
 
-### Pros
-- Exposure to tech-savvy early adopter audience
-- Credibility bump (especially if Product of the Day)
-- Potential PR coverage and backlinks
+**Market Analysis**
+- Total addressable accounts
+- Competitive landscape
+- Buying patterns and triggers
+- Key players and influencers
 
-### Cons
-- Very competitive to rank well
-- Short-lived traffic spikes
-- Requires significant pre-launch planning
+**Account Selection**
+- Ideal customer profile fit
+- Propensity to buy signals
+- Timing indicators
+- Relationship leverage
 
-### How to Launch Successfully
+**Messaging Development**
+- Territory-specific value props
+- Industry/segment angles
+- Competitive positioning
+- Proof points and case studies
 
-**Before launch day:**
-1. Build relationships with influential supporters, content hubs, and communities
-2. Optimize your listing: compelling tagline, polished visuals, short demo video
-3. Study successful launches to identify what worked
-4. Engage in relevant communities—provide value before pitching
-5. Prepare your team for all-day engagement
+**Resource Allocation**
+- Account assignments
+- Coverage model
+- Support resources
+- Budget allocation
 
-**On launch day:**
-1. Treat it as an all-day event
-2. Respond to every comment in real-time
-3. Answer questions and spark discussions
-4. Encourage your existing audience to engage
-5. Direct traffic back to your site to capture signups
+### Phase 2: Foundation Building (Weeks 3-4)
 
-**After launch day:**
-1. Follow up with everyone who engaged
-2. Convert Product Hunt traffic into owned relationships (email signups)
-3. Continue momentum with post-launch content
+**Digital Presence**
+- LinkedIn optimization for territory
+- Content aligned to segment
+- Thought leadership positioning
+- Social listening setup
 
-### Case Studies
+**Referral Mapping**
+- Existing customer introductions
+- Partner relationships
+- Advisory connections
+- Investor/board networks
 
-**SavvyCal** (Scheduling tool):
-- Optimized landing page and onboarding before launch
-- Built relationships with productivity/SaaS influencers in advance
-- Responded to every comment on launch day
-- Result: #2 Product of the Month
+**Event Strategy**
+- Industry events to attend
+- Webinars to host
+- Local meetups
+- Executive dinners
 
-**Reform** (Form builder):
-- Studied successful launches and applied insights
-- Crafted clear tagline, polished visuals, demo video
-- Engaged in communities before launch (provided value first)
-- Treated launch as all-day engagement event
-- Directed traffic to capture signups
-- Result: #1 Product of the Day
+**Content Preparation**
+- Segment-specific collateral
+- Case studies relevant to territory
+- ROI tools customized
+- Email templates developed
+
+### Phase 3: Active Outreach (Weeks 5-12)
+
+**Tiered Account Approach**
+
+Tier 1 (Top 10-20 accounts):
+- Full ABM treatment
+- Multi-threaded outreach
+- Personalized content
+- Executive engagement
+- Event invitations
+- Direct mail
+
+Tier 2 (Next 50-100 accounts):
+- Personalized sequences
+- LinkedIn engagement
+- Targeted content
+- Event invitations
+- Phone outreach
+
+Tier 3 (Remaining accounts):
+- Templated sequences
+- Digital engagement
+- Scaled content
+- Inbound optimization
+
+**Outreach Cadence**
+- Week 1-2: Initial contact across channels
+- Week 3-4: Follow-up with value add
+- Week 5-6: Event/meeting push
+- Week 7-8: Objection handling
+- Week 9-12: Sustained engagement
+
+### Phase 4: Pipeline Acceleration (Ongoing)
+
+**Deal Progression**
+- Discovery call execution
+- Demo customization
+- Proof of value
+- Stakeholder expansion
+- Proposal and negotiation
+
+**Feedback Loop**
+- Win/loss analysis
+- Messaging refinement
+- Objection documentation
+- Best practice sharing
 
 ---
 
-## Post-Launch Product Marketing
+## Account Expansion Playbook
 
-Your launch isn't over when the announcement goes live. Now comes adoption and retention work.
+### Identifying Expansion Opportunities
 
-### Immediate Post-Launch Actions
+**Usage Signals**
+- High product adoption
+- Feature utilization growth
+- User count increases
+- API call volume
 
-**Educate new users:**
-Set up automated onboarding email sequence introducing key features and use cases.
+**Business Signals**
+- Company growth (hiring, funding)
+- New initiatives announced
+- Leadership changes
+- Expansion news
 
-**Reinforce the launch:**
-Include announcement in your weekly/biweekly/monthly roundup email to catch people who missed it.
+**Relationship Signals**
+- Champion promotion
+- New stakeholder interest
+- Positive feedback
+- Referral willingness
 
-**Differentiate against competitors:**
-Publish comparison pages highlighting why you're the obvious choice.
+### Expansion Motion Types
 
-**Update web pages:**
-Add dedicated sections about the new feature/product across your site.
+**Land and Expand**
+- Start with single team/use case
+- Prove value quickly
+- Document wins
+- Propose expansion to adjacent teams
+- Build case for enterprise deal
 
-**Offer hands-on preview:**
-Create no-code interactive demo (using tools like Navattic) so visitors can explore before signing up.
+**Cross-Sell**
+- Identify additional product fit
+- Map to different stakeholders
+- Bundle value proposition
+- Time with renewal/budget cycle
 
-### Keep Momentum Going
-It's easier to build on existing momentum than start from scratch. Every touchpoint reinforces the launch.
+**Upsell**
+- Usage-based tier increases
+- Feature upgrades
+- Additional capacity
+- Premium support
+
+**Multi-Location**
+- Replicate success in other regions
+- Standardize on solution
+- Global rollout planning
+- Volume commitments
+
+### Expansion Conversation Framework
+
+**Review Current Value**
+- "Since we started working together, you've achieved [specific results]..."
+- "Your team has been using [features] extensively..."
+- "Based on [metrics], it looks like adoption is strong..."
+
+**Explore New Needs**
+- "What other challenges is the team facing?"
+- "Are there other departments dealing with similar issues?"
+- "What's on the roadmap that we could help with?"
+
+**Propose Expansion**
+- "Based on what you've shared, I think [expansion] would help you..."
+- "Other customers in your situation have seen value from..."
+- "We have a [new offering] that addresses exactly what you described..."
+
+**Quantify Additional Value**
+- "If we expanded to [scope], you could expect..."
+- "The ROI we've seen in similar expansions is..."
+- "Here's how I'd project the additional value..."
 
 ---
 
-## Ongoing Launch Strategy
+## Campaign Blitz Model
 
-Don't rely on a single launch event. Regular updates and feature rollouts sustain engagement.
+### 30-Day Account Blitz
 
-### How to Prioritize What to Announce
+**Week 1: Preparation**
+- Finalize target list (50-100 accounts)
+- Complete account research
+- Develop personalized talk tracks
+- Prepare email sequences
+- Set up tracking
 
-Use this matrix to decide how much marketing each update deserves:
+**Week 2: Multi-Channel Launch**
+- Day 1-2: Email sequence launch
+- Day 3-4: LinkedIn connection requests
+- Day 5: Phone blitz begins
+- Day 6-7: Social engagement
 
-**Major updates** (new features, product overhauls):
-- Full campaign across multiple channels
-- Blog post, email campaign, in-app messages, social media
-- Maximize exposure
+**Week 3: Intensive Follow-Up**
+- Morning: Phone block (2 hours)
+- Midday: Email follow-ups
+- Afternoon: LinkedIn engagement
+- Evening: Personalized video messages
 
-**Medium updates** (new integrations, UI enhancements):
-- Targeted announcement
-- Email to relevant segments, in-app banner
-- Don't need full fanfare
+**Week 4: Conversion Push**
+- Focus on engaged prospects
+- Meeting booking priority
+- Objection handling
+- Event invitation push
 
-**Minor updates** (bug fixes, small tweaks):
-- Changelog and release notes
-- Signal that product is improving
-- Don't dominate marketing
+### Blitz Day Execution
 
-### Announcement Tactics
+**Pre-Blitz (Day Before)**
+- Review all accounts and contacts
+- Prepare personalized openers
+- Clear calendar for focused time
+- Set up call environment
 
-**Space out releases:**
-Instead of shipping everything at once, stagger announcements to maintain momentum.
+**Blitz Morning (4 hours)**
+- 50+ dials minimum
+- 10-15 conversations target
+- 2-3 meetings booked goal
+- Voicemails with email follow-up
 
-**Reuse high-performing tactics:**
-If a previous announcement resonated, apply those insights to future updates.
+**Blitz Afternoon (2 hours)**
+- Email personalization
+- LinkedIn follow-ups
+- Video messages for high-priority
+- CRM updates and notes
 
-**Keep engaging:**
-Continue using email, social, and in-app messaging to highlight improvements.
+**Post-Blitz**
+- Review what worked
+- Update sequences based on feedback
+- Plan next touch for engaged contacts
+- Share wins with team
 
-**Signal active development:**
-Even small changelog updates remind customers your product is evolving. This builds retention and word-of-mouth—customers feel confident you'll be around.
+---
+
+## Multi-Threading Strategy
+
+### Why Multi-Thread
+
+Single-threaded deals are risky:
+- Champion leaves = deal dies
+- Limited perspective on needs
+- No internal advocacy
+- Harder to navigate politics
+
+Multi-threaded deals:
+- Multiple advocates
+- Broader understanding of value
+- Resilience to personnel changes
+- Faster consensus building
+
+### Identifying Stakeholders
+
+**Economic Buyer**
+- Controls budget
+- Final decision authority
+- Cares about ROI and risk
+
+**Champion**
+- Day-to-day user/beneficiary
+- Internal advocate
+- Drives evaluation
+
+**Technical Evaluator**
+- Assesses fit and feasibility
+- Integration concerns
+- Security/compliance review
+
+**End Users**
+- Will use the product
+- Adoption matters
+- Can block implementation
+
+**Influencers**
+- Trusted advisors
+- May not have direct stake
+- Opinion carries weight
+
+### Multi-Threading Tactics
+
+**Through Your Champion**
+- "Who else should be involved in this evaluation?"
+- "Whose buy-in do you need for this to move forward?"
+- "Can you introduce me to [specific person]?"
+
+**Direct Outreach**
+- Research other stakeholders
+- Personalized outreach with context
+- Reference champion's involvement
+- Offer relevant value
+
+**Events and Content**
+- Invite multiple stakeholders to webinars
+- Share content relevant to each role
+- Host roundtables for peer discussion
+
+**Executive Engagement**
+- CXO to CXO outreach
+- Executive briefings
+- Strategic partnership framing
+
+---
+
+## Competitive Displacement Campaigns
+
+### When to Run Displacement Campaigns
+
+**Good Timing**
+- Contract renewal approaching
+- Competitor price increase announced
+- Known competitor issues/outages
+- Leadership change at account
+- Strategic initiative that competitor can't support
+
+**Poor Timing**
+- Just signed long-term contract
+- Happy with incumbent
+- No trigger event
+- No champion access
+
+### Displacement Approach
+
+**Research Phase**
+- Current solution and contract status
+- Known pain points with incumbent
+- Switching costs and barriers
+- Key stakeholders and their sentiment
+
+**Positioning Phase**
+- Differentiated value proposition
+- Competitive battlecard customization
+- Migration/transition plan
+- Risk mitigation strategy
+
+**Engagement Phase**
+- Lead with unique value, not bashing
+- Acknowledge switching costs
+- Offer proof of value / pilot
+- Build internal coalition
+
+**Conversion Phase**
+- Detailed migration plan
+- ROI including transition costs
+- Executive sponsorship
+- Negotiate against renewal timeline
+
+### Displacement Talk Track
+
+**Opening**
+- "I know you're using [competitor] for [use case]. I'm not going to ask you to rip and replace immediately, but..."
+- "Many of our best customers came from [competitor]. What typically prompts the conversation is..."
+
+**Differentiation**
+- "Where we're fundamentally different is..."
+- "The reason companies switch is..."
+- "What [competitor] wasn't built for is..."
+
+**Proof Points**
+- "[Customer] switched and saw [result]..."
+- "Here's what the migration actually looked like..."
+- "The typical ROI timeline post-switch is..."
+
+**Risk Mitigation**
+- "We run parallel with your current solution during transition..."
+- "Our implementation team has done this migration [X] times..."
+- "Here's our guarantee if it doesn't work out..."
+
+---
+
+## Measuring Launch Success
+
+### Leading Indicators (Weeks 1-4)
+
+**Activity Metrics**
+- Outreach volume (emails, calls, LinkedIn)
+- Response rates by channel
+- Meeting booking rate
+- Content engagement
+
+**Quality Metrics**
+- Conversation quality scores
+- Right-person contact rate
+- Meeting show rate
+- Discovery call quality
+
+### Pipeline Metrics (Weeks 4-12)
+
+**Volume**
+- Opportunities created
+- Pipeline value generated
+- Meetings held
+- Demos completed
+
+**Velocity**
+- Time to first meeting
+- Stage progression speed
+- Days in stage
+- Win rate trends
+
+### Revenue Metrics (Weeks 12+)
+
+**Outcomes**
+- Deals closed
+- Revenue generated
+- Average deal size
+- Win rate
+
+**Efficiency**
+- Cost per opportunity
+- Cost per customer
+- Sales cycle length
+- Ramp time
+
+### Launch Scorecard
+
+| Metric | Target | Week 4 | Week 8 | Week 12 |
+|--------|--------|--------|--------|---------|
+| Accounts Contacted | | | | |
+| Response Rate | | | | |
+| Meetings Booked | | | | |
+| Opportunities Created | | | | |
+| Pipeline Generated | | | | |
+| Deals Won | | | | |
+| Revenue Closed | | | | |
 
 ---
 
 ## Launch Checklist
 
-### Pre-Launch
-- [ ] Landing page with clear value proposition
-- [ ] Email capture / waitlist signup
-- [ ] Early access list built
-- [ ] Owned channels established (email, blog, community)
-- [ ] Rented channel presence (social profiles optimized)
-- [ ] Borrowed channel opportunities identified (podcasts, influencers)
-- [ ] Product Hunt listing prepared (if using)
-- [ ] Launch assets created (screenshots, demo video, GIFs)
-- [ ] Onboarding flow ready
-- [ ] Analytics/tracking in place
+### Pre-Launch (1-2 Weeks Before)
 
-### Launch Day
-- [ ] Announcement email to list
-- [ ] Blog post published
-- [ ] Social posts scheduled and posted
-- [ ] Product Hunt listing live (if using)
-- [ ] In-app announcement for existing users
-- [ ] Website banner/notification active
-- [ ] Team ready to engage and respond
-- [ ] Monitor for issues and feedback
+- [ ] Target account list finalized
+- [ ] Account research completed
+- [ ] Messaging and talk tracks developed
+- [ ] Email sequences built and reviewed
+- [ ] LinkedIn profiles optimized
+- [ ] Content/collateral prepared
+- [ ] CRM fields and tracking set up
+- [ ] Team trained and aligned
+- [ ] Goals and metrics defined
+- [ ] Executive support confirmed
 
-### Post-Launch
-- [ ] Onboarding email sequence active
-- [ ] Follow-up with engaged prospects
-- [ ] Roundup email includes announcement
-- [ ] Comparison pages published
-- [ ] Interactive demo created
-- [ ] Gather and act on feedback
-- [ ] Plan next launch moment
+### Launch Week
+
+- [ ] Sequences activated
+- [ ] Phone outreach began
+- [ ] LinkedIn outreach started
+- [ ] First meetings scheduled
+- [ ] Daily standups established
+- [ ] Issues identified and addressed
+- [ ] Quick wins celebrated
+
+### Post-Launch (Weekly)
+
+- [ ] Metrics reviewed
+- [ ] Pipeline status updated
+- [ ] Messaging adjustments made
+- [ ] Team feedback collected
+- [ ] Success stories documented
+- [ ] Blockers escalated
+- [ ] Next week priorities set
+
+---
+
+## Common Launch Mistakes
+
+### Planning Mistakes
+
+**Too Many Accounts**
+- Spread too thin
+- No depth of engagement
+- Superficial outreach
+
+**No Differentiation**
+- Same messaging for all accounts
+- Generic value proposition
+- No segment-specific angles
+
+**Unrealistic Timeline**
+- Expect immediate results
+- Don't plan for ramp
+- Abandon too early
+
+### Execution Mistakes
+
+**Channel Silos**
+- Email only
+- No phone follow-up
+- LinkedIn disconnected
+
+**No Persistence**
+- Give up after first touch
+- Don't follow up on interest
+- Let leads go cold
+
+**Poor Handoffs**
+- Marketing to sales gaps
+- SDR to AE friction
+- Lost context
+
+### Measurement Mistakes
+
+**Wrong Metrics**
+- Activity without outcomes
+- Lagging indicators only
+- Not measuring quality
+
+**No Iteration**
+- Don't adjust messaging
+- Ignore feedback
+- Same approach regardless of results
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What are you launching? (New product, major feature, minor update)
-2. What's your current audience size and engagement?
-3. What owned channels do you have? (Email list size, blog traffic, community)
-4. What's your timeline for launch?
-5. Have you launched before? What worked/didn't work?
-6. Are you considering Product Hunt? What's your preparation status?
+
+1. What type of launch is this? (New territory, expansion, displacement)
+2. How many accounts are you targeting?
+3. What resources are available? (Headcount, budget, support)
+4. What's the timeline for results?
+5. What's worked/not worked in past launches?
+6. Who's the ideal customer in this segment?
 
 ---
 
 ## Related Skills
 
-- **marketing-ideas**: For additional launch tactics (#22 Product Hunt, #23 Early Access Referrals)
-- **email-sequence**: For launch and onboarding email sequences
-- **page-cro**: For optimizing launch landing pages
-- **marketing-psychology**: For psychology behind waitlists and exclusivity
-- **programmatic-seo**: For comparison pages mentioned in post-launch
+- **cold-outreach-writing**: For prospecting emails and messages
+- **sales-outreach-sequences**: For multi-touch campaign design
+- **discovery-calls**: For converting meetings to opportunities
+- **competitive-selling**: For displacement campaigns
+- **account-planning**: For strategic account approach

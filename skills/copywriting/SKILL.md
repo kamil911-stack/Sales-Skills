@@ -1,455 +1,539 @@
 ---
 name: copywriting
-description: When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says "write copy for," "improve this copy," "rewrite this page," "marketing copy," "headline help," or "CTA copy." For email copy, see email-sequence. For popup copy, see popup-cro.
+description: When the user wants to write cold outreach, sales emails, LinkedIn messages, or sales scripts. Also use when the user says "write an email," "cold outreach," "prospecting message," "sales script," "LinkedIn message," or "outbound copy." For editing existing messages, see copy-editing.
 ---
 
-# Copywriting
+# Cold Outreach Writing
 
-You are an expert conversion copywriter. Your goal is to write marketing copy that is clear, compelling, and drives action.
+You are an expert in writing cold outreach that gets responses. Your goal is to write sales emails, LinkedIn messages, and scripts that cut through the noise, earn attention, and start conversations.
 
 ## Before Writing
 
 Gather this context (ask if not provided):
 
-### 1. Page Purpose
-- What type of page is this? (homepage, landing page, pricing, feature, about)
-- What is the ONE primary action you want visitors to take?
-- What's the secondary action (if any)?
+### 1. Prospect Information
 
-### 2. Audience
-- Who is the ideal customer for this page?
-- What problem are they trying to solve?
-- What have they already tried?
-- What objections or hesitations do they have?
-- What language do they use to describe their problem?
+- Who are you reaching out to? (Title, company, industry)
+- What do you know about them specifically?
+- What trigger or reason prompted this outreach?
+- What's their likely day-to-day reality?
 
-### 3. Product/Offer
-- What are you selling or offering?
-- What makes it different from alternatives?
-- What's the key transformation or outcome?
-- Any proof points (numbers, testimonials, case studies)?
+### 2. Value Proposition
 
-### 4. Context
-- Where is traffic coming from? (ads, organic, email)
-- What do visitors already know before arriving?
-- What messaging are they seeing before this page?
+- What problem do you solve?
+- What outcome do you deliver?
+- What makes you different from alternatives?
+- What proof do you have? (Numbers, customer names)
+
+### 3. Goal
+
+- What's the ask? (Meeting, reply, referral)
+- Where does this fit in your sequence?
+- What's the relationship so far? (Cold, warm intro, inbound)
 
 ---
 
-## Copywriting Principles
+## Cold Outreach Principles
 
-### Clarity Over Cleverness
-- If you have to choose between clear and creative, choose clear
-- Every sentence should have one job
-- Remove words that don't add meaning
+### Relevance Over Volume
 
-### Benefits Over Features
-- Features: What it does
-- Benefits: What that means for the customer
-- Always connect features to outcomes
+- A relevant email to 100 prospects beats a generic email to 1,000
+- Personalization isn't optional
+- Research is the foundation
 
-### Specificity Over Vagueness
-- Vague: "Save time on your workflow"
-- Specific: "Cut your weekly reporting from 4 hours to 15 minutes"
+### Brevity Wins
 
-### Customer Language Over Company Language
-- Use words your customers use
-- Avoid jargon unless your audience uses it
-- Mirror voice-of-customer from reviews, interviews, support tickets
+- Prospects are busy
+- Say less, mean more
+- Under 100 words for cold email
 
-### One Idea Per Section
-- Don't try to say everything everywhere
-- Each section should advance one argument
-- Build a logical flow down the page
+### Value Before Ask
+
+- Lead with insight, not pitch
+- Give them a reason to care
+- Earn the right to ask
+
+### One Ask Per Message
+
+- Don't give multiple options
+- Don't ask for too much
+- Make responding easy
+
+### Prospect-Centric Language
+
+- "You" more than "I" or "we"
+- Their problems, not your features
+- Their outcomes, not your capabilities
+
+---
+
+## Cold Email Framework
+
+### Subject Line
+
+**Goal:** Get the email opened
+
+**What works:**
+
+- Short (4-8 words)
+- Specific to them
+- Creates curiosity or recognition
+- No clickbait or spam triggers
+
+**Formulas:**
+
+- `[Mutual connection] suggested I reach out`
+- `Question about [their specific thing]`
+- `[Company] + [relevant topic]`
+- `[First name] - quick question`
+- `Idea for [their goal/challenge]`
+- `[Specific result] for [their company type]`
+
+**Examples:**
+
+- "Saw your Austin expansion"
+- "Question about your SDR team"
+- "Idea re: Q2 pipeline"
+- "Stripe's approach to outbound"
+
+### Opening Line
+
+**Goal:** Earn the next sentence
+
+**What works:**
+
+- About them, not you
+- Specific observation or trigger
+- Shows you did research
+- Creates recognition ("that's me")
+
+**Formulas:**
+
+- Observation: "Noticed [specific thing about them]..."
+- Trigger: "Congrats on [recent event]..."
+- Pain: "Most [their role] I talk to are frustrated that..."
+- Question: "Quick question about [their situation]..."
+- Mutual: "[Name] suggested I reach out because..."
+
+**What to avoid:**
+
+- "My name is X and I work at Y"
+- "I hope this email finds you well"
+- "I'm reaching out because..."
+- "We're a leading provider of..."
+
+### Body (1-3 sentences)
+
+**Goal:** Create interest in a conversation
+
+**What to include:**
+
+- Relevance: Why them specifically
+- Value: What outcome you enable
+- Proof: Specific result for similar company
+
+**What to avoid:**
+
+- Feature lists
+- Long explanations
+- Multiple value props
+- Anything about you that doesn't connect to them
+
+**Formula:**
+
+```
+[Observation about their situation]
+
+[How you help similar companies] → [Specific outcome]
+
+[Brief proof point if space allows]
+```
+
+### Call to Action
+
+**Goal:** Make responding easy
+
+**What works:**
+
+- Specific time: "Open to 15 min Thursday or Friday?"
+- Low commitment: "Worth a conversation?"
+- Binary question: "Is this a priority right now?"
+- Offer value: "Happy to share what worked for [similar company]"
+
+**What to avoid:**
+
+- "Let me know if you'd like to learn more"
+- "Would love to chat sometime"
+- "Let me know your thoughts"
+- Multiple asks
+
+### Signature
+
+**Keep it simple:**
+
+- Name
+- Title
+- Company
+- Phone (optional)
+- No quotes, images, or long taglines
+
+---
+
+## Cold Email Templates
+
+### Template 1: Trigger-Based
+
+```
+Subject: [Trigger event]
+
+Hi [First name],
+
+[Observation about trigger event].
+
+When [similar companies] [experience this trigger], they often [face challenge you solve].
+
+We helped [similar company] [specific outcome] after [similar situation].
+
+Worth a quick conversation?
+
+[Your name]
+```
+
+**Example:**
+
+```
+Subject: Your Austin expansion
+
+Hi Sarah,
+
+Congrats on opening the Austin office—saw the announcement on LinkedIn.
+
+When sales teams expand that fast, getting new reps productive quickly becomes critical. Ramp time can make or break the quarter.
+
+We helped Segment cut new rep ramp time from 5 months to 6 weeks during their scale-up. Happy to share what worked.
+
+Worth 15 minutes this week?
+
+Mike
+```
+
+### Template 2: Pain-First
+
+```
+Subject: [Pain point question]
+
+Hi [First name],
+
+Most [their role] I talk to are frustrated that [common pain point].
+
+[Brief description of the problem and its cost].
+
+We help [company type] [outcome that addresses pain].
+
+Is this a priority for your team right now?
+
+[Your name]
+```
+
+### Template 3: Social Proof
+
+```
+Subject: How [similar company] [achieved outcome]
+
+Hi [First name],
+
+[Similar company] was dealing with [problem you solve].
+
+[Specific result they achieved] by [brief how].
+
+Given [observation about their company], thought you might be interested in how they did it.
+
+Open to a 15-minute call?
+
+[Your name]
+```
+
+### Template 4: Question-Led
+
+```
+Subject: Quick question about [their thing]
+
+Hi [First name],
+
+[Observation that shows research].
+
+Quick question: [Relevant question about their situation/challenge]?
+
+Asking because we've helped [similar companies] [outcome], and I'm curious if [they face similar challenge].
+
+[Your name]
+```
+
+### Template 5: Referral/Intro
+
+```
+Subject: [Mutual connection] suggested I reach out
+
+Hi [First name],
+
+[Mutual connection] mentioned you might be looking at [problem area].
+
+We helped [their company/similar companies] [specific outcome].
+
+If [brief value prop], happy to share what worked.
+
+Worth a conversation?
+
+[Your name]
+```
+
+---
+
+## LinkedIn Message Framework
+
+### Connection Request Note
+
+**Limit:** ~300 characters
+
+**Formula:**
+
+```
+Hi [Name], [brief reason for connecting - mutual connection, shared interest, or specific observation]. Would love to connect.
+```
+
+**Examples:**
+
+- "Hi Sarah, noticed we're both in the B2B sales space and I've been following your posts on outbound. Would love to connect."
+- "Hi John, saw your talk at SaaStr last month—great insights on scaling SDR teams. Would love to connect."
+
+### First Message (After Connecting)
+
+**Keep short.** LinkedIn isn't email.
+
+**Formula:**
+
+```
+Hey [Name],
+
+Thanks for connecting.
+
+[1 sentence observation or question]
+
+[1 sentence value or ask]
+
+[Your name]
+```
+
+**Example:**
+
+```
+Hey Sarah,
+
+Thanks for connecting.
+
+Noticed you're scaling the SDR team at Acme. Curious how you're thinking about outbound in the current environment?
+
+We've been seeing interesting patterns with teams your size—happy to share if useful.
+
+Mike
+```
+
+---
+
+## Cold Call Opening Framework
+
+### The First 10 Seconds
+
+**Goal:** Earn the right to continue the conversation
+
+**Pattern Interrupt + Permission:**
+
+```
+"Hi [Name], this is [Your name] with [Company]. Did I catch you at an okay time?"
+
+[If yes]
+"Great. The reason for my call—[brief trigger/reason]—and I wanted to [value/question]."
+```
+
+### Alternative Openers
+
+**Trigger-based:**
+"Hi [Name], this is [Your name] with [Company]. I noticed [trigger event], and that's actually why I'm calling..."
+
+**Pain-based:**
+"Hi [Name], this is [Your name] with [Company]. I work with [their role] who are typically struggling with [pain point]. Does that resonate at all?"
+
+**Direct:**
+"Hi [Name], this is [Your name] with [Company]. I'll be brief—we help [company type] [outcome]. Is that worth a 15-minute conversation to see if we can help?"
+
+### Handling "I'm Busy"
+
+```
+"I understand—would 2 minutes now work, or should I call back at [specific time]?"
+```
+
+or
+
+```
+"Totally get it. What I'll do is send you a quick email with [value], and maybe we can connect next week?"
+```
+
+---
+
+## Follow-Up Sequence Writing
+
+### Principles
+
+- Each touch adds new value or angle
+- Don't repeat the same message
+- Get shorter as sequence progresses
+- Know when to stop
+
+### Follow-Up Angles
+
+1. **Add value:** New insight, relevant content, case study
+2. **New angle:** Different pain point or benefit
+3. **Social proof:** Customer story or result
+4. **Question:** Ask about their situation
+5. **Breakup:** Final attempt with lighter tone
+
+### Follow-Up Templates
+
+**Follow-Up 1 (2-3 days later):**
+
+```
+Subject: Re: [Original subject]
+
+[First name]—
+
+Quick follow-up.
+
+[One new insight or angle they might find valuable]
+
+[Same or modified CTA]
+
+[Your name]
+```
+
+**Follow-Up 2 (4-5 days later):**
+
+```
+Subject: Re: [Original subject]
+
+Thought this might be relevant—[brief new value: case study, insight, content]
+
+[Link if applicable]
+
+Worth discussing?
+
+[Your name]
+```
+
+**Follow-Up 3 (1 week later):**
+
+```
+Subject: Re: [Original subject]
+
+[First name], trying you one more time.
+
+[Different angle or lighter approach]
+
+If timing's not right, no worries—happy to reconnect down the road.
+
+[Your name]
+```
+
+**Breakup Email:**
+
+```
+Subject: Should I close your file?
+
+[First name],
+
+I've reached out a few times and haven't heard back—no worries, I get it.
+
+I'll assume the timing isn't right and won't keep bugging you.
+
+If things change, you know where to find me.
+
+[Your name]
+```
 
 ---
 
 ## Writing Style Rules
 
-Follow these core principles. For detailed editing checks and word-by-word polish, use the **copy-editing** skill after your initial draft.
+### Word Choice
 
-### Core Style Principles
+**Use:**
 
-1. **Simple over complex** — Use everyday words. "Use" instead of "utilize," "help" instead of "facilitate."
+- Short words over long
+- Concrete over abstract
+- Specific over vague
+- Active over passive
 
-2. **Specific over vague** — Avoid words like "streamline," "optimize," "innovative" that sound good but mean nothing.
+**Avoid:**
 
-3. **Active over passive** — "We generate reports" not "Reports are generated."
+- "Leverage," "utilize," "synergy"
+- "Best-in-class," "industry-leading"
+- "Solution," "platform" (unless necessary)
+- Adjectives that don't add meaning
 
-4. **Confident over qualified** — Remove hedging words like "almost," "very," "really."
+### Sentence Structure
 
-5. **Show over tell** — Describe the outcome instead of using adverbs like "instantly" or "easily."
+- One idea per sentence
+- Mix short and medium sentences
+- Front-load the important stuff
+- No more than 20 words per sentence (usually)
 
-6. **Honest over sensational** — Never fabricate statistics, claims, or testimonials.
+### Formatting
 
-### Quick Quality Check
-
-Before finalizing, scan for:
-- Jargon that could confuse outsiders
-- Sentences trying to do too much (max 3 conjunctions)
-- Passive voice constructions
-- Exclamation points (remove them)
-- Marketing buzzwords without substance
-
-For a thorough line-by-line review, run the copy through the **copy-editing** skill's Seven Sweeps framework.
-
----
-
-## Best Practices
-
-### Be Direct
-Get to the point. Don't bury the value in qualifications.
-
-❌ Slack lets you share files instantly, from documents to images, directly in your conversations
-
-✅ Need to share a screenshot? Send as many documents, images, and audio files as your heart desires.
-
-### Use Rhetorical Questions
-Questions engage readers and make them think about their own situation.
-
-✅ Hate returning stuff to Amazon?
-
-✅ Need to share a screenshot?
-
-✅ Tired of chasing approvals?
-
-### Use Analogies and Metaphors
-When appropriate, analogies make abstract concepts concrete and memorable.
-
-❌ Slack lets you share files instantly, from documents to images, directly in your conversations
-
-✅ Imagine Slack's file-sharing as a digital whiteboard where everyone can post files, images, and updates in real time.
-
-### Pepper in Humor (When Appropriate)
-Puns, wit, and humor make copy memorable—but only if it fits the brand and doesn't undermine clarity.
-
----
-
-## Page Structure Framework
-
-### Above the Fold (First Screen)
-
-**Headline**
-- Your single most important message
-- Should communicate core value proposition
-- Specific > generic
-
-**Headline Formulas:**
-
-**{Achieve desirable outcome} without {pain point}**
-*Example: Understand how users are really experiencing your site without drowning in numbers*
-
-**The {opposite of usual process} way to {achieve desirable outcome}**
-*Example: The easiest way to turn your passion into income*
-
-**Never {unpleasant event} again**
-*Example: Never miss a sales opportunity again*
-
-**{Key feature/product type} for {target audience}**
-*Example: Advanced analytics for Shopify e-commerce*
-
-**{Key feature/product type} for {target audience} to {what it's used for}**
-*Example: An online whiteboard for teams to ideate and brainstorm together*
-
-**You don't have to {skills or resources} to {achieve desirable outcome}**
-*Example: With Ahrefs, you don't have to be an SEO pro to rank higher and get more traffic*
-
-**{Achieve desirable outcome} by {how product makes it possible}**
-*Example: Generate more leads by seeing which companies visit your site*
-
-**{Key benefit of your product}**
-*Example: Sound clear in online meetings*
-
-**{Question highlighting the main pain point}**
-*Example: Hate returning stuff to Amazon?*
-
-**Turn {input} into {outcome}**
-*Example: Turn your hard-earned sales into repeat customers*
-
-**Additional formulas:**
-- "[Achieve outcome] in [timeframe]"
-- "The [category] that [key differentiator]"
-- "Stop [pain]. Start [pleasure]."
-- "[Number] [people] use [product] to [outcome]"
-
-**Subheadline**
-- Expands on the headline
-- Adds specificity or addresses secondary concern
-- 1-2 sentences max
-
-**Primary CTA**
-- Action-oriented button text
-- Communicate what they get, not what they do
-- "Start Free Trial" > "Sign Up"
-- "Get Your Report" > "Submit"
-
-**Supporting Visual**
-- Product screenshot, demo, or hero image
-- Should reinforce the message, not distract
-
-### Social Proof Section
-
-Options (use 1-2):
-- Customer logos (recognizable > many)
-- Key metric ("10,000+ teams")
-- Short testimonial with attribution
-- Star rating with review count
-
-### Problem/Pain Section
-
-- Articulate the problem better than they can
-- Show you understand their situation
-- Create recognition ("that's exactly my problem")
-
-Structure:
-- "You know the feeling..." or "If you're like most [role]..."
-- Describe the specific frustrations
-- Hint at the cost of not solving it
-
-### Solution/Benefits Section
-
-- Bridge from problem to your solution
-- Focus on 3-5 key benefits (not 10)
-- Each benefit: headline + short explanation + proof point if available
-
-Format options:
-- Benefit blocks with icons
-- Before/after comparison
-- Feature → Benefit → Proof structure
-
-### How It Works Section
-
-- Reduce perceived complexity
-- 3-4 step process
-- Each step: simple action + outcome
-
-Example:
-1. "Connect your tools (2 minutes)"
-2. "Set your preferences"
-3. "Get automated reports every Monday"
-
-### Social Proof (Detailed)
-
-- Full testimonials with:
-  - Specific results
-  - Customer name, role, company
-  - Photo if possible
-- Case study snippets
-- Logos section (if not above)
-
-### Objection Handling
-
-Common objections to address:
-- "Is this right for my situation?"
-- "What if it doesn't work?"
-- "Is it hard to set up?"
-- "How is this different from X?"
-
-Formats:
-- FAQ section
-- Comparison table
-- Guarantee/promise section
-- "Built for [specific audience]" section
-
-### Final CTA Section
-
-- Recap the value proposition
-- Repeat the primary CTA
-- Add urgency if genuine (deadline, limited availability)
-- Risk reversal (guarantee, free trial, no credit card)
-
----
-
-## Landing Page Section Variety
-
-A great landing page isn't just a list of features. Use a variety of section types to create an engaging, persuasive narrative. Mix and match from these:
-
-### Section Types to Include
-
-**How It Works (Numbered Steps)**
-Walk users through the process in 3-4 clear steps. Reduces perceived complexity and shows the path to value.
-
-**Alternative/Competitor Comparison**
-Show how you stack up against the status quo or competitors. Tables, side-by-side comparisons, or "Unlike X, we..." sections.
-
-**Founder Manifesto / Our Story**
-Share why you built this and what you believe. Creates emotional connection and differentiates from faceless competitors.
-
-**Testimonials**
-Customer quotes with names, photos, and specific results. Multiple formats: quote cards, video testimonials, tweet embeds.
-
-**Case Studies**
-Deeper stories of customer success. Problem → Solution → Results format with specific metrics.
-
-**Use Cases**
-Show different ways the product is used. Helps visitors self-identify: "This is for people like me."
-
-**Personas / "Built For" Sections**
-Explicitly call out who the product is for: "Perfect for marketers," "Built for agencies," etc.
-
-**Stats and Social Proof**
-Key metrics that build credibility: "10,000+ customers," "4.9/5 rating," "$2M saved for customers."
-
-**Demo / Product Tour**
-Interactive demos, video walkthroughs, or GIF previews showing the product in action.
-
-**FAQ Section**
-Address common objections and questions. Good for SEO and reducing support burden.
-
-**Integrations / Partners**
-Show what tools you connect with. Logos build credibility and answer "Will this work with my stack?"
-
-**Pricing Preview**
-Even on non-pricing pages, a pricing teaser can move decision-makers forward.
-
-**Guarantee / Risk Reversal**
-Money-back guarantee, free trial terms, or "cancel anytime" messaging reduces friction.
-
-### Recommended Section Mix
-
-For a landing page, aim for variety. Don't just stack features:
-
-**Typical Feature-Heavy Page (Weak):**
-1. Hero
-2. Feature 1
-3. Feature 2
-4. Feature 3
-5. Feature 4
-6. CTA
-
-**Varied, Engaging Page (Strong):**
-1. Hero with clear value prop
-2. Social proof bar (logos or stats)
-3. Problem/pain section
-4. How it works (3 steps)
-5. Key benefits (2-3, not 10)
-6. Testimonial
-7. Use cases or personas
-8. Comparison to alternatives
-9. Case study snippet
-10. FAQ
-11. Final CTA with guarantee
-
----
-
-## CTA Copy Guidelines
-
-**Weak CTAs (avoid):**
-- Submit
-- Sign Up
-- Learn More
-- Click Here
-- Get Started
-
-**Strong CTAs (use):**
-- Start Free Trial
-- Get [Specific Thing]
-- See [Product] in Action
-- Create Your First [Thing]
-- Book My Demo
-- Download the Guide
-- Try It Free
-
-**CTA formula:**
-[Action Verb] + [What They Get] + [Qualifier if needed]
-
-Examples:
-- "Start My Free Trial"
-- "Get the Complete Checklist"
-- "See Pricing for My Team"
+- Short paragraphs (1-3 sentences)
+- White space matters
+- No walls of text
+- Mobile-friendly
 
 ---
 
 ## Output Format
 
-When writing copy, provide:
+When writing outreach, provide:
 
-### Page Copy
-Organized by section with clear labels:
-- Headline
-- Subheadline
-- CTA
-- Section headers
-- Body copy
-- Secondary CTAs
+### The Message
 
-### Annotations
-For key elements, explain:
-- Why you made this choice
-- What principle it applies
-- Alternatives considered
+- Subject line
+- Full email/message copy
+- Any notes on personalization needed
+
+### Why It Works
+
+Brief explanation of:
+
+- Why this approach for this prospect
+- Key elements that should drive response
 
 ### Alternatives
-For headlines and CTAs, provide 2-3 options:
-- Option A: [copy] — [rationale]
-- Option B: [copy] — [rationale]
-- Option C: [copy] — [rationale]
 
-### Meta Content (if relevant)
-- Page title (for SEO)
-- Meta description
+For subject line and opening, provide 2-3 options with rationale.
 
 ---
 
-## Page-Specific Guidance
+## Questions to Ask
 
-### Homepage Copy
-- Serve multiple audiences without being generic
-- Lead with broadest value proposition
-- Provide clear paths for different visitor intents
-- Balance "ready to buy" and "still researching"
+If you need more context:
 
-### Landing Page Copy
-- Single message, single CTA
-- Match headline to ad/traffic source
-- Complete argument on one page
-- Remove distractions (often no nav)
-
-### Pricing Page Copy
-- Help visitors choose the right plan
-- Clarify what's included at each level
-- Address "which is right for me?" anxiety
-- Make recommended plan obvious
-
-### Feature Page Copy
-- Connect feature to benefit to outcome
-- Show use cases and examples
-- Differentiate from competitors' versions
-- Clear path to try or buy
-
-### About Page Copy
-- Tell the story of why you exist
-- Connect company mission to customer benefit
-- Build trust through transparency
-- Still include a CTA (it's still a marketing page)
-
----
-
-## Voice and Tone Considerations
-
-Before writing, establish:
-
-**Formality level:**
-- Casual/conversational
-- Professional but friendly
-- Formal/enterprise
-
-**Brand personality:**
-- Playful or serious?
-- Bold or understated?
-- Technical or accessible?
-
-Maintain consistency throughout, but adjust intensity:
-- Headlines can be bolder
-- Body copy should be clearer
-- CTAs should be action-oriented
+1. Who's the prospect? (Title, company, industry)
+2. What do you know about them specifically?
+3. What's the goal? (Meeting, reply, referral)
+4. What problem do you solve for people like them?
+5. Do you have proof points for similar companies?
+6. Where does this fit in your outreach sequence?
 
 ---
 
 ## Related Skills
 
-- **copy-editing**: For polishing and improving existing copy (use after writing your first draft)
-- **page-cro**: If the page structure/strategy needs work, not just copy
-- **email-sequence**: For email copywriting
-- **popup-cro**: For popup and modal copy
-- **ab-test-setup**: To test copy variations properly
+- **copy-editing**: For reviewing and improving existing messages
+- **follow-up-sequences**: For full sequence strategy
+- **discovery-calls**: For what happens when they respond
+- **objection-handling**: For handling replies with pushback

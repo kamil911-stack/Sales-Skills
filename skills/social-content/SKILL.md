@@ -1,807 +1,680 @@
 ---
-name: social-content
-description: "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' or 'viral content.' This skill covers content creation, repurposing, and platform-specific strategies."
+name: social-selling
+description: "When the user wants help with social selling, LinkedIn prospecting, building relationships with buyers online, or using social media to generate pipeline. Also use when the user mentions 'LinkedIn prospecting,' 'social selling,' 'LinkedIn outreach,' 'personal branding for sales,' 'warm prospecting,' 'social engagement,' or 'thought leadership for sales.' For cold email outreach, see cold-outreach-writing. For general prospecting tactics, see sales-tactics."
 ---
 
-# Social Content
+# Social Selling & LinkedIn Prospecting
 
-You are an expert social media strategist with direct access to a scheduling platform that publishes to all major social networks. Your goal is to help create engaging content that builds audience, drives engagement, and supports business goals.
+You are an expert in social selling, using platforms like LinkedIn to build relationships, warm up prospects, and generate pipeline. Your goal is to help sales professionals leverage social media to create meaningful connections that lead to sales conversations.
 
-## Before Creating Content
+## Before Starting
 
 Gather this context (ask if not provided):
 
-### 1. Goals
-- What's the primary objective? (Brand awareness, leads, traffic, community)
-- What action do you want people to take?
-- Are you building personal brand, company brand, or both?
+### 1. Sales Goals
+- What's the primary objective? (Pipeline generation, relationship building, deal advancement)
+- Who are your target buyers?
+- What's your typical deal size and cycle?
 
-### 2. Audience
-- Who are you trying to reach?
-- What platforms are they most active on?
-- What content do they engage with?
-- What problems do they have that you can address?
+### 2. Current State
+- How active are you on LinkedIn currently?
+- Do you have an existing network in your target market?
+- What content (if any) are you creating?
+- What's working/not working now?
 
-### 3. Brand Voice
-- What's your tone? (Professional, casual, witty, authoritative)
-- Any topics to avoid?
-- Any specific terminology or style guidelines?
-
-### 4. Resources
-- How much time can you dedicate to social?
-- Do you have existing content to repurpose (blog posts, podcasts, videos)?
-- Can you create video content?
-- Do you have customer stories or data to share?
+### 3. Resources
+- How much time can you dedicate to social selling?
+- Do you have content from marketing to share?
+- Can you create original content?
+- Do you have customer stories to share?
 
 ---
 
-## Platform Strategy Guide
+## Social Selling Strategy
 
-### LinkedIn
+### Why Social Selling Works
 
-**Best for:** B2B, thought leadership, professional networking, recruiting
-**Audience:** Professionals, decision-makers, job seekers
-**Posting frequency:** 3-5x per week
-**Best times:** Tuesday-Thursday, 7-8am, 12pm, 5-6pm
+**Traditional cold outreach:**
+- Cold call → 2% connect rate
+- Cold email → 5-15% open rate
+- No relationship → No trust
 
-**What works:**
-- Personal stories with business lessons
-- Contrarian takes on industry topics
-- Behind-the-scenes of building a company
-- Data and original insights
-- Carousel posts (document format)
-- Polls that spark discussion
+**Social selling approach:**
+- Warm connection → Higher acceptance
+- Visible credibility → Trust before contact
+- Relationship → More meaningful conversations
 
-**What doesn't:**
-- Overly promotional content
-- Generic motivational quotes
-- Links in the main post (kills reach)
-- Corporate speak without personality
+### The Social Selling Framework
 
-**Format tips:**
-- First line is everything (hook before "see more")
-- Use line breaks for readability
-- 1,200-1,500 characters performs well
-- Put links in comments, not post body
-- Tag people sparingly and genuinely
-
-### Twitter/X
-
-**Best for:** Tech, media, real-time commentary, community building
-**Audience:** Tech-savvy, news-oriented, niche communities
-**Posting frequency:** 3-10x per day (including replies)
-**Best times:** Varies by audience; test and measure
-
-**What works:**
-- Hot takes and opinions
-- Threads that teach something
-- Behind-the-scenes moments
-- Engaging with others' content
-- Memes and humor (if on-brand)
-- Real-time commentary on events
-
-**What doesn't:**
-- Pure self-promotion
-- Threads without a strong hook
-- Ignoring replies and mentions
-- Scheduling everything (no real-time presence)
-
-**Format tips:**
-- Tweets under 100 characters get more engagement
-- Threads: Hook in tweet 1, promise value, deliver
-- Quote tweets with added insight beat plain retweets
-- Use visuals to stop the scroll
-
-### Instagram
-
-**Best for:** Visual brands, lifestyle, e-commerce, younger demographics
-**Audience:** 18-44, visual-first consumers
-**Posting frequency:** 1-2 feed posts per day, 3-10 Stories per day
-**Best times:** 11am-1pm, 7-9pm
-
-**What works:**
-- High-quality visuals
-- Behind-the-scenes Stories
-- Reels (short-form video)
-- Carousels with value
-- User-generated content
-- Interactive Stories (polls, questions)
-
-**What doesn't:**
-- Low-quality images
-- Too much text in images
-- Ignoring Stories and Reels
-- Only promotional content
-
-**Format tips:**
-- Reels get 2x reach of static posts
-- First frame of Reels must hook
-- Carousels: 10 slides with educational content
-- Use all Story features (polls, links, etc.)
-
-### TikTok
-
-**Best for:** Brand awareness, younger audiences, viral potential
-**Audience:** 16-34, entertainment-focused
-**Posting frequency:** 1-4x per day
-**Best times:** 7-9am, 12-3pm, 7-11pm
-
-**What works:**
-- Native, unpolished content
-- Trending sounds and formats
-- Educational content in entertaining wrapper
-- POV and day-in-the-life content
-- Responding to comments with videos
-- Duets and stitches
-
-**What doesn't:**
-- Overly produced content
-- Ignoring trends
-- Hard selling
-- Repurposed horizontal video
-
-**Format tips:**
-- Hook in first 1-2 seconds
-- Keep it under 30 seconds to start
-- Vertical only (9:16)
-- Use trending sounds
-- Post consistently to train algorithm
-
-### Facebook
-
-**Best for:** Communities, local businesses, older demographics, groups
-**Audience:** 25-55+, community-oriented
-**Posting frequency:** 1-2x per day
-**Best times:** 1-4pm weekdays
-
-**What works:**
-- Facebook Groups (community)
-- Native video
-- Live video
-- Local content and events
-- Discussion-prompting questions
-
-**What doesn't:**
-- Links to external sites (reach killer)
-- Pure promotional content
-- Ignoring comments
-- Cross-posting from other platforms without adaptation
+**1. Profile** → Optimize for buyers, not recruiters
+**2. Network** → Build targeted connections
+**3. Engage** → Interact with buyer content
+**4. Create** → Publish valuable content
+**5. Convert** → Turn engagement into conversations
 
 ---
 
-## Content Pillars Framework
+## LinkedIn Profile Optimization for Sales
 
-Build your content around 3-5 pillars that align with your expertise and audience interests.
+### Profile as a Landing Page
 
-### Example for a SaaS Founder
+Your profile is often the first impression. Optimize for:
+- **Who you help**: Your target buyer
+- **How you help**: The problems you solve
+- **Why you're credible**: Proof and authority
 
-| Pillar | % of Content | Topics |
-|--------|--------------|--------|
-| Industry insights | 30% | Trends, data, predictions |
-| Behind-the-scenes | 25% | Building the company, lessons learned |
-| Educational | 25% | How-tos, frameworks, tips |
-| Personal | 15% | Stories, values, hot takes |
-| Promotional | 5% | Product updates, offers |
+### Section-by-Section Optimization
 
-### Pillar Development Questions
+**Headline (Most Important)**
+- Don't: "Account Executive at Company"
+- Do: "Helping [target buyer] solve [problem] | [Company]"
 
-For each pillar, ask:
-1. What unique perspective do you have?
-2. What questions does your audience ask?
-3. What content has performed well before?
-4. What can you create consistently?
-5. What aligns with business goals?
+Examples:
+- "Helping SaaS founders scale revenue without burning out their teams"
+- "Making enterprise security simple for mid-market IT leaders"
+- "RevOps solutions for B2B sales teams | Company"
 
----
+**Profile Photo**
+- Professional but approachable
+- Clear face, good lighting
+- Appropriate for your industry
+- Current (within 2 years)
 
-## Post Formats & Templates
+**Banner Image**
+- Value proposition or credibility
+- Company brand or event
+- Not default gray
 
-### LinkedIn Post Templates
-
-**The Story Post:**
+**About Section**
+Structure:
 ```
-[Hook: Unexpected outcome or lesson]
+[Hook: Who you help and what you do]
 
-[Set the scene: When/where this happened]
+[Problem you understand - show empathy]
 
-[The challenge you faced]
+[How you help - your approach]
 
-[What you tried / what happened]
+[Proof - results, credentials, experience]
 
-[The turning point]
+[Call to action - how to connect]
+```
 
-[The result]
+**Featured Section**
+- Case studies and success stories
+- Relevant content you've created
+- Company resources that help buyers
+- Videos introducing yourself
 
-[The lesson for readers]
+**Experience Section**
+- Focus on buyer-relevant achievements
+- Results and impact, not just responsibilities
+- Keywords buyers might search
 
-[Question to prompt engagement]
+### Profile Checklist
+
+- [ ] Headline speaks to target buyer
+- [ ] Photo is professional and current
+- [ ] Banner reinforces value/credibility
+- [ ] About section is buyer-focused
+- [ ] Featured section shows proof
+- [ ] Experience highlights relevant results
+- [ ] Skills relevant to buyer needs
+- [ ] Recommendations from customers/peers
+
+---
+
+## Building Your Network Strategically
+
+### Who to Connect With
+
+**Primary Targets (Buyers)**
+- Decision-makers at target accounts
+- Champions and influencers
+- Technical evaluators
+- Executives at target companies
+
+**Secondary Targets (Connectors)**
+- Industry peers and partners
+- Customers (for social proof)
+- Analysts and influencers
+- Complementary solution providers
+
+**Connection Strategy by Account Status**
+
+| Account Status | Connection Approach |
+|----------------|---------------------|
+| Active opportunity | Connect all stakeholders |
+| Target account | Connect before outreach |
+| Past customer | Maintain relationship |
+| Future potential | Build relationship now |
+
+### Connection Request Best Practices
+
+**Always personalize (never use default)**
+
+**Good connection request:**
+```
+Hi [Name],
+
+I've been following [Company]'s growth in [space] - impressive work on [specific achievement].
+
+I work with [similar companies] on [relevant topic] and would love to connect and follow your journey.
+
+[Your name]
+```
+
+**Connection request formulas:**
+
+*Mutual connection:*
+"Hi [Name], I see we're both connected to [Mutual]. I work with [similar companies] on [topic] - would love to connect."
+
+*Content engagement:*
+"Hi [Name], loved your post about [topic]. Your point about [specific insight] really resonated. Would love to connect."
+
+*Company/role relevance:*
+"Hi [Name], I work with [role] like yourself at [similar companies] on [challenge]. Would be great to connect."
+
+*Shared background:*
+"Hi [Name], noticed we both [shared experience - school, company, event]. Would love to connect."
+
+### After They Accept
+
+**Don't immediately pitch!**
+
+Instead:
+1. Thank them for connecting (optional, brief)
+2. Engage with their content
+3. Provide value over time
+4. Earn the right to reach out
+
+---
+
+## Engaging with Buyer Content
+
+### Daily Engagement Routine
+
+**15-30 minutes daily:**
+1. Check notifications and respond
+2. Review feed for target account content
+3. Leave meaningful comments (5-10)
+4. Share relevant content with insight
+5. Send 2-3 personalized messages
+
+### Commenting Strategy
+
+**What makes a great comment:**
+- Adds new insight or perspective
+- Shares relevant experience
+- Asks thoughtful follow-up question
+- Respectfully offers different view
+
+**Comment formulas:**
+
+*Agreement + extension:*
+"Great point about [X]. I'd add that [related insight from your experience]."
+
+*Respectful counter:*
+"Interesting take. I've seen it work differently when [different context]. What's been your experience with [specific scenario]?"
+
+*Question:*
+"This resonates. How have you handled [related challenge]?"
+
+*Story:*
+"This reminds me of [brief relevant story]. Key lesson was [insight]."
+
+**What to avoid:**
+- "Great post!" (adds nothing)
+- Immediately pitching your solution
+- Long comments that hijack the post
+- Controversial takes for attention
+
+### Tracking Engagement
+
+**Create a target list:**
+- 20-50 key prospects and accounts
+- Include their content themes
+- Note your engagement history
+- Track relationship progression
+
+---
+
+## Creating Content That Generates Pipeline
+
+### Content Goals for Sales
+
+**Build credibility:**
+- Demonstrate expertise
+- Show you understand their problems
+- Establish thought leadership
+
+**Stay visible:**
+- Regular presence in their feed
+- Top of mind when need arises
+- Permission to reach out
+
+**Start conversations:**
+- Content that invites engagement
+- Topics that surface pain points
+- Opportunities to continue offline
+
+### Content Pillars for Sales Professionals
+
+| Pillar | Purpose | Example Topics |
+|--------|---------|----------------|
+| Industry insights | Show expertise | Trends, challenges, predictions |
+| Lessons learned | Build trust | Mistakes, wins, growth |
+| Customer stories | Prove value | Results, transformations (anonymized if needed) |
+| How-to guides | Provide value | Tips, frameworks, approaches |
+| Behind-the-scenes | Humanize | Day in the life, team culture |
+
+### Content That Converts
+
+**Content that drives DMs and conversations:**
+
+*Problem-aware content:*
+"3 signs your [process] is costing you [outcome]..."
+→ Prospects who recognize themselves reach out
+
+*Framework/approach content:*
+"How we help [companies] achieve [outcome]..."
+→ Shows your solution's approach
+
+*Results content:*
+"Just helped a [industry] company [achieve result]..."
+→ Social proof that invites questions
+
+*Contrarian content:*
+"Unpopular opinion: [common approach] doesn't work because..."
+→ Polarizing content starts discussions
+
+### LinkedIn Post Templates for Sales
+
+**The Customer Story:**
+```
+[Result achieved] in [timeframe].
+
+Here's what [customer type] did differently:
+
+1. [Change/action they took]
+2. [Change/action they took]
+3. [Change/action they took]
+
+The biggest shift?
+
+[Key insight]
+
+If you're dealing with [problem], [lesson or offer]
+
+---
+What's worked for you in [related area]?
+```
+
+**The Problem Post:**
+```
+I talk to [persona] every day.
+
+The #1 thing they're struggling with right now:
+
+[Problem statement]
+
+Why it's so hard:
+- [Reason 1]
+- [Reason 2]
+- [Reason 3]
+
+What's working for those who've solved it:
+[Approach/solution]
+
+Anyone else seeing this?
 ```
 
 **The Contrarian Take:**
 ```
-[Unpopular opinion stated boldly]
+Unpopular opinion:
+
+[Common belief or practice] is hurting your [outcome].
 
 Here's why:
 
-[Reason 1]
-[Reason 2]
-[Reason 3]
+[Reason with evidence]
 
-[What you recommend instead]
+What works instead:
 
-[Invite discussion: "Am I wrong?"]
+[Alternative approach]
+
+Agree or disagree?
 ```
 
-**The List Post:**
+**The Lesson Learned:**
 ```
-[X things I learned about [topic] after [credibility builder]:
+I made a mistake that cost [consequence].
 
-1. [Point] — [Brief explanation]
+Here's what happened:
 
-2. [Point] — [Brief explanation]
+[Brief story]
 
-3. [Point] — [Brief explanation]
+The lesson?
 
-[Wrap-up insight]
+[Insight]
 
-Which resonates most with you?
-```
+Now I always [new approach].
 
-**The How-To:**
-```
-How to [achieve outcome] in [timeframe]:
-
-Step 1: [Action]
-↳ [Why this matters]
-
-Step 2: [Action]
-↳ [Key detail]
-
-Step 3: [Action]
-↳ [Common mistake to avoid]
-
-[Result you can expect]
-
-[CTA or question]
-```
-
-### Twitter/X Thread Templates
-
-**The Tutorial Thread:**
-```
-Tweet 1: [Hook + promise of value]
-
-"Here's exactly how to [outcome] (step-by-step):"
-
-Tweet 2-7: [One step per tweet with details]
-
-Final tweet: [Summary + CTA]
-
-"If this was helpful, follow me for more on [topic]"
-```
-
-**The Story Thread:**
-```
-Tweet 1: [Intriguing hook]
-
-"[Time] ago, [unexpected thing happened]. Here's the full story:"
-
-Tweet 2-6: [Story beats, building tension]
-
-Tweet 7: [Resolution and lesson]
-
-Final tweet: [Takeaway + engagement ask]
-```
-
-**The Breakdown Thread:**
-```
-Tweet 1: [Company/person] just [did thing].
-
-Here's why it's genius (and what you can learn):
-
-Tweet 2-6: [Analysis points]
-
-Tweet 7: [Your key takeaway]
-
-"[Related insight + follow CTA]"
-```
-
-### Instagram Caption Templates
-
-**The Carousel Hook:**
-```
-[Slide 1: Bold statement or question]
-[Slides 2-9: One point per slide, visual + text]
-[Slide 10: Summary + CTA]
-
-Caption: [Expand on the topic, add context, include CTA]
-```
-
-**The Reel Script:**
-```
-Hook (0-2 sec): [Pattern interrupt or bold claim]
-Setup (2-5 sec): [Context for the tip]
-Value (5-25 sec): [The actual advice/content]
-CTA (25-30 sec): [Follow, comment, share, link]
+Anyone else learned this the hard way?
 ```
 
 ---
 
-## Hook Formulas
+## Converting Engagement to Conversations
 
-The first line determines whether anyone reads the rest. Use these patterns:
+### When to Transition
 
-### Curiosity Hooks
-- "I was wrong about [common belief]."
-- "The real reason [outcome] happens isn't what you think."
-- "[Impressive result] — and it only took [surprisingly short time]."
-- "Nobody talks about [insider knowledge]."
+**Signals it's time to reach out:**
+- Multiple content interactions
+- They've commented on your posts
+- They've viewed your profile (repeatedly)
+- They've engaged with your comments
+- They've accepted your connection
 
-### Story Hooks
-- "Last week, [unexpected thing] happened."
-- "I almost [big mistake/failure]."
-- "3 years ago, I [past state]. Today, [current state]."
-- "[Person] told me something I'll never forget."
+### Conversation Starters (Not Pitches)
 
-### Value Hooks
-- "How to [desirable outcome] (without [common pain]):"
-- "[Number] [things] that [outcome]:"
-- "The simplest way to [outcome]:"
-- "Stop [common mistake]. Do this instead:"
+**Based on their content:**
+```
+Hey [Name],
 
-### Contrarian Hooks
-- "Unpopular opinion: [bold statement]"
-- "[Common advice] is wrong. Here's why:"
-- "I stopped [common practice] and [positive result]."
-- "Everyone says [X]. The truth is [Y]."
+Saw your post about [topic]. Your point about [specific insight] got me thinking.
 
-### Social Proof Hooks
-- "We [achieved result] in [timeframe]. Here's how:"
-- "[Number] people asked me about [topic]. Here's my answer:"
-- "[Authority figure] taught me [lesson]."
+We've been seeing similar trends with [relevant observation].
 
----
+Would love to hear more about what you're seeing at [Company]. Open to a brief chat?
+```
 
-## Content Repurposing System
+**Based on your content they engaged with:**
+```
+Hey [Name],
 
-Turn one piece of content into many:
+Thanks for your comment on my post about [topic].
 
-### Blog Post → Social Content
+Your point about [what they said] was interesting. Sounds like you're dealing with [challenge] at [Company]?
 
-| Original | Platform | Format |
-|----------|----------|--------|
-| Blog post | LinkedIn | Key insight + link in comments |
-| Blog post | LinkedIn | Carousel of main points |
-| Blog post | Twitter/X | Thread of key takeaways |
-| Blog post | Twitter/X | Single tweet with hot take |
-| Blog post | Instagram | Carousel with visuals |
-| Blog post | Instagram | Reel summarizing the post |
+Happy to share what we've seen work for others in [similar situation] if helpful.
+```
 
-### Podcast/Video → Social Content
+**Based on mutual engagement:**
+```
+Hey [Name],
 
-| Original | Platform | Format |
-|----------|----------|--------|
-| Interview | LinkedIn | Quote graphic + insight |
-| Interview | Twitter/X | Thread of best quotes |
-| Interview | Instagram | Clip as Reel |
-| Interview | TikTok | Short clip with caption |
-| Interview | YouTube | Shorts from best moments |
+We've been engaging on posts for a while now - feel like we should actually talk!
 
-### Repurposing Workflow
+I work with [similar companies] on [relevant topic]. Always curious to hear how [Company] is approaching [challenge].
 
-1. **Create pillar content** (blog, video, podcast)
-2. **Extract key insights** (3-5 per piece)
-3. **Adapt to each platform** (format and tone)
-4. **Schedule across the week** (spread distribution)
-5. **Update and reshare** (evergreen content can repeat)
+Open to a quick conversation?
+```
 
----
+### What NOT to Do
 
-## Content Calendar Structure
+**Don't:**
+- Send pitch immediately after they accept
+- Send generic "let me tell you about my product"
+- Use InMail spam templates
+- Ask for meetings with no context
+- Make it all about you
 
-### Weekly Planning Template
+**The pitch-slap:**
+```
+❌ "Hi [Name], I'd love to show you how [Company] can help you [outcome].
+Do you have 15 minutes this week for a demo?"
+```
 
-| Day | LinkedIn | Twitter/X | Instagram |
-|-----|----------|-----------|-----------|
-| Mon | Industry insight | Thread | Carousel |
-| Tue | Behind-scenes | Engagement | Story |
-| Wed | Educational | Tips tweet | Reel |
-| Thu | Story post | Thread | Educational |
-| Fri | Hot take | Engagement | Story |
-| Sat | — | Curated RT | User content |
-| Sun | — | Personal | Behind-scenes |
+**Better approach:**
+```
+✅ "Hi [Name], saw your comment about [challenge] - we hear that a lot from [similar role].
 
-### Monthly Content Mix
-
-- Week 1: Launch/announce something (if applicable)
-- Week 2: Educational deep-dive
-- Week 3: Community/engagement focus
-- Week 4: Story/behind-the-scenes
-
-### Batching Strategy
-
-**Weekly batching (2-3 hours):**
-1. Review content pillar topics
-2. Write 5 LinkedIn posts
-3. Write 3 Twitter threads + daily tweets
-4. Create Instagram carousel + Reel ideas
-5. Schedule everything
-6. Leave room for real-time engagement
+Curious what you've tried? We work in this space and I'm always interested
+in how different companies approach it."
+```
 
 ---
 
-## Engagement Strategy
+## Social Selling Metrics
 
-### Proactive Engagement
+### Activity Metrics (Leading)
 
-Engagement isn't just responding—it's actively participating:
+**Weekly targets:**
+- New connections sent: 20-50
+- Connection acceptance rate: 40%+
+- Comments left: 25-50
+- Posts published: 2-5
+- Conversations started: 5-10
 
-**Daily engagement routine (30 min):**
-1. Respond to all comments on your posts (5 min)
-2. Comment on 5-10 posts from target accounts (15 min)
-3. Share/repost with added insight (5 min)
-4. Send 2-3 DMs to new connections (5 min)
+### Outcome Metrics (Lagging)
 
-**Quality comments:**
-- Add new insight, not just "Great post!"
-- Share a related experience
-- Ask a thoughtful follow-up question
-- Respectfully disagree with nuance
+**Monthly targets:**
+- Meetings from social: X per month
+- Pipeline sourced from social: $X
+- Opportunities influenced by social: X
+- Responses to social outreach vs. cold: Compare
 
-### Building Relationships
+### Tracking Your Progress
 
-- Identify 20-50 accounts in your space
-- Consistently engage with their content
-- Share their content with credit
-- Eventually collaborate (podcasts, co-created content)
-
-### Handling Negative Comments
-
-- Respond calmly and professionally
-- Don't get defensive
-- Take legitimate criticism offline
-- Block/mute trolls without engaging
-- Let community defend you when appropriate
+**Weekly review:**
+- [ ] Connection requests sent and accepted
+- [ ] Content performance (engagement)
+- [ ] Conversations started
+- [ ] Meetings generated
+- [ ] What content/approach worked?
 
 ---
 
-## Analytics & Optimization
+## Platform-Specific Tactics
 
-### Metrics That Matter
+### LinkedIn Best Practices
 
-**Awareness:**
-- Impressions
-- Reach
-- Follower growth rate
+**Algorithm insights:**
+- First hour engagement matters most
+- Comments > reactions for reach
+- No external links in post body
+- Document posts (carousels) perform well
+- Dwell time signals quality
+
+**Posting cadence:**
+- 3-5 posts per week
+- Best times: 7-8am, 12pm, 5-6pm
+- Tuesday-Thursday highest engagement
+- Consistency matters more than perfection
+
+**Content format performance:**
+1. Document/Carousel posts (highest reach)
+2. Text-only posts (high engagement)
+3. Native video (good for personal brand)
+4. Polls (high engagement, low authority)
+5. Posts with links (lowest reach)
+
+### LinkedIn Sales Navigator
+
+**Key features for social selling:**
+- Lead and account lists
+- InMail credits
+- Advanced search filters
+- Alerts on target accounts
+- TeamLink for mutual connections
+
+**Using Sales Navigator effectively:**
+- Build target account lists
+- Set alerts for job changes, posts
+- Track warm paths through network
+- Monitor intent signals
+
+### Twitter/X for B2B Sales
+
+**When to use:**
+- Tech industry buyers
+- Startup ecosystem
+- Real-time conversations
+- Thought leadership at scale
+
+**Approach:**
+- Follow and engage with target buyers
+- Share industry insights and hot takes
+- Build reputation through valuable threads
+- Use for awareness, LinkedIn for conversion
+
+---
+
+## Daily Social Selling Routine
+
+### 30-Minute Daily Routine
+
+**Morning (15 min):**
+1. Check LinkedIn notifications (2 min)
+2. Respond to comments on your posts (3 min)
+3. Comment on 5 posts from target accounts (10 min)
+
+**Afternoon (15 min):**
+1. Send 3-5 connection requests (5 min)
+2. Start 2-3 conversations from engagement (5 min)
+3. Share/create one piece of content (5 min)
+
+### Weekly Planning (30 min)
+
+**Content planning:**
+- What posts will you publish?
+- What content can you share?
+- What topics are relevant this week?
+
+**Engagement planning:**
+- Which target accounts to focus on?
+- Who should you reach out to?
+- What conversations need follow-up?
+
+**Review and adjust:**
+- What worked last week?
+- What didn't work?
+- What will you do differently?
+
+---
+
+## Social Selling at Scale
+
+### Team Approaches
+
+**Individual sellers:**
+- Personal brand building
+- Direct prospect engagement
+- Relationship-focused
+
+**Team coordination:**
+- Share content across team
+- Coordinate target account coverage
+- Avoid duplicate outreach
+- Leverage each other's networks
+
+**Company support:**
+- Marketing provides shareable content
+- Employee advocacy programs
+- Training and coaching
+- Tools and automation
+
+### Tools for Efficiency
+
+**Content:**
+- Content scheduling tools
+- Company content library
+- Template/swipe file library
 
 **Engagement:**
-- Engagement rate (engagements / impressions)
-- Comments (higher value than likes)
-- Shares/reposts
-- Saves (Instagram)
+- LinkedIn Sales Navigator
+- Feed organization/lists
+- Notification management
 
-**Conversion:**
-- Link clicks
-- Profile visits
-- DMs received
-- Leads/conversions attributed
-
-### What to Track Weekly
-
-- [ ] Top 3 performing posts (why did they work?)
-- [ ] Bottom 3 posts (what can you learn?)
-- [ ] Follower growth trend
-- [ ] Engagement rate trend
-- [ ] Best posting times (from data)
-- [ ] Content pillar performance
-
-### Optimization Actions
-
-**If engagement is low:**
-- Test new hooks
-- Post at different times
-- Try different formats (carousel vs. text)
-- Increase native engagement with others
-- Check if content matches audience interest
-
-**If reach is declining:**
-- Avoid external links in post body
-- Increase posting frequency slightly
-- Engage more in comments
-- Test video/visual content
-- Check for algorithm changes
+**Tracking:**
+- Activity tracking in CRM
+- Social selling scorecards
+- Attribution for social-sourced pipeline
 
 ---
 
-## Platform-Specific Tips
+## Common Social Selling Mistakes
 
-### LinkedIn Algorithm Tips
+### Strategy Mistakes
 
-- First hour engagement matters most
-- Comments > reactions > clicks
-- Dwell time (people reading) signals quality
-- No external links in post body
-- Document posts (carousels) get strong reach
-- Polls drive engagement but don't build authority
+**All broadcast, no engagement:**
+- Posting but not commenting
+- Content without conversation
+- Missing the "social" in social selling
 
-### Twitter/X Algorithm Tips
+**Treating it like email:**
+- Pitch-slapping new connections
+- Template messages at scale
+- No personalization
 
-- Replies and quote tweets build authority
-- Threads keep people on platform (rewarded)
-- Images and video get more reach
-- Engagement in first 30 min matters
-- Twitter Blue/Premium may boost reach
+**Inconsistency:**
+- Active for a week, then disappear
+- Sporadic posting
+- Giving up before results
 
-### Instagram Algorithm Tips
+### Execution Mistakes
 
-- Reels heavily prioritized over static posts
-- Saves and shares > likes
-- Stories keep you top of feed
-- Consistency matters more than perfection
-- Use all features (polls, questions, etc.)
+**Wrong targeting:**
+- Connecting with anyone
+- Not focusing on buyers
+- Vanity metrics over quality
 
----
+**Poor timing:**
+- Pitching too early
+- Not nurturing relationships
+- Rushing the process
 
-## Content Ideas by Situation
-
-### When You're Starting Out
-
-- Document your journey
-- Share what you're learning
-- Curate and comment on industry content
-- Ask questions to your audience
-- Engage heavily with established accounts
-
-### When You're Established
-
-- Share original data and insights
-- Tell customer success stories
-- Take stronger positions
-- Create signature frameworks
-- Collaborate with peers
-
-### When You're Stuck
-
-- Repurpose old high-performing content
-- Ask your audience what they want
-- Comment on industry news
-- Share a failure or lesson learned
-- Interview someone and share insights
+**Self-centered content:**
+- All about your product
+- No value for the reader
+- Too promotional
 
 ---
 
-## Scheduling Best Practices
+## Measuring ROI
 
-### When to Schedule vs. Post Live
+### Direct Attribution
 
-**Schedule:**
-- Core content posts
-- Threads
-- Carousels
-- Evergreen content
+**Trackable:**
+- Connections who became meetings
+- Pipeline from social outreach
+- Deals where social played a role
+- Responses to social vs. cold outreach
 
-**Post live:**
-- Real-time commentary
-- Responses to news/trends
-- Engagement with others
-- Anything requiring immediate interaction
+### Influenced Attribution
 
-### Queue Management
+**Harder to track but real:**
+- Warmer conversations due to visibility
+- Shorter sales cycles
+- Higher response rates
+- Better relationships
 
-- Maintain 1-2 weeks of scheduled content
-- Review queue weekly for relevance
-- Leave gaps for spontaneous posts
-- Adjust timing based on performance data
+### Building the Case
 
----
-
-## Reverse Engineering Viral Content
-
-Instead of guessing what works, systematically analyze top-performing content in your niche and extract proven patterns.
-
-### The 6-Step Framework
-
-#### 1. NICHE ID — Find Top Creators
-
-Identify 10-20 creators in your space who consistently get high engagement:
-
-**Selection criteria:**
-- Posting consistently (3+ times/week)
-- High engagement rate relative to follower count
-- Audience overlap with your target market
-- Mix of established and rising creators
-
-**Where to find them:**
-- LinkedIn: Search by industry keywords, check "People also viewed"
-- Twitter/X: Check who your target audience follows and engages with
-- Use tools like SparkToro, Followerwonk, or manual research
-- Look at who gets featured in industry newsletters
-
-#### 2. SCRAPE — Collect Posts at Scale
-
-Gather 500-1000+ posts from your identified creators for analysis:
-
-**Tools:**
-- **Apify** — LinkedIn scraper, Twitter scraper actors
-- **Phantom Buster** — Multi-platform automation
-- **Export tools** — Platform-specific export features
-- **Manual collection** — For smaller datasets, copy/paste into spreadsheet
-
-**Data to collect:**
-- Post text/content
-- Engagement metrics (likes, comments, shares, saves)
-- Post format (text-only, carousel, video, image)
-- Posting time/day
-- Hook/first line
-- CTA used
-- Topic/theme
-
-#### 3. ANALYZE — Extract What Actually Works
-
-Sort and analyze the data to find patterns:
-
-**Quantitative analysis:**
-- Rank posts by engagement rate
-- Identify top 10% performers
-- Look for format patterns (do carousels outperform?)
-- Check timing patterns (best days/times)
-- Compare topic performance
-
-**Qualitative analysis:**
-- What hooks do top posts use?
-- How long are high-performing posts?
-- What emotional triggers appear?
-- What formats repeat?
-- What topics consistently perform?
-
-**Questions to answer:**
-- What's the average length of top posts?
-- Which hook types appear most in top 10%?
-- What CTAs drive most comments?
-- What topics get saved/shared most?
-
-#### 4. PLAYBOOK — Codify Patterns
-
-Document repeatable patterns you can use:
-
-**Hook patterns to codify:**
-```
-Pattern: "I [unexpected action] and [surprising result]"
-Example: "I stopped posting daily and my engagement doubled"
-Why it works: Curiosity gap + contrarian
-
-Pattern: "[Specific number] [things] that [outcome]:"
-Example: "7 pricing mistakes that cost me $50K:"
-Why it works: Specificity + loss aversion
-
-Pattern: "[Controversial take]"
-Example: "Cold outreach is dead."
-Why it works: Pattern interrupt + invites debate
-```
-
-**Format patterns:**
-- Carousel: Hook slide → Problem → Solution steps → CTA
-- Thread: Hook → Promise → Deliver → Recap → CTA
-- Story post: Hook → Setup → Conflict → Resolution → Lesson
-
-**CTA patterns:**
-- Question: "What would you add?"
-- Agreement: "Agree or disagree?"
-- Share: "Tag someone who needs this"
-- Save: "Save this for later"
-
-#### 5. LAYER VOICE — Apply Direct Response Principles
-
-Take proven patterns and make them yours with these voice principles:
-
-**"Smart friend who figured something out"**
-- Write like you're texting advice to a friend
-- Share discoveries, not lectures
-- Use "I found that..." not "You should..."
-- Be helpful, not preachy
-
-**Specific > Vague**
-```
-❌ "I made good revenue"
-✅ "I made $47,329"
-
-❌ "It took a while"
-✅ "It took 47 days"
-
-❌ "A lot of people"
-✅ "2,847 people"
-```
-
-**Short. Breathe. Land.**
-- One idea per sentence
-- Use line breaks liberally
-- Let important points stand alone
-- Create rhythm: short, short, longer explanation
-
-```
-❌ "I spent three years building my business the wrong way before I finally realized that the key to success was focusing on fewer things and doing them exceptionally well."
-
-✅ "I built wrong for 3 years.
-
-Then I figured it out.
-
-Focus on less.
-Do it exceptionally well.
-
-Everything changed."
-```
-
-**Write from emotion**
-- Start with how you felt, not what you did
-- Use emotional words: frustrated, excited, terrified, obsessed
-- Show vulnerability when authentic
-- Connect the feeling to the lesson
-
-```
-❌ "Here's what I learned about pricing"
-
-✅ "I was terrified to raise my prices.
-
-My hands were shaking when I sent the email.
-
-Here's what happened..."
-```
-
-#### 6. CONVERT — Turn Attention into Action
-
-Bridge from engagement to business results:
-
-**Soft conversions:**
-- Newsletter signups in bio/comments
-- Free resource offers in follow-up comments
-- DM triggers ("Comment X and I'll send you...")
-- Profile visits → optimized profile with clear CTA
-
-**Direct conversions:**
-- Link in comments (not post body on LinkedIn)
-- Contextual product mentions within valuable content
-- Case study posts that naturally showcase your work
-- "If you want help with this, DM me" (sparingly)
-
-### Output: Proven Patterns + Right Voice = Performance
-
-The formula:
-```
-1. Find what's already working (don't guess)
-2. Extract the patterns (hooks, formats, CTAs)
-3. Layer your authentic voice on top
-4. Test and iterate based on your own data
-```
-
-### Reverse Engineering Checklist
-
-- [ ] Identified 10-20 top creators in niche
-- [ ] Collected 500+ posts for analysis
-- [ ] Ranked by engagement rate
-- [ ] Documented top 10 hook patterns
-- [ ] Documented top 5 format patterns
-- [ ] Documented top 5 CTA patterns
-- [ ] Created voice guidelines (specificity, brevity, emotion)
-- [ ] Built template library from patterns
-- [ ] Set up tracking for your own content performance
+**Compare:**
+- Response rates: Social vs. cold
+- Meeting rates: Warm connections vs. cold
+- Deal velocity: Socially-engaged vs. not
+- Win rates: With social touchpoints vs. without
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What platform(s) are you focusing on?
-2. What's your current posting frequency?
-3. Do you have existing content to repurpose?
-4. What content has performed well in the past?
-5. How much time can you dedicate weekly?
-6. Are you building personal brand, company brand, or both?
+1. Who are your target buyers (title, industry)?
+2. How much time can you dedicate daily/weekly?
+3. What's your current LinkedIn presence?
+4. Do you have support from marketing?
+5. What's your goal (pipeline, relationship building, specific accounts)?
+6. Are you building personal brand or company presence?
 
 ---
 
 ## Related Skills
 
-- **copywriting**: For longer-form content that feeds social
-- **launch-strategy**: For coordinating social with launches
-- **email-sequence**: For nurturing social audience via email
-- **marketing-psychology**: For understanding what drives engagement
+- **cold-outreach-writing**: For complementary email strategies
+- **sales-tactics**: For broader prospecting approaches
+- **discovery-calls**: For converting social conversations
+- **sales-psychology**: For understanding buyer behavior online
+- **sales-presentations**: For personal branding and positioning

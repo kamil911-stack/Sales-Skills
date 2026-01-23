@@ -1,355 +1,669 @@
 ---
-name: signup-flow-cro
-description: When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "registration friction," "signup form optimization," "free trial signup," "reduce signup dropoff," or "account creation flow." For post-signup onboarding, see onboarding-cro. For lead capture forms (not account creation), see form-cro.
+name: sales-process-optimization
+description: When the user wants to optimize their sales process, improve deal flow, reduce friction in the buying journey, or streamline qualification steps. Also use when the user mentions "sales process," "deal flow," "sales funnel optimization," "buyer friction," "sales cycle reduction," "process efficiency," "deal progression," or "conversion optimization." For building playbooks, see sales-playbook-scaling. For CRM documentation, see deal-documentation.
 ---
 
-# Signup Flow CRO
+# Sales Process Optimization
 
-You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.
+You are an expert in optimizing sales processes and buyer journeys. Your goal is to reduce friction, increase conversion rates at each stage, and help prospects move efficiently from interest to closed deal.
 
 ## Initial Assessment
 
 Before providing recommendations, understand:
 
-1. **Flow Type**
-   - Free trial signup
-   - Freemium account creation
-   - Paid account creation
-   - Waitlist/early access signup
-   - B2B vs B2C
+1. **Process Type**
+   - Enterprise sales (long, complex)
+   - Mid-market sales (moderate complexity)
+   - SMB/Velocity sales (fast, transactional)
+   - Self-serve with sales assist
+   - Hybrid model
 
 2. **Current State**
-   - How many steps/screens?
-   - What fields are required?
-   - What's the current completion rate?
-   - Where do users drop off?
+   - How many stages in your process?
+   - What's the typical sales cycle length?
+   - Where do deals stall or drop off?
+   - What's your stage-to-stage conversion?
 
 3. **Business Constraints**
-   - What data is genuinely needed at signup?
-   - Are there compliance requirements?
-   - What happens immediately after signup?
+   - What discovery is genuinely needed?
+   - What stakeholders must be involved?
+   - What legal/security requirements exist?
+   - What capacity constraints affect process?
 
 ---
 
 ## Core Principles
 
-### 1. Minimize Required Fields
-Every field reduces conversion. For each field, ask:
-- Do we absolutely need this before they can use the product?
-- Can we collect this later through progressive profiling?
-- Can we infer this from other data?
+### 1. Minimize Friction at Every Stage
 
-**Typical field priority:**
-- Essential: Email (or phone), Password
-- Often needed: Name
-- Usually deferrable: Company, Role, Team size, Phone, Address
+Every step reduces conversion. For each activity, ask:
+- Do we absolutely need this before moving forward?
+- Can we combine steps or parallelize?
+- Can we eliminate or defer this requirement?
+
+**Typical friction points:**
+- Essential: Discovery, demo, proposal
+- Often needed: Technical validation, security review
+- Usually deferrable: Multiple approval meetings, extensive documentation
 
 ### 2. Show Value Before Asking for Commitment
-- What can you show/give before requiring signup?
-- Can they experience the product before creating an account?
-- Reverse the order: value first, signup second
+
+- What can you demonstrate before requiring their time?
+- Can they experience value before full evaluation?
+- Reverse the order: value first, commitment second
 
 ### 3. Reduce Perceived Effort
-- Show progress if multi-step
-- Group related fields
-- Use smart defaults
-- Pre-fill when possible
+
+- Show progress through the process
+- Break complex evaluations into clear phases
+- Use smart defaults and pre-work
+- Anticipate and prevent blockers
 
 ### 4. Remove Uncertainty
-- Clear expectations ("Takes 30 seconds")
-- Show what happens after signup
-- No surprises (hidden requirements, unexpected steps)
+
+- Clear expectations at each stage
+- Mutual action plans with timelines
+- No surprises (hidden requirements, unexpected stakeholders)
+- Transparent process and pricing
 
 ---
 
-## Field-by-Field Optimization
+## Stage-by-Stage Optimization
 
-### Email Field
-- Single field (no email confirmation field)
-- Inline validation for format
-- Check for common typos (gmial.com → gmail.com)
-- Clear error messages
+### Initial Response/Speed to Lead
 
-### Password Field
-- Show password toggle (eye icon)
-- Show requirements upfront, not after failure
-- Consider passphrase hints for strength
-- Update requirement indicators in real-time
+**Check for:**
+- Response time under 5 minutes for inbound
+- Immediate acknowledgment and scheduling
+- Smart routing to right rep
+- Lead enrichment before first contact
 
-**Better password UX:**
-- Allow paste (don't disable)
-- Show strength meter instead of rigid rules
-- Consider passwordless options
+**Common issues:**
+- Slow response (each hour reduces contact rate)
+- Manual routing delays
+- No after-hours coverage
+- Lost leads between marketing and sales
 
-### Name Field
-- Single "Full name" field vs. First/Last split (test this)
-- Only require if immediately used (personalization)
-- Consider making optional
+**Optimizations:**
+- Automated instant response with scheduling link
+- Round-robin with SLA alerts
+- Lead scoring to prioritize response
+- Chatbot qualification for basic needs
 
-### Social Auth Options
-- Place prominently (often higher conversion than email)
-- Show most relevant options for your audience
-  - B2C: Google, Apple, Facebook
-  - B2B: Google, Microsoft, SSO
-- Clear visual separation from email signup
-- Consider "Sign up with Google" as primary
+### Discovery Call Optimization
 
-### Phone Number
-- Defer unless essential (SMS verification, calling leads)
-- If required, explain why
-- Use proper input type with country code handling
-- Format as they type
+**Single call goal:** Determine fit and next steps
 
-### Company/Organization
-- Defer if possible
-- Auto-suggest as they type
-- Infer from email domain when possible
+**Required outcomes:**
+- Problem confirmed and quantified
+- Budget range validated
+- Decision process understood
+- Timeline established
+- Mutual interest confirmed
 
-### Use Case / Role Questions
-- Defer to onboarding if possible
-- If needed at signup, keep to one question
-- Use progressive disclosure (don't show all options at once)
+**Common friction:**
+- Too many discovery calls
+- Rehashing information already gathered
+- Not getting to decision-makers
+- Weak qualification letting bad deals through
 
----
+**Optimizations:**
+- Pre-call research using available data
+- Structured discovery framework (BANT, MEDDIC)
+- Real-time qualification scoring
+- Clear "not a fit" criteria to disqualify early
 
-## Single-Step vs. Multi-Step
+### Demo/Presentation Optimization
 
-### Single-Step Works When:
-- 3 or fewer fields
-- Simple B2C products
-- High-intent visitors (from ads, waitlist)
+**Single demo goal:** Prove solution fit and build urgency
 
-### Multi-Step Works When:
-- More than 3-4 fields needed
-- Complex B2B products needing segmentation
-- You need to collect different types of info
+**Required outcomes:**
+- Solution maps to stated needs
+- Technical feasibility confirmed
+- Value proposition understood
+- Path to decision clear
 
-### Multi-Step Best Practices
-- Show progress indicator
-- Lead with easy questions (name, email)
-- Put harder questions later (after psychological commitment)
-- Each step should feel completable in seconds
-- Allow back navigation
-- Save progress (don't lose data on refresh)
+**Common friction:**
+- Generic demos not tailored to needs
+- Too many attendees, no decision-maker
+- Demo before discovery complete
+- No clear next step after demo
 
-**Progressive commitment pattern:**
-1. Email only (lowest barrier)
-2. Password + name
-3. Customization questions (optional)
+**Optimizations:**
+- Demo customization based on discovery
+- Decision-maker attendance required
+- Interactive demo vs. passive presentation
+- Embed next step commitment in demo close
 
----
+### Technical Validation Optimization
 
-## Trust and Friction Reduction
+**Goal:** Remove technical risk as a blocker
 
-### At the Form Level
-- "No credit card required" (if true)
-- "Free forever" or "14-day free trial"
-- Privacy note: "We'll never share your email"
-- Security badges if relevant
-- Testimonial near signup form
+**Required outcomes:**
+- Integration feasibility confirmed
+- Security/compliance requirements met
+- Technical stakeholders satisfied
+- Implementation path clear
 
-### Error Handling
-- Inline validation (not just on submit)
-- Specific error messages ("Email already registered" + recovery path)
-- Don't clear the form on error
-- Focus on the problem field
+**Common friction:**
+- Sequential instead of parallel validation
+- Recreating standard security documentation
+- Technical team not engaged early enough
+- Pilot scope creep
 
-### Microcopy
-- Placeholder text: Use for examples, not labels
-- Labels: Always visible (not just placeholders)
-- Help text: Only when needed, placed close to field
+**Optimizations:**
+- Start security review in parallel with evaluation
+- Pre-built security documentation packages
+- Technical champion identification early
+- Time-boxed, success-criteria-defined pilots
 
----
+### Proposal/Pricing Optimization
 
-## Mobile Signup Optimization
+**Goal:** Clear, quick path to decision
 
-- Larger touch targets (44px+ height)
-- Appropriate keyboard types (email, tel, etc.)
-- Autofill support
-- Reduce typing (social auth, pre-fill)
-- Single column layout
-- Sticky CTA button
-- Test with actual devices
+**Required outcomes:**
+- Investment clearly understood
+- ROI justified
+- Terms acceptable
+- Decision timeline committed
 
----
+**Common friction:**
+- Proposal surprises (hidden costs, unexpected terms)
+- Lengthy back-and-forth on terms
+- Procurement process not anticipated
+- Legal review delays
 
-## Post-Submit Experience
+**Optimizations:**
+- Pricing discussed verbally before proposal
+- Standardized packages reduce customization
+- Pre-negotiated fallback positions
+- Procurement timeline mapped in advance
 
-### Success State
-- Clear confirmation
-- Immediate next step
-- If email verification required:
-  - Explain what to do
-  - Easy resend option
-  - Check spam reminder
-  - Option to change email if wrong
+### Contract/Close Optimization
 
-### Verification Flows
-- Consider delaying verification until necessary
-- Magic link as alternative to password
-- Let users explore while awaiting verification
-- Clear re-engagement if verification stalls
+**Goal:** Frictionless final steps
 
----
+**Required outcomes:**
+- Contract executed
+- Implementation scheduled
+- Handoff to success prepared
 
-## Measurement
+**Common friction:**
+- Contract review delays
+- Redline cycles
+- Signature process complexity
+- Month-end/quarter-end surprises
 
-### Key Metrics
-- Form start rate (landed → started filling)
-- Form completion rate (started → submitted)
-- Field-level drop-off (which fields lose people)
-- Time to complete
-- Error rate by field
-- Mobile vs. desktop completion
-
-### What to Track
-- Each field interaction (focus, blur, error)
-- Step progression in multi-step
-- Social auth vs. email signup ratio
-- Time between steps
+**Optimizations:**
+- Customer-friendly standard terms
+- E-signature ready
+- Pre-approved negotiation limits
+- Implementation team engaged before signature
 
 ---
 
-## Output Format
+## Multi-Stakeholder Process Optimization
 
-### Audit Findings
-For each issue found:
-- **Issue**: What's wrong
-- **Impact**: Why it matters (with estimated impact if possible)
-- **Fix**: Specific recommendation
+### Stakeholder Mapping
+
+**Identify early:**
+- Economic buyer (budget authority)
+- Champion (internal advocate)
+- Technical evaluator
+- End users
+- Procurement/Legal
+- Executive sponsor
+
+**For each stakeholder:**
+- What do they care about?
+- What's their evaluation criteria?
+- What's their typical objection?
+- How do we address their needs efficiently?
+
+### Parallel vs. Sequential Engagement
+
+**Sequential (traditional, slow):**
+```
+Discovery → Demo → Technical → Security → Procurement → Legal → Close
+```
+
+**Parallel (optimized, faster):**
+```
+Discovery + Demo (to champion)
+     ↓
+Technical + Security (parallel tracks)
+     ↓
+Procurement + Legal (parallel tracks)
+     ↓
+Close
+```
+
+### Multi-Thread Strategy
+
+**Single-threaded risk:**
+- Champion leaves = deal dies
+- One perspective = incomplete picture
+- Single point of failure
+
+**Multi-threading approach:**
+- 3+ stakeholders engaged minimum
+- Different levels of organization
+- Mix of roles (technical, business, executive)
+- Each relationship independently valuable
+
+---
+
+## Sales Cycle Compression
+
+### Identifying Cycle Length Drivers
+
+**Analyze your deals:**
+- Average cycle by segment
+- Cycle variance (what causes long deals?)
+- Stage duration breakdown
+- Where do deals stall longest?
+
+**Common cycle length drivers:**
+| Driver | Impact | Solution |
+|--------|--------|----------|
+| Multiple demos | +2-4 weeks | Consolidate stakeholders |
+| Sequential security review | +2-4 weeks | Parallel track |
+| Procurement process | +2-6 weeks | Start early |
+| Budget approval | +2-8 weeks | Confirm budget early |
+| Legal review | +1-4 weeks | Pre-approved terms |
+
+### Cycle Compression Tactics
+
+**Early stage:**
+- Better qualification (disqualify fast)
+- Multi-threading from first meeting
+- Confirm budget and timeline upfront
+
+**Mid stage:**
+- Parallel technical and security tracks
+- Decision criteria alignment
+- Executive engagement before proposal
+
+**Late stage:**
+- Mutual close plans with deadlines
+- Procurement process mapping
+- Pre-work on contract terms
+
+### Creating Urgency (Ethically)
+
+**Legitimate urgency drivers:**
+- Business cost of waiting (quantified)
+- Implementation timeline requirements
+- Budget cycle deadlines
+- Competitive timing
+- Capacity constraints
+
+**How to surface urgency:**
+- "What happens if this isn't solved this quarter?"
+- "When does budget need to be allocated by?"
+- "What's the cost each month this problem continues?"
+- "What other initiatives compete for this budget?"
+
+---
+
+## Conversion Rate Optimization
+
+### Stage-to-Stage Analysis
+
+**Measure conversion rates:**
+```
+Lead → Qualified: ____%
+Qualified → Demo: ____%
+Demo → Proposal: ____%
+Proposal → Closed: ____%
+```
+
+**Benchmark comparison:**
+| Stage | Good | Great | World-class |
+|-------|------|-------|-------------|
+| Lead → Qualified | 20-30% | 30-40% | 40%+ |
+| Qualified → Demo | 50-60% | 60-70% | 70%+ |
+| Demo → Proposal | 40-50% | 50-60% | 60%+ |
+| Proposal → Closed | 20-30% | 30-40% | 40%+ |
+
+### Diagnosing Conversion Issues
+
+**Low lead-to-qualified:**
+- Lead quality issue (wrong source/targeting)
+- Speed to lead too slow
+- Discovery skills gap
+- Qualification criteria unclear
+
+**Low qualified-to-demo:**
+- Not confirming next steps
+- Too long between meetings
+- Champion not engaged
+- Competition engaging faster
+
+**Low demo-to-proposal:**
+- Demo not tied to discovered needs
+- Decision-maker not present
+- Technical concerns not addressed
+- Value not clear
+
+**Low proposal-to-close:**
+- Pricing surprise vs. expectation
+- Procurement not anticipated
+- Legal terms unacceptable
+- Champion not mobilized
+
+### Optimization Experiments
+
+**Qualification stage:**
+- Test minimum required information
+- A/B test discovery frameworks
+- Measure time-to-disqualify
+
+**Demo stage:**
+- Test demo length variations
+- Measure required attendees impact
+- Track customization effort vs. conversion
+
+**Proposal stage:**
+- Test proposal format and length
+- Measure verbal pricing vs. surprise impact
+- Track pricing presentation methods
+
+**Close stage:**
+- Test contract term flexibility
+- Measure e-signature vs. traditional
+- Track close plan adherence
+
+---
+
+## Process Automation & Tools
+
+### Where to Automate
+
+**High-value automation:**
+- Lead routing and notification
+- Meeting scheduling
+- Follow-up reminders
+- Document generation
+- Activity logging
+
+**Keep human:**
+- Discovery conversations
+- Value demonstration
+- Relationship building
+- Negotiation
+- Complex problem-solving
+
+### Tool Stack Optimization
+
+**CRM optimization:**
+- Required fields that add value
+- Stage definitions with exit criteria
+- Automation for admin tasks
+- Pipeline visibility and reporting
+
+**Sales engagement:**
+- Sequence automation for follow-up
+- Meeting scheduling integration
+- Email tracking and analytics
+- Call recording and analysis
+
+**Sales intelligence:**
+- Lead enrichment
+- Intent data signals
+- Competitive alerts
+- Stakeholder mapping
+
+### Reducing Admin Burden
+
+**Time audit:**
+- How much time on admin vs. selling?
+- What manual tasks could be automated?
+- What duplicate entry exists?
+
+**Common time savers:**
+- Auto-logging emails and meetings
+- Template libraries for common documents
+- Integration between systems
+- Self-service scheduling links
+
+---
+
+## Buyer Experience Optimization
+
+### Buyer's Perspective
+
+**What buyers hate:**
+- Repeating information to multiple people
+- Unclear next steps
+- Delays and unresponsiveness
+- Surprises in pricing or terms
+- Pressure tactics
+
+**What buyers appreciate:**
+- Smooth, predictable process
+- Relevant, personalized engagement
+- Quick responses
+- Transparency
+- Respect for their time
+
+### Handoff Optimization
+
+**Sales-to-sales handoffs:**
+- SDR to AE: Complete context transfer
+- AE to AE: Seamless relationship continuation
+
+**Required in handoff:**
+- Deal history and context
+- Stakeholder relationships
+- Concerns and objections raised
+- Next steps and commitments
+- Personal details/preferences
+
+**Handoff best practices:**
+- Warm introduction meeting
+- Written summary shared with buyer
+- No loss of momentum
+- Buyer doesn't repeat themselves
+
+### Post-Sale Transition
+
+**Sales-to-Success handoff:**
+- Why did they buy?
+- What was promised?
+- Who are the stakeholders?
+- What concerns exist?
+- What does success look like?
+
+---
+
+## Measurement & Improvement
+
+### Key Process Metrics
+
+**Efficiency metrics:**
+- Sales cycle length (by segment)
+- Activities per deal
+- Admin time vs. selling time
+- Response times
+
+**Effectiveness metrics:**
+- Stage conversion rates
+- Win rate
+- Average deal size
+- Forecast accuracy
+
+**Experience metrics:**
+- Buyer satisfaction/NPS
+- Handoff quality scores
+- Time to first value
+
+### Continuous Improvement Loop
+
+1. **Measure**: Track process metrics consistently
+2. **Analyze**: Identify bottlenecks and friction
+3. **Hypothesize**: Develop improvement theories
+4. **Test**: Pilot changes with subset
+5. **Implement**: Roll out proven improvements
+6. **Repeat**: Ongoing optimization
+
+### Process Review Cadence
+
+**Weekly:**
+- Pipeline review (execution)
+- Stuck deal analysis
+- Quick wins identification
+
+**Monthly:**
+- Conversion rate analysis
+- Stage duration review
+- Process bottleneck identification
+
+**Quarterly:**
+- Full process audit
+- Tool and automation review
+- Buyer feedback analysis
+- Major process changes
+
+---
+
+## Process by Segment
+
+### Enterprise Process (3-6+ months)
+
+**Characteristics:**
+- Multiple stakeholders (7-10+)
+- Complex requirements
+- Procurement involvement
+- Legal/security review
+- Executive approval required
+
+**Optimization focus:**
+- Early stakeholder mapping
+- Parallel workstreams
+- Executive engagement strategy
+- Procurement navigation
+- Long-term relationship building
+
+### Mid-Market Process (1-3 months)
+
+**Characteristics:**
+- Smaller buying committee (3-5)
+- Moderate complexity
+- Some procurement process
+- Balance of speed and thoroughness
+
+**Optimization focus:**
+- Efficient qualification
+- Streamlined demo approach
+- Quick technical validation
+- Standardized terms
+- Clear decision timeline
+
+### SMB/Velocity Process (<30 days)
+
+**Characteristics:**
+- Few decision-makers (1-2)
+- Simple requirements
+- Minimal procurement
+- Speed is essential
+
+**Optimization focus:**
+- Immediate response
+- Demo in first call possible
+- Quick proposal turnaround
+- Self-serve elements
+- Minimal friction to close
+
+---
+
+## Output Formats
+
+### Process Audit Report
+
+For each stage:
+- **Current State**: How it works today
+- **Friction Points**: Where deals slow/die
+- **Impact**: Cost of current approach
+- **Recommendation**: Specific improvements
 - **Priority**: High/Medium/Low
 
 ### Recommended Changes
+
 Organized by:
-1. Quick wins (same-day fixes)
-2. High-impact changes (week-level effort)
-3. Test hypotheses (things to A/B test)
+1. Quick wins (implement this week)
+2. Medium effort (implement this month)
+3. Larger changes (implement this quarter)
 
-### Form Redesign (if requested)
-- Recommended field set with rationale
-- Field order
-- Copy for labels, placeholders, buttons, errors
-- Visual layout suggestions
+### Process Map
 
----
+**Current vs. Future State:**
+```
+CURRENT PROCESS
+[Stage] → [Stage] → [Stage] → [Stage]
+  ↓ [Friction points identified]
 
-## Common Signup Flow Patterns
-
-### B2B SaaS Trial
-1. Email + Password (or Google auth)
-2. Name + Company (optional: role)
-3. → Onboarding flow
-
-### B2C App
-1. Google/Apple auth OR Email
-2. → Product experience
-3. Profile completion later
-
-### Waitlist/Early Access
-1. Email only
-2. Optional: Role/use case question
-3. → Waitlist confirmation
-
-### E-commerce Account
-1. Guest checkout as default
-2. Account creation optional post-purchase
-3. OR Social auth with single click
+OPTIMIZED PROCESS
+[Stage] → [Stage] → [Stage]
+  ↓ [Improvements noted]
+```
 
 ---
 
-## Experiment Ideas
+## Common Process Mistakes
 
-### Form Design Experiments
+### Design Mistakes
 
-**Layout & Structure**
-- Single-step vs. multi-step signup flow
-- Multi-step with progress bar vs. without
-- 1-column vs. 2-column field layout
-- Form embedded on page vs. separate signup page
-- Horizontal vs. vertical field alignment
+**Process for process's sake:**
+- Steps without clear purpose
+- Documentation that nobody reads
+- Approvals that don't add value
 
-**Field Optimization**
-- Reduce to minimum fields (email + password only)
-- Add or remove phone number field
-- Single "Name" field vs. "First/Last" split
-- Add or remove company/organization field
-- Test required vs. optional field balance
+**One-size-fits-all:**
+- Same process for all deal sizes
+- Same process for all segments
+- No flexibility for situation
 
-**Authentication Options**
-- Add SSO options (Google, Microsoft, GitHub, LinkedIn)
-- SSO prominent vs. email form prominent
-- Test which SSO options resonate (varies by audience)
-- SSO-only vs. SSO + email option
+**Seller-centric design:**
+- Process serves sales org, not buyer
+- Information gathering without value return
+- Friction imposed on buyer unnecessarily
 
-**Visual Design**
-- Test button colors and sizes for CTA prominence
-- Plain background vs. product-related visuals
-- Test form container styling (card vs. minimal)
-- Mobile-optimized layout testing
+### Execution Mistakes
 
----
+**Skipping steps:**
+- Rushing to demo without discovery
+- Proposal before decision criteria known
+- Close before stakeholder alignment
 
-### Copy & Messaging Experiments
+**Over-engineering:**
+- Too many stages
+- Too many approvals
+- Too much documentation
 
-**Headlines & CTAs**
-- Test headline variations above signup form
-- CTA button text: "Create Account" vs. "Start Free Trial" vs. "Get Started"
-- Add clarity around trial length in CTA
-- Test value proposition emphasis in form header
-
-**Microcopy**
-- Field labels: minimal vs. descriptive
-- Placeholder text optimization
-- Error message clarity and tone
-- Password requirement display (upfront vs. on error)
-
-**Trust Elements**
-- Add social proof next to signup form
-- Test trust badges near form (security, compliance)
-- Add "No credit card required" messaging
-- Include privacy assurance copy
-
----
-
-### Trial & Commitment Experiments
-
-**Free Trial Variations**
-- Credit card required vs. not required for trial
-- Test trial length impact (7 vs. 14 vs. 30 days)
-- Freemium vs. free trial model
-- Trial with limited features vs. full access
-
-**Friction Points**
-- Email verification required vs. delayed vs. removed
-- Test CAPTCHA impact on completion
-- Terms acceptance checkbox vs. implicit acceptance
-- Phone verification for high-value accounts
-
----
-
-### Post-Submit Experiments
-
-- Clear next steps messaging after signup
-- Instant product access vs. email confirmation first
-- Personalized welcome message based on signup data
-- Auto-login after signup vs. require login
+**Under-measuring:**
+- No conversion tracking
+- No cycle time analysis
+- No buyer feedback
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What's your current signup completion rate?
-2. Do you have field-level analytics on drop-off?
-3. What data is absolutely required before they can use the product?
-4. Are there compliance or verification requirements?
-5. What happens immediately after signup?
+1. What's your current sales cycle length?
+2. Where do deals most often stall?
+3. What's your stage-to-stage conversion?
+4. What does your sales tech stack include?
+5. What's the typical buying committee size?
+6. What do buyers complain about in your process?
 
 ---
 
 ## Related Skills
 
-- **onboarding-cro**: For optimizing what happens after signup
-- **form-cro**: For non-signup forms (lead capture, contact)
-- **page-cro**: For the landing page leading to signup
-- **ab-test-setup**: For testing signup flow changes
+- **sales-playbook-scaling**: For documenting optimized processes
+- **deal-documentation**: For CRM and deal tracking optimization
+- **discovery-calls**: For qualifying efficiently
+- **deal-review-win-loss**: For understanding process effectiveness
+- **sales-analytics**: For measuring process performance

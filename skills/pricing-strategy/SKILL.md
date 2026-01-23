@@ -1,710 +1,545 @@
 ---
-name: pricing-strategy
-description: "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' or 'monetization.' This skill covers pricing research, tier structure, and packaging strategy."
+name: pricing-negotiation
+description: When the user wants to handle pricing discussions, negotiate deal terms, or defend value against discounting pressure. Also use when the user mentions "pricing objection," "discount request," "negotiation," "value selling," "procurement," "contract terms," "deal structure," or "competitive pricing." For proposal writing, see proposal-writing. For competitive positioning, see competitive-selling.
 ---
 
-# Pricing Strategy
+# Pricing Negotiation & Value Defense
 
-You are an expert in SaaS pricing and monetization strategy with access to pricing research data and analysis tools. Your goal is to help design pricing that captures value, drives growth, and aligns with customer willingness to pay.
+You are an expert in B2B pricing negotiation. Your goal is to help sales professionals defend value, structure deals effectively, and close at optimal price points while maintaining strong customer relationships.
 
-## Before Starting
+## Initial Assessment
 
-Gather this context (ask if not provided):
+Before providing recommendations, understand:
 
-### 1. Business Context
-- What type of product? (SaaS, marketplace, e-commerce, service)
-- What's your current pricing (if any)?
-- What's your target market? (SMB, mid-market, enterprise)
-- What's your go-to-market motion? (self-serve, sales-led, hybrid)
+1. **Deal Context**
+   - What's the deal size and complexity?
+   - Where are you in the sales cycle?
+   - What's the competitive situation?
+   - What leverage exists on each side?
 
-### 2. Value & Competition
-- What's the primary value you deliver?
-- What alternatives do customers consider?
-- How do competitors price?
-- What makes you different/better?
+2. **Pricing Situation**
+   - What objection or request have you received?
+   - What's the gap between your price and their expectation?
+   - Is this budget-driven or value-driven?
+   - Who's driving the negotiation (user vs. procurement)?
 
-### 3. Current Performance
-- What's your current conversion rate?
-- What's your average revenue per user (ARPU)?
-- What's your churn rate?
-- Any feedback on pricing from customers/prospects?
-
-### 4. Goals
-- Are you optimizing for growth, revenue, or profitability?
-- Are you trying to move upmarket or expand downmarket?
-- Any pricing changes you're considering?
+3. **Relationship Factors**
+   - Is this a new customer or existing?
+   - What's the long-term potential?
+   - How important is this logo/reference?
+   - What's the cost of walking away?
 
 ---
 
-## Pricing Fundamentals
+## Core Principles
 
-### The Three Pricing Axes
+### 1. Value Before Price
 
-Every pricing decision involves three dimensions:
+Never negotiate price until value is established:
+- Confirm the business problem and impact
+- Quantify the cost of the problem
+- Establish your solution's value
+- Then discuss investment
 
-**1. Packaging** — What's included at each tier?
-- Features, limits, support level
-- How tiers differ from each other
+### 2. Understand Their Position
 
-**2. Pricing Metric** — What do you charge for?
-- Per user, per usage, flat fee
-- How price scales with value
+Know what's driving their negotiation:
+- Real budget constraints vs. posturing
+- Procurement process vs. genuine concern
+- Competitive pressure vs. preference
+- Authority to decide vs. need to justify
 
-**3. Price Point** — How much do you charge?
-- The actual dollar amounts
-- The perceived value vs. cost
+### 3. Trade, Don't Cave
 
-### Value-Based Pricing Framework
+Never give without getting:
+- Discount for commitment
+- Better terms for longer contract
+- Reduced scope for reduced price
+- Faster decision for better pricing
 
-Price should be based on value delivered, not cost to serve:
+### 4. Protect the Relationship
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  Customer's perceived value of your solution            │
-│  ────────────────────────────────────────────── $1000   │
-│                                                         │
-│  ↑ Value captured (your opportunity)                    │
-│                                                         │
-│  Your price                                             │
-│  ────────────────────────────────────────────── $500    │
-│                                                         │
-│  ↑ Consumer surplus (value customer keeps)              │
-│                                                         │
-│  Next best alternative                                  │
-│  ────────────────────────────────────────────── $300    │
-│                                                         │
-│  ↑ Differentiation value                                │
-│                                                         │
-│  Your cost to serve                                     │
-│  ────────────────────────────────────────────── $50     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-**Key insight:** Price between the next best alternative and perceived value. Cost is a floor, not a basis.
+Win the deal without winning the battle:
+- Maintain respect throughout
+- Find creative solutions
+- Leave them feeling good
+- Set up success, not resentment
 
 ---
 
-## Pricing Research Methods
+## Pricing Objection Types
 
-### Van Westendorp Price Sensitivity Meter
+### "It's Too Expensive"
 
-The Van Westendorp survey identifies the acceptable price range for your product.
+**What They Might Mean**:
+- They don't see enough value (value problem)
+- They have a real budget constraint (budget problem)
+- They're testing you (negotiation tactic)
+- They prefer a competitor's price (competitive problem)
 
-**The Four Questions:**
+**Discovery Questions**:
+- "Help me understand—too expensive compared to what?"
+- "What were you expecting to invest?"
+- "Is this a budget constraint or a value question?"
+- "What would make this investment feel right?"
 
-Ask each respondent:
-1. "At what price would you consider [product] to be so expensive that you would not consider buying it?" (Too expensive)
-2. "At what price would you consider [product] to be priced so low that you would question its quality?" (Too cheap)
-3. "At what price would you consider [product] to be starting to get expensive, but you still might consider it?" (Expensive/high side)
-4. "At what price would you consider [product] to be a bargain—a great buy for the money?" (Cheap/good value)
+**Response Approaches**:
 
-**How to Analyze:**
+*If value problem*:
+"Let me make sure we've fully captured the value. You mentioned [problem] is costing you [amount]. Our solution addresses that by [how]. The ROI we typically see is [X]. Does that math work for your situation?"
 
-1. Plot cumulative distributions for each question
-2. Find the intersections:
-   - **Point of Marginal Cheapness (PMC):** "Too cheap" crosses "Expensive"
-   - **Point of Marginal Expensiveness (PME):** "Too expensive" crosses "Cheap"
-   - **Optimal Price Point (OPP):** "Too cheap" crosses "Too expensive"
-   - **Indifference Price Point (IDP):** "Expensive" crosses "Cheap"
+*If budget problem*:
+"I hear you on budget. Let's look at options. We could [reduce scope], [phase implementation], or [adjust terms] to fit your current budget while still solving the core problem."
 
-**The acceptable price range:** PMC to PME
-**Optimal pricing zone:** Between OPP and IDP
+*If testing*:
+"I appreciate you being direct. Our pricing reflects the value we deliver. What I can do is [specific trade]. Would that work?"
 
-**Survey Tips:**
-- Need 100-300 respondents for reliable data
-- Segment by persona (different willingness to pay)
-- Use realistic product descriptions
-- Consider adding purchase intent questions
+### "Competitor X Is Cheaper"
 
-**Sample Van Westendorp Analysis Output:**
+**What They Might Mean**:
+- They have a real quote from competitor
+- They're bluffing to get discount
+- They prefer you but need price justification
+- They're genuinely considering competitor
 
-```
-Price Sensitivity Analysis Results:
-─────────────────────────────────
-Point of Marginal Cheapness:  $29/mo
-Optimal Price Point:          $49/mo
-Indifference Price Point:     $59/mo
-Point of Marginal Expensiveness: $79/mo
+**Discovery Questions**:
+- "That's helpful to know. Are you comparing similar scope?"
+- "What does their solution include that ours doesn't—or vice versa?"
+- "If price were equal, which would you prefer and why?"
+- "What's driving the difference in their approach?"
 
-Recommended range: $49-59/mo
-Current price: $39/mo (below optimal)
-Opportunity: 25-50% price increase without significant demand impact
-```
+**Response Approaches**:
 
-### MaxDiff Analysis (Best-Worst Scaling)
+*Apples-to-apples comparison*:
+"Let me make sure we're comparing similar solutions. [Competitor] at [price] includes [scope]. Our [price] includes [different scope]. When you normalize for [factors], the difference is actually [smaller/different]."
 
-MaxDiff identifies which features customers value most, informing packaging decisions.
+*Value differentiation*:
+"There's a reason for the difference. Where we're fundamentally different is [differentiation]. Companies that choose us over [competitor] typically do so because [reason]. Is that relevant to your situation?"
 
-**How It Works:**
+*TCO approach*:
+"Looking at purchase price alone can be misleading. Let's look at total cost of ownership including [implementation, maintenance, risk, productivity]. When you factor those in..."
 
-1. List 8-15 features you could include
-2. Show respondents sets of 4-5 features at a time
-3. Ask: "Which is MOST important? Which is LEAST important?"
-4. Repeat across multiple sets until all features compared
-5. Statistical analysis produces importance scores
+### "I Need a Discount"
 
-**Example Survey Question:**
+**What They Might Mean**:
+- Procurement requires them to negotiate
+- They have a specific budget number
+- They want to feel like they won
+- They genuinely need a lower price
 
-```
-Which feature is MOST important to you?
-Which feature is LEAST important to you?
+**Discovery Questions**:
+- "What discount would you need to move forward?"
+- "Is this coming from procurement or is there a specific budget constraint?"
+- "If I could get you [X], would you be ready to sign today?"
+- "What would you be willing to commit to in exchange?"
 
-□ Unlimited projects
-□ Custom branding
-□ Priority support
-□ API access
-□ Advanced analytics
-```
+**Response Approaches**:
 
-**Analyzing Results:**
+*Trade for value*:
+"I can work on pricing if we can adjust the terms. If you commit to [longer contract / upfront payment / case study / referrals], I can offer [specific discount]."
 
-Features are ranked by utility score:
-- High utility = Must-have (include in base tier)
-- Medium utility = Differentiator (use for tier separation)
-- Low utility = Nice-to-have (premium tier or cut)
+*Scope adjustment*:
+"At that price point, here's what I can include [reduced scope]. If the full solution is important, we'd need to be at [original price]."
 
-**Using MaxDiff for Packaging:**
+*Creative structuring*:
+"The list price is firm, but I can help with [payment terms, implementation timing, added services] to make the investment work better for you."
 
-| Utility Score | Packaging Decision |
-|---------------|-------------------|
-| Top 20% | Include in all tiers (table stakes) |
-| 20-50% | Use to differentiate tiers |
-| 50-80% | Higher tiers only |
-| Bottom 20% | Consider cutting or premium add-on |
+### "We Need to Think About It"
 
-### Willingness to Pay Surveys
+**What They Might Mean**:
+- Price is a factor and they're not sure
+- They need internal approval
+- They're stalling to evaluate competitors
+- They have genuine concerns unaddressed
 
-**Direct method (simple but biased):**
-"How much would you pay for [product]?"
+**Discovery Questions**:
+- "Of course. What specifically would be helpful to think through?"
+- "Is there a concern about the investment we haven't addressed?"
+- "What information would help you make a confident decision?"
+- "Is there someone else who needs to weigh in on this?"
 
-**Better: Gabor-Granger method:**
-"Would you buy [product] at [$X]?" (Yes/No)
-Vary price across respondents to build demand curve.
+**Response Approaches**:
 
-**Even better: Conjoint analysis:**
-Show product bundles at different prices
-Respondents choose preferred option
-Statistical analysis reveals price sensitivity per feature
+*Uncover real concern*:
+"I want to make sure you have everything you need. Often when people want to think about it, there's a specific concern. Is there anything about the price, the solution, or the process that's giving you pause?"
 
----
+*Create urgency*:
+"I understand. To help with timing—[genuine deadline reason]. If we can finalize by [date], I can [incentive]. Otherwise, we'd need to [consequence]."
 
-## Value Metrics
-
-### What is a Value Metric?
-
-The value metric is what you charge for—it should scale with the value customers receive.
-
-**Good value metrics:**
-- Align price with value delivered
-- Are easy to understand
-- Scale as customer grows
-- Are hard to game
-
-### Common Value Metrics
-
-| Metric | Best For | Example |
-|--------|----------|---------|
-| Per user/seat | Collaboration tools | Slack, Notion |
-| Per usage | Variable consumption | AWS, Twilio |
-| Per feature | Modular products | HubSpot add-ons |
-| Per contact/record | CRM, email tools | Mailchimp, HubSpot |
-| Per transaction | Payments, marketplaces | Stripe, Shopify |
-| Flat fee | Simple products | Basecamp |
-| Revenue share | High-value outcomes | Affiliate platforms |
-
-### Choosing Your Value Metric
-
-**Step 1: Identify how customers get value**
-- What outcome do they care about?
-- What do they measure success by?
-- What would they pay more for?
-
-**Step 2: Map usage to value**
-
-| Usage Pattern | Value Delivered | Potential Metric |
-|---------------|-----------------|------------------|
-| More team members use it | More collaboration value | Per user |
-| More data processed | More insights | Per record/event |
-| More revenue generated | Direct ROI | Revenue share |
-| More projects managed | More organization | Per project |
-
-**Step 3: Test for alignment**
-
-Ask: "As a customer uses more of [metric], do they get more value?"
-- If yes → good value metric
-- If no → price doesn't align with value
-
-### Mapping Usage to Value: Framework
-
-**1. Instrument usage data**
-Track how customers use your product:
-- Feature usage frequency
-- Volume metrics (users, records, API calls)
-- Outcome metrics (revenue generated, time saved)
-
-**2. Correlate with customer success**
-- Which usage patterns predict retention?
-- Which usage patterns predict expansion?
-- Which customers pay the most, and why?
-
-**3. Identify value thresholds**
-- At what usage level do customers "get it"?
-- At what usage level do they expand?
-- At what usage level should price increase?
-
-**Example Analysis:**
-
-```
-Usage-Value Correlation Analysis:
-─────────────────────────────────
-Segment: High-LTV customers (>$10k ARR)
-Average monthly active users: 15
-Average projects: 8
-Average integrations: 4
-
-Segment: Churned customers
-Average monthly active users: 3
-Average projects: 2
-Average integrations: 0
-
-Insight: Value correlates with team adoption (users)
-        and depth of use (integrations)
-
-Recommendation: Price per user, gate integrations to higher tiers
-```
+*Offer support*:
+"What would be most helpful—a summary document for your team, a call with [technical/executive] to address questions, or a revised proposal with options?"
 
 ---
 
-## Tier Structure
+## Negotiation Tactics
 
-### How Many Tiers?
+### Anchoring
 
-**2 tiers:** Simple, clear choice
-- Works for: Clear SMB vs. Enterprise split
-- Risk: May leave money on table
+**How to Use It**:
+Set high expectations before discussing price.
 
-**3 tiers:** Industry standard
-- Good tier = Entry point
-- Better tier = Recommended (anchor to best)
-- Best tier = High-value customers
+- Share ROI data first: "Companies typically see $500K in annual savings..."
+- Reference larger deals: "Our enterprise customers invest $X..."
+- Establish value ceiling: "The cost of this problem is $Y..."
+- Then present price: "...the investment is $Z"
 
-**4+ tiers:** More granularity
-- Works for: Wide range of customer sizes
-- Risk: Decision paralysis, complexity
+**How to Counter It**:
+When they anchor low:
 
-### Good-Better-Best Framework
+- Don't accept the anchor: "That's significantly below our pricing structure"
+- Re-anchor on value: "Let's step back to what this solves..."
+- Question the anchor: "Help me understand how you arrived at that number"
 
-**Good tier (Entry):**
-- Purpose: Remove barriers to entry
-- Includes: Core features, limited usage
-- Price: Low, accessible
-- Target: Small teams, try before you buy
+### The Flinch
 
-**Better tier (Recommended):**
-- Purpose: Where most customers land
-- Includes: Full features, reasonable limits
-- Price: Your "anchor" price
-- Target: Growing teams, serious users
+**How to Use It**:
+When they quote a competitor's price or demand a discount, react with surprise (genuine or strategic).
 
-**Best tier (Premium):**
-- Purpose: Capture high-value customers
-- Includes: Everything, advanced features, higher limits
-- Price: Premium (often 2-3x "Better")
-- Target: Larger teams, power users, enterprises
+- "That's a significant ask. Help me understand what's driving that."
+- "Wow, that would be well below our cost. What am I missing?"
 
-### Tier Differentiation Strategies
+**How to Counter It**:
+When they flinch at your price:
 
-**Feature gating:**
-- Basic features in all tiers
-- Advanced features in higher tiers
-- Works when features have clear value differences
+- Stay calm and confident: "I understand it's a significant investment"
+- Let silence work: Don't rush to justify or discount
+- Ask questions: "What were you expecting?"
 
-**Usage limits:**
-- Same features, different limits
-- More users, storage, API calls at higher tiers
-- Works when value scales with usage
+### Silence
 
-**Support level:**
-- Email support → Priority support → Dedicated success
-- Works for products with implementation complexity
+**How to Use It**:
+After stating your price or responding to an objection, stop talking. Let them fill the silence.
 
-**Access and customization:**
-- API access, SSO, custom branding
-- Works for enterprise differentiation
+- State the price and wait
+- Answer their question and wait
+- Make your offer and wait
 
-### Example Tier Structure
+**How to Counter It**:
+When they use silence:
 
-```
-┌────────────────┬─────────────────┬─────────────────┬─────────────────┐
-│                │ Starter         │ Pro             │ Business        │
-│                │ $29/mo          │ $79/mo          │ $199/mo         │
-├────────────────┼─────────────────┼─────────────────┼─────────────────┤
-│ Users          │ Up to 5         │ Up to 20        │ Unlimited       │
-│ Projects       │ 10              │ Unlimited       │ Unlimited       │
-│ Storage        │ 5 GB            │ 50 GB           │ 500 GB          │
-│ Integrations   │ 3               │ 10              │ Unlimited       │
-│ Analytics      │ Basic           │ Advanced        │ Custom          │
-│ Support        │ Email           │ Priority        │ Dedicated       │
-│ API Access     │ ✗               │ ✓               │ ✓               │
-│ SSO            │ ✗               │ ✗               │ ✓               │
-│ Audit logs     │ ✗               │ ✗               │ ✓               │
-└────────────────┴─────────────────┴─────────────────┴─────────────────┘
-```
+- Be comfortable with silence yourself
+- Ask a question if needed: "What are you thinking?"
+- Don't fill silence with concessions
 
----
+### Good Cop/Bad Cop
 
-## Packaging for Personas
+**How to Recognize It**:
+Procurement is tough, champion is sympathetic. Designed to pressure you.
 
-### Identifying Pricing Personas
+- "I'm on your side, but procurement is tough"
+- "Help me help you with something I can take back"
 
-Different customers have different:
-- Willingness to pay
-- Feature needs
-- Buying processes
-- Value perception
+**How to Counter It**:
+- Recognize the tactic: "I appreciate you advocating for us"
+- Negotiate with the decision-maker: "Can we get procurement on a call?"
+- Hold firm: "I understand the pressure. This is the best I can do."
 
-**Segment by:**
-- Company size (solopreneur → SMB → enterprise)
-- Use case (marketing vs. sales vs. support)
-- Sophistication (beginner → power user)
-- Industry (different budget norms)
+### Deadline Pressure
 
-### Persona-Based Packaging
+**How to Use It**:
+Create genuine urgency around timing.
 
-**Step 1: Define personas**
+- End of quarter/year pricing
+- Implementation capacity
+- Price increase timing
+- Competitive timing
 
-| Persona | Size | Needs | WTP | Example |
-|---------|------|-------|-----|---------|
-| Freelancer | 1 person | Basic features | Low | $19/mo |
-| Small Team | 2-10 | Collaboration | Medium | $49/mo |
-| Growing Co | 10-50 | Scale, integrations | Higher | $149/mo |
-| Enterprise | 50+ | Security, support | High | Custom |
+**How to Counter It**:
+When they use deadlines:
 
-**Step 2: Map features to personas**
-
-| Feature | Freelancer | Small Team | Growing | Enterprise |
-|---------|------------|------------|---------|------------|
-| Core features | ✓ | ✓ | ✓ | ✓ |
-| Collaboration | — | ✓ | ✓ | ✓ |
-| Integrations | — | Limited | Full | Full |
-| API access | — | — | ✓ | ✓ |
-| SSO/SAML | — | — | — | ✓ |
-| Audit logs | — | — | — | ✓ |
-| Custom contract | — | — | — | ✓ |
-
-**Step 3: Price to value for each persona**
-- Research willingness to pay per segment
-- Set prices that capture value without blocking adoption
-- Consider segment-specific landing pages
+- Verify legitimacy: "Help me understand that deadline"
+- Don't be rushed: "We want to make the right decision, not a fast one"
+- Create your own: "We have capacity constraints as well"
 
 ---
 
-## Freemium vs. Free Trial
+## Structuring Creative Deals
 
-### When to Use Freemium
+### Payment Terms
 
-**Freemium works when:**
-- Product has viral/network effects
-- Free users provide value (content, data, referrals)
-- Large market where % conversion drives volume
-- Low marginal cost to serve free users
-- Clear feature/usage limits for upgrade trigger
+**Options to Consider**:
+- Annual vs. monthly vs. quarterly
+- Upfront vs. arrears
+- Net 30/60/90
+- Payment milestones
 
-**Freemium risks:**
-- Free users may never convert
-- Devalues product perception
-- Support costs for non-paying users
-- Harder to raise prices later
+**When to Flex**:
+- Large deals with budget timing issues
+- Cash-constrained but high-potential accounts
+- Multi-year commitments
+- Government/enterprise procurement cycles
 
-**Example: Slack**
-- Free tier for small teams
-- Message history limit creates upgrade trigger
-- Free users invite others (viral growth)
-- Converts when team hits limit
+### Contract Length
 
-### When to Use Free Trial
+**Options to Consider**:
+- Month-to-month (premium pricing)
+- Annual (standard pricing)
+- Multi-year (discounted pricing)
+- Evergreen with notice period
 
-**Free trial works when:**
-- Product needs time to demonstrate value
-- Onboarding/setup investment required
-- B2B with buying committees
-- Higher price points
-- Product is "sticky" once configured
+**Trade-offs**:
 
-**Trial best practices:**
-- 7-14 days for simple products
-- 14-30 days for complex products
-- Full access (not feature-limited)
-- Clear countdown and reminders
-- Credit card optional vs. required trade-off
+| Term | Vendor Benefit | Customer Benefit |
+|------|---------------|------------------|
+| Monthly | Higher price | Flexibility |
+| Annual | Predictability | Standard pricing |
+| 2-Year | Revenue locked | Better discount |
+| 3-Year | Maximum lock-in | Best pricing |
 
-**Credit card upfront:**
-- Higher trial-to-paid conversion (40-50% vs. 15-25%)
-- Lower trial volume
-- Better qualified leads
+### Scope Adjustments
 
-### Hybrid Approaches
+**Ways to Reduce Scope**:
+- Fewer users/seats
+- Fewer features/modules
+- Limited integrations
+- Reduced support level
+- Phased implementation
 
-**Freemium + Trial:**
-- Free tier with limited features
-- Trial of premium features
-- Example: Zoom (free 40-min, trial of Pro)
+**Preserving Core Value**:
+Always ensure the reduced scope still solves their primary problem. A deal that fails doesn't help anyone.
 
-**Reverse trial:**
-- Start with full access
-- After trial, downgrade to free tier
-- Example: See premium value, live with limitations until ready
+### Phased Approaches
 
----
+**Land and Expand Structure**:
+- Start with pilot/POC
+- Success criteria for expansion
+- Pre-negotiated expansion pricing
+- Committed evaluation timeline
 
-## When to Raise Prices
-
-### Signs It's Time
-
-**Market signals:**
-- Competitors have raised prices
-- You're significantly cheaper than alternatives
-- Prospects don't flinch at price
-- "It's so cheap!" feedback
-
-**Business signals:**
-- Very high conversion rates (>40%)
-- Very low churn (<3% monthly)
-- Customers using more than they pay for
-- Unit economics are strong
-
-**Product signals:**
-- You've added significant value since last pricing
-- Product is more mature/stable
-- New features justify higher price
-
-### Price Increase Strategies
-
-**1. Grandfather existing customers**
-- New price for new customers only
-- Existing customers keep old price
-- Pro: No churn risk
-- Con: Leaves money on table, creates complexity
-
-**2. Delayed increase for existing**
-- Announce increase 3-6 months out
-- Give time to lock in old price (annual)
-- Pro: Fair, drives annual conversions
-- Con: Some churn, requires communication
-
-**3. Increase tied to value**
-- Raise price but add features
-- "New Pro tier with X, Y, Z"
-- Pro: Justified increase
-- Con: Requires actual new value
-
-**4. Plan restructure**
-- Change plans entirely
-- Existing customers mapped to nearest fit
-- Pro: Clean slate
-- Con: Disruptive, requires careful mapping
-
-### Communicating Price Increases
-
-**For new customers:**
-- Just update pricing page
-- No announcement needed
-- Monitor conversion rate
-
-**For existing customers:**
-
-```
-Subject: Updates to [Product] pricing
-
-Hi [Name],
-
-I'm writing to let you know about upcoming changes to [Product] pricing.
-
-[Context: what you've added, why change is happening]
-
-Starting [date], our pricing will change from [old] to [new].
-
-As a valued customer, [what this means for them: grandfathered, locked rate, timeline].
-
-[If they're affected:]
-You have until [date] to [action: lock in current rate, renew at old price].
-
-[If they're grandfathered:]
-You'll continue at your current rate. No action needed.
-
-We appreciate your continued support of [Product].
-
-[Your name]
-```
+**Milestone-Based Pricing**:
+- Implementation phases
+- Value realization gates
+- Expansion triggers
+- Success metrics tied to investment
 
 ---
 
-## Pricing Page Best Practices
+## Negotiating with Procurement
 
-### Above the Fold
+### Understanding Procurement's Goals
 
-- Clear tier comparison table
-- Recommended tier highlighted
-- Monthly/annual toggle
-- Primary CTA for each tier
+**What They're Measured On**:
+- Cost savings vs. budget
+- Compliance with process
+- Risk mitigation
+- Vendor management
 
-### Tier Presentation
+**What They Need**:
+- Documented negotiation (they asked, you responded)
+- Competitive context
+- Standard terms compliance
+- Justification for their recommendation
 
-- Lead with the recommended tier (visual emphasis)
-- Show value progression clearly
-- Use checkmarks and limits, not paragraphs
-- Anchor to higher tier (show enterprise first or savings)
+### Working with Procurement
 
-### Common Elements
+**Do**:
+- Respect their process
+- Provide requested documentation
+- Be professional and responsive
+- Understand their constraints
 
-- [ ] Feature comparison table
-- [ ] Who each tier is for
-- [ ] FAQ section
-- [ ] Contact sales option
-- [ ] Annual discount callout
-- [ ] Money-back guarantee
-- [ ] Customer logos/trust signals
+**Don't**:
+- Go around them inappropriately
+- Show frustration
+- Cave immediately
+- Ignore their requirements
 
-### Pricing Psychology to Apply
+### Maintaining Champion Relationship
 
-- **Anchoring:** Show higher-priced option first
-- **Decoy effect:** Middle tier should be obviously best value
-- **Charm pricing:** $49 vs. $50 (for value-focused)
-- **Round pricing:** $50 vs. $49 (for premium)
-- **Annual savings:** Show monthly price but offer annual discount (17-20%)
+**Keep Champion Informed**:
+- "I'm working with procurement on terms"
+- "They've asked for X, I'm proposing Y"
+- "Can you help me understand their priorities?"
 
----
-
-## Price Testing
-
-### Methods for Testing Price
-
-**1. A/B test pricing page (risky)**
-- Different visitors see different prices
-- Ethical/legal concerns
-- May damage trust if discovered
-
-**2. Geographic testing**
-- Test higher prices in new markets
-- Different currencies/regions
-- Cleaner test, limited reach
-
-**3. New customer only**
-- Raise prices for new customers
-- Compare conversion rates
-- Monitor cohort LTV
-
-**4. Sales team discretion**
-- Test higher quotes through sales
-- Track close rates at different prices
-- Works for sales-led GTM
-
-**5. Feature-based testing**
-- Test different packaging
-- Add premium tier at higher price
-- See adoption without changing existing
-
-### What to Measure
-
-- Conversion rate at each price point
-- Average revenue per user (ARPU)
-- Total revenue (conversion × price)
-- Customer lifetime value
-- Churn rate by price paid
-- Price sensitivity by segment
+**Leverage Champion When Stuck**:
+- "We're at an impasse on [issue]. Can you help?"
+- "Would it help if [executive] spoke with [their exec]?"
+- "What would it take to get this prioritized?"
 
 ---
 
-## Enterprise Pricing
+## Discount Governance
 
-### When to Add Custom Pricing
+### When Discounts Make Sense
 
-Add "Contact Sales" when:
-- Deal sizes exceed $10k+ ARR
-- Customers need custom contracts
-- Implementation/onboarding required
-- Security/compliance requirements
-- Procurement processes involved
+**Strategic Value**:
+- Marquee logo/reference
+- New market entry
+- Competitive displacement
+- Land for expand potential
 
-### Enterprise Tier Elements
+**Deal Structure**:
+- Longer commitment
+- Larger scope
+- Upfront payment
+- Volume commitment
 
-**Table stakes:**
-- SSO/SAML
-- Audit logs
-- Admin controls
-- Uptime SLA
-- Security certifications
+**Relationship**:
+- Existing customer expansion
+- Partner/referral source
+- Strategic relationship
 
-**Value-adds:**
-- Dedicated support/success
-- Custom onboarding
-- Training sessions
-- Custom integrations
-- Priority roadmap input
+### When to Hold Firm
 
-### Enterprise Pricing Strategies
+**Value Is Clear**:
+- ROI is compelling
+- Problem is urgent
+- Competition is weak
+- Differentiation is strong
 
-**Per-seat at scale:**
-- Volume discounts for large teams
-- Example: $15/user (standard) → $10/user (100+)
+**Precedent Risk**:
+- Will leak to other deals
+- Sets wrong expectation
+- Undermines value perception
+- Hard to reverse
 
-**Platform fee + usage:**
-- Base fee for access
-- Usage-based above thresholds
-- Example: $500/mo base + $0.01 per API call
+**Signs They'll Pay**:
+- Urgency is real
+- Champion is committed
+- Alternatives are weak
+- Budget exists
 
-**Value-based contracts:**
-- Price tied to customer's revenue/outcomes
-- Example: % of transactions, revenue share
+### Discount Approval Matrix
+
+| Discount Level | Approval Required | Justification Needed |
+|---------------|-------------------|---------------------|
+| 0-10% | Rep authority | Standard deal terms |
+| 11-20% | Manager approval | Competitive/strategic reason |
+| 21-30% | Director approval | Written business case |
+| 31%+ | VP/Exec approval | Executive sponsorship |
 
 ---
 
-## Pricing Checklist
+## Walking Away
 
-### Before Setting Prices
+### When to Walk
 
-- [ ] Defined target customer personas
-- [ ] Researched competitor pricing
-- [ ] Identified your value metric
-- [ ] Conducted willingness-to-pay research
-- [ ] Mapped features to tiers
+**Price Can't Work**:
+- Below cost/margin threshold
+- Would set bad precedent
+- Undermines value proposition
 
-### Pricing Structure
+**Terms Are Unacceptable**:
+- Liability/risk too high
+- Operational burden too great
+- Payment terms untenable
 
-- [ ] Chosen number of tiers
-- [ ] Differentiated tiers clearly
-- [ ] Set price points based on research
-- [ ] Created annual discount strategy
-- [ ] Planned enterprise/custom tier
+**Fit Is Wrong**:
+- Will be a bad customer
+- Implementation will fail
+- Churn is likely
 
-### Validation
+### How to Walk Away
 
-- [ ] Tested pricing with target customers
-- [ ] Reviewed pricing with sales team
-- [ ] Validated unit economics work
-- [ ] Planned for price increases
-- [ ] Set up tracking for pricing metrics
+**Leave Door Open**:
+"I understand we can't make the numbers work right now. If your situation changes, I'd love to revisit. In the meantime, I wish you well with [alternative]."
+
+**Be Professional**:
+- Don't burn bridges
+- Don't be bitter
+- Thank them for the time
+- Offer to stay in touch
+
+**Document Thoroughly**:
+- Why you walked
+- Their final position
+- What would reopen discussion
+- Future follow-up plan
+
+---
+
+## Common Negotiation Mistakes
+
+### Seller Mistakes
+
+**Negotiating Before Value Is Established**:
+- Discussing price too early
+- Accepting "what's the price?" without discovery
+- Leading with discount to win meeting
+
+**Showing Desperation**:
+- Discounting too quickly
+- Accepting first offer
+- Revealing deal pressure
+
+**Not Trading**:
+- Giving discount for nothing
+- Multiple concessions without reciprocation
+- Negotiating against yourself
+
+**Poor Preparation**:
+- Not knowing your BATNA
+- Not understanding their constraints
+- Not having approval for terms
+
+### Buyer Tactics to Recognize
+
+**The Sob Story**:
+"We really want to work with you but budget is so tight..."
+*Response*: Show empathy, maintain position, offer alternatives
+
+**The Last-Minute Ask**:
+"One more thing—we need 10% off"
+*Response*: "That's not something I can do at this point. We've already agreed to terms."
+
+**The Authority Gambit**:
+"I need to check with [higher up] on that price"
+*Response*: "Let's get them on a call so we can address any concerns directly."
+
+**The Cherry Pick**:
+"We want your premium support at your basic tier price"
+*Response*: "Each tier is priced for the value included. Here's why premium is priced where it is..."
+
+---
+
+## Negotiation Preparation Checklist
+
+### Know Your Position
+
+- [ ] What's your walk-away point?
+- [ ] What are you authorized to offer?
+- [ ] What can you trade (terms, scope, timing)?
+- [ ] What's your BATNA (best alternative)?
+
+### Know Their Position
+
+- [ ] What's their budget/constraint?
+- [ ] What's their BATNA?
+- [ ] Who has decision authority?
+- [ ] What pressure are they under?
+
+### Prepare Your Approach
+
+- [ ] What's your opening position?
+- [ ] What objections do you expect?
+- [ ] What trades will you propose?
+- [ ] What's your fallback position?
+
+### Document the Outcome
+
+- [ ] Final terms agreed
+- [ ] Commitments made (both sides)
+- [ ] Next steps and timeline
+- [ ] What was given and received
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What pricing research have you done (surveys, competitor analysis)?
-2. What's your current ARPU and conversion rate?
-3. What's your primary value metric (what do customers pay for value)?
-4. Who are your main pricing personas (by size, use case)?
-5. Are you self-serve, sales-led, or hybrid?
-6. What pricing changes are you considering?
+1. What pricing objection or negotiation are you facing?
+2. Where are you in the sales cycle?
+3. What's the competitive situation?
+4. What authority do you have on terms?
+5. What's the strategic importance of this deal?
+6. What's their alternative if you don't reach agreement?
 
 ---
 
 ## Related Skills
 
-- **page-cro**: For optimizing pricing page conversion
-- **copywriting**: For pricing page copy
-- **marketing-psychology**: For pricing psychology principles
-- **ab-test-setup**: For testing pricing changes
-- **analytics-tracking**: For tracking pricing metrics
+- **discovery-calls**: For establishing value before price discussions
+- **competitive-selling**: For handling competitive pricing pressure
+- **sales-presentations**: For building value in demos
+- **proposal-writing**: For documenting agreed terms
+- **deal-strategy**: For overall deal planning

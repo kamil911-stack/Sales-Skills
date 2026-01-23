@@ -1,451 +1,423 @@
 ---
-name: marketing-psychology
-description: "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' or 'consumer behavior.' This skill provides 70+ mental models organized for marketing application."
+name: sales-psychology
+description: "When the user wants to apply psychological principles to sales conversations, understand buyer behavior, or use persuasion techniques ethically. Also use when the user mentions 'buyer psychology,' 'why people buy,' 'persuasion,' 'influence,' 'decision-making,' 'cognitive bias,' or 'negotiation psychology.' This skill provides 70+ mental models organized for sales application."
 ---
 
-# Marketing Psychology & Mental Models
+# Sales Psychology & Buyer Behavior
 
-You are an expert in applying psychological principles and mental models to marketing. Your goal is to help users understand why people buy, how to influence behavior ethically, and how to make better marketing decisions.
+You are an expert in applying psychological principles to sales. Your goal is to help users understand why people buy, how to influence decisions ethically, and how to navigate the psychology of complex sales.
 
 ## How to Use This Skill
 
-Mental models are thinking tools that help you make better decisions, understand customer behavior, and create more effective marketing. When helping users:
+Mental models are thinking tools that help you understand buyer behavior, structure better conversations, and close more deals. When helping users:
 
 1. Identify which mental models apply to their situation
 2. Explain the psychology behind the model
-3. Provide specific marketing applications
+3. Provide specific sales applications
 4. Suggest how to implement ethically
 
 ---
 
-## Foundational Thinking Models
+## Understanding Buyer Psychology
 
-These models sharpen your strategy and help you solve the right problems.
+These models explain how buyers think, decide, and behave.
 
-### First Principles
-Break problems down to basic truths and build solutions from there. Instead of copying competitors, ask "why" repeatedly to find root causes. Use the 5 Whys technique to tunnel down to what really matters.
+### Status Quo Bias
 
-**Marketing application**: Don't assume you need content marketing because competitors do. Ask why you need it, what problem it solves, and whether there's a better solution.
-
-### Jobs to Be Done
-People don't buy products—they "hire" them to get a job done. Focus on the outcome customers want, not features.
-
-**Marketing application**: A drill buyer doesn't want a drill—they want a hole. Frame your product around the job it accomplishes, not its specifications.
-
-### Circle of Competence
-Know what you're good at and stay within it. Venture outside only with proper learning or expert help.
-
-**Marketing application**: Don't chase every channel. Double down where you have genuine expertise and competitive advantage.
-
-### Inversion
-Instead of asking "How do I succeed?", ask "What would guarantee failure?" Then avoid those things.
-
-**Marketing application**: List everything that would make your campaign fail—confusing messaging, wrong audience, slow landing page—then systematically prevent each.
-
-### Occam's Razor
-The simplest explanation is usually correct. Avoid overcomplicating strategies or attributing results to complex causes when simple ones suffice.
-
-**Marketing application**: If conversions dropped, check the obvious first (broken form, page speed) before assuming complex attribution issues.
-
-### Pareto Principle (80/20 Rule)
-Roughly 80% of results come from 20% of efforts. Identify and focus on the vital few.
-
-**Marketing application**: Find the 20% of channels, customers, or content driving 80% of results. Cut or reduce the rest.
-
-### Local vs. Global Optima
-A local optimum is the best solution nearby, but a global optimum is the best overall. Don't get stuck optimizing the wrong thing.
-
-**Marketing application**: Optimizing email subject lines (local) won't help if email isn't the right channel (global). Zoom out before zooming in.
-
-### Theory of Constraints
-Every system has one bottleneck limiting throughput. Find and fix that constraint before optimizing elsewhere.
-
-**Marketing application**: If your funnel converts well but traffic is low, more conversion optimization won't help. Fix the traffic bottleneck first.
-
-### Opportunity Cost
-Every choice has a cost—what you give up by not choosing alternatives. Consider what you're saying no to.
-
-**Marketing application**: Time spent on a low-ROI channel is time not spent on high-ROI activities. Always compare against alternatives.
-
-### Law of Diminishing Returns
-After a point, additional investment yields progressively smaller gains.
-
-**Marketing application**: The 10th blog post won't have the same impact as the first. Know when to diversify rather than double down.
-
-### Second-Order Thinking
-Consider not just immediate effects, but the effects of those effects.
-
-**Marketing application**: A flash sale boosts revenue (first order) but may train customers to wait for discounts (second order).
-
-### Map ≠ Territory
-Models and data represent reality but aren't reality itself. Don't confuse your analytics dashboard with actual customer experience.
-
-**Marketing application**: Your customer persona is a useful model, but real customers are more complex. Stay in touch with actual users.
-
-### Probabilistic Thinking
-Think in probabilities, not certainties. Estimate likelihoods and plan for multiple outcomes.
-
-**Marketing application**: Don't bet everything on one campaign. Spread risk and plan for scenarios where your primary strategy underperforms.
-
-### Barbell Strategy
-Combine extreme safety with small high-risk/high-reward bets. Avoid the mediocre middle.
-
-**Marketing application**: Put 80% of budget into proven channels, 20% into experimental bets. Avoid moderate-risk, moderate-reward middle.
-
----
-
-## Understanding Buyers & Human Psychology
-
-These models explain how customers think, decide, and behave.
-
-### Fundamental Attribution Error
-People attribute others' behavior to character, not circumstances. "They didn't buy because they're not serious" vs. "The checkout was confusing."
-
-**Marketing application**: When customers don't convert, examine your process before blaming them. The problem is usually situational, not personal.
-
-### Mere Exposure Effect
-People prefer things they've seen before. Familiarity breeds liking.
-
-**Marketing application**: Consistent brand presence builds preference over time. Repetition across channels creates comfort and trust.
-
-### Availability Heuristic
-People judge likelihood by how easily examples come to mind. Recent or vivid events seem more common.
-
-**Marketing application**: Case studies and testimonials make success feel more achievable. Make positive outcomes easy to imagine.
-
-### Confirmation Bias
-People seek information confirming existing beliefs and ignore contradictory evidence.
-
-**Marketing application**: Understand what your audience already believes and align messaging accordingly. Fighting beliefs head-on rarely works.
-
-### The Lindy Effect
-The longer something has survived, the longer it's likely to continue. Old ideas often outlast new ones.
-
-**Marketing application**: Proven marketing principles (clear value props, social proof) outlast trendy tactics. Don't abandon fundamentals for fads.
-
-### Mimetic Desire
-People want things because others want them. Desire is socially contagious.
-
-**Marketing application**: Show that desirable people want your product. Waitlists, exclusivity, and social proof trigger mimetic desire.
-
-### Sunk Cost Fallacy
-People continue investing in something because of past investment, even when it's no longer rational.
-
-**Marketing application**: Know when to kill underperforming campaigns. Past spend shouldn't justify future spend if results aren't there.
-
-### Endowment Effect
-People value things more once they own them.
-
-**Marketing application**: Free trials, samples, and freemium models let customers "own" the product, making them reluctant to give it up.
-
-### IKEA Effect
-People value things more when they've put effort into creating them.
-
-**Marketing application**: Let customers customize, configure, or build something. Their investment increases perceived value and commitment.
-
-### Zero-Price Effect
-Free isn't just a low price—it's psychologically different. "Free" triggers irrational preference.
-
-**Marketing application**: Free tiers, free trials, and free shipping have disproportionate appeal. The jump from $1 to $0 is bigger than $2 to $1.
-
-### Hyperbolic Discounting / Present Bias
-People strongly prefer immediate rewards over future ones, even when waiting is more rational.
-
-**Marketing application**: Emphasize immediate benefits ("Start saving time today") over future ones ("You'll see ROI in 6 months").
-
-### Status-Quo Bias
 People prefer the current state of affairs. Change requires effort and feels risky.
 
-**Marketing application**: Reduce friction to switch. Make the transition feel safe and easy. "Import your data in one click."
+**Sales application**: Acknowledge the comfort of their current situation, then quantify the cost of staying. "I understand [current solution] is familiar. Let's look at what staying costs you..."
 
-### Default Effect
-People tend to accept pre-selected options. Defaults are powerful.
+### Loss Aversion
 
-**Marketing application**: Pre-select the plan you want customers to choose. Opt-out beats opt-in for subscriptions (ethically applied).
-
-### Paradox of Choice
-Too many options overwhelm and paralyze. Fewer choices often lead to more decisions.
-
-**Marketing application**: Limit options. Three pricing tiers beat seven. Recommend a single "best for most" option.
-
-### Goal-Gradient Effect
-People accelerate effort as they approach a goal. Progress visualization motivates action.
-
-**Marketing application**: Show progress bars, completion percentages, and "almost there" messaging to drive completion.
-
-### Peak-End Rule
-People judge experiences by the peak (best or worst moment) and the end, not the average.
-
-**Marketing application**: Design memorable peaks (surprise upgrades, delightful moments) and strong endings (thank you pages, follow-up emails).
-
-### Zeigarnik Effect
-Unfinished tasks occupy the mind more than completed ones. Open loops create tension.
-
-**Marketing application**: "You're 80% done" creates pull to finish. Incomplete profiles, abandoned carts, and cliffhangers leverage this.
-
-### Pratfall Effect
-Competent people become more likable when they show a small flaw. Perfection is less relatable.
-
-**Marketing application**: Admitting a weakness ("We're not the cheapest, but...") can increase trust and differentiation.
-
-### Curse of Knowledge
-Once you know something, you can't imagine not knowing it. Experts struggle to explain simply.
-
-**Marketing application**: Your product seems obvious to you but confusing to newcomers. Test copy with people unfamiliar with your space.
-
-### Mental Accounting
-People treat money differently based on its source or intended use, even though money is fungible.
-
-**Marketing application**: Frame costs in favorable mental accounts. "$3/day" feels different than "$90/month" even though it's the same.
-
-### Regret Aversion
-People avoid actions that might cause regret, even if the expected outcome is positive.
-
-**Marketing application**: Address regret directly. Money-back guarantees, free trials, and "no commitment" messaging reduce regret fear.
-
-### Bandwagon Effect / Social Proof
-People follow what others are doing. Popularity signals quality and safety.
-
-**Marketing application**: Show customer counts, testimonials, logos, reviews, and "trending" indicators. Numbers create confidence.
-
----
-
-## Influencing Behavior & Persuasion
-
-These models help you ethically influence customer decisions.
-
-### Reciprocity Principle
-People feel obligated to return favors. Give first, and people want to give back.
-
-**Marketing application**: Free content, free tools, and generous free tiers create reciprocal obligation. Give value before asking for anything.
-
-### Commitment & Consistency
-Once people commit to something, they want to stay consistent with that commitment.
-
-**Marketing application**: Get small commitments first (email signup, free trial). People who've taken one step are more likely to take the next.
-
-### Authority Bias
-People defer to experts and authority figures. Credentials and expertise create trust.
-
-**Marketing application**: Feature expert endorsements, certifications, "featured in" logos, and thought leadership content.
-
-### Liking / Similarity Bias
-People say yes to those they like and those similar to themselves.
-
-**Marketing application**: Use relatable spokespeople, founder stories, and community language. "Built by marketers for marketers" signals similarity.
-
-### Unity Principle
-Shared identity drives influence. "One of us" is powerful.
-
-**Marketing application**: Position your brand as part of the customer's tribe. Use insider language and shared values.
-
-### Scarcity / Urgency Heuristic
-Limited availability increases perceived value. Scarcity signals desirability.
-
-**Marketing application**: Limited-time offers, low-stock warnings, and exclusive access create urgency. Only use when genuine.
-
-### Foot-in-the-Door Technique
-Start with a small request, then escalate. Compliance with small requests leads to compliance with larger ones.
-
-**Marketing application**: Free trial → paid plan → annual plan → enterprise. Each step builds on the last.
-
-### Door-in-the-Face Technique
-Start with an unreasonably large request, then retreat to what you actually want. The contrast makes the second request seem reasonable.
-
-**Marketing application**: Show enterprise pricing first, then reveal the affordable starter plan. The contrast makes it feel like a deal.
-
-### Loss Aversion / Prospect Theory
 Losses feel roughly twice as painful as equivalent gains feel good. People will work harder to avoid losing than to gain.
 
-**Marketing application**: Frame in terms of what they'll lose by not acting. "Don't miss out" beats "You could gain."
+**Sales application**: Frame in terms of what they'll lose by not acting. "Every month without a solution costs you [X]..." is more powerful than "You could gain [X]..."
 
-### Anchoring Effect
-The first number people see heavily influences subsequent judgments.
+### Sunk Cost Fallacy
 
-**Marketing application**: Show the higher price first (original price, competitor price, enterprise tier) to anchor expectations.
+People continue investing in something because of past investment, even when it's no longer rational.
 
-### Decoy Effect
-Adding a third, inferior option makes one of the original two look better.
+**Sales application**: When competing against an incumbent, help them separate past investment from future value. "What you've spent is spent. The question is: what's the best decision going forward?"
 
-**Marketing application**: A "decoy" pricing tier that's clearly worse value makes your preferred tier look like the obvious choice.
+### Endowment Effect
 
-### Framing Effect
-How something is presented changes how it's perceived. Same facts, different frames.
+People value things more once they own them.
 
-**Marketing application**: "90% success rate" vs. "10% failure rate" are identical but feel different. Frame positively.
+**Sales application**: Free trials, pilots, and POCs let prospects "own" your product before buying. Once they're using it, they're reluctant to give it up.
+
+### Fundamental Attribution Error
+
+People attribute others' behavior to character, not circumstances. "They're not interested" vs. "The timing isn't right."
+
+**Sales application**: When prospects don't engage, examine circumstances before concluding they're not a fit. Maybe the message was wrong, timing was off, or they're dealing with competing priorities.
+
+### Mere Exposure Effect
+
+People prefer things they've seen before. Familiarity breeds liking.
+
+**Sales application**: Consistent touches across channels build preference. The prospect who's seen your name 7 times is more receptive than a cold contact.
+
+### Availability Heuristic
+
+People judge likelihood by how easily examples come to mind. Recent or vivid events seem more common.
+
+**Sales application**: Case studies and specific examples make success feel achievable. "Let me tell you about [similar company]..." puts success in their mind.
+
+### Confirmation Bias
+
+People seek information confirming existing beliefs and ignore contradictory evidence.
+
+**Sales application**: Understand what your buyer already believes. Align your messaging to their worldview rather than fighting it head-on.
+
+### Mimetic Desire
+
+People want things because others want them. Desire is socially contagious.
+
+**Sales application**: Mention that similar companies, competitors, or respected peers are using or evaluating your solution. "Most companies in your space are moving this direction..."
+
+### Hyperbolic Discounting / Present Bias
+
+People strongly prefer immediate rewards over future ones, even when waiting is more rational.
+
+**Sales application**: Emphasize immediate benefits and quick wins. "You'll see results in the first week" beats "Full ROI in 18 months."
+
+### Paradox of Choice
+
+Too many options overwhelm and paralyze. Fewer choices often lead to more decisions.
+
+**Sales application**: Recommend a single solution. "Based on what you've told me, I'd recommend [option]" beats presenting five alternatives.
+
+### Decision Fatigue
+
+The quality of decisions degrades after making many decisions. Late-day decisions tend to default to status quo.
+
+**Sales application**: Schedule important meetings early in the day. Complex decisions late in the day often result in "let me think about it."
+
+### FOMO (Fear of Missing Out)
+
+The anxiety that others are experiencing something desirable that you're missing.
+
+**Sales application**: Show what competitors and peers are achieving. Create genuine scarcity when appropriate. "Companies that wait often find themselves behind..."
+
+### Analysis Paralysis
+
+Overthinking prevents action. The need for more information becomes a way to avoid deciding.
+
+**Sales application**: Recognize when prospects are stuck in analysis mode. Help them set decision criteria and a timeline. "What information would you need to make a confident decision?"
+
+---
+
+## Influence & Persuasion Principles
+
+These models help you ethically influence buyer decisions.
+
+### Reciprocity Principle
+
+People feel obligated to return favors. Give first, and people want to give back.
+
+**Sales application**: Provide value before asking for anything. Free assessments, valuable insights, helpful introductions—all create reciprocal obligation.
+
+### Commitment & Consistency
+
+Once people commit to something, they want to stay consistent with that commitment.
+
+**Sales application**: Get small commitments first. Agreement on the problem, acknowledgment of impact, acceptance of a meeting—each small yes makes the next yes easier.
+
+### Authority Bias
+
+People defer to experts and authority figures. Credentials and expertise create trust.
+
+**Sales application**: Establish expertise early. Share relevant experience, industry knowledge, and credentials. "I've worked with 50 companies in your industry on this exact challenge..."
+
+### Liking / Similarity Bias
+
+People say yes to those they like and those similar to themselves.
+
+**Sales application**: Find genuine common ground. Shared backgrounds, mutual connections, similar experiences all build rapport. People buy from people they like.
+
+### Social Proof
+
+People look to others' behavior to determine their own. Popularity signals quality and safety.
+
+**Sales application**: Reference customers, testimonials, case studies, and numbers. "We work with [customers] including several in your space..." validates the decision.
+
+### Scarcity / Urgency
+
+Limited availability increases perceived value. Scarcity signals desirability.
+
+**Sales application**: Create genuine urgency with real deadlines, limited capacity, or business cost of waiting. Never manufacture fake scarcity—it destroys trust.
+
+### Unity Principle
+
+Shared identity drives influence. "One of us" is powerful.
+
+**Sales application**: Position yourself as part of their tribe. "As someone who's been in [their role]..." or "We built this because we faced the same problem..."
+
+### Foot-in-the-Door Technique
+
+Start with a small request, then escalate. Compliance with small requests leads to compliance with larger ones.
+
+**Sales application**: Discovery call → Demo → Pilot → Purchase. Each step builds on the last. Don't ask for the big commitment first.
+
+### Door-in-the-Face Technique
+
+Start with a larger request, then retreat to what you actually want. The contrast makes the second request seem reasonable.
+
+**Sales application**: Present the full enterprise solution first, then offer the starter package. The contrast makes the smaller commitment feel easier.
 
 ### Contrast Effect
+
 Things seem different depending on what they're compared to.
 
-**Marketing application**: Show the "before" state clearly. The contrast with your "after" makes improvements vivid.
+**Sales application**: Show the "before" state clearly. Present the full price before the discount. Show the competitor's complexity before your simplicity.
 
 ---
 
-## Pricing Psychology
+## Pricing & Value Psychology
 
-These models specifically address how people perceive and respond to prices.
+These models specifically address how buyers perceive price and value.
 
-### Charm Pricing / Left-Digit Effect
-Prices ending in 9 seem significantly lower than the next round number. $99 feels much cheaper than $100.
+### Anchoring Effect
 
-**Marketing application**: Use .99 or .95 endings for value-focused products. The left digit dominates perception.
+The first number people see heavily influences subsequent judgments.
 
-### Rounded-Price (Fluency) Effect
-Round numbers feel premium and are easier to process. $100 signals quality; $99 signals value.
+**Sales application**: Anchor high. Share ROI numbers first, then price. Show enterprise pricing before the tier you're selling. "Companies typically see $500K in savings. The investment is $50K."
 
-**Marketing application**: Use round prices for premium products ($500/month), charm prices for value products ($497/month).
+### Price-Value Relationship
 
-### Rule of 100
-For prices under $100, percentage discounts seem larger ("20% off"). For prices over $100, absolute discounts seem larger ("$50 off").
+Price signals quality. Higher prices can increase perceived value.
 
-**Marketing application**: $80 product: "20% off" beats "$16 off." $500 product: "$100 off" beats "20% off."
+**Sales application**: Don't lead with being cheap. If your price is lower, frame it as efficiency, not inferior quality. Premium pricing can actually increase win rates.
 
-### Price Relativity / Good-Better-Best
-People judge prices relative to options presented. A middle tier seems reasonable between cheap and expensive.
+### Decoy Effect
 
-**Marketing application**: Three tiers where the middle is your target. The expensive tier makes it look reasonable; the cheap tier provides an anchor.
+Adding a third, inferior option makes one of the original two look better.
 
-### Mental Accounting (Pricing)
-Framing the same price differently changes perception.
+**Sales application**: A "decoy" tier that's clearly worse value makes your preferred tier look like the obvious choice.
 
-**Marketing application**: "$1/day" feels cheaper than "$30/month." "Less than your morning coffee" reframes the expense.
+### Framing Effect
 
----
+How something is presented changes how it's perceived. Same facts, different frames.
 
-## Design & Delivery Models
+**Sales application**: "$3/day" vs. "$90/month" vs. "$1,000/year"—same price, different perceptions. Frame based on what makes the value clearest.
 
-These models help you design effective marketing systems.
+### Mental Accounting
 
-### Hick's Law
-Decision time increases with the number and complexity of choices. More options = slower decisions = more abandonment.
+People treat money differently based on its source or intended use, even though money is fungible.
 
-**Marketing application**: Simplify choices. One clear CTA beats three. Fewer form fields beat more.
+**Sales application**: Help buyers put your product in the right mental account. "This comes out of your [budget category]" or "Compare it to what you spend on [related expense]."
 
-### AIDA Funnel
-Attention → Interest → Desire → Action. The classic customer journey model.
+### Zero-Price Effect
 
-**Marketing application**: Structure pages and campaigns to move through each stage. Capture attention before building desire.
+Free isn't just a low price—it's psychologically different. "Free" triggers irrational preference.
 
-### Rule of 7
-Prospects need roughly 7 touchpoints before converting. One ad rarely converts; sustained presence does.
+**Sales application**: Free trials, free pilots, and free assessments have disproportionate appeal. The jump from $1 to $0 is bigger than from $2 to $1.
 
-**Marketing application**: Build multi-touch campaigns across channels. Retargeting, email sequences, and consistent presence compound.
+### Pain of Paying
 
-### Nudge Theory / Choice Architecture
-Small changes in how choices are presented significantly influence decisions.
+Paying activates the same brain regions as physical pain. More visible payment = more pain.
 
-**Marketing application**: Default selections, strategic ordering, and friction reduction guide behavior without restricting choice.
+**Sales application**: Annual billing (one payment) is less painful than monthly (12 payments). Automatic payments are less painful than manual ones.
 
-### BJ Fogg Behavior Model
-Behavior = Motivation × Ability × Prompt. All three must be present for action.
+### Reference Points
 
-**Marketing application**: High motivation but hard to do = won't happen. Easy to do but no prompt = won't happen. Design for all three.
+People evaluate prices relative to reference points, not in absolute terms.
 
-### EAST Framework
-Make desired behaviors: Easy, Attractive, Social, Timely.
-
-**Marketing application**: Reduce friction (easy), make it appealing (attractive), show others doing it (social), ask at the right moment (timely).
-
-### COM-B Model
-Behavior requires: Capability, Opportunity, Motivation.
-
-**Marketing application**: Can they do it (capability)? Is the path clear (opportunity)? Do they want to (motivation)? Address all three.
-
-### Activation Energy
-The initial energy required to start something. High activation energy prevents action even if the task is easy overall.
-
-**Marketing application**: Reduce starting friction. Pre-fill forms, offer templates, show quick wins. Make the first step trivially easy.
-
-### North Star Metric
-One metric that best captures the value you deliver to customers. Focus creates alignment.
-
-**Marketing application**: Identify your North Star (active users, completed projects, revenue per customer) and align all efforts toward it.
-
-### The Cobra Effect
-When incentives backfire and produce the opposite of intended results.
-
-**Marketing application**: Test incentive structures. A referral bonus might attract low-quality referrals gaming the system.
+**Sales application**: Establish favorable reference points. "Compared to hiring, this is..." or "Other solutions in this category cost..." or "The cost of the problem is..."
 
 ---
 
-## Growth & Scaling Models
+## Negotiation Psychology
 
-These models explain how marketing compounds and scales.
+These models help you navigate deal negotiations.
 
-### Feedback Loops
-Output becomes input, creating cycles. Positive loops accelerate growth; negative loops create decline.
+### BATNA Awareness
 
-**Marketing application**: Build virtuous cycles: more users → more content → better SEO → more users. Identify and strengthen positive loops.
+Best Alternative To Negotiated Agreement—knowing your walkaway point and theirs.
 
-### Compounding
-Small, consistent gains accumulate into large results over time. Early gains matter most.
+**Sales application**: Understand your BATNA and try to understand theirs. The party with better alternatives has more leverage. "What happens if we don't reach agreement?"
 
-**Marketing application**: Consistent content, SEO, and brand building compound. Start early; benefits accumulate exponentially.
+### Concession Psychology
 
-### Network Effects
-A product becomes more valuable as more people use it.
+How you concede matters as much as what you concede. Smaller, slower concessions suggest you're near your limit.
 
-**Marketing application**: Design features that improve with more users: shared workspaces, integrations, marketplaces, communities.
+**Sales application**: Don't give away everything at once. Make concessions gradually, get something in return, and signal that each concession is difficult.
 
-### Flywheel Effect
-Sustained effort creates momentum that eventually maintains itself. Hard to start, easy to maintain.
+### Reactive Devaluation
 
-**Marketing application**: Content → traffic → leads → customers → case studies → more content. Each element powers the next.
+Proposals are valued less simply because they came from the other side.
 
-### Switching Costs
-The price (time, money, effort, data) of changing to a competitor. High switching costs create retention.
+**Sales application**: When possible, let the buyer "discover" solutions rather than proposing them. Ask questions that lead them to your solution.
 
-**Marketing application**: Increase switching costs ethically: integrations, data accumulation, workflow customization, team adoption.
+### Winner's Curse
 
-### Exploration vs. Exploitation
-Balance trying new things (exploration) with optimizing what works (exploitation).
+If you win easily, you probably overpaid or undersold.
 
-**Marketing application**: Don't abandon working channels for shiny new ones, but allocate some budget to experiments.
+**Sales application**: Don't accept the first offer. Some negotiation validates the deal for both sides. Instant acceptance makes the buyer wonder what they left on the table.
 
-### Critical Mass / Tipping Point
-The threshold after which growth becomes self-sustaining.
+### The Nibble
 
-**Marketing application**: Focus resources on reaching critical mass in one segment before expanding. Depth before breadth.
+Asking for small additions after the main deal is agreed.
 
-### Survivorship Bias
-Focusing on successes while ignoring failures that aren't visible.
+**Sales application**: Be aware of nibbles—small requests that add up. Either say no or bundle them with something you need: "I can include that if we can finalize by [date]."
 
-**Marketing application**: Study failed campaigns, not just successful ones. The viral hit you're copying had 99 failures you didn't see.
+### Deadline Psychology
+
+Deadlines create urgency and force decisions. Most movement happens near deadlines.
+
+**Sales application**: Set mutual deadlines and honor them. "If we're going to hit your [goal], we need to finalize by [date]." Deadlines you don't enforce lose power.
+
+---
+
+## Discovery & Questioning Psychology
+
+These models help you uncover real buyer motivations.
+
+### Surface vs. Underlying Needs
+
+What buyers say they want vs. what they actually need are often different.
+
+**Sales application**: Don't accept the first answer. "You mentioned you need better reporting. Help me understand—what would you do with better reports?"
+
+### Pain vs. Gain Motivation
+
+People are motivated differently by avoiding pain vs. achieving gain. Most are more motivated by pain.
+
+**Sales application**: Uncover and quantify pain. "What happens if this problem isn't solved?" reveals motivation better than "What would you achieve?"
+
+### Emotional vs. Rational Buying
+
+Decisions are made emotionally and justified rationally. The business case supports the emotional decision.
+
+**Sales application**: Connect with emotional drivers (fear, ambition, pride, security) while providing rational justification (ROI, features, proof).
+
+### The Iceberg of Motivation
+
+What people say is the tip of the iceberg. Real motivations lie beneath the surface.
+
+**Sales application**: Keep asking "Why?" and "What else?" to get below surface statements. The real buying motivation is rarely stated in the first answer.
+
+### Explicit vs. Implicit Needs
+
+Explicit needs are stated directly. Implicit needs are unstated but influential.
+
+**Sales application**: Listen for implicit needs—things they don't say but that matter. Job security, looking good to their boss, avoiding blame.
+
+---
+
+## Objection Psychology
+
+Understanding the psychology behind objections.
+
+### Objections as Requests
+
+Most objections are requests for more information, not rejections.
+
+**Sales application**: Don't get defensive. "Help me understand that concern" opens dialogue. "Let me explain why you're wrong" closes it.
+
+### The Real Objection
+
+The first objection is rarely the real objection. Surface objections hide deeper concerns.
+
+**Sales application**: "If we could solve [stated objection], would you be ready to move forward?" If not, keep digging.
+
+### Fear-Based Objections
+
+Many objections stem from fear: fear of change, fear of making a mistake, fear of looking bad.
+
+**Sales application**: Address the fear, not just the objection. "I understand—this is a significant decision. Here's how we reduce risk..."
+
+### Risk Perception
+
+Buyers perceive risk asymmetrically—the downside of a bad decision feels bigger than the upside of a good one.
+
+**Sales application**: Reduce perceived risk with guarantees, pilots, references, and proven track records. Make the safe choice also be your solution.
+
+---
+
+## Decision-Making Models
+
+Understanding how buying decisions actually get made.
+
+### The Buying Committee
+
+Complex purchases involve multiple stakeholders with different priorities and concerns.
+
+**Sales application**: Map the buying committee. Economic buyer, champion, technical evaluator, end users, influencers—each needs different messaging.
+
+### The Status Quo Bias Equation
+
+Change only happens when: Dissatisfaction × Vision × First Steps > Resistance to Change
+
+**Sales application**: Increase dissatisfaction (quantify pain), build vision (show future state), clarify first steps (make it easy), reduce resistance (address risk).
+
+### Champion vs. Mobilizer
+
+Champions are enthusiastic but may lack influence. Mobilizers have influence and can drive consensus.
+
+**Sales application**: Identify whether your contact is a champion (likes you) or a mobilizer (can actually get things done). You need mobilizers to close deals.
+
+### Consensus Building
+
+In complex sales, deals require internal consensus. One champion isn't enough.
+
+**Sales application**: Help your champion build internal consensus. Provide materials, coach them on conversations, offer to meet other stakeholders.
 
 ---
 
 ## Quick Reference
 
-When facing a marketing challenge, consider:
+When facing a sales challenge, consider:
 
 | Challenge | Relevant Models |
 |-----------|-----------------|
-| Low conversions | Hick's Law, Activation Energy, BJ Fogg, Friction |
-| Price objections | Anchoring, Framing, Mental Accounting, Loss Aversion |
-| Building trust | Authority, Social Proof, Reciprocity, Pratfall Effect |
-| Increasing urgency | Scarcity, Loss Aversion, Zeigarnik Effect |
-| Retention/churn | Endowment Effect, Switching Costs, Status-Quo Bias |
-| Growth stalling | Theory of Constraints, Local vs Global Optima, Compounding |
-| Decision paralysis | Paradox of Choice, Default Effect, Nudge Theory |
-| Onboarding | Goal-Gradient, IKEA Effect, Commitment & Consistency |
+| Price objections | Anchoring, Framing, Reference Points, Value-Price |
+| Stuck deals | Status Quo Bias, Decision Fatigue, Analysis Paralysis |
+| Building trust | Authority, Social Proof, Similarity, Reciprocity |
+| Creating urgency | Loss Aversion, Scarcity, FOMO, Deadline Psychology |
+| Competitive deals | Contrast Effect, Endowment Effect, Switching Costs |
+| Negotiations | BATNA, Concession Psychology, Anchoring |
+| Discovery | Iceberg of Motivation, Pain vs. Gain, Underlying Needs |
+| Committee sales | Buying Committee, Consensus Building, Champion vs. Mobilizer |
+
+---
+
+## Ethical Guidelines
+
+Using psychology in sales requires ethical guardrails:
+
+### Do:
+- Use psychology to understand and help buyers
+- Create genuine urgency based on real business impact
+- Build real relationships and trust
+- Help buyers make good decisions
+
+### Don't:
+- Manipulate or deceive
+- Create false scarcity or urgency
+- Exploit cognitive biases against buyer interests
+- Pressure buyers into decisions they'll regret
+
+The goal is to align your interests with your buyer's interests. Psychology should help you communicate value more effectively, not trick people into buying things they don't need.
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What specific behavior are you trying to influence?
-2. What does your customer believe before encountering your marketing?
-3. Where in the journey (awareness → consideration → decision) is this?
-4. What's currently preventing the desired action?
-5. Have you tested this with real customers?
+1. What specific challenge are you facing in the sales process?
+2. Where does the deal typically get stuck?
+3. What objections do you hear most often?
+4. Who is involved in the buying decision?
+5. What does your current approach look like?
 
 ---
 
 ## Related Skills
 
-- **page-cro**: Apply psychology to page optimization
-- **copywriting**: Write copy using psychological principles
-- **popup-cro**: Use triggers and psychology in popups
-- **pricing-page optimization**: See page-cro for pricing psychology
-- **ab-test-setup**: Test psychological hypotheses
+- **discovery-calls**: Apply psychology in qualification conversations
+- **objection-handling**: Use psychological frameworks for objections
+- **negotiation**: Apply negotiation psychology to deal terms
+- **competitive-selling**: Use contrast and positioning psychology
+- **sales-presentations**: Structure demos using persuasion principles

@@ -1,30 +1,30 @@
 ---
 name: ab-test-setup
-description: When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B test," "split test," "experiment," "test this change," "variant copy," "multivariate test," or "hypothesis." For tracking implementation, see analytics-tracking.
+description: When the user wants to test and optimize sales approaches, outreach sequences, or pitch variations. Also use when the user mentions "test this pitch," "A/B test outreach," "experiment with messaging," "test subject lines," "compare approaches," or "sales experiment." For tracking sales metrics, see analytics-tracking.
 ---
 
-# A/B Test Setup
+# Sales Experimentation
 
-You are an expert in experimentation and A/B testing. Your goal is to help design tests that produce statistically valid, actionable results.
+You are an expert in sales experimentation and testing. Your goal is to help design tests that identify the most effective sales approaches, messaging, and tactics through rigorous, data-driven experimentation.
 
 ## Initial Assessment
 
-Before designing a test, understand:
+Before designing a sales experiment, understand:
 
 1. **Test Context**
-   - What are you trying to improve?
-   - What change are you considering?
+   - What sales metric are you trying to improve?
+   - What change to your sales process are you considering?
    - What made you want to test this?
 
 2. **Current State**
-   - Baseline conversion rate?
-   - Current traffic volume?
+   - Current response/conversion rates?
+   - Volume of outreach or calls?
    - Any historical test data?
 
 3. **Constraints**
-   - Technical implementation complexity?
+   - Sales team size and capacity?
    - Timeline requirements?
-   - Tools available?
+   - CRM and tools available?
 
 ---
 
@@ -33,155 +33,191 @@ Before designing a test, understand:
 ### 1. Start with a Hypothesis
 - Not just "let's see what happens"
 - Specific prediction of outcome
-- Based on reasoning or data
+- Based on customer feedback or sales data
 
-### 2. Test One Thing
-- Single variable per test
+### 2. Test One Variable
+- Single change per test
 - Otherwise you don't know what worked
-- Save MVT for later
+- Isolate the impact
 
 ### 3. Statistical Rigor
 - Pre-determine sample size
-- Don't peek and stop early
+- Don't stop early on "gut feeling"
 - Commit to the methodology
 
 ### 4. Measure What Matters
-- Primary metric tied to business value
+- Primary metric tied to revenue
 - Secondary metrics for context
-- Guardrail metrics to prevent harm
+- Guardrail metrics to protect relationships
 
 ---
 
-## Hypothesis Framework
+## Sales Hypothesis Framework
 
 ### Structure
 
 ```
 Because [observation/data],
-we believe [change]
+we believe [change to sales approach]
 will cause [expected outcome]
-for [audience].
+for [prospect segment].
 We'll know this is true when [metrics].
 ```
 
 ### Examples
 
 **Weak hypothesis:**
-"Changing the button color might increase clicks."
+"A different subject line might get more opens."
 
 **Strong hypothesis:**
-"Because users report difficulty finding the CTA (per heatmaps and feedback), we believe making the button larger and using contrasting color will increase CTA clicks by 15%+ for new visitors. We'll measure click-through rate from page view to signup start."
+"Because prospects in the CFO segment respond better to ROI messaging (per reply analysis), we believe leading with specific cost savings in our subject line will increase reply rates by 20%+ for cold outreach to finance leaders. We'll measure reply rate and meeting booked rate."
 
 ### Good Hypotheses Include
 
-- **Observation**: What prompted this idea
-- **Change**: Specific modification
+- **Observation**: What prompted this idea (call recordings, reply patterns, win/loss data)
+- **Change**: Specific modification to messaging, timing, or approach
 - **Effect**: Expected outcome and direction
-- **Audience**: Who this applies to
+- **Segment**: Which prospects this applies to
 - **Metric**: How you'll measure success
 
 ---
 
-## Test Types
+## Sales Test Types
 
-### A/B Test (Split Test)
-- Two versions: Control (A) vs. Variant (B)
+### A/B Outreach Test
+- Two versions of cold email or LinkedIn message
 - Single change between versions
+- Split prospect list randomly
 - Most common, easiest to analyze
 
-### A/B/n Test
-- Multiple variants (A vs. B vs. C...)
-- Requires more traffic
-- Good for testing several options
+### Pitch Variation Test
+- Two approaches to discovery or demo
+- Requires call recording and scoring
+- Track conversion through pipeline
 
-### Multivariate Test (MVT)
-- Multiple changes in combinations
-- Tests interactions between changes
-- Requires significantly more traffic
-- Complex analysis
+### Timing Test
+- Different send times or follow-up cadences
+- Same message, different timing
+- Test day of week, time of day, follow-up intervals
 
-### Split URL Test
-- Different URLs for variants
-- Good for major page changes
-- Easier implementation sometimes
+### Channel Test
+- Email vs. LinkedIn vs. phone
+- Same message adapted for channel
+- Compare response rates and quality
+
+### Sequence Structure Test
+- Different number of touches
+- Different mix of channels
+- Compare full sequence performance
 
 ---
 
-## Sample Size Calculation
+## Sample Size for Sales Tests
 
 ### Inputs Needed
 
-1. **Baseline conversion rate**: Your current rate
-2. **Minimum detectable effect (MDE)**: Smallest change worth detecting
-3. **Statistical significance level**: Usually 95%
+1. **Baseline rate**: Your current response/conversion rate
+2. **Minimum detectable effect (MDE)**: Smallest improvement worth detecting
+3. **Statistical significance**: Usually 95%
 4. **Statistical power**: Usually 80%
 
-### Quick Reference
+### Quick Reference for Cold Email
 
-| Baseline Rate | 10% Lift | 20% Lift | 50% Lift |
-|---------------|----------|----------|----------|
-| 1% | 150k/variant | 39k/variant | 6k/variant |
-| 3% | 47k/variant | 12k/variant | 2k/variant |
-| 5% | 27k/variant | 7k/variant | 1.2k/variant |
-| 10% | 12k/variant | 3k/variant | 550/variant |
+| Baseline Reply Rate | 20% Lift | 30% Lift | 50% Lift |
+|---------------------|----------|----------|----------|
+| 2% | 9,500/variant | 4,200/variant | 1,500/variant |
+| 5% | 3,500/variant | 1,550/variant | 560/variant |
+| 10% | 1,600/variant | 700/variant | 250/variant |
+| 15% | 950/variant | 425/variant | 155/variant |
 
-### Formula Resources
-- Evan Miller's calculator: https://www.evanmiller.org/ab-testing/sample-size.html
-- Optimizely's calculator: https://www.optimizely.com/sample-size-calculator/
+### Test Duration Considerations
 
-### Test Duration
-
-```
-Duration = Sample size needed per variant × Number of variants
-           ───────────────────────────────────────────────────
-           Daily traffic to test page × Conversion rate
-```
-
-Minimum: 1-2 business cycles (usually 1-2 weeks)
-Maximum: Avoid running too long (novelty effects, external factors)
+- Minimum: 1-2 weeks (account for day-of-week patterns)
+- Account for sales cycles (some deals take weeks to close)
+- Don't run too long (market conditions change)
 
 ---
 
-## Metrics Selection
+## What to Test in Sales
 
-### Primary Metric
-- Single metric that matters most
-- Directly tied to hypothesis
-- What you'll use to call the test
+### Cold Email Elements
 
-### Secondary Metrics
-- Support primary metric interpretation
-- Explain why/how the change worked
-- Help understand user behavior
+**Subject Lines**
+- Personalization level
+- Question vs. statement
+- Benefit vs. curiosity
+- Length (short vs. medium)
+- Including company name
 
-### Guardrail Metrics
-- Things that shouldn't get worse
-- Revenue, retention, satisfaction
-- Stop test if significantly negative
+**Opening Lines**
+- Personalized observation
+- Pain point lead
+- Mutual connection
+- Industry insight
+- Direct ask
 
-### Metric Examples by Test Type
+**Body Copy**
+- Length (short vs. detailed)
+- Social proof inclusion
+- Specific vs. general value prop
+- Number of benefits mentioned
+- Tone (formal vs. casual)
 
-**Homepage CTA test:**
-- Primary: CTA click-through rate
-- Secondary: Time to click, scroll depth
-- Guardrail: Bounce rate, downstream conversion
+**CTAs**
+- Specific time request vs. open
+- Low commitment vs. meeting ask
+- Question vs. statement
+- Single CTA vs. options
 
-**Pricing page test:**
-- Primary: Plan selection rate
-- Secondary: Time on page, plan distribution
-- Guardrail: Support tickets, refund rate
+### Cold Calling Elements
 
-**Signup flow test:**
-- Primary: Signup completion rate
-- Secondary: Field-level completion, time to complete
-- Guardrail: User activation rate (post-signup quality)
+**Opening**
+- Permission-based opener
+- Pattern interrupt
+- Referral mention
+- Direct approach
+
+**Talk Track**
+- Pain-first vs. solution-first
+- Question-heavy vs. statement-heavy
+- Story-based vs. data-based
+
+**Objection Responses**
+- Different reframes for common objections
+- Proof points to include
+- When to persist vs. pivot
+
+### Discovery Calls
+
+**Question Order**
+- Pain before goals vs. goals before pain
+- Current state first vs. future state first
+- Technical questions early vs. late
+
+**Presentation Approach**
+- Demo-heavy vs. conversation-heavy
+- Tailored vs. standard flow
+- Customer story inclusion
+
+### Follow-Up Sequences
+
+**Timing**
+- Follow-up intervals (1 day vs. 3 days)
+- Total sequence length
+- When to break pattern
+
+**Content**
+- New value each touch vs. reminder
+- Different angles per email
+- When to introduce urgency
 
 ---
 
-## Designing Variants
+## Designing Sales Variants
 
 ### Control (A)
-- Current experience, unchanged
+- Current approach, unchanged
+- Document exactly what it is
 - Don't modify during test
 
 ### Variant (B+)
@@ -191,163 +227,99 @@ Maximum: Avoid running too long (novelty effects, external factors)
 - Bold enough to make a difference
 - True to the hypothesis
 
-**What to vary:**
+**Example: Subject Line Test**
 
-Headlines/Copy:
-- Message angle
-- Value proposition
-- Specificity level
-- Tone/voice
+Control: "Quick question about [Company]'s sales process"
+Variant: "[First Name] - 23% more meetings with less effort"
 
-Visual Design:
-- Layout structure
-- Color and contrast
-- Image selection
-- Visual hierarchy
+**Example: Opening Line Test**
 
-CTA:
-- Button copy
-- Size/prominence
-- Placement
-- Number of CTAs
-
-Content:
-- Information included
-- Order of information
-- Amount of content
-- Social proof type
+Control: "I noticed [Company] recently expanded into the enterprise segment..."
+Variant: "Most sales leaders I talk to are frustrated that 60% of their pipeline goes dark after the first meeting..."
 
 ### Documenting Variants
 
 ```
 Control (A):
-- Screenshot
-- Description of current state
+- Full copy/script
+- Current performance metrics
 
 Variant (B):
-- Screenshot or mockup
+- Full copy/script
 - Specific changes made
 - Hypothesis for why this will win
 ```
 
 ---
 
-## Traffic Allocation
-
-### Standard Split
-- 50/50 for A/B test
-- Equal split for multiple variants
-
-### Conservative Rollout
-- 90/10 or 80/20 initially
-- Limits risk of bad variant
-- Longer to reach significance
-
-### Ramping
-- Start small, increase over time
-- Good for technical risk mitigation
-- Most tools support this
-
-### Considerations
-- Consistency: Users see same variant on return
-- Segment sizes: Ensure segments are large enough
-- Time of day/week: Balanced exposure
-
----
-
-## Implementation Approaches
-
-### Client-Side Testing
-
-**Tools**: PostHog, Optimizely, VWO, custom
-
-**How it works**:
-- JavaScript modifies page after load
-- Quick to implement
-- Can cause flicker
-
-**Best for**:
-- Marketing pages
-- Copy/visual changes
-- Quick iteration
-
-### Server-Side Testing
-
-**Tools**: PostHog, LaunchDarkly, Split, custom
-
-**How it works**:
-- Variant determined before page renders
-- No flicker
-- Requires development work
-
-**Best for**:
-- Product features
-- Complex changes
-- Performance-sensitive pages
-
-### Feature Flags
-
-- Binary on/off (not true A/B)
-- Good for rollouts
-- Can convert to A/B with percentage split
-
----
-
-## Running the Test
+## Running the Sales Test
 
 ### Pre-Launch Checklist
 
 - [ ] Hypothesis documented
-- [ ] Primary metric defined
+- [ ] Primary metric defined (reply rate, meeting rate, etc.)
 - [ ] Sample size calculated
 - [ ] Test duration estimated
-- [ ] Variants implemented correctly
-- [ ] Tracking verified
-- [ ] QA completed on all variants
-- [ ] Stakeholders informed
+- [ ] Variants finalized and documented
+- [ ] Prospect lists randomized
+- [ ] CRM tracking set up
+- [ ] Team trained on protocol
 
 ### During the Test
 
 **DO:**
-- Monitor for technical issues
-- Check segment quality
+- Monitor for deliverability issues
+- Track responses consistently
 - Document any external factors
+- Keep variants separate (no mixing)
 
 **DON'T:**
-- Peek at results and stop early
-- Make changes to variants
-- Add traffic from new sources
-- End early because you "know" the answer
+- Stop early because one looks better
+- Change the copy mid-test
+- Cherry-pick which prospects get which variant
+- Let reps improvise on the variants
 
-### Peeking Problem
+### Maintaining Test Integrity
 
-Looking at results before reaching sample size and stopping when you see significance leads to:
-- False positives
-- Inflated effect sizes
-- Wrong decisions
+**List Randomization**
+- Split lists randomly, not by territory or segment
+- Ensure similar prospect quality in each group
+- Document the randomization method
 
-**Solutions:**
-- Pre-commit to sample size and stick to it
-- Use sequential testing if you must peek
-- Trust the process
+**Consistent Execution**
+- Same sending time for both variants
+- Same follow-up protocol
+- Same rep quality (or same rep for both)
 
 ---
 
-## Analyzing Results
+## Analyzing Sales Test Results
+
+### Primary Metrics by Test Type
+
+| Test Type | Primary Metric | Secondary Metrics |
+|-----------|---------------|-------------------|
+| Cold Email | Reply Rate | Open Rate, Meeting Rate, Positive Reply % |
+| Cold Call | Connect Rate, Meeting Set | Talk Time, Callback Rate |
+| Discovery | Opportunity Created | Deal Size, Cycle Time |
+| Proposal | Close Rate | Discount %, Time to Decision |
 
 ### Statistical Significance
 
 - 95% confidence = p-value < 0.05
-- Means: <5% chance result is random
-- Not a guarantee—just a threshold
+- Means: <5% chance the result is random
+- Use a statistical significance calculator
 
-### Practical Significance
+### Beyond the Numbers
 
-Statistical ≠ Practical
+**Quality of responses:**
+- Are replies positive or negative?
+- Are meetings with decision-makers?
+- Are opportunities qualified?
 
-- Is the effect size meaningful for business?
-- Is it worth the implementation cost?
-- Is it sustainable over time?
+**Downstream impact:**
+- Does the winning variant produce deals that close?
+- What's the revenue impact, not just response rate?
 
 ### What to Look At
 
@@ -356,33 +328,19 @@ Statistical ≠ Practical
 
 2. **Is it statistically significant?**
    - Check confidence intervals
-   - Check p-value
+   - Don't trust "directionally positive"
 
 3. **Is the effect size meaningful?**
-   - Compare to your MDE
-   - Project business impact
+   - 5% improvement might not be worth the effort
+   - 30% improvement is worth rolling out immediately
 
-4. **Are secondary metrics consistent?**
-   - Do they support the primary?
-   - Any unexpected effects?
+4. **Check downstream metrics**
+   - Did more replies lead to more meetings?
+   - Did more meetings lead to more deals?
 
-5. **Any guardrail concerns?**
-   - Did anything get worse?
-   - Long-term risks?
-
-6. **Segment differences?**
-   - Mobile vs. desktop?
-   - New vs. returning?
-   - Traffic source?
-
-### Interpreting Results
-
-| Result | Conclusion |
-|--------|------------|
-| Significant winner | Implement variant |
-| Significant loser | Keep control, learn why |
-| No significant difference | Need more traffic or bolder test |
-| Mixed signals | Dig deeper, maybe segment |
+5. **Segment analysis**
+   - Did it work better for certain industries?
+   - Did it work better with certain titles?
 
 ---
 
@@ -392,7 +350,6 @@ Statistical ≠ Practical
 
 ```
 Test Name: [Name]
-Test ID: [ID in testing tool]
 Dates: [Start] - [End]
 Owner: [Name]
 
@@ -400,8 +357,8 @@ Hypothesis:
 [Full hypothesis statement]
 
 Variants:
-- Control: [Description + screenshot]
-- Variant: [Description + screenshot]
+- Control: [Full copy + description]
+- Variant: [Full copy + description]
 
 Results:
 - Sample size: [achieved vs. target]
@@ -410,60 +367,44 @@ Results:
 - Segment insights: [notable differences]
 
 Decision: [Winner/Loser/Inconclusive]
-Action: [What we're doing]
+Action: [Rolling out / Testing further / Abandoning]
 
 Learnings:
 [What we learned, what to test next]
 ```
 
-### Building a Learning Repository
+### Building a Sales Playbook
 
-- Central location for all tests
-- Searchable by page, element, outcome
+- Central location for all test results
+- Searchable by metric, segment, element tested
 - Prevents re-running failed tests
 - Builds institutional knowledge
+- New reps can learn what works
 
 ---
 
-## Output Format
+## High-Impact Tests to Run
 
-### Test Plan Document
+### If You're Just Starting
 
-```
-# A/B Test: [Name]
+1. **Subject line personalization level** - Does [Company] or [First Name] in subject help?
+2. **Email length** - Short (50 words) vs. medium (100 words)
+3. **CTA type** - Specific time vs. open question
+4. **Social proof inclusion** - With vs. without customer mention
 
-## Hypothesis
-[Full hypothesis using framework]
+### Intermediate Tests
 
-## Test Design
-- Type: A/B / A/B/n / MVT
-- Duration: X weeks
-- Sample size: X per variant
-- Traffic allocation: 50/50
+1. **Pain-first vs. solution-first opening**
+2. **Single benefit vs. multiple benefits**
+3. **Follow-up timing** - 2 days vs. 4 days
+4. **Breakup email** - Include vs. skip
 
-## Variants
-[Control and variant descriptions with visuals]
+### Advanced Tests
 
-## Metrics
-- Primary: [metric and definition]
-- Secondary: [list]
-- Guardrails: [list]
-
-## Implementation
-- Method: Client-side / Server-side
-- Tool: [Tool name]
-- Dev requirements: [If any]
-
-## Analysis Plan
-- Success criteria: [What constitutes a win]
-- Segment analysis: [Planned segments]
-```
-
-### Results Summary
-When test is complete
-
-### Recommendations
-Next steps based on results
+1. **Video vs. text email**
+2. **Multi-channel sequence** - Email only vs. email + LinkedIn
+3. **Personalization depth** - Light vs. deep research
+4. **Discovery question order**
 
 ---
 
@@ -471,38 +412,39 @@ Next steps based on results
 
 ### Test Design
 - Testing too small a change (undetectable)
-- Testing too many things (can't isolate)
+- Testing multiple changes at once (can't isolate)
 - No clear hypothesis
-- Wrong audience
+- Wrong prospect segment
 
 ### Execution
-- Stopping early
+- Stopping early when one variant looks good
+- Inconsistent execution across reps
+- Not randomizing prospect lists
 - Changing things mid-test
-- Not checking implementation
-- Uneven traffic allocation
 
 ### Analysis
-- Ignoring confidence intervals
-- Cherry-picking segments
-- Over-interpreting inconclusive results
-- Not considering practical significance
+- Ignoring statistical significance
+- Not checking downstream metrics
+- Over-interpreting small samples
+- Not segmenting results
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What's your current conversion rate?
-2. How much traffic does this page get?
+1. What's your current reply/conversion rate?
+2. How many prospects can you test with?
 3. What change are you considering and why?
 4. What's the smallest improvement worth detecting?
-5. What tools do you have for testing?
+5. What CRM/tools do you have for tracking?
 6. Have you tested this area before?
 
 ---
 
 ## Related Skills
 
-- **page-cro**: For generating test ideas based on CRO principles
-- **analytics-tracking**: For setting up test measurement
-- **copywriting**: For creating variant copy
+- **cold-outreach**: For crafting outreach messages to test
+- **discovery-calls**: For testing discovery approaches
+- **analytics-tracking**: For setting up sales metrics tracking
+- **objection-handling**: For testing objection responses

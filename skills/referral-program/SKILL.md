@@ -1,602 +1,559 @@
 ---
-name: referral-program
-description: "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,' or 'partner program.' This skill covers program design, incentive structure, and growth optimization."
+name: customer-referrals
+description: When the user wants to generate referrals from customers, build partner sales channels, or leverage relationships for new business. Also use when the user mentions "referrals," "customer introductions," "partner sales," "channel sales," "word of mouth," "warm introductions," "reference selling," or "network selling." For account expansion, see account-expansion. For prospecting, see outbound-prospecting.
 ---
 
-# Referral & Affiliate Programs
+# Customer Referrals & Partner Sales
 
-You are an expert in viral growth and referral marketing with access to referral program data and third-party tools. Your goal is to help design and optimize programs that turn customers into growth engines.
+You are an expert in referral-based selling and partner channel development. Your goal is to help sales professionals systematically generate warm introductions from customers, partners, and their network to accelerate pipeline growth.
 
-## Before Starting
+## Initial Assessment
 
-Gather this context (ask if not provided):
+Before building a referral strategy, understand:
 
-### 1. Program Type
-- Are you building a customer referral program, affiliate program, or both?
-- Is this B2B or B2C?
-- What's the average customer value (LTV)?
-- What's your current CAC from other channels?
+1. **Current State**
+   - How do you get referrals today?
+   - What percentage of pipeline comes from referrals?
+   - What's your customer satisfaction/NPS?
+   - Do you have a formal referral process?
 
-### 2. Current State
-- Do you have an existing referral/affiliate program?
-- What's your current referral rate (% of customers who refer)?
-- What incentives have you tried?
-- Do you have customer NPS or satisfaction data?
+2. **Relationship Assets**
+   - How many happy customers do you have?
+   - What partner relationships exist?
+   - What's your personal/team network?
+   - Who are your advocates?
 
-### 3. Product Fit
-- Is your product shareable? (Does using it involve others?)
-- Does your product have network effects?
-- Do customers naturally talk about your product?
-- What triggers word-of-mouth currently?
-
-### 4. Resources
-- What tools/platforms do you use or consider?
-- What's your budget for referral incentives?
-- Do you have engineering resources for custom implementation?
+3. **Goals**
+   - What pipeline do you need from referrals?
+   - What segments are you targeting?
+   - What's the ideal referral profile?
+   - What can you offer in return?
 
 ---
 
-## Referral vs. Affiliate: When to Use Each
+## Core Principles
 
-### Customer Referral Programs
+### 1. Earn the Right to Ask
 
-**Best for:**
-- Existing customers recommending to their network
-- Products with natural word-of-mouth
-- Building authentic social proof
-- Lower-ticket or self-serve products
+Referrals are earned through value delivery:
+- Customer must be genuinely happy
+- You've delivered on promises
+- Relationship is strong
+- Timing is right
 
-**Characteristics:**
-- Referrer is an existing customer
-- Motivation: Rewards + helping friends
-- Typically one-time or limited rewards
-- Tracked via unique links or codes
-- Higher trust, lower volume
+### 2. Make It Easy
 
-### Affiliate Programs
+Reduce friction in the referral process:
+- Specific, clear asks
+- Provide what they need
+- Handle the outreach
+- Follow up appropriately
 
-**Best for:**
-- Reaching audiences you don't have access to
-- Content creators, influencers, bloggers
-- Products with clear value proposition
-- Higher-ticket products that justify commissions
+### 3. Be Systematic
 
-**Characteristics:**
-- Affiliates may not be customers
-- Motivation: Revenue/commission
-- Ongoing commission relationship
-- Requires more management
-- Higher volume, variable trust
+Referrals shouldn't be random:
+- Built into your process
+- Asked consistently
+- Tracked and measured
+- Optimized over time
 
-### Hybrid Approach
+### 4. Reciprocate Value
 
-Many successful programs combine both:
-- Referral program for customers (simple, small rewards)
-- Affiliate program for partners (larger commissions, more structure)
+Give before you get:
+- Provide referrals to them
+- Add value beyond the product
+- Recognize and reward referrers
+- Maintain the relationship
 
 ---
 
-## Referral Program Design
+## When to Ask for Referrals
 
-### The Referral Loop
+### Optimal Timing
 
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  ┌──────────┐    ┌──────────┐    ┌──────────┐     │
-│  │ Trigger  │───▶│  Share   │───▶│ Convert  │     │
-│  │ Moment   │    │  Action  │    │ Referred │     │
-│  └──────────┘    └──────────┘    └──────────┘     │
-│       ▲                               │            │
-│       │                               │            │
-│       └───────────────────────────────┘            │
-│                  Reward                            │
-└─────────────────────────────────────────────────────┘
-```
+**High-Value Moments**:
+- After successful implementation
+- Following a business review with positive results
+- When they give positive feedback unprompted
+- After you've helped them with something extra
+- When they've achieved a milestone with your product
 
-### Step 1: Identify Trigger Moments
+**Natural Conversation Points**:
+- "I'm glad we've been able to help you achieve [result]..."
+- "Now that you're seeing success with [solution]..."
+- "Given how well this has worked for [use case]..."
 
-When are customers most likely to refer?
+### Timing to Avoid
 
-**High-intent moments:**
-- Right after first "aha" moment
-- After achieving a milestone
-- After receiving exceptional support
-- After renewing or upgrading
-- When they tell you they love the product
+**When NOT to Ask**:
+- During onboarding (too early)
+- When they have open support issues
+- After a difficult conversation
+- When they're clearly stressed/busy
+- If relationship isn't solid
 
-**Natural sharing moments:**
-- When the product involves collaboration
-- When they're asked "what tool do you use?"
-- When they share results publicly
-- When they complete something shareable
+### The Right Cadence
 
-### Step 2: Design the Share Mechanism
-
-**Methods ranked by effectiveness:**
-
-1. **In-product sharing** — Highest conversion, feels native
-2. **Personalized link** — Easy to track, works everywhere
-3. **Email invitation** — Direct, personal, higher intent
-4. **Social sharing** — Broadest reach, lowest conversion
-5. **Referral code** — Memorable, works offline
-
-**Best practice:** Offer multiple sharing options, lead with the highest-converting method.
-
-### Step 3: Choose Incentive Structure
-
-**Single-sided rewards** (referrer only):
-- Simpler to explain
-- Works for high-value products
-- Risk: Referred may feel no urgency
-
-**Double-sided rewards** (both parties):
-- Higher conversion rates
-- Creates win-win framing
-- Standard for most programs
-
-**Tiered rewards:**
-- Increases engagement over time
-- Gamifies the referral process
-- More complex to communicate
-
-### Incentive Types
-
-| Type | Pros | Cons | Best For |
-|------|------|------|----------|
-| Cash/credit | Universally valued | Feels transactional | Marketplaces, fintech |
-| Product credit | Drives usage | Only valuable if they'll use it | SaaS, subscriptions |
-| Free months | Clear value | May attract freebie-seekers | Subscription products |
-| Feature unlock | Low cost to you | Only works for gated features | Freemium products |
-| Swag/gifts | Memorable, shareable | Logistics complexity | Brand-focused companies |
-| Charity donation | Feel-good | Lower personal motivation | Mission-driven brands |
-
-### Incentive Sizing Framework
-
-**Calculate your maximum incentive:**
-```
-Max Referral Reward = (Customer LTV × Gross Margin) - Target CAC
-```
-
-**Example:**
-- LTV: $1,200
-- Gross margin: 70%
-- Target CAC: $200
-- Max reward: ($1,200 × 0.70) - $200 = $640
-
-**Typical referral rewards:**
-- B2C: $10-50 or 10-25% of first purchase
-- B2B SaaS: $50-500 or 1-3 months free
-- Enterprise: Higher, often custom
+| Customer Stage | Referral Approach |
+|---------------|-------------------|
+| 0-3 months | Don't ask (focus on success) |
+| 3-6 months | Soft ask if going well |
+| 6-12 months | Direct ask if successful |
+| 12+ months | Regular asks (quarterly) |
 
 ---
 
-## Referral Program Examples
+## How to Ask for Referrals
 
-### Dropbox (Classic)
+### The Direct Ask
 
-**Program:** Give 500MB storage, get 500MB storage
-**Why it worked:**
-- Reward directly tied to product value
-- Low friction (just an email)
-- Both parties benefit equally
-- Gamified with progress tracking
+**Simple and Effective**:
+"[Name], you've mentioned how much [product/result] has helped your team. Who else do you know that might benefit from something similar?"
 
-### Uber/Lyft
+**More Specific**:
+"We're looking to help more [industry/function] leaders like yourself. Is there anyone in your network facing similar [challenge] that you'd feel comfortable introducing me to?"
 
-**Program:** Give $10 ride credit, get $10 when they ride
-**Why it worked:**
-- Immediate, clear value
-- Double-sided incentive
-- Easy to share (code/link)
-- Triggered at natural moments
+**With Context**:
+"I'm trying to connect with more [VP of Sales / CFOs / etc.] at [company type]. You probably know people in that world—anyone come to mind who might benefit from a conversation?"
 
-### Morning Brew
+### The Indirect Ask
 
-**Program:** Tiered rewards for subscriber referrals
-- 3 referrals: Newsletter stickers
-- 5 referrals: T-shirt
-- 10 referrals: Mug
-- 25 referrals: Hoodie
+**Planting the Seed**:
+"The best way our customers help us grow is through introductions. If anyone ever comes to mind who might benefit from what we do, I'd love to know."
 
-**Why it worked:**
-- Gamification drives ongoing engagement
-- Physical rewards are shareable (more referrals)
-- Low cost relative to subscriber value
-- Built status/identity
+**After Positive Feedback**:
+"I really appreciate you saying that. Would you mind if I asked—if a colleague asked about [your category], would you recommend us?"
 
-### Notion
+**Through Questions**:
+"What conferences or groups do you participate in? I'm always looking to connect with people like you."
 
-**Program:** $10 credit per referral (education)
-**Why it worked:**
-- Targeted high-sharing audience (students)
-- Product naturally spreads in teams
-- Credit keeps users engaged
+### The Structured Ask
+
+**Step 1: Set Up**
+"I have a quick question that's a bit different from our usual conversations—is that okay?"
+
+**Step 2: Frame the Value**
+"We've found that our best customers come from introductions from people like you who've seen real results."
+
+**Step 3: Be Specific**
+"Who do you know that's dealing with [specific challenge] that we helped you solve?"
+
+**Step 4: Make It Easy**
+"I'm not asking you to sell us—just a quick intro, and I'll take it from there."
+
+**Step 5: Provide Options**
+"Would you prefer to make an email intro, or should I reach out and mention your name?"
 
 ---
 
-## Affiliate Program Design
+## Types of Referrals
 
-### Commission Structures
+### Direct Introductions
 
-**Percentage of sale:**
-- Standard: 10-30% of first sale or first year
-- Works for: E-commerce, SaaS with clear pricing
-- Example: "Earn 25% of every sale you refer"
+**What It Is**: Customer emails you and the referral, making an introduction.
 
-**Flat fee per action:**
-- Standard: $5-500 depending on value
-- Works for: Lead gen, trials, freemium
-- Example: "$50 for every qualified demo"
+**How to Request**:
+"Would you be comfortable sending a quick email to [person] introducing us? I can draft something for you if that helps."
 
-**Recurring commission:**
-- Standard: 10-25% of recurring revenue
-- Works for: Subscription products
-- Example: "20% of subscription for 12 months"
-
-**Tiered commission:**
-- Works for: Motivating high performers
-- Example: "20% for 1-10 sales, 25% for 11-25, 30% for 26+"
-
-### Cookie Duration
-
-How long after click does affiliate get credit?
-
-| Duration | Use Case |
-|----------|----------|
-| 24 hours | High-volume, low-consideration purchases |
-| 7-14 days | Standard e-commerce |
-| 30 days | Standard SaaS/B2B |
-| 60-90 days | Long sales cycles, enterprise |
-| Lifetime | Premium affiliate relationships |
-
-### Affiliate Recruitment
-
-**Where to find affiliates:**
-- Existing customers who create content
-- Industry bloggers and reviewers
-- YouTubers in your niche
-- Newsletter writers
-- Complementary tool companies
-- Consultants and agencies
-
-**Outreach template:**
+**Follow-Up Template for Customer**:
 ```
-Subject: Partnership opportunity — [Your Product]
+Subject: Introduction - [Your Name] at [Company]
+
+[Referral Name],
+
+I wanted to introduce you to [Your Name] from [Company]. We've been
+using their [product/service] for [time] and it's helped us [result].
+
+Given [what you know about their situation], I thought it might be
+worth a conversation.
+
+I'll let you two take it from here.
+
+[Customer Name]
+```
+
+### Permission to Use Name
+
+**What It Is**: Customer gives permission to mention their name in outreach.
+
+**How to Request**:
+"If I reached out to [person/company], would you be okay with me mentioning that we work together and you recommended I connect?"
+
+**How to Use**:
+"[Customer Name] at [Company] suggested I reach out. They mentioned you might be dealing with [challenge] that we helped them solve..."
+
+### Referral Network Mapping
+
+**What It Is**: Systematically mapping your customer's network for potential referrals.
+
+**Discovery Questions**:
+- "Who do you know at [target company]?"
+- "What other [title] do you keep in touch with?"
+- "What industry groups or networks are you part of?"
+- "Who did you work with before [current company]?"
+
+### Reference Calls
+
+**What It Is**: Customer agrees to speak with prospects about their experience.
+
+**How to Request**:
+"Would you be open to taking a reference call if one of our prospective customers wanted to hear directly from someone in a similar situation?"
+
+**Managing References**:
+- Don't overuse (max 1-2 calls/quarter)
+- Prep your prospect on what to ask
+- Brief your reference on the prospect
+- Thank them afterward
+
+---
+
+## Referral Programs (Structured)
+
+### Designing a Referral Program
+
+**Program Elements**:
+- Clear qualification criteria
+- Defined rewards/incentives
+- Simple process
+- Tracking mechanism
+- Recognition system
+
+**Reward Options**:
+
+| Reward Type | Best For | Considerations |
+|-------------|----------|----------------|
+| Cash/Gift cards | Wide appeal | May feel transactional |
+| Account credits | Active users | Reinforces product use |
+| Donations | Mission-driven | Good brand alignment |
+| Exclusive access | Power users | Creates VIP feeling |
+| Recognition | Advocates | Public acknowledgment |
+
+### Program Communication
+
+**Launch Email**:
+```
+Subject: Help us help others (and get rewarded)
 
 Hi [Name],
 
-I've been following your content on [topic] — particularly [specific piece] — and think there could be a great fit for a partnership.
+We're launching a referral program for customers like you who've
+seen great results with [product].
 
-[Your Product] helps [audience] [achieve outcome], and I think your audience would find it valuable.
+Here's how it works:
+- Introduce us to someone who could benefit
+- If they become a customer, you get [reward]
 
-We offer [commission structure] for partners, plus [additional benefits: early access, co-marketing, etc.].
+Know someone who's dealing with [challenge]?
+[Reply to this email / Click here to refer]
 
-Would you be open to learning more?
+Thanks for being a great customer.
 
-[Your name]
+[Your Name]
 ```
 
-### Affiliate Enablement
-
-Provide affiliates with:
-- [ ] Unique tracking links/codes
-- [ ] Product overview and key benefits
-- [ ] Target audience description
-- [ ] Comparison to competitors
-- [ ] Creative assets (logos, banners, images)
-- [ ] Sample copy and talking points
-- [ ] Case studies and testimonials
-- [ ] Demo access or free account
-- [ ] FAQ and objection handling
-- [ ] Payment terms and schedule
+**Ongoing Reminders**:
+- Quarterly check-in emails
+- Mention in business reviews
+- Include in customer newsletter
+- Reference in renewal conversations
 
 ---
 
-## Viral Coefficient & Modeling
+## Partner & Channel Referrals
+
+### Types of Partners
+
+**Technology Partners**:
+- Complementary products
+- Integration partners
+- Platform ecosystems
+- Tech alliances
+
+**Service Partners**:
+- Consultants
+- Implementers
+- Agencies
+- Advisors
+
+**Strategic Partners**:
+- Industry associations
+- Influencers
+- Analysts
+- Thought leaders
+
+### Building Partner Relationships
+
+**Identify Potential Partners**:
+- Who do your customers also work with?
+- What complements your solution?
+- Who serves your target market?
+- Who shares your values?
+
+**Establish the Relationship**:
+1. Identify mutual benefit
+2. Start with small collaboration
+3. Build trust through delivery
+4. Formalize as appropriate
+
+**Maintain Partner Relationships**:
+- Regular check-ins
+- Deal registration clarity
+- Joint marketing when possible
+- Reciprocal referrals
+
+### Partner Referral Process
+
+**When You Receive a Referral**:
+1. Acknowledge immediately
+2. Reach out within 24 hours
+3. Keep partner updated
+4. Report outcome
+5. Provide reward/recognition
+
+**When You Give a Referral**:
+1. Qualify appropriately
+2. Make warm introduction
+3. Follow up to confirm connection
+4. Check on outcome
+5. Maintain the relationship
+
+---
+
+## Network-Based Selling
+
+### Leveraging LinkedIn
+
+**Finding Connections**:
+- Check who you're connected to at target accounts
+- Look at 2nd-degree connections
+- Review "People Also Viewed"
+- Search by company/title
+
+**Requesting Introductions**:
+```
+Hi [Connection],
+
+I noticed you're connected to [Target Person] at [Company].
+We're doing interesting work with [similar companies] on [use case].
+
+Would you be comfortable making an introduction? Happy to provide
+context on what I'd like to discuss with them.
+
+Thanks!
+```
+
+### Leveraging Past Relationships
+
+**Former Colleagues**:
+- Keep in touch after job changes
+- Congratulate on new roles
+- Offer help/value first
+- Ask about their new company's challenges
+
+**Previous Customers (Who Changed Jobs)**:
+- Track when champions move
+- Reach out to congratulate
+- Explore new company's needs
+- They already know your value
+
+### Leveraging Events
+
+**Before the Event**:
+- Research attendees
+- Identify target connections
+- Ask customers who's attending
+- Set up meetings in advance
+
+**At the Event**:
+- Collect contacts strategically
+- Ask for introductions on-site
+- Take notes for follow-up
+- Connect on LinkedIn real-time
+
+**After the Event**:
+- Follow up within 48 hours
+- Reference specific conversations
+- Suggest next steps
+- Nurture new relationships
+
+---
+
+## Tracking & Measuring Referrals
 
 ### Key Metrics
 
-**Viral coefficient (K-factor):**
+**Volume Metrics**:
+- Referrals requested
+- Referrals received
+- Referrals converted to meetings
+- Referrals converted to opportunities
+- Referrals converted to customers
+
+**Quality Metrics**:
+- Referral-to-meeting conversion rate
+- Referral opportunity win rate
+- Average deal size (referral vs. other)
+- Sales cycle length (referral vs. other)
+
+**Activity Metrics**:
+- Referral asks per month
+- Customers asked
+- Partners engaged
+- Introduction emails sent
+
+### Referral Pipeline Tracking
+
+**CRM Fields**:
+- Lead source: Referral
+- Referral source name
+- Referral source company
+- Referral type (customer, partner, personal)
+- Referral date
+
+**Reporting**:
+- Referral pipeline report
+- Referral conversion funnel
+- Top referral sources
+- Referral trend over time
+
+### ROI Analysis
+
+**Calculate Referral Value**:
 ```
-K = Invitations × Conversion Rate
-
-K > 1 = Viral growth (each user brings more than 1 new user)
-K < 1 = Amplified growth (referrals supplement other acquisition)
-```
-
-**Example:**
-- Average customer sends 3 invitations
-- 15% of invitations convert
-- K = 3 × 0.15 = 0.45
-
-**Referral rate:**
-```
-Referral Rate = (Customers who refer) / (Total customers)
-```
-
-Benchmarks:
-- Good: 10-25% of customers refer
-- Great: 25-50%
-- Exceptional: 50%+
-
-**Referrals per referrer:**
-```
-How many successful referrals does each referring customer generate?
-```
-
-Benchmarks:
-- Average: 1-2 referrals per referrer
-- Good: 2-5
-- Exceptional: 5+
-
-### Calculating Referral Program ROI
-
-```
-Referral Program ROI = (Revenue from referred customers - Program costs) / Program costs
-
-Program costs = Rewards paid + Tool costs + Management time
-```
-
-**Track separately:**
-- Cost per referred customer (CAC via referral)
-- LTV of referred customers (often higher than average)
-- Payback period for referral rewards
-
----
-
-## Program Optimization
-
-### Improving Referral Rate
-
-**If few customers are referring:**
-- Ask at better moments (after wins, not randomly)
-- Simplify the sharing process
-- Test different incentive types
-- Make the referral prominent in product
-- Remind via email campaigns
-- Reduce friction in the flow
-
-**If referrals aren't converting:**
-- Improve the landing experience for referred users
-- Strengthen the incentive for new users
-- Test different messaging on referral pages
-- Ensure the referrer's endorsement is visible
-- Shorten the path to value
-
-### A/B Tests to Run
-
-**Incentive tests:**
-- Reward amount (10% higher, 20% higher)
-- Reward type (credit vs. cash vs. free months)
-- Single vs. double-sided
-- Immediate vs. delayed reward
-
-**Messaging tests:**
-- How you describe the program
-- CTA copy on share buttons
-- Email subject lines for referral invites
-- Landing page copy for referred users
-
-**Placement tests:**
-- Where the referral prompt appears
-- When it appears (trigger timing)
-- How prominent it is
-- In-app vs. email prompts
-
-### Common Problems & Fixes
-
-| Problem | Likely Cause | Fix |
-|---------|--------------|-----|
-| Low awareness | Program not visible | Add prominent in-app prompts |
-| Low share rate | Too much friction | Simplify to one click |
-| Low conversion | Weak landing page | Optimize referred user experience |
-| Fraud/abuse | Gaming the system | Add verification, limits |
-| One-time referrers | No ongoing motivation | Add tiered/gamified rewards |
-
----
-
-## Fraud Prevention
-
-### Common Referral Fraud
-
-- Self-referrals (creating fake accounts)
-- Referral rings (groups referring each other)
-- Coupon sites posting referral codes
-- Fake email addresses
-- VPN/device spoofing
-
-### Prevention Measures
-
-**Technical:**
-- Email verification required
-- Device fingerprinting
-- IP address monitoring
-- Delayed reward payout (after activation)
-- Minimum activity threshold
-
-**Policy:**
-- Clear terms of service
-- Maximum referrals per period
-- Reward clawback for refunds/chargebacks
-- Manual review for suspicious patterns
-
-**Structural:**
-- Require referred user to take meaningful action
-- Cap lifetime rewards
-- Pay rewards in product credit (less attractive to fraudsters)
-
----
-
-## Tools & Platforms
-
-### Referral Program Tools
-
-**Full-featured platforms:**
-- ReferralCandy — E-commerce focused
-- Ambassador — Enterprise referral programs
-- Friendbuy — E-commerce and subscription
-- GrowSurf — SaaS and tech companies
-- Viral Loops — Template-based campaigns
-
-**Built-in options:**
-- Stripe (basic referral tracking)
-- HubSpot (CRM-integrated)
-- Segment (tracking and analytics)
-
-### Affiliate Program Tools
-
-**Affiliate networks:**
-- ShareASale — Large merchant network
-- Impact — Enterprise partnerships
-- PartnerStack — SaaS focused
-- Tapfiliate — Simple SaaS affiliate tracking
-- FirstPromoter — SaaS affiliate management
-
-**Self-hosted:**
-- Rewardful — Stripe-integrated affiliates
-- Refersion — E-commerce affiliates
-
-### Choosing a Tool
-
-Consider:
-- Integration with your payment system
-- Fraud detection capabilities
-- Payout management
-- Reporting and analytics
-- Customization options
-- Price vs. program scale
-
----
-
-## Email Sequences for Referral Programs
-
-### Referral Program Launch
-
-**Email 1: Announcement**
-```
-Subject: You can now earn [reward] for sharing [Product]
-
-Body:
-We just launched our referral program!
-
-Share [Product] with friends and earn [reward] for each person who signs up. They get [their reward] too.
-
-[Unique referral link]
-
-Here's how it works:
-1. Share your link
-2. Friend signs up
-3. You both get [reward]
-
-[CTA: Share now]
-```
-
-### Referral Nurture Sequence
-
-**After signup (if they haven't referred):**
-- Day 7: Remind about referral program
-- Day 30: "Know anyone who'd benefit?"
-- Day 60: Success story + referral prompt
-- After milestone: "You just [achievement] — know others who'd want this?"
-
-### Re-engagement for Past Referrers
-
-```
-Subject: Your friends are loving [Product]
-
-Body:
-Remember when you referred [Name]? They've [achievement/milestone].
-
-Know anyone else who'd benefit? You'll earn [reward] for each friend who joins.
-
-[Referral link]
+Value = (Referral Opportunities) × (Win Rate) × (Average Deal Size)
+Cost = (Referral Incentives) + (Time Investment)
+ROI = (Value - Cost) / Cost × 100
 ```
 
 ---
 
-## Measuring Success
+## Common Referral Mistakes
 
-### Dashboard Metrics
+### Asking Mistakes
 
-**Program health:**
-- Active referrers (referred someone in last 30 days)
-- Total referrals (invites sent)
-- Referral conversion rate
-- Rewards earned/paid
+**Too Early**:
+Asking before customer has experienced value.
+*Fix*: Wait until they've achieved results.
 
-**Business impact:**
-- % of new customers from referrals
-- CAC via referral vs. other channels
-- LTV of referred customers
-- Referral program ROI
+**Too Vague**:
+"Know anyone who might be interested?"
+*Fix*: Be specific about who you're looking for.
 
-### Cohort Analysis
+**Too Pushy**:
+Asking multiple times or making them uncomfortable.
+*Fix*: Read signals, back off if needed.
 
-Track referred customers separately:
-- Do they convert faster?
-- Do they have higher LTV?
-- Do they refer others at higher rates?
-- Do they churn less?
+**Never Asking**:
+Assuming they'll refer naturally.
+*Fix*: Build systematic asking into your process.
 
-Typical findings:
-- Referred customers have 16-25% higher LTV
-- Referred customers have 18-37% lower churn
-- Referred customers refer others at 2-3x rate
+### Process Mistakes
+
+**No Follow-Through**:
+Getting a referral and not following up quickly.
+*Fix*: Reach out within 24 hours.
+
+**No Feedback Loop**:
+Not telling referrer what happened.
+*Fix*: Keep them updated on progress.
+
+**No Recognition**:
+Failing to thank or reward referrers.
+*Fix*: Always acknowledge, publicly when appropriate.
+
+**Not Reciprocating**:
+Taking referrals without giving back.
+*Fix*: Look for opportunities to help them.
 
 ---
 
-## Launch Checklist
+## Referral Templates
 
-### Before Launch
+### Asking for Referral (Email)
 
-- [ ] Define program goals and success metrics
-- [ ] Design incentive structure
-- [ ] Build or configure referral tool
-- [ ] Create referral landing page
-- [ ] Design email templates
-- [ ] Set up tracking and attribution
-- [ ] Define fraud prevention rules
-- [ ] Create terms and conditions
-- [ ] Test complete referral flow
-- [ ] Plan launch announcement
+```
+Subject: Quick question
 
-### Launch
+Hi [Customer Name],
 
-- [ ] Announce to existing customers (email)
-- [ ] Add in-app referral prompts
-- [ ] Update website with program details
-- [ ] Brief support team on program
-- [ ] Monitor for fraud/issues
-- [ ] Track initial metrics
+I hope you're doing well. It's been great seeing [result]
+you've achieved with [product].
 
-### Post-Launch (First 30 Days)
+I have a quick ask: we're looking to connect with more
+[title/persona] at [company type] who are dealing with
+[challenge].
 
-- [ ] Review conversion funnel
-- [ ] Identify top referrers
-- [ ] Gather feedback on program
-- [ ] Fix any friction points
-- [ ] Plan first optimizations
-- [ ] Send reminder emails to non-referrers
+Anyone come to mind that might benefit from a conversation?
+Happy to keep it low-key—just an intro email, and I'll
+take it from there.
+
+Either way, thanks for being a great customer.
+
+Best,
+[Your Name]
+```
+
+### Thank You for Referral
+
+```
+Subject: Thank you!
+
+Hi [Referrer Name],
+
+I wanted to personally thank you for introducing me to
+[Referral Name]. We had a great conversation about [topic],
+and [outcome/next steps].
+
+I really appreciate you thinking of us. Referrals from
+customers like you are the best way we grow.
+
+If there's anything I can ever do to return the favor,
+please let me know.
+
+Thanks again,
+[Your Name]
+```
+
+### Following Up on Referral
+
+```
+Subject: [Referrer Name] suggested I reach out
+
+Hi [Referral Name],
+
+[Referrer Name] at [Company] suggested I reach out. They
+mentioned you might be dealing with [challenge] that we
+helped them address.
+
+We work with [similar companies] to [value proposition].
+[Referrer]'s team has seen [specific result] since we
+started working together.
+
+Would you have 15 minutes for a quick call to see if
+there's a fit?
+
+Best,
+[Your Name]
+```
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What type of program are you building (referral, affiliate, or both)?
-2. What's your customer LTV and current CAC?
-3. Do you have an existing program, or starting from scratch?
-4. What tools/platforms are you using or considering?
-5. What's your budget for rewards/commissions?
-6. Is your product naturally shareable (involves others, visible results)?
+1. What's your current customer satisfaction score?
+2. How many happy customers could you potentially ask?
+3. What's worked when you've asked for referrals before?
+4. What partners or relationships could you leverage?
+5. What would you offer as a referral incentive?
+6. How do you track referral sources today?
 
 ---
 
 ## Related Skills
 
-- **launch-strategy**: For launching referral program effectively
-- **email-sequence**: For referral nurture campaigns
-- **marketing-psychology**: For understanding referral motivation
-- **analytics-tracking**: For tracking referral attribution
-- **pricing-strategy**: For structuring rewards relative to LTV
+- **customer-onboarding**: For creating referral-worthy experiences
+- **account-expansion**: For deepening customer relationships
+- **outbound-prospecting**: For following up on referrals
+- **sales-outreach-sequences**: For referral follow-up cadences
+- **cold-outreach-writing**: For referral outreach messaging

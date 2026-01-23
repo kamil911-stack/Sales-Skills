@@ -1,576 +1,713 @@
 ---
-name: free-tool-strategy
-description: When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions "engineering as marketing," "free tool," "marketing tool," "calculator," "generator," "interactive tool," "lead gen tool," "build a tool for leads," or "free resource." This skill bridges engineering and marketing — useful for founders and technical marketers.
+name: sales-enablement-tools
+description: When the user wants to create, improve, or deploy sales enablement tools and resources. Also use when the user mentions "ROI calculator," "value calculator," "business case builder," "sales tools," "deal support materials," "proposal generator," "pricing calculator," or "value selling tools." This skill covers building tools that help sales teams demonstrate value and close deals.
 ---
 
-# Free Tool Strategy (Engineering as Marketing)
+# Sales Enablement Tools
 
-You are an expert in engineering-as-marketing strategy. Your goal is to help plan and evaluate free tools that generate leads, attract organic traffic, and build brand awareness.
+You are an expert in sales enablement tools. Your goal is to help create resources that help sales teams demonstrate value, build business cases, and accelerate deal cycles.
 
 ## Initial Assessment
 
-Before designing a tool strategy, understand:
+Before designing tools, understand:
 
-1. **Business Context**
-   - What's the core product/service?
-   - Who is the target audience?
-   - What problems do they have?
+1. **Sales Context**
+   - What are you selling? (Product, service, price point)
+   - Who buys? (Persona, title, industry)
+   - What's the sales cycle length?
+   - Where do deals stall?
 
-2. **Goals**
-   - Lead generation primary goal?
-   - SEO/traffic acquisition?
-   - Brand awareness?
-   - Product education?
+2. **Value Proposition**
+   - What problems do you solve?
+   - What's the measurable impact?
+   - How do customers quantify value?
+   - What metrics matter to buyers?
 
-3. **Resources**
-   - Technical capacity to build?
-   - Ongoing maintenance bandwidth?
-   - Budget for promotion?
+3. **Current State**
+   - What tools do sales use today?
+   - Where do reps struggle to articulate value?
+   - What questions do prospects always ask?
+   - What materials get used vs. ignored?
 
 ---
 
 ## Core Principles
 
-### 1. Solve a Real Problem
-- Tool must provide genuine value
-- Solves a problem your audience actually has
-- Useful even without your main product
+### 1. Tools Must Serve the Sale
 
-### 2. Adjacent to Core Product
-- Related to what you sell
-- Natural path from tool to product
-- Educates on problem you solve
+Every tool should help:
+- Qualify opportunities faster
+- Build compelling business cases
+- Overcome objections with data
+- Accelerate decision-making
+- Increase deal sizes
 
-### 3. Simple and Focused
-- Does one thing well
-- Low friction to use
-- Immediate value
+### 2. Simplicity Wins
 
-### 4. Worth the Investment
-- Lead value × expected leads > build cost + maintenance
-- Consider SEO value
-- Consider brand halo effect
+Reps won't use complex tools:
+- Quick to pull up in meetings
+- Easy to customize per deal
+- Outputs that make sense instantly
+- Mobile-friendly for field sales
 
----
+### 3. Credibility Over Cleverness
 
-## Tool Types
-
-### Calculators
-
-**Best for**: Decisions involving numbers, comparisons, estimates
-
-**Examples**:
-- ROI calculator
-- Savings calculator
-- Cost comparison tool
-- Salary calculator
-- Tax estimator
-
-**Why they work**:
-- Personalized output
-- High perceived value
-- Share-worthy results
-- Clear problem → solution
-
-### Generators
-
-**Best for**: Creating something useful quickly
-
-**Examples**:
-- Policy generator
-- Template generator
-- Name/tagline generator
-- Email subject line generator
-- Resume builder
-
-**Why they work**:
-- Tangible output
-- Saves time
-- Easily shared
-- Repeat usage
-
-### Analyzers/Auditors
-
-**Best for**: Evaluating existing work or assets
-
-**Examples**:
-- Website grader
-- SEO analyzer
-- Email subject tester
-- Headline analyzer
-- Security checker
-
-**Why they work**:
-- Curiosity-driven
-- Personalized insights
-- Creates awareness of problems
-- Natural lead to solution
-
-### Testers/Validators
-
-**Best for**: Checking if something works
-
-**Examples**:
-- Meta tag preview
-- Email rendering test
-- Accessibility checker
-- Mobile-friendly test
-- Speed test
-
-**Why they work**:
-- Immediate utility
-- Bookmark-worthy
-- Repeat usage
-- Professional necessity
-
-### Libraries/Resources
-
-**Best for**: Reference material
-
-**Examples**:
-- Icon library
-- Template library
-- Code snippet library
-- Example gallery
-- Directory
-
-**Why they work**:
-- High SEO value
-- Ongoing traffic
-- Establishes authority
-- Linkable asset
-
-### Interactive Educational
-
-**Best for**: Learning/understanding
-
-**Examples**:
-- Interactive tutorials
-- Code playgrounds
-- Visual explainers
-- Quizzes/assessments
-- Simulators
-
-**Why they work**:
-- Engages deeply
-- Demonstrates expertise
-- Shareable
-- Memory-creating
+Tools must feel trustworthy:
+- Transparent calculations
+- Conservative assumptions
+- Industry benchmarks where possible
+- Easy to explain methodology
 
 ---
 
-## Ideation Framework
+## Tool Types for Sales
 
-### Start with Pain Points
+### ROI Calculators
 
-1. **What problems does your audience Google?**
-   - Search query research
-   - Common questions
-   - "How to" searches
+**Purpose**: Quantify financial value to justify purchase
 
-2. **What manual processes are tedious?**
-   - Tasks done in spreadsheets
-   - Repetitive calculations
-   - Copy-paste workflows
+**Key Elements**:
+- Inputs: Current costs, volumes, pain points
+- Outputs: Savings, revenue gain, payback period
+- Comparison: Current state vs. with your solution
 
-3. **What do they need before buying your product?**
-   - Assessments of current state
-   - Planning/scoping
-   - Comparisons
+**Use Cases**:
+- First demo: Establish value hypothesis
+- Business case: Support champion's internal pitch
+- Negotiation: Justify pricing
+- Expansion: Calculate additional value
 
-4. **What information do they wish they had?**
-   - Data they can't easily access
-   - Personalized insights
-   - Industry benchmarks
-
-### Validate the Idea
-
-**Search demand:**
-- Is there search volume for this problem?
-- What keywords would rank?
-- How competitive?
-
-**Uniqueness:**
-- What exists already?
-- How can you be 10x better or different?
-- What's your unique angle?
-
-**Lead quality:**
-- Does this problem-audience match buyers?
-- Will users be your target customers?
-- Is there a natural path to your product?
-
-**Build feasibility:**
-- How complex to build?
-- Can you scope an MVP?
-- Ongoing maintenance burden?
-
----
-
-## SEO Considerations
-
-### Keyword Strategy
-
-**Tool landing page:**
-- "[thing] calculator"
-- "[thing] generator"
-- "free [tool type]"
-- "[industry] [tool type]"
-
-**Supporting content:**
-- "How to [use case]"
-- "What is [concept tool helps with]"
-- Blog posts that link to tool
-
-### Link Building
-
-Free tools attract links because:
-- Genuinely useful (people reference them)
-- Unique (can't link to just any page)
-- Shareable (social amplification)
-
-**Outreach opportunities:**
-- Roundup posts ("best free tools for X")
-- Resource pages
-- Industry publications
-- Blogs writing about the problem
-
-### Technical SEO
-
-- Fast load time critical
-- Mobile-friendly essential
-- Crawlable content (not just JS app)
-- Proper meta tags
-- Schema markup if applicable
-
----
-
-## Lead Capture Strategy
-
-### When to Gate
-
-**Fully gated (email required to use):**
-- High-value, unique tools
-- Personalized reports
-- Risk: Lower usage
-
-**Partially gated (email for full results):**
-- Show preview, gate details
-- Better balance
-- Most common pattern
-
-**Ungated with optional capture:**
-- Tool is free to use
-- Email to save/share results
-- Highest usage, lower capture
-
-**Ungated entirely:**
-- Pure SEO/brand play
-- No direct leads
-- Maximum reach
-
-### Lead Capture Best Practices
-
-- Value exchange clear: "Get your full report"
-- Minimal friction: Email only
-- Show preview of what they'll get
-- Optional: Segment by asking one qualifying question
-
-### Post-Capture
-
-- Immediate email with results/link
-- Nurture sequence relevant to tool topic
-- Clear path to main product
-- Don't spam—provide value
-
----
-
-## Build vs. Buy vs. Embed
-
-### Build Custom
-
-**When:**
-- Unique concept, nothing exists
-- Core to brand/product
-- High strategic value
-- Have development capacity
-
-**Consider:**
-- Development time
-- Ongoing maintenance
-- Hosting costs
-- Bug fixes
-
-### Use No-Code Tools
-
-**Options:**
-- Outgrow, Involve.me (calculators/quizzes)
-- Typeform, Tally (forms/quizzes)
-- Notion, Coda (databases)
-- Bubble, Webflow (apps)
-
-**When:**
-- Speed to market
-- Limited dev resources
-- Testing concept viability
-
-### Embed Existing
-
-**When:**
-- Something good already exists
-- White-label options available
-- Not core differentiator
-
-**Consider:**
-- Branding limitations
-- Dependency on third party
-- Cost vs. build
-
----
-
-## MVP Scope
-
-### Minimum Viable Tool
-
-1. **Core functionality only**
-   - Does the one thing
-   - No bells and whistles
-   - Works reliably
-
-2. **Essential UX**
-   - Clear input
-   - Obvious output
-   - Mobile works
-
-3. **Basic lead capture**
-   - Email collection works
-   - Leads go somewhere useful
-   - Follow-up exists
-
-### What to Skip Initially
-
-- Account creation
-- Saving results
-- Advanced features
-- Perfect design
-- Every edge case
-
-### Iterate Based on Use
-
-- Track where users drop off
-- See what questions they have
-- Add features that get requested
-- Improve based on data
-
----
-
-## Promotion Strategy
-
-### Launch
-
-**Owned channels:**
-- Email list announcement
-- Blog post / landing page
-- Social media
-- Product hunt (if applicable)
-
-**Outreach:**
-- Relevant newsletters
-- Industry publications
-- Bloggers in space
-- Social influencers
-
-### Ongoing
-
-**SEO:**
-- Target tool-related keywords
-- Supporting content
-- Link building
-
-**Social:**
-- Share interesting results (anonymized)
-- Use case examples
-- Tips for using the tool
-
-**Product integration:**
-- Mention in sales process
-- Link from related product features
-- Include in email sequences
-
----
-
-## Measurement
-
-### Metrics to Track
-
-**Acquisition:**
-- Traffic to tool
-- Traffic sources
-- Keyword rankings
-- Backlinks acquired
-
-**Engagement:**
-- Tool usage/completions
-- Time spent
-- Return visitors
-- Shares
-
-**Conversion:**
-- Email captures
-- Lead quality score
-- MQLs generated
-- Pipeline influenced
-- Customers attributed
-
-### Attribution
-
-- UTM parameters for paid promotion
-- Separate landing page for organic
-- Track lead source through funnel
-- Survey new customers
-
----
-
-## Evaluation Framework
-
-### Tool Idea Scorecard
-
-Rate each factor 1-5:
-
-| Factor | Score |
-|--------|-------|
-| Search demand exists | ___ |
-| Audience match to buyers | ___ |
-| Uniqueness vs. existing tools | ___ |
-| Natural path to product | ___ |
-| Build feasibility | ___ |
-| Maintenance burden (inverse) | ___ |
-| Link-building potential | ___ |
-| Share-worthiness | ___ |
-
-**25+**: Strong candidate
-**15-24**: Promising, needs refinement
-**<15**: Reconsider or scope differently
-
-### ROI Projection
-
+**Example Structure**:
 ```
-Estimated monthly leads: [X]
-Lead-to-customer rate: [Y%]
-Average customer value: [$Z]
+INPUTS:
+- Number of [users/transactions/units]
+- Current cost per [unit]
+- Time spent on [task]
+- Error/failure rate
 
-Monthly value: X × Y% × $Z = $___
+CALCULATIONS:
+- Current annual cost: [formula]
+- Projected cost with solution: [formula]
+- Annual savings: [difference]
+- Implementation cost: [one-time]
+- Payback period: [months]
 
-Build cost: $___
-Monthly maintenance: $___
+OUTPUTS:
+- Year 1 net savings
+- 3-year total value
+- ROI percentage
+- Payback timeline
+```
 
-Payback period: Build cost / (Monthly value - Monthly maintenance)
+### TCO Comparisons
+
+**Purpose**: Compare total cost of ownership vs. alternatives
+
+**Key Elements**:
+- All-in costs (not just sticker price)
+- Hidden costs competitors don't mention
+- Implementation and ongoing costs
+- Risk/failure costs
+
+**Example Categories**:
+```
+DIRECT COSTS:
+- License/subscription fees
+- Implementation
+- Training
+- Support
+
+INDIRECT COSTS:
+- Internal IT time
+- Downtime/maintenance
+- Integration work
+- Customization
+
+HIDDEN COSTS:
+- Productivity loss during transition
+- Opportunity cost of delays
+- Risk of failure/switching again
+```
+
+### Value Assessment Tools
+
+**Purpose**: Diagnose problems and quantify impact
+
+**Key Elements**:
+- Current state questions
+- Benchmark comparisons
+- Gap identification
+- Improvement potential
+
+**Example Flow**:
+```
+ASSESSMENT QUESTIONS:
+1. How many [X] do you process monthly?
+2. What's your current [metric] rate?
+3. How many hours spent on [task]?
+4. What's the cost when [problem] occurs?
+
+BENCHMARK COMPARISON:
+- Your rate: X%
+- Industry average: Y%
+- Top performers: Z%
+
+GAP ANALYSIS:
+- Current performance: [value]
+- Benchmark performance: [value]
+- Improvement opportunity: [value]
+- Value of closing gap: $[amount]
+```
+
+### Proposal/Quote Generators
+
+**Purpose**: Create customized proposals quickly
+
+**Key Elements**:
+- Customer info auto-populated
+- Configurable solution options
+- Pricing logic built in
+- Professional formatting
+
+**Features**:
+- Template selection by use case
+- Drag-and-drop section ordering
+- Conditional content (show/hide)
+- Approval workflows
+- E-signature integration
+
+### Competitive Comparison Tools
+
+**Purpose**: Position against alternatives objectively
+
+**Key Elements**:
+- Feature comparison matrix
+- Pricing comparison (apples to apples)
+- Use case fit assessment
+- Migration/switching analysis
+
+**Output Types**:
+- Side-by-side comparison charts
+- Fit score by use case
+- Total cost comparison
+- Risk assessment
+
+### Configuration/Sizing Tools
+
+**Purpose**: Help prospects understand what they need
+
+**Key Elements**:
+- Needs assessment questions
+- Recommendation logic
+- Pricing tiers/packages
+- Upgrade paths
+
+**Example Flow**:
+```
+SIZING QUESTIONS:
+1. How many users?
+2. What features needed?
+3. Integration requirements?
+4. Growth expectations?
+
+RECOMMENDATION:
+Based on your inputs, we recommend:
+- Package: [tier]
+- Add-ons: [list]
+- Estimated cost: [range]
+- Implementation scope: [description]
 ```
 
 ---
 
-## Output Format
+## Building the Business Case
 
-### Tool Strategy Document
+### Elements of a Strong Business Case
+
+**1. Current State Costs**
+Document what they spend today:
+- Direct costs (tools, services, labor)
+- Indirect costs (inefficiency, errors)
+- Opportunity costs (what they can't do)
+
+**2. Future State Benefits**
+Quantify improvement:
+- Cost reduction
+- Revenue increase
+- Risk mitigation
+- Strategic enablement
+
+**3. Investment Required**
+Be transparent about costs:
+- Purchase price
+- Implementation effort
+- Ongoing costs
+- Internal resources needed
+
+**4. Timeline and Milestones**
+Set realistic expectations:
+- Implementation timeline
+- Time to value
+- Payback period
+- Full ROI realization
+
+### Business Case Template
 
 ```
-# Free Tool Strategy: [Tool Name]
+EXECUTIVE SUMMARY
+- Problem statement
+- Proposed solution
+- Expected outcomes
+- Investment required
+- Recommendation
 
-## Concept
-[What it does in one paragraph]
+CURRENT STATE ANALYSIS
+- Process description
+- Cost breakdown
+- Pain points
+- Risks of status quo
 
-## Target Audience
-[Who uses it, what problem it solves]
+PROPOSED SOLUTION
+- What changes
+- How it works
+- Why this approach
+- Alternatives considered
 
-## Lead Generation Fit
-[How this connects to your product/sales]
+FINANCIAL ANALYSIS
+- Investment breakdown
+- Expected savings/gains
+- ROI calculation
+- Payback period
+- Sensitivity analysis
 
-## SEO Opportunity
-- Target keywords: [list]
-- Search volume: [estimate]
-- Competition: [assessment]
+IMPLEMENTATION PLAN
+- Timeline
+- Resources needed
+- Key milestones
+- Success criteria
 
-## Build Approach
-- Custom / No-code / Embed
-- MVP scope: [core features]
-- Estimated effort: [time/cost]
+RISK ANALYSIS
+- Implementation risks
+- Mitigation strategies
+- Contingency plans
 
-## Lead Capture Strategy
-- Gating approach: [Full/Partial/Ungated]
-- Capture mechanism: [description]
-- Follow-up sequence: [outline]
-
-## Success Metrics
-- [Metric 1]: [Target]
-- [Metric 2]: [Target]
-
-## Promotion Plan
-- Launch: [channels]
-- Ongoing: [strategy]
-
-## Timeline
-- Phase 1: [scope] - [timeframe]
-- Phase 2: [scope] - [timeframe]
+RECOMMENDATION
+- Go/no-go recommendation
+- Next steps
+- Decision timeline
 ```
-
-### Implementation Spec
-If moving forward with build
-
-### Promotion Plan
-Detailed launch and ongoing strategy
 
 ---
 
-## Example Tool Concepts by Business Type
+## Calculator Design Best Practices
 
-### SaaS Product
-- Product ROI calculator
-- Competitor comparison tool
-- Readiness assessment quiz
-- Template library for use case
+### Input Design
 
-### Agency/Services
-- Industry benchmark tool
-- Project scoping calculator
-- Portfolio review tool
-- Cost estimator
+**Keep Inputs Minimal**
+- Only ask what's needed for calculation
+- Provide smart defaults
+- Allow ranges when exact numbers unknown
 
-### E-commerce
-- Product finder quiz
-- Comparison tool
-- Size/fit calculator
-- Savings calculator
+**Make Inputs Easy**
+- Sliders for ranges
+- Dropdowns for common values
+- Pre-populated industry averages
+- "I don't know" options with defaults
 
-### Developer Tools
-- Code snippet library
-- Testing/preview tool
-- Documentation generator
-- Interactive tutorials
+**Validate Reasonably**
+- Flag outliers, don't block them
+- Show benchmarks for context
+- Allow override with explanation
 
-### Finance
-- Financial calculators
-- Investment comparison
-- Budget planner
-- Tax estimator
+### Output Design
+
+**Lead with the Headline**
+- Total value or savings first
+- Make the big number impossible to miss
+- Use visual hierarchy
+
+**Provide Supporting Detail**
+- Break down the calculation
+- Show assumptions used
+- Compare scenarios
+
+**Enable Action**
+- "Save this estimate"
+- "Share with team"
+- "Schedule follow-up"
+- "Download PDF"
+
+### Credibility Builders
+
+**Show Your Work**
+- Methodology explanation
+- Data sources cited
+- Assumptions listed
+- Calculation logic visible
+
+**Use Conservative Numbers**
+- Underestimate benefits
+- Overestimate costs
+- Let customers adjust upward
+- Never inflate to impress
+
+**Include Benchmarks**
+- Industry averages
+- Peer comparisons
+- Customer success data
+- Third-party research
+
+---
+
+## Sales Process Integration
+
+### Discovery Stage
+
+**Use Tools To**:
+- Uncover pain points
+- Quantify current state
+- Establish value hypothesis
+- Qualify budget fit
+
+**Tool Types**:
+- Assessment questionnaires
+- Benchmark comparisons
+- Pain point calculators
+- Qualification scorecards
+
+### Demo Stage
+
+**Use Tools To**:
+- Personalize the story
+- Show relevant value
+- Handle objections
+- Create buying vision
+
+**Tool Types**:
+- ROI calculators (draft)
+- Use case configurators
+- Feature fit assessments
+- Competitive comparisons
+
+### Proposal Stage
+
+**Use Tools To**:
+- Build business case
+- Justify pricing
+- Support champion
+- Accelerate approval
+
+**Tool Types**:
+- Final ROI analysis
+- TCO comparisons
+- Proposal generators
+- Implementation planners
+
+### Negotiation Stage
+
+**Use Tools To**:
+- Defend value
+- Justify investment
+- Counter discounting pressure
+- Expand deal scope
+
+**Tool Types**:
+- Value-to-price calculators
+- Phased rollout planners
+- Add-on value calculators
+- Risk of delay calculators
+
+---
+
+## Deployment Strategies
+
+### Sales-Led (High Touch)
+
+**How It Works**:
+- Rep controls the tool
+- Used in live meetings
+- Customized per deal
+- Output shared after
+
+**Best For**:
+- Complex sales
+- High-value deals
+- Consultative approach
+- Relationship selling
+
+**Implementation**:
+- Train reps thoroughly
+- Build into demo flow
+- Track usage in CRM
+- Gather feedback regularly
+
+### Buyer-Led (Self-Service)
+
+**How It Works**:
+- Prospect uses independently
+- Available on website
+- Results can be gated
+- Leads generated
+
+**Best For**:
+- Volume sales
+- Earlier funnel qualification
+- Product-led growth
+- Market awareness
+
+**Implementation**:
+- Optimize for self-service UX
+- Gate strategically (not too early)
+- Route leads appropriately
+- Follow up with context
+
+### Hybrid Approach
+
+**How It Works**:
+- Buyer starts, sales continues
+- Initial value estimate self-serve
+- Detailed analysis with rep
+- Collaborative refinement
+
+**Best For**:
+- Mid-market sales
+- Technical buyers
+- Proof-of-value processes
+- Land and expand
+
+**Implementation**:
+- Design for handoff
+- Capture self-serve inputs
+- Prepare rep for follow-up
+- Track buyer engagement
+
+---
+
+## Tool Development Process
+
+### 1. Identify the Need
+
+**Questions to Answer**:
+- Where do deals stall?
+- What questions come up repeatedly?
+- Where do reps struggle to show value?
+- What would make champions more effective?
+
+**Sources of Insight**:
+- Win/loss analysis
+- Sales call recordings
+- CRM deal notes
+- Rep interviews
+- Customer feedback
+
+### 2. Design the Logic
+
+**Build the Model**:
+- Define inputs needed
+- Establish calculation formulas
+- Set default/benchmark values
+- Determine output format
+
+**Validate with Data**:
+- Test against real customer cases
+- Verify with finance team
+- Compare to actual outcomes
+- Refine based on feedback
+
+### 3. Build the Tool
+
+**Options by Complexity**:
+
+Simple:
+- Spreadsheet-based
+- PDF with fillable fields
+- Basic web form
+
+Moderate:
+- Interactive web calculator
+- Slide deck with linked cells
+- CRM-integrated tool
+
+Advanced:
+- Custom web application
+- CPQ integration
+- AI-powered recommendations
+- Real-time data integration
+
+### 4. Enable the Team
+
+**Training Elements**:
+- When to use the tool
+- How to position it
+- Walking through with prospects
+- Handling questions about methodology
+- Following up on results
+
+**Support Materials**:
+- Quick reference guide
+- Talk track / script
+- FAQ document
+- Video walkthrough
+- Sample outputs
+
+### 5. Measure and Iterate
+
+**Track Usage**:
+- How often used
+- At what stage
+- By which reps
+- For which deals
+
+**Track Impact**:
+- Win rate when used vs. not
+- Deal size when used vs. not
+- Sales cycle length
+- Progression through stages
+
+**Iterate Based on Data**:
+- What inputs confuse users?
+- What outputs get questioned?
+- What's missing?
+- What's unused?
+
+---
+
+## Common Tool Mistakes
+
+### Calculator Mistakes
+
+**Overly Complex**
+- Too many inputs
+- Confusing calculations
+- Intimidating interface
+
+**Not Credible**
+- Inflated projections
+- Hidden assumptions
+- No methodology shown
+
+**Not Useful**
+- Outputs don't matter to buyer
+- Can't customize for situation
+- Results don't support next step
+
+### Process Mistakes
+
+**Not Integrated**
+- Tool exists but isn't used
+- Not part of sales playbook
+- No CRM connection
+
+**Not Maintained**
+- Outdated pricing
+- Wrong assumptions
+- Broken functionality
+
+**Not Measured**
+- No usage tracking
+- No outcome correlation
+- No improvement loop
+
+---
+
+## Output Formats
+
+### Tool Specification
+
+```
+TOOL NAME: [Name]
+
+PURPOSE:
+[What problem it solves for sales]
+
+USER:
+[Who uses it - rep, prospect, both]
+
+INPUTS:
+1. [Field]: [Description] - [Type/format]
+2. [Field]: [Description] - [Type/format]
+
+CALCULATIONS:
+1. [Metric]: [Formula]
+2. [Metric]: [Formula]
+
+OUTPUTS:
+1. [Primary output]: [Format]
+2. [Secondary output]: [Format]
+
+DEFAULTS/BENCHMARKS:
+- [Assumption]: [Value] - [Source]
+
+INTEGRATION:
+- CRM: [How it connects]
+- Other tools: [Connections]
+
+DEPLOYMENT:
+- [Sales-led / Buyer-led / Hybrid]
+- [Where it lives]
+```
+
+### Business Case Document
+
+See template in "Building the Business Case" section.
+
+### ROI Summary (One-Pager)
+
+```
+CUSTOMER: [Company Name]
+PREPARED BY: [Rep Name]
+DATE: [Date]
+
+THE OPPORTUNITY
+[1-2 sentence summary of their situation]
+
+CURRENT STATE
+- [Metric 1]: [Current value]
+- [Metric 2]: [Current value]
+- Annual cost of status quo: $[amount]
+
+WITH [YOUR SOLUTION]
+- [Metric 1]: [Projected value]
+- [Metric 2]: [Projected value]
+- Projected annual savings: $[amount]
+
+INVESTMENT
+- Year 1 cost: $[amount]
+- Ongoing annual cost: $[amount]
+
+RETURN
+- Year 1 ROI: [X]%
+- 3-Year total value: $[amount]
+- Payback period: [X] months
+
+ASSUMPTIONS
+- [Key assumption 1]
+- [Key assumption 2]
+
+NEXT STEPS
+- [Action 1]
+- [Action 2]
+```
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What's your core product/service?
-2. What problems does your audience commonly face?
-3. What existing tools do they use for workarounds?
-4. How do you currently generate leads?
-5. What technical resources are available?
-6. What's the timeline and budget?
+
+1. What value metrics matter most to your buyers?
+2. Where in the sales process do deals typically stall?
+3. What does your current business case process look like?
+4. Who builds proposals today and how long does it take?
+5. What tools do your top performers use that others don't?
+6. How technical are your buyers?
 
 ---
 
 ## Related Skills
 
-- **page-cro**: For optimizing the tool's landing page
-- **seo-audit**: For SEO-optimizing the tool
-- **analytics-tracking**: For measuring tool usage
-- **email-sequence**: For nurturing leads from the tool
-- **programmatic-seo**: For building tool-based pages at scale
+- **competitive-selling**: For positioning tools against alternatives
+- **pricing-negotiation**: For value-based pricing discussions
+- **discovery-calls**: For uncovering inputs for calculators
+- **proposal-writing**: For translating tool outputs into proposals
+- **sales-analytics**: For measuring tool effectiveness

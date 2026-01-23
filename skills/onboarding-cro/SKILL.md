@@ -1,433 +1,584 @@
 ---
-name: onboarding-cro
-description: When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions "onboarding flow," "activation rate," "user activation," "first-run experience," "empty states," "onboarding checklist," "aha moment," or "new user experience." For signup/registration optimization, see signup-flow-cro. For ongoing email sequences, see email-sequence.
+name: customer-onboarding
+description: When the user wants to optimize new customer onboarding, implementation, time-to-value, or customer activation. Also use when the user mentions "customer onboarding," "implementation," "time-to-value," "customer activation," "go-live," "deployment," "customer success handoff," or "first 90 days." For pre-sale qualification, see lead-qualification. For ongoing account management, see account-expansion.
 ---
 
-# Onboarding CRO
+# Customer Onboarding & Implementation
 
-You are an expert in user onboarding and activation. Your goal is to help users reach their "aha moment" as quickly as possible and establish habits that lead to long-term retention.
+You are an expert in customer onboarding and implementation. Your goal is to help new customers achieve value quickly, ensuring successful adoption and setting the foundation for long-term retention and expansion.
 
 ## Initial Assessment
 
 Before providing recommendations, understand:
 
 1. **Product Context**
-   - What type of product? (SaaS tool, marketplace, app, etc.)
-   - B2B or B2C?
-   - What's the core value proposition?
+   - What are you selling? (Software, service, platform)
+   - How complex is implementation?
+   - What's the typical time-to-value?
 
-2. **Activation Definition**
-   - What's the "aha moment" for your product?
-   - What action indicates a user "gets it"?
-   - What's your current activation rate?
+2. **Customer Context**
+   - Who's the customer? (Enterprise, mid-market, SMB)
+   - What was sold? (Scope, use cases, expectations)
+   - Who are the stakeholders post-sale?
 
 3. **Current State**
-   - What happens immediately after signup?
-   - Is there an existing onboarding flow?
-   - Where do users currently drop off?
+   - What happens after contract signature?
+   - Where do customers get stuck?
+   - What's your current activation rate?
 
 ---
 
 ## Core Principles
 
 ### 1. Time-to-Value Is Everything
-- How quickly can someone experience the core value?
-- Remove every step between signup and that moment
-- Consider: Can they experience value BEFORE signup?
 
-### 2. One Goal Per Session
-- Don't try to teach everything at once
-- Focus first session on one successful outcome
-- Save advanced features for later
+The faster customers see value, the better:
+- Reduces buyer's remorse
+- Builds internal credibility for your champion
+- Creates momentum for adoption
+- Sets foundation for expansion
 
-### 3. Do, Don't Show
-- Interactive > Tutorial
-- Doing the thing > Learning about the thing
-- Show UI in context of real tasks
+### 2. Own the Handoff
 
-### 4. Progress Creates Motivation
-- Show advancement
-- Celebrate completions
-- Make the path visible
+The sales-to-success transition is critical:
+- Context must transfer completely
+- No customer should repeat themselves
+- Continuity builds trust
+- Dropped balls lose customers
 
----
+### 3. Set Clear Expectations
 
-## Defining Activation
+Customers need to know:
+- What success looks like
+- What's required from them
+- Timeline and milestones
+- Who to contact for what
 
-### Find Your Aha Moment
-The action that correlates most strongly with retention:
-- What do retained users do that churned users don't?
-- What's the earliest indicator of future engagement?
-- What action demonstrates they "got it"?
+### 4. Proactive > Reactive
 
-**Examples by product type:**
-- Project management: Create first project + add team member
-- Analytics: Install tracking + see first report
-- Design tool: Create first design + export/share
-- Collaboration: Invite first teammate
-- Marketplace: Complete first transaction
-
-### Activation Metrics
-- % of signups who reach activation
-- Time to activation
-- Steps to activation
-- Activation by cohort/source
+Don't wait for problems:
+- Monitor engagement closely
+- Reach out before they reach out
+- Address friction early
+- Celebrate wins visibly
 
 ---
 
-## Onboarding Flow Design
+## The Sales-to-Success Handoff
 
-### Immediate Post-Signup (First 30 Seconds)
+### What Must Transfer
 
-**Options:**
-1. **Product-first**: Drop directly into product
-   - Best for: Simple products, B2C, mobile apps
-   - Risk: Blank slate overwhelm
+**Deal Context**
+- Why did they buy?
+- What problem are they solving?
+- What was promised?
+- What concerns emerged during sales?
 
-2. **Guided setup**: Short wizard to configure
-   - Best for: Products needing personalization
-   - Risk: Adds friction before value
+**Stakeholder Map**
+- Economic buyer
+- Champion/day-to-day contact
+- Technical stakeholders
+- End users
 
-3. **Value-first**: Show outcome immediately
-   - Best for: Products with demo data or samples
-   - Risk: May not feel "real"
+**Success Criteria**
+- What does success look like?
+- How will they measure it?
+- What's the timeline?
+- What are the risks?
 
-**Whatever you choose:**
-- Clear single next action
-- No dead ends
-- Progress indication if multi-step
+**Implementation Details**
+- Scope and use cases
+- Technical requirements
+- Integration needs
+- Data migration requirements
 
-### Onboarding Checklist Pattern
+### Handoff Meeting Structure
 
-**When to use:**
-- Multiple setup steps required
-- Product has several features to discover
-- Self-serve B2B products
+**Participants**: AE, CSM/Implementation lead, Customer champion
 
-**Best practices:**
-- 3-7 items (not overwhelming)
-- Order by value (most impactful first)
-- Start with quick wins
-- Progress bar/completion %
-- Celebration on completion
-- Dismiss option (don't trap users)
+**Agenda**:
+1. Introductions and role clarification
+2. Review of goals and success criteria
+3. Implementation scope confirmation
+4. Timeline and milestone review
+5. Open questions and concerns
+6. Next steps and scheduling
 
-**Checklist item structure:**
-- Clear action verb
-- Benefit hint
-- Estimated time
-- Quick-start capability
+**Output**: Documented onboarding plan shared with all parties
 
-Example:
+---
+
+## Onboarding Framework
+
+### Phase 1: Kickoff (Week 1)
+
+**Internal Prep (Before Customer Meeting)**
+- Review deal notes and call recordings
+- Understand technical environment
+- Identify potential risks
+- Prepare kickoff materials
+
+**Kickoff Meeting**
+- Confirm goals and success metrics
+- Review implementation scope
+- Introduce the team
+- Establish communication cadence
+- Set expectations for both sides
+
+**Deliverables**
+- Onboarding project plan
+- Stakeholder contact list
+- Communication schedule
+- Success criteria document
+
+### Phase 2: Technical Setup (Weeks 2-4)
+
+**Activities**
+- Technical configuration
+- Integration setup
+- Data migration
+- Security/compliance review
+- Testing and validation
+
+**Customer Responsibilities**
+- Provide access and credentials
+- Allocate technical resources
+- Make configuration decisions
+- Participate in testing
+
+**Milestones**
+- Environment configured
+- Integrations connected
+- Data migrated successfully
+- Technical validation complete
+
+### Phase 3: User Enablement (Weeks 3-5)
+
+**Training Approach**
+- Role-based training paths
+- Hands-on practice sessions
+- Documentation and resources
+- Office hours for questions
+
+**Training Formats**
+- Live training sessions
+- On-demand video content
+- Written guides and FAQs
+- In-app guidance
+
+**Success Indicators**
+- Training completion rates
+- Practice activity completion
+- Knowledge check scores
+- Questions asked and answered
+
+### Phase 4: Go-Live (Week 5-6)
+
+**Pre-Launch**
+- Final validation checklist
+- User access confirmed
+- Support escalation path clear
+- Rollback plan if needed
+
+**Launch Day**
+- Active monitoring
+- Quick response to issues
+- Visible support presence
+- Celebrate the milestone
+
+**Post-Launch**
+- Hypercare support period
+- Daily check-ins initially
+- Issue tracking and resolution
+- Early adoption monitoring
+
+### Phase 5: Value Realization (Weeks 6-12)
+
+**Activities**
+- Monitor adoption metrics
+- Conduct business reviews
+- Document wins and value
+- Identify expansion opportunities
+
+**Success Validation**
+- Are they achieving stated goals?
+- Are users adopting as expected?
+- What value can be quantified?
+- What's working? What isn't?
+
+**Transition to Ongoing Success**
+- Establish regular cadence
+- Define ongoing success metrics
+- Plan for optimization
+- Identify growth opportunities
+
+---
+
+## Onboarding Project Management
+
+### Project Plan Elements
+
+**For Each Milestone**
+- Description of what's included
+- Owner (vendor vs. customer)
+- Dependencies
+- Target date
+- Status tracking
+
+**Example Milestone Structure**
 ```
-☐ Connect your first data source (2 min)
-  Get real-time insights from your existing tools
-  [Connect Now]
+Milestone: Integration Setup Complete
+Owner: Joint (Customer IT + Vendor Implementation)
+Dependencies: Technical kickoff, API credentials provided
+Target: Week 3
+Status: In Progress
+Tasks:
+  - [ ] API credentials provided (Customer)
+  - [ ] Integration configured (Vendor)
+  - [ ] Test data flowing (Joint)
+  - [ ] Validation complete (Joint)
 ```
 
-### Empty States
+### Communication Cadence
 
-Empty states are onboarding opportunities, not dead ends.
+**During Active Implementation**
+- Weekly status calls
+- Daily async updates (Slack/email)
+- Issue escalation within 4 hours
+- Executive sponsor monthly update
 
-**Good empty state:**
-- Explains what this area is for
-- Shows what it looks like with data
-- Clear primary action to add first item
-- Optional: Pre-populate with example data
+**Post-Launch**
+- Bi-weekly check-ins
+- Monthly business reviews
+- Quarterly strategic reviews
 
-**Structure:**
-1. Illustration or preview
-2. Brief explanation of value
-3. Primary CTA to add first item
-4. Optional: Secondary action (import, template)
+### Risk Management
 
-### Tooltips and Guided Tours
+**Common Risks**
+- Customer resource availability
+- Technical complexity higher than expected
+- Scope creep
+- Stakeholder changes
+- Data quality issues
 
-**When to use:**
-- Complex UI that benefits from orientation
-- Features that aren't self-evident
-- Power features users might miss
-
-**When to avoid:**
-- Simple, intuitive interfaces
-- Mobile apps (limited screen space)
-- When they interrupt important flows
-
-**Best practices:**
-- Max 3-5 steps per tour
-- Point to actual UI elements
-- Dismissable at any time
-- Don't repeat for returning users
-- Consider user-initiated tours
-
-### Progress Indicators
-
-**Types:**
-- Checklist (discrete tasks)
-- Progress bar (% complete)
-- Level/stage indicator
-- Profile completeness
-
-**Best practices:**
-- Show early progress (start at 20%, not 0%)
-- Quick early wins (first items easy to complete)
-- Clear benefit of completing
-- Don't block features behind completion
+**Mitigation Strategies**
+- Early identification through kickoff
+- Contingency time in plans
+- Regular risk reviews
+- Escalation paths defined
+- Executive alignment maintained
 
 ---
 
-## Multi-Channel Onboarding
+## Customer Success Metrics
 
-### Email + In-App Coordination
+### Leading Indicators
 
-**Trigger-based emails:**
-- Welcome email (immediate)
-- Incomplete onboarding (24h, 72h)
-- Activation achieved (celebration + next step)
-- Feature discovery (days 3, 7, 14)
-- Stalled user re-engagement
+**Engagement Metrics**
+- Login frequency
+- Feature usage
+- Time in product
+- Actions completed
 
-**Email should:**
-- Reinforce in-app actions
-- Not duplicate in-app messaging
-- Drive back to product with specific CTA
-- Be personalized based on actions taken
+**Adoption Metrics**
+- Users active vs. licensed
+- Features used vs. available
+- Workflows completed
+- Integrations active
 
-### Push Notifications (Mobile)
+**Health Metrics**
+- NPS/satisfaction scores
+- Support ticket volume
+- Response to communications
+- Meeting attendance
 
-- Permission timing is critical (not immediately)
-- Clear value proposition for enabling
-- Reserve for genuine value moments
-- Re-engagement for stalled users
+### Lagging Indicators
 
----
+**Value Metrics**
+- Stated goals achieved
+- ROI realized
+- Business impact measured
+- Success criteria met
 
-## Engagement Loops
+**Business Metrics**
+- Renewal likelihood
+- Expansion potential
+- Reference willingness
+- Churn risk
 
-### Building Habits
-- What regular action should users take?
-- What trigger can prompt return?
-- What reward reinforces the behavior?
+### Onboarding Scorecard
 
-**Loop structure:**
-Trigger → Action → Variable Reward → Investment
-
-**Examples:**
-- Trigger: Email digest of activity
-- Action: Log in to respond
-- Reward: Social engagement, progress, achievement
-- Investment: Add more data, connections, content
-
-### Milestone Celebrations
-- Acknowledge meaningful achievements
-- Show progress relative to journey
-- Suggest next milestone
-- Shareable moments (social proof generation)
-
----
-
-## Handling Stalled Users
-
-### Detection
-- Define "stalled" criteria (X days inactive, incomplete setup)
-- Monitor at cohort level
-- Track recovery rate
-
-### Re-engagement Tactics
-1. **Email sequence for incomplete onboarding**
-   - Reminder of value proposition
-   - Address common blockers
-   - Offer help/demo/call
-   - Deadline/urgency if appropriate
-
-2. **In-app recovery**
-   - Welcome back message
-   - Pick up where they left off
-   - Simplified path to activation
-
-3. **Human touch**
-   - For high-value accounts: personal outreach
-   - Offer live walkthrough
-   - Ask what's blocking them
+| Metric | Target | Week 4 | Week 8 | Week 12 |
+|--------|--------|--------|--------|---------|
+| Technical Setup Complete | 100% | | | |
+| Users Trained | 100% | | | |
+| Active Users | 80%+ | | | |
+| Key Features Adopted | 70%+ | | | |
+| Support Tickets | <5 | | | |
+| Customer Satisfaction | 8+ | | | |
 
 ---
 
-## Measurement
+## Handling Onboarding Challenges
+
+### Stalled Implementations
+
+**Symptoms**
+- Missed milestones
+- Unresponsive stakeholders
+- Competing priorities cited
+- Technical blockers unresolved
+
+**Recovery Actions**
+1. Identify the real blocker
+2. Escalate appropriately
+3. Simplify if possible
+4. Reset expectations
+5. Re-engage stakeholders
+
+### Scope Creep
+
+**Prevention**
+- Clear scope documentation
+- Change request process
+- Regular scope confirmation
+- "Out of scope" clarity
+
+**When It Happens**
+- Acknowledge the request
+- Assess impact on timeline
+- Present options (scope, time, cost)
+- Document the decision
+- Adjust plan accordingly
+
+### Stakeholder Changes
+
+**Mid-onboarding champion leaves**
+1. Identify new champion quickly
+2. Re-establish relationship
+3. Confirm goals still valid
+4. Adjust plan if needed
+5. Document for continuity
+
+### Technical Challenges
+
+**When things break**
+1. Assess severity immediately
+2. Communicate proactively
+3. Assign resources
+4. Provide workarounds
+5. Document root cause
+6. Prevent recurrence
+
+---
+
+## Onboarding Playbooks by Segment
+
+### Enterprise Onboarding
+
+**Characteristics**
+- Complex requirements
+- Multiple stakeholders
+- Long implementation cycles
+- High-touch required
+
+**Approach**
+- Dedicated implementation team
+- Custom project plan
+- Executive sponsorship
+- Regular steering committees
+- Phased rollout
+
+**Timeline**: 3-6 months typical
+
+### Mid-Market Onboarding
+
+**Characteristics**
+- Moderate complexity
+- Smaller buying committee
+- Faster decisions
+- Balance of touch and scale
+
+**Approach**
+- Named CSM/implementation lead
+- Templated project plan
+- Weekly cadence
+- Group training options
+- Standard integrations
+
+**Timeline**: 4-8 weeks typical
+
+### SMB Onboarding
+
+**Characteristics**
+- Simpler requirements
+- Few stakeholders
+- Quick decisions
+- Self-serve elements
+
+**Approach**
+- Tech-touch with human backup
+- Automated sequences
+- On-demand training
+- Community support
+- Templated setup
+
+**Timeline**: 1-2 weeks typical
+
+---
+
+## Technology-Enabled Onboarding
+
+### Automated Onboarding Elements
+
+**Email Sequences**
+- Welcome and next steps
+- Training reminders
+- Milestone celebrations
+- Check-in prompts
+- Value reinforcement
+
+**In-App Guidance**
+- Setup wizards
+- Feature tours
+- Contextual help
+- Progress indicators
+- Empty state prompts
+
+**Self-Service Resources**
+- Knowledge base
+- Video tutorials
+- Community forums
+- FAQ documentation
+- Template libraries
+
+### When to Go Human
+
+**Escalation Triggers**
+- Complex technical issues
+- Stakeholder concerns
+- Stalled progress
+- High-value accounts
+- Renewal risk signals
+
+**Human Touch Moments**
+- Kickoff meeting
+- Key milestone reviews
+- Issue resolution
+- Business reviews
+- Expansion conversations
+
+---
+
+## Measuring Onboarding Success
 
 ### Key Metrics
-- **Activation rate**: % reaching activation event
-- **Time to activation**: How long to first value
-- **Onboarding completion**: % completing setup
-- **Day 1/7/30 retention**: Return rate by timeframe
-- **Feature adoption**: Which features get used
 
-### Funnel Analysis
-Track drop-off at each step:
+**Time-Based**
+- Time to first value
+- Time to go-live
+- Time to full deployment
+- Milestone completion timing
+
+**Adoption-Based**
+- User activation rate
+- Feature adoption breadth
+- Integration utilization
+- Workflow completion
+
+**Outcome-Based**
+- Goals achieved
+- Customer satisfaction (CSAT/NPS)
+- Support ticket volume
+- Renewal rate for cohort
+
+### Optimization Loop
+
+1. Track onboarding metrics by cohort
+2. Identify patterns in successful vs. struggling customers
+3. Adjust process based on data
+4. A/B test changes where possible
+5. Continuously improve playbooks
+
+---
+
+## Output Formats
+
+### Onboarding Plan Template
+
 ```
-Signup → Step 1 → Step 2 → Activation → Retention
-100%      80%       60%       40%         25%
+CUSTOMER: [Name]
+START DATE: [Date]
+TARGET GO-LIVE: [Date]
+
+GOALS & SUCCESS CRITERIA
+- [Goal 1]: [Metric/Definition]
+- [Goal 2]: [Metric/Definition]
+
+KEY STAKEHOLDERS
+- Executive Sponsor: [Name/Role]
+- Champion: [Name/Role]
+- Technical Lead: [Name/Role]
+- End Users: [Group/Count]
+
+MILESTONES
+1. Kickoff Complete: [Date]
+2. Technical Setup: [Date]
+3. Training Complete: [Date]
+4. Go-Live: [Date]
+5. Value Review: [Date]
+
+RISKS & MITIGATIONS
+- [Risk 1]: [Mitigation]
+- [Risk 2]: [Mitigation]
+
+COMMUNICATION PLAN
+- Weekly calls: [Day/Time]
+- Status updates: [Channel]
+- Escalation path: [Process]
 ```
 
-Identify biggest drops and focus there.
+### Status Update Template
 
----
+```
+ONBOARDING STATUS: [Customer Name]
+Week: [X] of [Y]
+Overall Status: [Green/Yellow/Red]
 
-## Output Format
+PROGRESS THIS WEEK
+- [Accomplishment 1]
+- [Accomplishment 2]
 
-### Onboarding Audit
-For each issue:
-- **Finding**: What's happening
-- **Impact**: Why it matters
-- **Recommendation**: Specific fix
-- **Priority**: High/Medium/Low
+NEXT WEEK FOCUS
+- [Priority 1]
+- [Priority 2]
 
-### Onboarding Flow Design
-- **Activation goal**: What they should achieve
-- **Step-by-step flow**: Each screen/state
-- **Checklist items**: If applicable
-- **Empty states**: Copy and CTA
-- **Email sequence**: Triggers and content
-- **Metrics plan**: What to measure
+BLOCKERS/RISKS
+- [Issue]: [Status/Owner]
 
-### Copy Deliverables
-- Welcome screen copy
-- Checklist items with microcopy
-- Empty state copy
-- Tooltip content
-- Email sequence copy
-- Milestone celebration copy
-
----
-
-## Common Patterns by Product Type
-
-### B2B SaaS Tool
-1. Short setup wizard (use case selection)
-2. First value-generating action
-3. Team invitation prompt
-4. Checklist for deeper setup
-
-### Marketplace/Platform
-1. Complete profile
-2. First search/browse
-3. First transaction
-4. Repeat engagement loop
-
-### Mobile App
-1. Permission requests (strategic timing)
-2. Quick win in first session
-3. Push notification setup
-4. Habit loop establishment
-
-### Content/Social Platform
-1. Follow/customize feed
-2. First content consumption
-3. First content creation
-4. Social connection/engagement
-
----
-
-## Experiment Ideas
-
-### Flow Simplification Experiments
-
-**Reduce Friction**
-- Add or remove email verification during onboarding
-- Test empty states vs. pre-populated dummy data
-- Provide pre-filled templates to accelerate setup
-- Add OAuth options for faster account linking
-- Reduce number of required onboarding steps
-
-**Step Sequencing**
-- Test different ordering of onboarding steps
-- Lead with highest-value features first
-- Move friction-heavy steps later in flow
-- Test required vs. optional step balance
-
-**Progress & Motivation**
-- Add progress bars or completion percentages
-- Test onboarding checklists (3-5 items vs. 5-7 items)
-- Gamify milestones with badges or rewards
-- Show "X% complete" messaging
-
----
-
-### Guided Experience Experiments
-
-**Product Tours**
-- Add interactive product tours (Navattic, Storylane)
-- Test tooltip-based guidance vs. modal walkthroughs
-- Video tutorials for complex workflows
-- Self-paced vs. guided tour options
-
-**CTA Optimization**
-- Test CTA text variations during onboarding
-- Test CTA placement within onboarding screens
-- Add in-app tooltips for advanced features
-- Sticky CTAs that persist during onboarding
-
----
-
-### Personalization Experiments
-
-**User Segmentation**
-- Segment users by role to show relevant features
-- Segment by goal to customize onboarding path
-- Create role-specific dashboards
-- Ask use-case question to personalize flow
-
-**Dynamic Content**
-- Personalized welcome messages
-- Industry-specific examples and templates
-- Dynamic feature recommendations based on answers
-
----
-
-### Quick Wins & Engagement Experiments
-
-**Time-to-Value**
-- Highlight quick wins early ("Complete your first X")
-- Show success messages after key actions
-- Display progress celebrations at milestones
-- Suggest next steps after each completion
-
-**Support & Help**
-- Offer free onboarding calls for complex products
-- Add contextual help throughout onboarding
-- Test chat support availability during onboarding
-- Proactive outreach for stuck users
-
----
-
-### Email & Multi-Channel Experiments
-
-**Onboarding Emails**
-- Personalized welcome email from founder
-- Behavior-based emails (triggered by actions/inactions)
-- Test email timing and frequency
-- Include quick tips and video content
-
-**Feedback Loops**
-- Add NPS survey during onboarding
-- Ask "What's blocking you?" for incomplete users
-- Follow-up based on NPS score
+CUSTOMER ENGAGEMENT
+- Responsiveness: [High/Medium/Low]
+- Satisfaction: [Sentiment]
+```
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What action most correlates with retention?
-2. What happens immediately after signup?
-3. Where do users currently drop off?
-4. What's your activation rate target?
-5. Do you have cohort analysis on successful vs. churned users?
+1. What was sold and what are the customer's goals?
+2. What's your current onboarding process?
+3. Where do customers typically get stuck?
+4. What's your average time-to-value?
+5. How do you measure onboarding success?
+6. What handoff happens between sales and success?
 
 ---
 
 ## Related Skills
 
-- **signup-flow-cro**: For optimizing the signup before onboarding
-- **email-sequence**: For onboarding email series
-- **paywall-upgrade-cro**: For converting to paid during/after onboarding
-- **ab-test-setup**: For testing onboarding changes
+- **lead-qualification**: For pre-sale expectations setting
+- **sales-handoff**: For sales-to-success transition
+- **account-expansion**: For post-onboarding growth
+- **customer-retention**: For ongoing success management
+- **business-reviews**: For value documentation and review

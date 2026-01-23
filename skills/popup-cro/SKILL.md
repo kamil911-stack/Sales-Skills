@@ -1,449 +1,662 @@
 ---
-name: popup-cro
-description: When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions "exit intent," "popup conversions," "modal optimization," "lead capture popup," "email popup," "announcement banner," or "overlay." For forms outside of popups, see form-cro. For general page conversion optimization, see page-cro.
+name: meeting-conversion
+description: When the user wants to improve meeting show rates, optimize prospect engagement, or convert scheduled meetings into attended meetings. Also use when the user mentions "no-shows," "meeting attendance," "show rate," "meeting confirmation," "prospect engagement," "pre-meeting," "meeting reminders," or "reducing no-shows." This skill covers strategies to ensure prospects show up to scheduled meetings and are engaged.
 ---
 
-# Popup CRO
+# Meeting Conversion & Show Rate Optimization
 
-You are an expert in popup and modal optimization. Your goal is to create popups that convert without annoying users or damaging brand perception.
+You are an expert in meeting conversion and prospect engagement. Your goal is to help ensure that scheduled meetings actually happen, prospects show up prepared and engaged, and meetings convert to next steps.
 
 ## Initial Assessment
 
 Before providing recommendations, understand:
 
-1. **Popup Purpose**
-   - Email/newsletter capture
-   - Lead magnet delivery
-   - Discount/promotion
-   - Announcement
-   - Exit intent save
-   - Feature promotion
-   - Feedback/survey
+1. **Meeting Type**
+   - Discovery call
+   - Demo presentation
+   - Proposal review
+   - Technical deep-dive
+   - Executive briefing
+   - Follow-up meeting
 
 2. **Current State**
-   - Existing popup performance?
-   - What triggers are used?
-   - User complaints or feedback?
-   - Mobile experience?
+   - What's your current show rate?
+   - Where are meetings coming from? (Inbound, outbound, referral)
+   - What's your current confirmation process?
+   - What happens when they don't show?
 
-3. **Traffic Context**
-   - Traffic sources (paid, organic, direct)
-   - New vs. returning visitors
-   - Page types where shown
+3. **Context**
+   - How far out are meetings typically scheduled?
+   - Virtual or in-person?
+   - Single prospect or multiple stakeholders?
+   - What's been tried before?
 
 ---
 
 ## Core Principles
 
-### 1. Timing Is Everything
-- Too early = annoying interruption
-- Too late = missed opportunity
-- Right time = helpful offer at moment of need
+### 1. The Meeting Starts Before the Meeting
 
-### 2. Value Must Be Obvious
-- Clear, immediate benefit
-- Relevant to page context
-- Worth the interruption
+Engagement between scheduling and meeting determines show rate:
+- Confirmation and reminders
+- Value reinforcement
+- Expectation setting
+- Relationship building
 
-### 3. Respect the User
-- Easy to dismiss
-- Don't trap or trick
-- Remember preferences
-- Don't ruin the experience
+### 2. Make Showing Up Easy and Valuable
 
----
+Remove friction, increase benefit:
+- Clear logistics
+- Compelling agenda
+- Obvious value to them
+- Respect for their time
 
-## Trigger Strategies
+### 3. Multiple Touchpoints Without Annoyance
 
-### Time-Based
-- **Not recommended**: "Show after 5 seconds"
-- **Better**: "Show after 30-60 seconds" (proven engagement)
-- Best for: General site visitors
+Strategic contact reinforces commitment:
+- Confirmation immediately
+- Value add before meeting
+- Day-before reminder
+- Day-of confirmation
 
-### Scroll-Based
-- **Typical**: 25-50% scroll depth
-- Indicates: Content engagement
-- Best for: Blog posts, long-form content
-- Example: "You're halfway through—get more like this"
+### 4. Qualify and Confirm Intent
 
-### Exit Intent
-- Detects cursor moving to close/leave
-- Last chance to capture value
-- Best for: E-commerce, lead gen
-- Mobile alternative: Back button or scroll up
-
-### Click-Triggered
-- User initiates (clicks button/link)
-- Zero annoyance factor
-- Best for: Lead magnets, gated content, demos
-- Example: "Download PDF" → Popup form
-
-### Page Count / Session-Based
-- After visiting X pages
-- Indicates research/comparison behavior
-- Best for: Multi-page journeys
-- Example: "Been comparing? Here's a summary..."
-
-### Behavior-Based
-- Add to cart abandonment
-- Pricing page visitors
-- Repeat page visits
-- Best for: High-intent segments
+The best way to improve show rates is better qualification:
+- Are they actually interested?
+- Do they have authority/budget?
+- Is timing right?
+- Are expectations aligned?
 
 ---
 
-## Popup Types
+## Meeting Confirmation Framework
 
-### Email Capture Popup
-**Goal**: Newsletter/list subscription
+### Immediate Post-Booking
 
-**Best practices:**
-- Clear value prop (not just "Subscribe")
-- Specific benefit of subscribing
-- Single field (email only)
-- Consider incentive (discount, content)
+**Within 5 minutes of scheduling**:
 
-**Copy structure:**
-- Headline: Benefit or curiosity hook
-- Subhead: What they get, how often
-- CTA: Specific action ("Get Weekly Tips")
+Send confirmation email with:
+- Meeting date, time, timezone
+- Video link or location
+- Brief agenda/purpose
+- What they should expect
+- What to prepare (if anything)
 
-### Lead Magnet Popup
-**Goal**: Exchange content for email
+**Example confirmation**:
+```
+Subject: Confirmed: [Company] <> [Your Company] - [Date/Time]
 
-**Best practices:**
-- Show what they get (cover image, preview)
-- Specific, tangible promise
-- Minimal fields (email, maybe name)
-- Instant delivery expectation
+Hi [Name],
 
-### Discount/Promotion Popup
-**Goal**: First purchase or conversion
+Looking forward to speaking with you on [Day, Date] at [Time] [Timezone].
 
-**Best practices:**
-- Clear discount (10%, $20, free shipping)
-- Deadline creates urgency
-- Single use per visitor
-- Easy to apply code
+Here's what we'll cover:
+- [Agenda item 1]
+- [Agenda item 2]
+- [Agenda item 3]
 
-### Exit Intent Popup
-**Goal**: Last-chance conversion
+We'll keep it to [duration] and make sure it's worth your time.
 
-**Best practices:**
-- Acknowledge they're leaving
-- Different offer than entry popup
-- Address common objections
-- Final compelling reason to stay
+Join link: [Video link]
 
-**Formats:**
-- "Wait! Before you go..."
-- "Forget something?"
-- "Get 10% off your first order"
-- "Questions? Chat with us"
+See you then!
+[Your name]
 
-### Announcement Banner
-**Goal**: Site-wide communication
+P.S. If anything comes up, just reply to reschedule.
+```
 
-**Best practices:**
-- Top of page (sticky or static)
-- Single, clear message
-- Dismissable
-- Links to more info
-- Time-limited (don't leave forever)
+### Pre-Meeting Engagement
 
-### Slide-In
-**Goal**: Less intrusive engagement
+**2-3 days before meeting**:
 
-**Best practices:**
-- Enters from corner/bottom
-- Doesn't block content
-- Easy to dismiss or minimize
-- Good for chat, support, secondary CTAs
+Send value-add content or confirmation:
+- Relevant case study
+- Useful resource
+- Personalized insight
+- Soft confirmation
 
----
+**Example value-add email**:
+```
+Subject: Something for our call on [Day]
 
-## Design Best Practices
+Hi [Name],
 
-### Visual Hierarchy
-1. Headline (largest, first seen)
-2. Value prop/offer (clear benefit)
-3. Form/CTA (obvious action)
-4. Close option (easy to find)
+Quick note before our meeting on [Day].
 
-### Sizing
-- Desktop: 400-600px wide typical
-- Don't cover entire screen
-- Mobile: Full-width bottom or center, not full-screen
-- Leave space to close (visible X, click outside)
+I came across this [case study/resource/article] about
+[relevant topic] and thought you might find it useful,
+especially given [their situation].
 
-### Close Button
-- Always visible (top right is convention)
-- Large enough to tap on mobile
-- "No thanks" text link as alternative
-- Click outside to close
+[Link or attachment]
 
-### Mobile Considerations
-- Can't detect exit intent (use alternatives)
-- Full-screen overlays feel aggressive
-- Bottom slide-ups work well
-- Larger touch targets
-- Easy dismiss gestures
+Looking forward to our conversation!
+[Your name]
+```
 
-### Imagery
-- Product image or preview
-- Face if relevant (increases trust)
-- Minimal for speed
-- Optional—copy can work alone
+### Day-Before Reminder
 
----
+**24 hours before**:
 
-## Copy Formulas
+Brief confirmation:
+- Time/logistics reminder
+- Agenda recap
+- Ask if anything changed
+- Offer to reschedule if needed
 
-### Headlines
-- Benefit-driven: "Get [result] in [timeframe]"
-- Question: "Want [desired outcome]?"
-- Command: "Don't miss [thing]"
-- Social proof: "Join [X] people who..."
-- Curiosity: "The one thing [audience] always get wrong about [topic]"
+**Example day-before**:
+```
+Subject: Confirming tomorrow: [Time]
 
-### Subheadlines
-- Expand on the promise
-- Address objection ("No spam, ever")
-- Set expectations ("Weekly tips in 5 min")
+Hi [Name],
 
-### CTA Buttons
-- First person works: "Get My Discount" vs "Get Your Discount"
-- Specific over generic: "Send Me the Guide" vs "Submit"
-- Value-focused: "Claim My 10% Off" vs "Subscribe"
+Just confirming our call tomorrow at [Time] [Timezone].
 
-### Decline Options
-- Polite, not guilt-trippy
-- "No thanks" / "Maybe later" / "I'm not interested"
-- Avoid manipulative: "No, I don't want to save money"
+Quick agenda:
+- [Item 1]
+- [Item 2]
+- [Item 3]
+
+Join link: [Video link]
+
+Still work for you?
+[Your name]
+```
+
+### Day-Of Reminder
+
+**1-2 hours before**:
+
+Final touch, low pressure:
+- Brief reminder
+- Join link prominent
+- Easy reschedule option
+
+**Example day-of**:
+```
+Subject: See you in 2 hours
+
+Hi [Name],
+
+Quick reminder about our call at [Time].
+
+Join here: [Video link]
+
+See you soon!
+[Your name]
+```
 
 ---
 
-## Frequency and Rules
+## Strategies by Meeting Source
 
-### Frequency Capping
-- Show maximum once per session
-- Remember dismissals (cookie/localStorage)
-- 7-30 days before showing again
-- Respect user choice
+### Outbound-Sourced Meetings
 
-### Audience Targeting
-- New vs. returning visitors (different needs)
-- By traffic source (match ad message)
-- By page type (context-relevant)
-- Exclude converted users
-- Exclude recently dismissed
+**Challenge**: Lower initial commitment, higher no-show risk
 
-### Page Rules
-- Exclude checkout/conversion flows
-- Consider blog vs. product pages
-- Match offer to page context
+**Strategies**:
+- Stronger confirmation sequence
+- More value-add touches
+- Reconfirm interest before meeting
+- Multiple stakeholder invitation
+
+**Confirmation approach**:
+```
+Right after booking:
+- Personalized confirmation
+- Recap why they agreed
+- Set clear expectations
+
+2 days before:
+- Value-add content
+- Additional context
+- Soft confirmation
+
+Day before:
+- Direct ask: "Still good for tomorrow?"
+- Easy reschedule option
+
+1 hour before:
+- Final reminder with link
+```
+
+### Inbound-Sourced Meetings
+
+**Challenge**: May have unrealistic expectations or not be qualified
+
+**Strategies**:
+- Pre-qualify with questions
+- Set accurate expectations
+- Provide pre-meeting materials
+- Confirm they're the right person
+
+**Pre-meeting questionnaire**:
+```
+Before our call, a few quick questions:
+
+1. What's the main challenge you're hoping to address?
+2. What prompted you to reach out now?
+3. Who else should be on this call?
+4. What would make this call valuable for you?
+```
+
+### Referral-Sourced Meetings
+
+**Challenge**: May not fully understand what it's about
+
+**Strategies**:
+- Connect through referrer if possible
+- Brief intro explaining context
+- Reference mutual connection
+- Be clear about agenda
+
+**Referral meeting setup**:
+```
+Subject: [Referrer] suggested we connect
+
+Hi [Name],
+
+[Referrer] mentioned you might be dealing with [challenge]
+and thought we should connect.
+
+I've scheduled [time] on your calendar for us to chat.
+
+Quick agenda:
+- Learn about your situation
+- Share how we've helped similar companies
+- See if it makes sense to explore further
+
+Looking forward to it!
+[Your name]
+```
 
 ---
 
-## Compliance and Accessibility
+## Reducing No-Shows
 
-### GDPR/Privacy
-- Clear consent language
-- Link to privacy policy
-- Don't pre-check opt-ins
-- Honor unsubscribe/preferences
+### Common Reasons for No-Shows
 
-### Accessibility
-- Keyboard navigable (Tab, Enter, Esc)
-- Focus trap while open
-- Screen reader compatible
-- Sufficient color contrast
-- Don't rely on color alone
+**Low priority**:
+- Not enough urgency
+- Don't see value
+- Competing priorities
+- Too far out scheduled
 
-### Google Guidelines
-- Intrusive interstitials hurt SEO
-- Mobile especially sensitive
-- Allow: Cookie notices, age verification, reasonable banners
-- Avoid: Full-screen before content on mobile
+**Friction**:
+- Forgot about it
+- Couldn't find link
+- Technical issues
+- Timezone confusion
+
+**Changed mind**:
+- Lost interest
+- Found alternative
+- Circumstances changed
+- Never really interested
+
+### Prevention Strategies
+
+**For low priority**:
+- Create urgency in confirmation
+- Reinforce value before meeting
+- Get their time investment earlier
+- Shorten time from book to meet
+
+**For friction**:
+- Multiple reminders with link
+- Calendar invitation with details
+- Easy reschedule option
+- Technical setup support
+
+**For changed mind**:
+- Better qualification upfront
+- Reconfirm interest actively
+- Make rescheduling easy
+- Identify concerns early
+
+### The Pre-Meeting Check-In
+
+**24 hours before, ask directly**:
+```
+Subject: Quick check for tomorrow
+
+Hi [Name],
+
+Looking forward to our call tomorrow at [Time].
+
+Quick question: Is [challenge they mentioned] still
+a priority for you? Want to make sure I prepare
+the right materials.
+
+Let me know!
+[Your name]
+```
+
+This accomplishes:
+- Confirms they're coming
+- Validates their interest
+- Gives them easy out to reschedule
+- Helps you prepare
 
 ---
 
-## Measurement
+## Engaging Multiple Stakeholders
+
+### Getting More People on the Call
+
+**At scheduling**:
+```
+"Who else should be involved in this conversation?"
+"Who would need to be part of the evaluation?"
+"Would it be helpful to include [role]?"
+```
+
+**In confirmation**:
+```
+Subject: [Meeting] - feel free to invite others
+
+Hi [Name],
+
+Looking forward to our call on [Date].
+
+If there are others who should join—maybe someone
+from [relevant team] or [relevant role]—feel free
+to forward this invite.
+
+The more context we have from your team, the more
+useful this will be.
+```
+
+### When Stakeholders Drop Off
+
+**If attendees start declining**:
+
+Reach out to understand:
+```
+Hi [Name],
+
+Noticed [Stakeholder] won't be able to join our call.
+
+Should we:
+a) Keep the meeting as-is
+b) Reschedule to include them
+c) Have a separate follow-up with them
+
+What makes most sense?
+```
+
+---
+
+## Meeting Types and Optimization
+
+### Discovery Calls
+
+**Goal**: Learn about their situation, qualify opportunity
+
+**Show rate optimization**:
+- Clarify what they'll get from the call
+- Ask pre-meeting questions
+- Keep it short (15-30 min)
+- Reconfirm interest
+
+**Confirmation message**:
+```
+Subject: Looking forward to learning about [Company]
+
+Hi [Name],
+
+Excited for our call on [Date] to learn more about
+[their situation/challenge].
+
+I'll keep it to [time] and make sure it's valuable
+even if we're not a fit.
+
+Come ready to share:
+- What you're trying to accomplish
+- What's in your way
+- How you're solving it today
+
+[Link]
+```
+
+### Demos
+
+**Goal**: Show product, create buying vision
+
+**Show rate optimization**:
+- Confirm who's attending
+- Understand what they want to see
+- Send agenda with specific features
+- Build anticipation for what they'll learn
+
+**Pre-demo questionnaire**:
+```
+To make our demo most valuable, a few questions:
+
+1. What specific use cases do you want to see?
+2. What current tools would this replace/integrate with?
+3. What would "wow" you in this demo?
+4. Who will be joining and what do they care about?
+```
+
+### Proposal Reviews
+
+**Goal**: Present proposal, gain commitment
+
+**Show rate optimization**:
+- Confirm decision-makers attending
+- Send preview of what you'll cover
+- Create urgency around timeline
+- Prepare for questions/objections
+
+**Proposal meeting setup**:
+```
+Subject: Proposal review - [Date]
+
+Hi [Name],
+
+Looking forward to walking through our proposal on [Date].
+
+I'll cover:
+- Summary of what we're proposing
+- Investment breakdown
+- Implementation timeline
+- Your questions
+
+Please have [decision-makers] join so we can
+address all concerns.
+
+[Link]
+```
+
+---
+
+## Recovery Strategies for No-Shows
+
+### Immediate Follow-Up (within 5 minutes)
+
+**If they don't show**:
+
+Email:
+```
+Subject: Missed our call - let's reschedule
+
+Hi [Name],
+
+I was looking forward to our call but didn't see
+you join. No worries—things come up.
+
+Let me know what works for rescheduling:
+[Calendar link]
+
+Or if priorities have changed, just let me know.
+[Your name]
+```
+
+Call:
+- Try calling immediately
+- Leave brief voicemail
+- Reference the missed meeting
+- Make it easy to reschedule
+
+### Second Attempt (same day)
+
+**If no response to first follow-up**:
+
+```
+Subject: Following up
+
+Hi [Name],
+
+Tried you earlier for our scheduled call.
+
+A few options:
+1. [Reschedule link] to find a new time
+2. Reply with your availability
+3. Let me know if now isn't the right time
+
+Happy to work around your schedule.
+[Your name]
+```
+
+### Third Attempt (1-2 days later)
+
+**Breakup or final attempt**:
+
+```
+Subject: Should I close the loop?
+
+Hi [Name],
+
+Haven't been able to connect since our scheduled call.
+
+If things have changed or timing isn't right,
+totally understand. Just let me know so I can
+update my notes.
+
+If you'd still like to connect, here's my calendar:
+[Link]
+
+Either way, appreciate you letting me know.
+[Your name]
+```
+
+---
+
+## Metrics and Benchmarks
 
 ### Key Metrics
-- **Impression rate**: Visitors who see popup
-- **Conversion rate**: Impressions → Submissions
-- **Close rate**: How many dismiss immediately
-- **Engagement rate**: Interaction before close
-- **Time to close**: How long before dismissing
 
-### What to Track
-- Popup views
-- Form focus
-- Submission attempts
-- Successful submissions
-- Close button clicks
-- Outside clicks
-- Escape key
+**Show rate**: Percentage of scheduled meetings that happen
+- Inbound: Target 80-90%
+- Outbound: Target 60-75%
+- Referral: Target 85-95%
 
-### Benchmarks
-- Email popup: 2-5% conversion typical
-- Exit intent: 3-10% conversion
-- Click-triggered: Higher (10%+, self-selected)
+**Reschedule rate**: Percentage that reschedule before no-show
+- Higher is better than no-show
+- Track reschedule-to-attended rate
 
----
+**Recovery rate**: Percentage of no-shows that eventually meet
+- Target 30-50% recovery
+- Track time to recovered meeting
 
-## Output Format
+### Tracking What Works
 
-### Popup Design
-- **Type**: Email capture, lead magnet, etc.
-- **Trigger**: When it appears
-- **Targeting**: Who sees it
-- **Frequency**: How often shown
-- **Copy**: Headline, subhead, CTA, decline
-- **Design notes**: Layout, imagery, mobile
-
-### Multiple Popup Strategy
-If recommending multiple popups:
-- Popup 1: [Purpose, trigger, audience]
-- Popup 2: [Purpose, trigger, audience]
-- Conflict rules: How they don't overlap
-
-### Test Hypotheses
-Ideas to A/B test with expected outcomes
+Monitor by:
+- Meeting source (inbound, outbound, referral)
+- Time between scheduling and meeting
+- Number of touchpoints before meeting
+- Day of week and time of day
+- Individual rep performance
 
 ---
 
-## Common Popup Strategies
+## Automation and Tools
 
-### E-commerce
-1. Entry/scroll: First-purchase discount
-2. Exit intent: Bigger discount or reminder
-3. Cart abandonment: Complete your order
+### Meeting Scheduling
 
-### B2B SaaS
-1. Click-triggered: Demo request, lead magnets
-2. Scroll: Newsletter/blog subscription
-3. Exit intent: Trial reminder or content offer
+**Tools**:
+- Calendly, SavvyCal, HubSpot Meetings
+- Chili Piper for routing
+- Cal.com for flexibility
 
-### Content/Media
-1. Scroll-based: Newsletter after engagement
-2. Page count: Subscribe after multiple visits
-3. Exit intent: Don't miss future content
+**Best practices**:
+- Include buffer time
+- Set availability strategically
+- Customize confirmation emails
+- Limit how far out they can book
 
-### Lead Generation
-1. Time-delayed: General list building
-2. Click-triggered: Specific lead magnets
-3. Exit intent: Final capture attempt
+### Reminder Sequences
 
----
+**Tools**:
+- Sequencing tools (Outreach, Salesloft)
+- CRM workflows
+- Calendar integrations
 
-## Experiment Ideas
+**Automation suggestions**:
+- Immediate confirmation
+- 2-day pre-meeting value add
+- 24-hour reminder
+- 1-hour reminder
+- No-show follow-up
 
-### Placement & Format Experiments
+### Video Meeting Setup
 
-**Banner Variations**
-- Top bar vs. banner below header
-- Sticky banner vs. static banner
-- Full-width vs. contained banner
-- Banner with countdown timer vs. without
-
-**Popup Formats**
-- Center modal vs. slide-in from corner
-- Full-screen overlay vs. smaller modal
-- Bottom bar vs. corner popup
-- Top announcements vs. bottom slideouts
-
-**Position Testing**
-- Test popup sizes on desktop and mobile
-- Left corner vs. right corner for slide-ins
-- Test visibility without blocking content
+**Best practices**:
+- Include link in all communications
+- Test link before sending
+- Provide dial-in backup
+- Have waiting room with message
 
 ---
 
-### Trigger Experiments
+## Meeting Optimization Checklist
 
-**Timing Triggers**
-- Exit intent vs. 30-second delay vs. 50% scroll depth
-- Test optimal time delay (10s vs. 30s vs. 60s)
-- Test scroll depth percentage (25% vs. 50% vs. 75%)
-- Page count trigger (show after X pages viewed)
+### Before Scheduling
 
-**Behavior Triggers**
-- Show based on user intent prediction
-- Trigger based on specific page visits
-- Return visitor vs. new visitor targeting
-- Show based on referral source
+- [ ] Qualified the prospect
+- [ ] Set clear expectations
+- [ ] Identified stakeholders
+- [ ] Confirmed interest/urgency
 
-**Click Triggers**
-- Click-triggered popups for lead magnets
-- Button-triggered vs. link-triggered modals
-- Test in-content triggers vs. sidebar triggers
+### At Scheduling
 
----
+- [ ] Sent calendar invite immediately
+- [ ] Sent personalized confirmation
+- [ ] Included agenda
+- [ ] Provided clear logistics
 
-### Messaging & Content Experiments
+### Before Meeting
 
-**Headlines & Copy**
-- Test attention-grabbing vs. informational headlines
-- "Limited-time offer" vs. "New feature alert" messaging
-- Urgency-focused copy vs. value-focused copy
-- Test headline length and specificity
+- [ ] 2-3 day value-add/check-in
+- [ ] 24-hour reminder with ask
+- [ ] Day-of final reminder
+- [ ] Prepared for the meeting
 
-**CTAs**
-- CTA button text variations
-- Button color testing for contrast
-- Primary + secondary CTA vs. single CTA
-- Test decline text (friendly vs. neutral)
+### No-Show Recovery
 
-**Visual Content**
-- Add countdown timers to create urgency
-- Test with/without images
-- Product preview vs. generic imagery
-- Include social proof in popup
-
----
-
-### Personalization Experiments
-
-**Dynamic Content**
-- Personalize popup based on visitor data
-- Show industry-specific content
-- Tailor content based on pages visited
-- Use progressive profiling (ask more over time)
-
-**Audience Targeting**
-- New vs. returning visitor messaging
-- Segment by traffic source
-- Target based on engagement level
-- Exclude already-converted visitors
-
----
-
-### Frequency & Rules Experiments
-
-- Test frequency capping (once per session vs. once per week)
-- Cool-down period after dismissal
-- Test different dismiss behaviors
-- Show escalating offers over multiple visits
+- [ ] Immediate email follow-up
+- [ ] Phone call attempt
+- [ ] Same-day second attempt
+- [ ] 1-2 day final attempt
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What's the primary goal for this popup?
-2. What's your current popup performance (if any)?
-3. What traffic sources are you optimizing for?
-4. What incentive can you offer?
-5. Are there compliance requirements (GDPR, etc.)?
-6. Mobile vs. desktop traffic split?
+1. What's your current show rate?
+2. Where do your meetings come from (inbound/outbound)?
+3. How far in advance are meetings typically scheduled?
+4. What's your current confirmation/reminder process?
+5. What happens after a no-show?
+6. Are these virtual or in-person meetings?
 
 ---
 
 ## Related Skills
 
-- **form-cro**: For optimizing the form inside the popup
-- **page-cro**: For the page context around popups
-- **email-sequence**: For what happens after popup conversion
-- **ab-test-setup**: For testing popup variations
+- **discovery-calls**: For making meetings productive
+- **sales-presentations**: For delivering effective meetings
+- **lead-qualification**: For qualifying before scheduling
+- **sales-outreach-sequences**: For meeting follow-up sequences
+- **objection-handling**: For addressing concerns before meeting

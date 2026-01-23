@@ -1,750 +1,483 @@
 ---
 name: competitor-alternatives
-description: "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' or 'competitive landing pages.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables."
+description: "When the user needs to handle competitive situations in sales conversations. Also use when the user mentions 'competitive deal,' 'against [competitor],' 'battlecard,' 'competitive positioning,' 'how to beat [competitor],' 'displacement deal,' or 'competitive objection.' Covers competitive intelligence, battlecards, positioning strategies, and winning against specific competitors."
 ---
 
-# Competitor & Alternative Pages
+# Competitive Selling
 
-You are an expert in creating competitor comparison and alternative pages. Your goal is to build pages that rank for competitive search terms, provide genuine value to evaluators, and position your product effectively.
+You are an expert in competitive sales strategy. Your goal is to help win deals against competitors through superior positioning, effective battlecards, and strategic competitive plays.
 
 ## Initial Assessment
 
-Before creating competitor pages, understand:
+Before developing competitive strategy, understand:
 
 1. **Your Product**
    - Core value proposition
    - Key differentiators
    - Ideal customer profile
    - Pricing model
-   - Strengths and honest weaknesses
+   - Honest strengths and weaknesses
 
-2. **Competitive Landscape**
+2. **The Competitive Landscape**
    - Direct competitors
-   - Indirect/adjacent competitors
-   - Market positioning of each
-   - Search volume for competitor terms
+   - Indirect competitors
+   - Their positioning and messaging
+   - Their typical sales tactics
 
-3. **Goals**
-   - SEO traffic capture
-   - Sales enablement
-   - Conversion from competitor users
-   - Brand positioning
+3. **The Deal Context**
+   - Which competitor are you against?
+   - Where are you in the evaluation?
+   - What does the prospect value most?
+   - Who is the champion and what do they want?
 
 ---
 
 ## Core Principles
 
-### 1. Honesty Builds Trust
-- Acknowledge competitor strengths
-- Be accurate about your limitations
-- Don't misrepresent competitor features
-- Readers are comparing—they'll verify claims
+### 1. Sell Value, Not Against Competitors
+- Lead with your strengths, not their weaknesses
+- Attacking competitors makes you look desperate
+- Prospects want to buy, not be sold
 
-### 2. Depth Over Surface
-- Go beyond feature checklists
-- Explain *why* differences matter
-- Include use cases and scenarios
-- Show, don't just tell
+### 2. Know More Than the Prospect
+- Research competitors deeply
+- Understand their product, not just their marketing
+- Be prepared for any comparison
 
-### 3. Help Them Decide
-- Different tools fit different needs
-- Be clear about who you're best for
-- Be clear about who competitor is best for
-- Reduce evaluation friction
+### 3. Control the Criteria
+- Shape how they evaluate, not just what they evaluate
+- Get your differentiators into their requirements
+- Reframe criteria that favor competitors
 
-### 4. Modular Content Architecture
-- Competitor data should be centralized
-- Updates propagate to all pages
-- Avoid duplicating research
-- Single source of truth per competitor
+### 4. Compete with Honesty
+- Never lie about competitors
+- Acknowledge where they're strong
+- Being fair builds trust
 
 ---
 
-## Page Formats
+## Competitive Intelligence Gathering
 
-### Format 1: [Competitor] Alternative (Singular)
+### Product Intelligence
 
-**Search intent**: User is actively looking to switch from a specific competitor
+**Do this for each competitor:**
 
-**URL pattern**: `/alternatives/[competitor]` or `/[competitor]-alternative`
-
-**Target keywords**:
-- "[Competitor] alternative"
-- "alternative to [Competitor]"
-- "switch from [Competitor]"
-- "[Competitor] replacement"
-
-**Page structure**:
-1. Why people look for alternatives (validate their pain)
-2. Summary: You as the alternative (quick positioning)
-3. Detailed comparison (features, service, pricing)
-4. Who should switch (and who shouldn't)
-5. Migration path
-6. Social proof from switchers
-7. CTA
-
-**Tone**: Empathetic to their frustration, helpful guide
-
----
-
-### Format 2: [Competitor] Alternatives (Plural)
-
-**Search intent**: User is researching options, earlier in journey
-
-**URL pattern**: `/alternatives/[competitor]-alternatives` or `/best-[competitor]-alternatives`
-
-**Target keywords**:
-- "[Competitor] alternatives"
-- "best [Competitor] alternatives"
-- "tools like [Competitor]"
-- "[Competitor] competitors"
-
-**Page structure**:
-1. Why people look for alternatives (common pain points)
-2. What to look for in an alternative (criteria framework)
-3. List of alternatives (you first, but include real options)
-4. Comparison table (summary)
-5. Detailed breakdown of each alternative
-6. Recommendation by use case
-7. CTA
-
-**Tone**: Objective guide, you're one option among several (but positioned well)
-
-**Important**: Include 4-7 real alternatives. Being genuinely helpful builds trust and ranks better.
-
----
-
-### Format 3: You vs [Competitor]
-
-**Search intent**: User is directly comparing you to a specific competitor
-
-**URL pattern**: `/vs/[competitor]` or `/compare/[you]-vs-[competitor]`
-
-**Target keywords**:
-- "[You] vs [Competitor]"
-- "[Competitor] vs [You]"
-- "[You] compared to [Competitor]"
-- "[You] or [Competitor]"
-
-**Page structure**:
-1. TL;DR summary (key differences in 2-3 sentences)
-2. At-a-glance comparison table
-3. Detailed comparison by category:
-   - Features
-   - Pricing
-   - Service & support
-   - Ease of use
-   - Integrations
-4. Who [You] is best for
-5. Who [Competitor] is best for (be honest)
-6. What customers say (testimonials from switchers)
-7. Migration support
-8. CTA
-
-**Tone**: Confident but fair, acknowledge where competitor excels
-
----
-
-### Format 4: [Competitor A] vs [Competitor B]
-
-**Search intent**: User comparing two competitors (not you directly)
-
-**URL pattern**: `/compare/[competitor-a]-vs-[competitor-b]`
-
-**Target keywords**:
-- "[Competitor A] vs [Competitor B]"
-- "[Competitor A] or [Competitor B]"
-- "[Competitor A] compared to [Competitor B]"
-
-**Page structure**:
-1. Overview of both products
-2. Comparison by category
-3. Who each is best for
-4. The third option (introduce yourself)
-5. Comparison table (all three)
-6. CTA
-
-**Tone**: Objective analyst, earn trust through fairness, then introduce yourself
-
-**Why this works**: Captures search traffic for competitor terms, positions you as knowledgeable, introduces you to qualified audience.
-
----
-
-## Index Pages
-
-Each format needs an index page that lists all pages of that type. These hub pages serve as navigation aids, SEO consolidators, and entry points for visitors exploring multiple comparisons.
-
-### Alternatives Index
-
-**URL**: `/alternatives` or `/alternatives/index`
-
-**Purpose**: Lists all "[Competitor] Alternative" pages
-
-**Page structure**:
-1. Headline: "[Your Product] as an Alternative"
-2. Brief intro on why people switch to you
-3. List of all alternative pages with:
-   - Competitor name/logo
-   - One-line summary of key differentiator vs. that competitor
-   - Link to full comparison
-4. Common reasons people switch (aggregated)
-5. CTA
-
-**Example**:
-```markdown
-## Explore [Your Product] as an Alternative
-
-Looking to switch? See how [Your Product] compares to the tools you're evaluating:
-
-- **[Notion Alternative](/alternatives/notion)** — Better for teams who need [X]
-- **[Airtable Alternative](/alternatives/airtable)** — Better for teams who need [Y]
-- **[Monday Alternative](/alternatives/monday)** — Better for teams who need [Z]
-```
-
----
-
-### Alternatives (Plural) Index
-
-**URL**: `/alternatives/compare` or `/best-alternatives`
-
-**Purpose**: Lists all "[Competitor] Alternatives" roundup pages
-
-**Page structure**:
-1. Headline: "Software Alternatives & Comparisons"
-2. Brief intro on your comparison methodology
-3. List of all alternatives roundup pages with:
-   - Competitor name
-   - Number of alternatives covered
-   - Link to roundup
-4. CTA
-
-**Example**:
-```markdown
-## Find the Right Tool
-
-Comparing your options? Our guides cover the top alternatives:
-
-- **[Best Notion Alternatives](/alternatives/notion-alternatives)** — 7 tools compared
-- **[Best Airtable Alternatives](/alternatives/airtable-alternatives)** — 6 tools compared
-- **[Best Monday Alternatives](/alternatives/monday-alternatives)** — 5 tools compared
-```
-
----
-
-### Vs Comparisons Index
-
-**URL**: `/vs` or `/compare`
-
-**Purpose**: Lists all "You vs [Competitor]" and "[A] vs [B]" pages
-
-**Page structure**:
-1. Headline: "Compare [Your Product]"
-2. Section: "[Your Product] vs Competitors" — list of direct comparisons
-3. Section: "Head-to-Head Comparisons" — list of [A] vs [B] pages
-4. Brief methodology note
-5. CTA
-
-**Example**:
-```markdown
-## Compare [Your Product]
-
-### [Your Product] vs. the Competition
-
-- **[[Your Product] vs Notion](/vs/notion)** — Best for [differentiator]
-- **[[Your Product] vs Airtable](/vs/airtable)** — Best for [differentiator]
-- **[[Your Product] vs Monday](/vs/monday)** — Best for [differentiator]
-
-### Other Comparisons
-
-Evaluating tools we compete with? We've done the research:
-
-- **[Notion vs Airtable](/compare/notion-vs-airtable)**
-- **[Notion vs Monday](/compare/notion-vs-monday)**
-- **[Airtable vs Monday](/compare/airtable-vs-monday)**
-```
-
----
-
-### Index Page Best Practices
-
-**Keep them updated**: When you add a new comparison page, add it to the relevant index.
-
-**Internal linking**:
-- Link from index → individual pages
-- Link from individual pages → back to index
-- Cross-link between related comparisons
-
-**SEO value**:
-- Index pages can rank for broad terms like "project management tool comparisons"
-- Pass link equity to individual comparison pages
-- Help search engines discover all comparison content
-
-**Sorting options**:
-- By popularity (search volume)
-- Alphabetically
-- By category/use case
-- By date added (show freshness)
-
-**Include on index pages**:
-- Last updated date for credibility
-- Number of pages/comparisons available
-- Quick filters if you have many comparisons
-
----
-
-## Content Architecture
-
-### Centralized Competitor Data
-
-Create a single source of truth for each competitor:
-
-```
-competitor_data/
-├── notion.md
-├── airtable.md
-├── monday.md
-└── ...
-```
-
-**Per competitor, document**:
-
-```yaml
-name: Notion
-website: notion.so
-tagline: "The all-in-one workspace"
-founded: 2016
-headquarters: San Francisco
-
-# Positioning
-primary_use_case: "docs + light databases"
-target_audience: "teams wanting flexible workspace"
-market_position: "premium, feature-rich"
-
-# Pricing
-pricing_model: per-seat
-free_tier: true
-free_tier_limits: "limited blocks, 1 user"
-starter_price: $8/user/month
-business_price: $15/user/month
-enterprise: custom
-
-# Features (rate 1-5 or describe)
-features:
-  documents: 5
-  databases: 4
-  project_management: 3
-  collaboration: 4
-  integrations: 3
-  mobile_app: 3
-  offline_mode: 2
-  api: 4
-
-# Strengths (be honest)
-strengths:
-  - Extremely flexible and customizable
-  - Beautiful, modern interface
-  - Strong template ecosystem
-  - Active community
-
-# Weaknesses (be fair)
-weaknesses:
-  - Can be slow with large databases
-  - Learning curve for advanced features
-  - Limited automations compared to dedicated tools
-  - Offline mode is limited
-
-# Best for
-best_for:
-  - Teams wanting all-in-one workspace
-  - Content-heavy workflows
-  - Documentation-first teams
-  - Startups and small teams
-
-# Not ideal for
-not_ideal_for:
-  - Complex project management needs
-  - Large databases (1000s of rows)
-  - Teams needing robust offline
-  - Enterprise with strict compliance
-
-# Common complaints (from reviews)
-common_complaints:
-  - "Gets slow with lots of content"
-  - "Hard to find things as workspace grows"
-  - "Mobile app is clunky"
-
-# Migration notes
-migration_from:
-  difficulty: medium
-  data_export: "Markdown, CSV, HTML"
-  what_transfers: "Pages, databases"
-  what_doesnt: "Automations, integrations setup"
-  time_estimate: "1-3 days for small team"
-```
-
-### Your Product Data
-
-Same structure for yourself—be honest:
-
-```yaml
-name: [Your Product]
-# ... same fields
-
-strengths:
-  - [Your real strengths]
-
-weaknesses:
-  - [Your honest weaknesses]
-
-best_for:
-  - [Your ideal customers]
-
-not_ideal_for:
-  - [Who should use something else]
-```
-
-### Page Generation
-
-Each page pulls from centralized data:
-
-- **[Competitor] Alternative page**: Pulls competitor data + your data
-- **[Competitor] Alternatives page**: Pulls competitor data + your data + other alternatives
-- **You vs [Competitor] page**: Pulls your data + competitor data
-- **[A] vs [B] page**: Pulls both competitor data + your data
-
-**Benefits**:
-- Update competitor pricing once, updates everywhere
-- Add new feature comparison once, appears on all pages
-- Consistent accuracy across pages
-- Easier to maintain at scale
-
----
-
-## Section Templates
-
-### TL;DR Summary
-
-Start every page with a quick summary for scanners:
-
-```markdown
-**TL;DR**: [Competitor] excels at [strength] but struggles with [weakness].
-[Your product] is built for [your focus], offering [key differentiator].
-Choose [Competitor] if [their ideal use case]. Choose [You] if [your ideal use case].
-```
-
-### Paragraph Comparison (Not Just Tables)
-
-For each major dimension, write a paragraph:
-
-```markdown
-## Features
-
-[Competitor] offers [description of their feature approach].
-Their strength is [specific strength], which works well for [use case].
-However, [limitation] can be challenging for [user type].
-
-[Your product] takes a different approach with [your approach].
-This means [benefit], though [honest tradeoff].
-Teams who [specific need] often find this more effective.
-```
-
-### Feature Comparison Section
-
-Go beyond checkmarks:
-
-```markdown
-## Feature Comparison
-
-### [Feature Category]
-
-**[Competitor]**: [2-3 sentence description of how they handle this]
-- Strengths: [specific]
-- Limitations: [specific]
-
-**[Your product]**: [2-3 sentence description]
-- Strengths: [specific]
-- Limitations: [specific]
-
-**Bottom line**: Choose [Competitor] if [scenario]. Choose [You] if [scenario].
-```
-
-### Pricing Comparison Section
-
-```markdown
-## Pricing
-
-| | [Competitor] | [Your Product] |
-|---|---|---|
-| Free tier | [Details] | [Details] |
-| Starting price | $X/user/mo | $X/user/mo |
-| Business tier | $X/user/mo | $X/user/mo |
-| Enterprise | Custom | Custom |
-
-**What's included**: [Competitor]'s $X plan includes [features], while
-[Your product]'s $X plan includes [features].
-
-**Total cost consideration**: Beyond per-seat pricing, consider [hidden costs,
-add-ons, implementation]. [Competitor] charges extra for [X], while
-[Your product] includes [Y] in base pricing.
-
-**Value comparison**: For a 10-person team, [Competitor] costs approximately
-$X/year while [Your product] costs $Y/year, with [key differences in what you get].
-```
-
-### Service & Support Comparison
-
-```markdown
-## Service & Support
-
-| | [Competitor] | [Your Product] |
-|---|---|---|
-| Documentation | [Quality assessment] | [Quality assessment] |
-| Response time | [SLA if known] | [Your SLA] |
-| Support channels | [List] | [List] |
-| Onboarding | [What they offer] | [What you offer] |
-| CSM included | [At what tier] | [At what tier] |
-
-**Support quality**: Based on [G2/Capterra reviews, your research],
-[Competitor] support is described as [assessment]. Common feedback includes
-[quotes or themes].
-
-[Your product] offers [your support approach]. [Specific differentiator like
-response time, dedicated CSM, implementation help].
-```
-
-### Who It's For Section
-
-```markdown
-## Who Should Choose [Competitor]
-
-[Competitor] is the right choice if:
-- [Specific use case or need]
-- [Team type or size]
-- [Workflow or requirement]
-- [Budget or priority]
-
-**Ideal [Competitor] customer**: [Persona description in 1-2 sentences]
-
-## Who Should Choose [Your Product]
-
-[Your product] is built for teams who:
-- [Specific use case or need]
-- [Team type or size]
-- [Workflow or requirement]
-- [Priority or value]
-
-**Ideal [Your product] customer**: [Persona description in 1-2 sentences]
-```
-
-### Migration Section
-
-```markdown
-## Switching from [Competitor]
-
-### What transfers
-- [Data type]: [How easily, any caveats]
-- [Data type]: [How easily, any caveats]
-
-### What needs reconfiguration
-- [Thing]: [Why and effort level]
-- [Thing]: [Why and effort level]
-
-### Migration support
-
-We offer [migration support details]:
-- [Free data import tool / white-glove migration]
-- [Documentation / migration guide]
-- [Timeline expectation]
-- [Support during transition]
-
-### What customers say about switching
-
-> "[Quote from customer who switched]"
-> — [Name], [Role] at [Company]
-```
-
-### Social Proof Section
-
-Focus on switchers:
-
-```markdown
-## What Customers Say
-
-### Switched from [Competitor]
-
-> "[Specific quote about why they switched and outcome]"
-> — [Name], [Role] at [Company]
-
-> "[Another quote]"
-> — [Name], [Role] at [Company]
-
-### Results after switching
-- [Company] saw [specific result]
-- [Company] reduced [metric] by [amount]
-```
-
----
-
-## Comparison Table Best Practices
-
-### Beyond Checkmarks
-
-Instead of:
-| Feature | You | Competitor |
-|---------|-----|-----------|
-| Feature A | ✓ | ✓ |
-| Feature B | ✓ | ✗ |
-
-Do this:
-| Feature | You | Competitor |
-|---------|-----|-----------|
-| Feature A | Full support with [detail] | Basic support, [limitation] |
-| Feature B | [Specific capability] | Not available |
-
-### Organize by Category
-
-Group features into meaningful categories:
-- Core functionality
-- Collaboration
-- Integrations
-- Security & compliance
-- Support & service
-
-### Include Ratings Where Useful
-
-| Category | You | Competitor | Notes |
-|----------|-----|-----------|-------|
-| Ease of use | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | [Brief note] |
-| Feature depth | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | [Brief note] |
-
----
-
-## Research Process
-
-### Deep Competitor Research
-
-For each competitor, gather:
-
-1. **Product research**
-   - Sign up for free trial
-   - Use the product yourself
+1. **Use the product**
+   - Sign up for trial or demo
    - Document features, UX, limitations
    - Take screenshots
+   - Note what they do well
 
-2. **Pricing research**
-   - Current pricing (check regularly)
-   - What's included at each tier
-   - Hidden costs, add-ons
+2. **Read their content**
+   - Website messaging
+   - Case studies
+   - Documentation
+   - Blog and thought leadership
+
+3. **Follow their updates**
+   - Changelog and release notes
+   - PR and news
+   - Social media
+   - Conference presentations
+
+### Sales Intelligence
+
+**How they sell:**
+
+1. **Pricing and packaging**
+   - List prices and tiers
+   - Common discounting patterns
    - Contract terms
 
-3. **Review mining**
-   - G2, Capterra, TrustRadius reviews
+2. **Sales process**
+   - Typical sales cycle
+   - Decision-maker targeting
+   - Proof of concept approach
+
+3. **Common tactics**
+   - How they position against you
+   - Fear, uncertainty, doubt they create
+   - Special offers they make
+
+### Market Intelligence
+
+**What the market thinks:**
+
+1. **Review sites**
+   - G2, Capterra, TrustRadius
    - Common praise themes
-   - Common complaint themes
+   - Common complaints
    - Ratings by category
 
-4. **Customer feedback**
+2. **Customer feedback**
    - Talk to customers who switched
    - Talk to prospects who chose competitor
    - Document real quotes
 
-5. **Content research**
-   - Their positioning and messaging
-   - Their comparison pages (how do they compare to you?)
-   - Their documentation quality
-   - Their changelog (recent development)
-
-### Ongoing Updates
-
-Competitor pages need maintenance:
-
-- **Quarterly**: Verify pricing, check for major feature changes
-- **When notified**: Customer mentions competitor change
-- **Annually**: Full refresh of all competitor data
+3. **Win/loss analysis**
+   - Why you won against them
+   - Why you lost to them
+   - Patterns and trends
 
 ---
 
-## SEO Considerations
+## Battlecard Framework
 
-### Keyword Targeting
+### Battlecard Structure
 
-| Format | Primary Keywords | Secondary Keywords |
-|--------|-----------------|-------------------|
-| Alternative (singular) | [Competitor] alternative | alternative to [Competitor], switch from [Competitor], [Competitor] replacement |
-| Alternatives (plural) | [Competitor] alternatives | best [Competitor] alternatives, tools like [Competitor], [Competitor] competitors |
-| You vs Competitor | [You] vs [Competitor] | [Competitor] vs [You], [You] compared to [Competitor] |
-| Competitor vs Competitor | [A] vs [B] | [B] vs [A], [A] or [B], [A] compared to [B] |
+Create one battlecard per competitor:
 
-### Internal Linking
-
-- Link between related competitor pages
-- Link from feature pages to relevant comparisons
-- Link from blog posts mentioning competitors
-- Hub page linking to all competitor content
-
-### Schema Markup
-
-Consider FAQ schema for common questions:
-
-```json
-{
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best alternative to [Competitor]?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "[Your answer positioning yourself]"
-      }
-    }
-  ]
-}
 ```
+# [Competitor] Battlecard
+
+## Quick Take
+[2-3 sentences on who they are and how to beat them]
+
+## When You'll See Them
+- [Deal types where they compete]
+- [Customer segments they target]
+- [How they usually enter deals]
+
+## Their Strengths (Be Honest)
+- [Strength 1 - and how to neutralize]
+- [Strength 2 - and how to neutralize]
+- [Strength 3 - and how to neutralize]
+
+## Their Weaknesses (With Proof)
+- [Weakness 1 - proof point]
+- [Weakness 2 - proof point]
+- [Weakness 3 - proof point]
+
+## Landmines to Set
+Questions to ask early that expose their weaknesses:
+- "[Question that reveals weakness 1]"
+- "[Question that reveals weakness 2]"
+- "[Question that reveals weakness 3]"
+
+## Objections You'll Hear
+- "[Objection 1]" → [Response]
+- "[Objection 2]" → [Response]
+- "[Objection 3]" → [Response]
+
+## Traps They Set (And How to Counter)
+- [Trap 1] → [Counter]
+- [Trap 2] → [Counter]
+
+## Proof Points
+- [Customer who switched and why]
+- [Head-to-head win story]
+- [Third-party validation]
+
+## Pricing Intelligence
+- [Their pricing structure]
+- [Common discounts]
+- [How to position against]
+
+## Kill Shots
+Situations where we have decisive advantage:
+- [Scenario 1]
+- [Scenario 2]
+```
+
+### Strengths Section
+
+Be honest about competitor strengths. For each:
+
+1. **Acknowledge it**: Don't deny obvious strengths
+2. **Contextualize it**: When does it matter, when doesn't it?
+3. **Neutralize it**: How to make it less important
+4. **Counter it**: What you offer instead
+
+**Example:**
+
+> **Strength: They have more integrations**
+>
+> *Acknowledge*: "Yes, they have 200+ integrations to our 75."
+>
+> *Contextualize*: "Most customers use 3-5 integrations. Do you need 200, or do you need the right ones?"
+>
+> *Neutralize*: "Which specific integrations are critical for you? Let's make sure we cover those."
+>
+> *Counter*: "Our integrations are deeper—not just data sync, but workflow automation."
+
+### Weaknesses Section
+
+Document real weaknesses with proof:
+
+1. **The weakness**: What it is specifically
+2. **The impact**: Why it matters to customers
+3. **The proof**: Review quotes, customer stories, documentation
+4. **The question**: How to surface this in conversation
+
+**Example:**
+
+> **Weakness: Difficult implementation**
+>
+> *Impact*: Customers often take 3-6 months to get value, causing buyer's remorse
+>
+> *Proof*: "Implementation was a nightmare" - G2 review. 23% of G2 reviews mention implementation difficulty.
+>
+> *Question to ask*: "How quickly do you need to be up and running? What's happened in past software implementations?"
 
 ---
 
-## Output Format
+## Competitive Positioning Strategies
 
-### Competitor Data File
+### Position Before They Enter
 
-```yaml
-# [competitor].yaml
-# Complete competitor profile for use across all comparison pages
+If you're first in the deal:
+
+1. **Set the evaluation criteria** that favor you
+2. **Get your differentiators** into their requirements
+3. **Create urgency** to decide before they look elsewhere
+4. **Ask about alternatives**: "Who else are you considering?"
+
+### Position When You're Behind
+
+If competitor is already in the deal:
+
+1. **Understand why** they're looking at alternatives
+2. **Don't attack**—ask what they like about the competitor
+3. **Find the gap** between what competitor offers and what they need
+4. **Position to that gap**
+
+### Reframe the Evaluation
+
+Shape how they think about the decision:
+
+**Reframe the problem:**
+"Most companies think they need [competitor's strength]. But the real problem is [your strength area]."
+
+**Reframe the criteria:**
+"You mentioned integrations. Can I ask what you'll actually do with those integrations? [Then position to the workflow, not the list.]"
+
+**Reframe the timeline:**
+"You could evaluate 5 vendors over 3 months. Or you could be getting value in 2 weeks. What's the cost of waiting?"
+
+---
+
+## Landmine Questions
+
+Plant questions early that will expose competitor weaknesses later.
+
+### Framework
+
+1. Ask about an area where competitor is weak
+2. Prospect answers with their needs/priorities
+3. When competitor demos, they fail to address this need
+4. Prospect remembers your question
+
+### Examples
+
+**If competitor has slow implementation:**
+"How quickly do you need to see ROI from this investment? What would it cost if implementation took 6 months instead of 6 weeks?"
+
+**If competitor has poor support:**
+"When you have urgent issues, what kind of response time do you need? What's happened in the past with vendor support?"
+
+**If competitor lacks a key feature:**
+"Walk me through how you'd handle [scenario requiring that feature]. How important is that workflow?"
+
+**If competitor has hidden costs:**
+"What's your total budget including implementation, training, and add-ons? Some vendors have a lot of hidden costs."
+
+---
+
+## Handling Competitive Objections
+
+### When They Mention Competitor Strengths
+
+**Don't dismiss. Redirect.**
+
+> Prospect: "[Competitor] has more integrations."
+>
+> ❌ "Integrations aren't that important."
+>
+> ✅ "They do have a large integration marketplace. Which specific integrations are must-haves for you? [Then verify you have them or discuss alternatives.] What we've found is that integration depth matters more than breadth—our customers use 4-5 integrations deeply rather than 50 superficially."
+
+### When They Share Competitor Claims
+
+**Verify, don't attack.**
+
+> Prospect: "[Competitor] said they can do X."
+>
+> ❌ "They're lying."
+>
+> ✅ "Interesting. Did they show you how? Sometimes that feature exists but has limitations. Can I show you exactly how we handle X? Then you can compare side-by-side."
+
+### When You're More Expensive
+
+**Sell value, not price.**
+
+> Prospect: "[Competitor] is cheaper."
+>
+> ✅ "What's driving the pricing difference in your view? Often the headline price doesn't tell the full story—implementation costs, required add-ons, and time-to-value can change the total picture. Would it help to build out a true total cost comparison?"
+
+### When They've Already Chosen Competitor
+
+**Plant seeds for the future.**
+
+> Prospect: "We've decided to go with [Competitor]."
+>
+> ✅ "I appreciate you letting me know. Before you finalize, could I share a couple things our customers wish they'd known before choosing [Competitor]? Not to change your mind, but so you go in with eyes open. And if things don't work out, I'd love to stay in touch."
+
+---
+
+## Displacement Deals
+
+Selling to customers who already use a competitor.
+
+### Discovery for Displacement
+
+**Understand their current state:**
+- How long have they used [Competitor]?
+- What's working well?
+- What's frustrating?
+- What triggered looking for alternatives now?
+
+**Understand switching costs:**
+- What would migration involve?
+- Who else uses the system?
+- What would break if they switched?
+- What's the internal political situation?
+
+### Positioning for Displacement
+
+**Don't trash their current choice:**
+They picked it. Attacking it attacks their judgment.
+
+**Focus on their evolving needs:**
+"[Competitor] was probably right when you chose it. Your needs have evolved. Let's talk about where you're going, not where you've been."
+
+**Quantify the cost of staying:**
+"If the current system costs you X hours per week in workarounds, that's Y hours per year. What's that worth?"
+
+**Make switching easy:**
+- Free migration services
+- Dedicated implementation support
+- Parallel running if needed
+- Success guarantees
+
+---
+
+## Competitive Deal Strategy
+
+### Early Stage (Discovery)
+
+**Goals:**
+- Understand who else they're evaluating
+- Learn what criteria matter most
+- Plant landmine questions
+- Position your differentiators as must-haves
+
+**Questions to ask:**
+- "Who else are you looking at?"
+- "What's most important in this decision?"
+- "What's happened with similar purchases in the past?"
+- "What would make you choose one vendor over another?"
+
+### Middle Stage (Demo/Evaluation)
+
+**Goals:**
+- Demo to their specific criteria
+- Address competitor positioning head-on
+- Provide proof points (references, case studies)
+- Surface any concerns about competitor
+
+**Actions:**
+- Tailor demo to their stated priorities
+- Proactively address likely competitor claims
+- Offer head-to-head comparison if helpful
+- Get commitment to specific next steps
+
+### Late Stage (Negotiation/Decision)
+
+**Goals:**
+- Overcome final competitive objections
+- Provide risk reversal
+- Make choosing you easy
+- Close confidently
+
+**Actions:**
+- Address any last-minute competitor counteroffer
+- Offer success guarantee or pilot if needed
+- Bring in executive sponsor or reference
+- Create urgency without pressure
+
+---
+
+## Competitive Win Stories
+
+Collect and use stories of winning against each competitor.
+
+### Story Structure
+
+```
+Situation: [Customer] was evaluating us and [Competitor]
+Challenge: They were leaning toward [Competitor] because [reason]
+What we did: [Action that changed their mind]
+Outcome: They chose us and [result they achieved]
+Quote: "[Exact quote from customer about why they chose us]"
 ```
 
-### Page Content
+### How to Use Win Stories
 
-For each page:
-- URL and meta tags
-- Full page copy organized by section
-- Comparison tables
-- CTAs
+**In discovery:**
+"We often see companies in your situation evaluating [Competitor] too. Recently, [similar company] was in the same position..."
 
-### Page Set Plan
+**When competitor strength is raised:**
+"That's a fair point about [competitor strength]. [Customer] had the same concern. What they found was..."
 
-Recommended pages to create:
-1. [List of alternative pages]
-2. [List of vs pages]
-3. Priority order based on search volume
+**In closing:**
+"[Customer] was in your exact position—between us and [Competitor]. What tipped the scales was... Would you like to talk to them?"
+
+---
+
+## Competitive Intelligence System
+
+### Keep Information Updated
+
+**Quarterly:**
+- Verify pricing
+- Check for major feature changes
+- Review recent G2/Capterra reviews
+- Update battlecards
+
+**When you lose a deal:**
+- Conduct win/loss interview
+- Document what competitor did well
+- Update battlecard with new intelligence
+
+**When market changes:**
+- Competitor raises prices
+- Competitor has issues (outages, layoffs)
+- Competitor releases major features
+- Industry analyst reports
+
+### Share Intelligence
+
+- Slack channel for competitive intel
+- Regular battlecard reviews in team meetings
+- Win/loss sharing sessions
+- Competitive certification for new reps
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. Who are your top 3-5 competitors?
-2. What's your core differentiator?
-3. What are common reasons people switch to you?
-4. Do you have customer quotes about switching?
-5. What's your pricing vs. competitors?
-6. Do you offer migration support?
+1. Which competitor are you up against?
+2. What do you know about the prospect's evaluation criteria?
+3. What has the competitor told them?
+4. Where are you in the deal process?
+5. What are your genuine advantages over this competitor?
+6. What deals have you won/lost against them and why?
 
 ---
 
 ## Related Skills
 
-- **programmatic-seo**: For building competitor pages at scale
-- **copywriting**: For writing compelling comparison copy
-- **seo-audit**: For optimizing competitor pages
-- **schema-markup**: For FAQ and comparison schema
+- **discovery-calls**: For competitive discovery questions
+- **objection-handling**: For handling competitive objections
+- **negotiation**: For competing on price
+- **deal-acceleration**: For beating competitors to close

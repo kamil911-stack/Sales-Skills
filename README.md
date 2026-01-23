@@ -1,42 +1,42 @@
-# Marketing Skills for Claude Code
+# Sales Skills for Claude Code
 
-A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want Claude Code (or similar AI coding assistants) to help with conversion optimization, copywriting, SEO, analytics, and growth engineering.
+A collection of AI agent skills focused on B2B sales tasks. Built for sales professionals, SDRs, AEs, and revenue leaders who want Claude Code (or similar AI coding assistants) to help with prospecting, discovery, deal execution, pipeline management, and closing.
 
-Built by [Corey Haines](https://corey.co?ref=marketingskills). Need hands-on help? Check out [Conversion Factory](https://conversionfactory.co?ref=marketingskills) — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to [Swipe Files](https://swipefiles.com?ref=marketingskills).
+Built by [Apparate](https://apparate.com.au?ref=salesskills).
 
 **Contributions welcome!** Found a way to improve a skill or have a new one to add? [Open a PR](#contributing).
 
 ## What are Skills?
 
-Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, Claude Code can recognize when you're working on a marketing task and apply the right frameworks and best practices.
+Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, Claude Code can recognize when you're working on a sales task and apply the right frameworks, methodologies, and best practices.
 
 ## Available Skills
 
 | Skill | Description | Triggers |
 |-------|-------------|----------|
-| [ab-test-setup](skills/ab-test-setup/) | Plan and implement A/B tests | "A/B test," "split test," "experiment" |
-| [analytics-tracking](skills/analytics-tracking/) | Set up tracking and measurement | "tracking," "GA4," "GTM," "events" |
-| [competitor-alternatives](skills/competitor-alternatives/) | Competitor comparison and alternative pages | "vs page," "alternative page," "[X] vs [Y]" |
-| [copy-editing](skills/copy-editing/) | Edit and polish existing copy | "edit this copy," "review my copy," "copy sweep" |
-| [copywriting](skills/copywriting/) | Write or improve marketing copy | "write copy," "rewrite," "headlines," "CTA copy" |
-| [email-sequence](skills/email-sequence/) | Build email sequences and drip campaigns | "email sequence," "drip campaign," "nurture" |
-| [form-cro](skills/form-cro/) | Optimize lead capture and contact forms | "form optimization," "lead form," "contact form" |
-| [free-tool-strategy](skills/free-tool-strategy/) | Plan engineering-as-marketing tools | "free tool," "calculator," "lead gen tool" |
-| [launch-strategy](skills/launch-strategy/) | Product launches and feature announcements | "launch," "Product Hunt," "feature release" |
-| [marketing-ideas](skills/marketing-ideas/) | 140 SaaS marketing ideas and strategies | "marketing ideas," "growth ideas," "how to market" |
-| [marketing-psychology](skills/marketing-psychology/) | 70+ mental models for marketing | "psychology," "mental models," "cognitive bias" |
-| [onboarding-cro](skills/onboarding-cro/) | Improve user activation and onboarding | "onboarding," "activation," "first-run experience" |
-| [page-cro](skills/page-cro/) | Conversion optimization for any marketing page | "optimize [page]," "CRO," "page isn't converting" |
-| [paid-ads](skills/paid-ads/) | Create and optimize paid ad campaigns | "PPC," "Google Ads," "Meta ads," "paid media" |
-| [paywall-upgrade-cro](skills/paywall-upgrade-cro/) | In-app paywalls and upgrade screens | "paywall," "upgrade screen," "feature gate" |
-| [popup-cro](skills/popup-cro/) | Create/optimize popups and modals | "popup," "modal," "exit intent" |
-| [pricing-strategy](skills/pricing-strategy/) | Design pricing, packaging, and monetization | "pricing," "tiers," "freemium," "willingness to pay" |
-| [programmatic-seo](skills/programmatic-seo/) | Build SEO pages at scale | "programmatic SEO," "template pages," "pages at scale" |
-| [referral-program](skills/referral-program/) | Design referral and affiliate programs | "referral," "affiliate," "word of mouth," "viral" |
-| [schema-markup](skills/schema-markup/) | Add structured data and rich snippets | "schema," "JSON-LD," "structured data" |
-| [seo-audit](skills/seo-audit/) | Audit technical and on-page SEO | "SEO audit," "technical SEO," "not ranking" |
-| [signup-flow-cro](skills/signup-flow-cro/) | Optimize signup and registration flows | "signup optimization," "registration form" |
-| [social-content](skills/social-content/) | Create and schedule social media content | "LinkedIn post," "Twitter thread," "social media" |
+| [ab-test-setup](skills/ab-test-setup/) | Plan and run sales experiments | "sales test," "outreach experiment," "A/B test emails" |
+| [analytics-tracking](skills/analytics-tracking/) | Pipeline reporting and sales metrics | "pipeline metrics," "sales dashboard," "forecast" |
+| [competitor-alternatives](skills/competitor-alternatives/) | Competitive selling and positioning | "vs competitor," "battle card," "competitive deal" |
+| [copy-editing](skills/copy-editing/) | Refine sales communications | "edit my email," "review my proposal," "polish outreach" |
+| [copywriting](skills/copywriting/) | Sales messaging and value propositions | "value prop," "sales messaging," "pitch deck copy" |
+| [email-sequence](skills/email-sequence/) | Build prospecting sequences | "outreach sequence," "cold email," "follow-up cadence" |
+| [form-cro](skills/form-cro/) | Optimize lead qualification forms | "qualification form," "lead scoring," "intake form" |
+| [free-tool-strategy](skills/free-tool-strategy/) | Sales enablement tools | "sales tools," "demo environment," "ROI calculator" |
+| [launch-strategy](skills/launch-strategy/) | New product sales launches | "product launch," "GTM strategy," "sales rollout" |
+| [marketing-ideas](skills/marketing-ideas/) | 100+ sales tactics and strategies | "sales tactics," "prospecting ideas," "pipeline generation" |
+| [marketing-psychology](skills/marketing-psychology/) | Sales psychology and buyer behavior | "buyer psychology," "objection handling," "negotiation" |
+| [onboarding-cro](skills/onboarding-cro/) | Customer onboarding and implementation | "customer onboarding," "implementation," "time-to-value" |
+| [page-cro](skills/page-cro/) | Optimize sales pages and proposals | "proposal optimization," "sales page," "one-pager" |
+| [paid-ads](skills/paid-ads/) | Paid lead generation for sales | "paid leads," "LinkedIn ads," "lead gen campaigns" |
+| [paywall-upgrade-cro](skills/paywall-upgrade-cro/) | Account expansion and upselling | "upsell," "expansion," "cross-sell," "land and expand" |
+| [popup-cro](skills/popup-cro/) | Lead capture and meeting conversion | "meeting booking," "demo request," "lead capture" |
+| [pricing-strategy](skills/pricing-strategy/) | Pricing negotiation and value defense | "pricing objection," "discount request," "negotiation" |
+| [programmatic-seo](skills/programmatic-seo/) | Sales playbook development | "sales playbook," "sales process," "methodology" |
+| [referral-program](skills/referral-program/) | Customer referrals and partner sales | "referral," "partner sales," "channel sales" |
+| [schema-markup](skills/schema-markup/) | Deal documentation and CRM best practices | "CRM," "deal notes," "pipeline hygiene" |
+| [seo-audit](skills/seo-audit/) | Deal review and win/loss analysis | "win/loss," "deal review," "pipeline audit" |
+| [signup-flow-cro](skills/signup-flow-cro/) | Sales process optimization | "sales process," "deal flow," "cycle reduction" |
+| [social-content](skills/social-content/) | Social selling and LinkedIn prospecting | "LinkedIn," "social selling," "warm prospecting" |
 
 ## Installation
 
@@ -46,13 +46,13 @@ Use [add-skill](https://github.com/vercel-labs/add-skill) to install skills dire
 
 ```bash
 # Install all skills
-npx add-skill coreyhaines31/marketingskills
+npx add-skill louisblythe/salesskills
 
 # Install specific skills
-npx add-skill coreyhaines31/marketingskills --skill page-cro copywriting
+npx add-skill louisblythe/salesskills --skill pricing-strategy competitive-selling
 
 # List available skills
-npx add-skill coreyhaines31/marketingskills --list
+npx add-skill louisblythe/salesskills --list
 ```
 
 This automatically installs to your `.claude/skills/` directory.
@@ -63,10 +63,10 @@ Install via Claude Code's built-in plugin system:
 
 ```bash
 # Add the marketplace
-/plugin marketplace add coreyhaines31/marketingskills
+/plugin marketplace add louisblythe/salesskills
 
-# Install all marketing skills
-/plugin install marketing-skills
+# Install all sales skills
+/plugin install sales-skills
 ```
 
 ### Option 3: Clone and Copy
@@ -74,8 +74,8 @@ Install via Claude Code's built-in plugin system:
 Clone the entire repo and copy the skills folder:
 
 ```bash
-git clone https://github.com/coreyhaines31/marketingskills.git
-cp -r marketingskills/skills/* .claude/skills/
+git clone https://github.com/louisblythe/salesskills.git
+cp -r salesskills/skills/* .claude/skills/
 ```
 
 ### Option 4: Git Submodule
@@ -83,82 +83,95 @@ cp -r marketingskills/skills/* .claude/skills/
 Add as a submodule for easy updates:
 
 ```bash
-git submodule add https://github.com/coreyhaines31/marketingskills.git .claude/marketingskills
+git submodule add https://github.com/louisblythe/salesskills.git .claude/salesskills
 ```
 
-Then reference skills from `.claude/marketingskills/skills/`.
+Then reference skills from `.claude/salesskills/skills/`.
 
 ### Option 5: Fork and Customize
 
 1. Fork this repository
-2. Customize skills for your specific needs
+2. Customize skills for your specific sales process
 3. Clone your fork into your projects
 
 ## Usage
 
-Once installed, just ask Claude Code to help with marketing tasks:
+Once installed, just ask Claude Code to help with sales tasks:
 
 ```
-"Help me optimize this landing page for conversions"
-→ Uses page-cro skill
-
-"Write homepage copy for my SaaS"
-→ Uses copywriting skill
-
-"Set up GA4 tracking for signups"
-→ Uses analytics-tracking skill
-
-"Create a 5-email welcome sequence"
+"Help me write a cold outreach sequence for CFOs"
 → Uses email-sequence skill
+
+"How should I handle a pricing objection?"
+→ Uses pricing-strategy skill
+
+"Create a competitive battle card vs Salesforce"
+→ Uses competitor-alternatives skill
+
+"Review this deal and tell me what's missing"
+→ Uses seo-audit (deal-review) skill
+
+"Help me prepare for a discovery call"
+→ Uses marketing-psychology (sales-psychology) skill
 ```
 
 You can also invoke skills directly:
 
 ```
-/page-cro
+/pricing-strategy
 /email-sequence
-/seo-audit
+/competitor-alternatives
 ```
 
 ## Skill Categories
 
-### Conversion Optimization
-- `page-cro` - Any marketing page
-- `signup-flow-cro` - Registration flows
-- `onboarding-cro` - Post-signup activation
-- `form-cro` - Lead capture forms
-- `popup-cro` - Modals and overlays
-- `paywall-upgrade-cro` - In-app upgrade moments
+### Prospecting & Outreach
+- `email-sequence` - Cold outreach and follow-up sequences
+- `social-content` - LinkedIn prospecting and social selling
+- `marketing-ideas` - 100+ sales tactics and pipeline generation
+- `popup-cro` - Lead capture and meeting booking optimization
 
-### Content & Copy
-- `copywriting` - Marketing page copy
-- `copy-editing` - Edit and polish existing copy
-- `email-sequence` - Automated email flows
-- `social-content` - Social media content
+### Discovery & Qualification
+- `marketing-psychology` - Sales psychology and buyer behavior
+- `form-cro` - Lead qualification and scoring
+- `signup-flow-cro` - Sales process optimization
 
-### SEO & Discovery
-- `seo-audit` - Technical and on-page SEO
-- `programmatic-seo` - Scaled page generation
-- `competitor-alternatives` - Comparison and alternative pages
-- `schema-markup` - Structured data
+### Competitive Selling
+- `competitor-alternatives` - Battle cards and competitive positioning
+- `copywriting` - Value propositions and differentiation
 
-### Paid & Distribution
-- `paid-ads` - Google, Meta, LinkedIn ad campaigns
-- `social-content` - Social media scheduling and strategy
+### Deal Execution
+- `pricing-strategy` - Negotiation and value defense
+- `page-cro` - Proposals and sales collateral
+- `schema-markup` - CRM documentation and deal hygiene
+- `programmatic-seo` - Sales playbooks and methodology
 
-### Measurement & Testing
-- `analytics-tracking` - Event tracking setup
-- `ab-test-setup` - Experiment design
+### Pipeline Management
+- `analytics-tracking` - Pipeline metrics and forecasting
+- `seo-audit` - Win/loss analysis and deal reviews
+- `ab-test-setup` - Sales experimentation
 
-### Growth Engineering
-- `free-tool-strategy` - Marketing tools and calculators
-- `referral-program` - Referral and affiliate programs
+### Account Growth
+- `paywall-upgrade-cro` - Expansion and upselling
+- `onboarding-cro` - Customer onboarding and implementation
+- `referral-program` - Referrals and partner sales
 
-### Strategy & Monetization
-- `marketing-ideas` - 140 SaaS marketing ideas
-- `marketing-psychology` - Mental models and psychology
-- `launch-strategy` - Product launches and announcements
-- `pricing-strategy` - Pricing, packaging, and monetization
+### Sales Enablement
+- `free-tool-strategy` - Demo environments and sales tools
+- `launch-strategy` - New product GTM and sales rollout
+- `paid-ads` - Paid lead generation
+- `copy-editing` - Sales communication refinement
+
+## Sales Methodologies Included
+
+These skills incorporate proven sales frameworks:
+
+- **BANT** - Budget, Authority, Need, Timeline
+- **MEDDIC** - Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion
+- **SPICED** - Situation, Pain, Impact, Critical Event, Decision
+- **SPIN** - Situation, Problem, Implication, Need-Payoff
+- **Challenger Sale** - Teach, Tailor, Take Control
+- **Gap Selling** - Current State → Future State
 
 ## Contributing
 
@@ -166,7 +179,8 @@ Found a way to improve a skill? Have a new skill to suggest? PRs and issues welc
 
 **Ideas for contributions:**
 - Improve existing skill instructions or frameworks
-- Add new experiment ideas or best practices
+- Add new objection handling scripts
+- Add industry-specific variations
 - Fix typos or clarify confusing sections
 - Suggest new skills (open an issue first to discuss)
 - Add examples or case studies

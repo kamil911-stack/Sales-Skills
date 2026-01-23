@@ -1,539 +1,554 @@
 ---
 name: analytics-tracking
-description: When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager," "GTM," "analytics implementation," or "tracking plan." For A/B test measurement, see ab-test-setup.
+description: When the user wants to set up, improve, or audit sales metrics and pipeline tracking. Also use when the user mentions "sales metrics," "pipeline tracking," "CRM setup," "sales dashboard," "activity tracking," "conversion tracking," "win rate," or "sales reporting." For testing sales approaches, see ab-test-setup.
 ---
 
-# Analytics Tracking
+# Sales Analytics & Pipeline Tracking
 
-You are an expert in analytics implementation and measurement. Your goal is to help set up tracking that provides actionable insights for marketing and product decisions.
+You are an expert in sales analytics and pipeline management. Your goal is to help set up tracking systems that provide actionable insights for improving sales performance, forecasting accurately, and coaching effectively.
 
 ## Initial Assessment
 
-Before implementing tracking, understand:
+Before implementing sales tracking, understand:
 
 1. **Business Context**
    - What decisions will this data inform?
-   - What are the key conversion actions?
+   - What are your key sales stages?
    - What questions need answering?
 
 2. **Current State**
-   - What tracking exists?
-   - What tools are in use (GA4, Mixpanel, Amplitude, etc.)?
+   - What CRM/tools are in use?
+   - What's being tracked today?
    - What's working/not working?
 
-3. **Technical Context**
-   - What's the tech stack?
-   - Who will implement and maintain?
-   - Any privacy/compliance requirements?
+3. **Team Context**
+   - Sales team size and structure?
+   - Who needs access to what data?
+   - What's the reporting cadence?
 
 ---
 
 ## Core Principles
 
 ### 1. Track for Decisions, Not Data
-- Every event should inform a decision
+- Every metric should inform an action
 - Avoid vanity metrics
-- Quality > quantity of events
+- Quality > quantity of data points
 
 ### 2. Start with the Questions
 - What do you need to know?
-- What actions will you take based on this data?
+- What will you change based on this data?
 - Work backwards to what you need to track
 
-### 3. Name Things Consistently
-- Naming conventions matter
-- Establish patterns before implementing
-- Document everything
+### 3. Make Data Entry Easy
+- Reps won't track what's painful
+- Automate where possible
+- Minimize required fields
 
 ### 4. Maintain Data Quality
-- Validate implementation
-- Monitor for issues
-- Clean data > more data
+- Regular data hygiene
+- Clear definitions for each field
+- Accountability for accuracy
 
 ---
 
-## Tracking Plan Framework
+## Essential Sales Metrics
 
-### Structure
+### Activity Metrics
 
-```
-Event Name | Event Category | Properties | Trigger | Notes
----------- | ------------- | ---------- | ------- | -----
-```
+**Outbound Activity**
+- Emails sent
+- Calls made
+- LinkedIn touches
+- Meetings booked
+- Demos scheduled
 
-### Event Types
+**Activity Ratios**
+- Emails to reply
+- Calls to connect
+- Connects to meeting
+- Meetings to opportunity
 
-**Pageviews**
-- Automatic in most tools
-- Enhanced with page metadata
+**Why Track**: Identifies effort vs. results gaps, coaching opportunities, and capacity planning.
 
-**User Actions**
-- Button clicks
-- Form submissions
-- Feature usage
-- Content interactions
+### Pipeline Metrics
 
-**System Events**
-- Signup completed
-- Purchase completed
-- Subscription changed
-- Errors occurred
+**Volume Metrics**
+- Total pipeline value
+- Number of opportunities
+- Pipeline by stage
+- New pipeline created (weekly/monthly)
 
-**Custom Conversions**
-- Goal completions
-- Funnel stages
-- Business-specific milestones
+**Velocity Metrics**
+- Average deal size
+- Win rate
+- Sales cycle length
+- Stage-to-stage conversion rates
 
----
+**Coverage Metrics**
+- Pipeline coverage ratio (pipeline ÷ quota)
+- Weighted pipeline
+- Commit vs. upside
 
-## Event Naming Conventions
+**Why Track**: Predicts revenue, identifies bottlenecks, informs forecasting.
 
-### Format Options
+### Conversion Metrics
 
-**Object-Action (Recommended)**
-```
-signup_completed
-button_clicked
-form_submitted
-article_read
-```
+**Funnel Conversions**
+- Lead to opportunity
+- Opportunity to proposal
+- Proposal to closed won
+- Overall lead to close
 
-**Action-Object**
-```
-click_button
-submit_form
-complete_signup
-```
+**Stage Conversions**
+- Discovery to demo
+- Demo to proposal
+- Proposal to negotiation
+- Negotiation to close
 
-**Category_Object_Action**
-```
-checkout_payment_completed
-blog_article_viewed
-onboarding_step_completed
-```
+**Why Track**: Shows where deals stall, where to focus improvement efforts.
 
-### Best Practices
+### Outcome Metrics
 
-- Lowercase with underscores
-- Be specific: `cta_hero_clicked` vs. `button_clicked`
-- Include context in properties, not event name
-- Avoid spaces and special characters
-- Document decisions
+**Revenue Metrics**
+- Closed won revenue
+- Average deal size
+- Revenue by segment/product
+- New vs. expansion revenue
 
----
+**Efficiency Metrics**
+- Win rate (overall and by stage)
+- Sales cycle length
+- CAC (Customer Acquisition Cost)
+- Revenue per rep
 
-## Essential Events to Track
-
-### Marketing Site
-
-**Navigation**
-- page_view (enhanced)
-- outbound_link_clicked
-- scroll_depth (25%, 50%, 75%, 100%)
-
-**Engagement**
-- cta_clicked (button_text, location)
-- video_played (video_id, duration)
-- form_started
-- form_submitted (form_type)
-- resource_downloaded (resource_name)
-
-**Conversion**
-- signup_started
-- signup_completed
-- demo_requested
-- contact_submitted
-
-### Product/App
-
-**Onboarding**
-- signup_completed
-- onboarding_step_completed (step_number, step_name)
-- onboarding_completed
-- first_key_action_completed
-
-**Core Usage**
-- feature_used (feature_name)
-- action_completed (action_type)
-- session_started
-- session_ended
-
-**Monetization**
-- trial_started
-- pricing_viewed
-- checkout_started
-- purchase_completed (plan, value)
-- subscription_cancelled
-
-### E-commerce
-
-**Browsing**
-- product_viewed (product_id, category, price)
-- product_list_viewed (list_name, products)
-- product_searched (query, results_count)
-
-**Cart**
-- product_added_to_cart
-- product_removed_from_cart
-- cart_viewed
-
-**Checkout**
-- checkout_started
-- checkout_step_completed (step)
-- payment_info_entered
-- purchase_completed (order_id, value, products)
+**Why Track**: Measures ultimate success, informs strategy and hiring.
 
 ---
 
-## Event Properties (Parameters)
+## Pipeline Stage Definitions
 
-### Standard Properties to Consider
+### Define Clear Exit Criteria
 
-**Page/Screen**
-- page_title
-- page_location (URL)
-- page_referrer
-- content_group
+Each stage needs clear criteria for what qualifies an opportunity to move forward.
 
-**User**
-- user_id (if logged in)
-- user_type (free, paid, admin)
-- account_id (B2B)
-- plan_type
+**Example Stage Definitions:**
 
-**Campaign**
-- source
-- medium
-- campaign
-- content
-- term
+| Stage | Exit Criteria | Required Fields |
+|-------|---------------|-----------------|
+| Prospect | Identified potential fit, initial outreach planned | Company size, industry, contact info |
+| Discovery | Had discovery call, qualified BANT/MEDDIC | Pain identified, budget range, timeline |
+| Demo | Completed product demo | Decision makers identified, use case clear |
+| Proposal | Sent formal proposal | Pricing confirmed, legal review status |
+| Negotiation | Active negotiation on terms | Final objections, expected close date |
+| Closed Won | Contract signed | Signed contract, payment terms |
+| Closed Lost | Deal lost | Loss reason, competitor if applicable |
 
-**Product** (e-commerce)
-- product_id
-- product_name
-- category
-- price
-- quantity
-- currency
+### Common Stage Frameworks
 
-**Timing**
-- timestamp
-- session_duration
-- time_on_page
+**Simple (4 stages):**
+Qualified → Demo → Proposal → Closed
 
-### Best Practices
+**Standard (6 stages):**
+Prospect → Discovery → Demo → Proposal → Negotiation → Closed
 
-- Use consistent property names
-- Include relevant context
-- Don't duplicate GA4 automatic properties
-- Avoid PII in properties
-- Document expected values
+**Complex (8 stages):**
+Lead → Qualified → Discovery → Demo → Technical Eval → Proposal → Negotiation → Closed
 
----
+### Stage Probability Mapping
 
-## GA4 Implementation
+Assign win probability to each stage for weighted pipeline:
 
-### Configuration
+| Stage | Typical Probability |
+|-------|---------------------|
+| Discovery | 10-20% |
+| Demo | 20-40% |
+| Proposal | 40-60% |
+| Negotiation | 60-80% |
+| Verbal Commit | 80-90% |
 
-**Data Streams**
-- One stream per platform (web, iOS, Android)
-- Enable enhanced measurement
-
-**Enhanced Measurement Events**
-- page_view (automatic)
-- scroll (90% depth)
-- outbound_click
-- site_search
-- video_engagement
-- file_download
-
-**Recommended Events**
-- Use Google's predefined events when possible
-- Correct naming for enhanced reporting
-- See: https://support.google.com/analytics/answer/9267735
-
-### Custom Events (GA4)
-
-```javascript
-// gtag.js
-gtag('event', 'signup_completed', {
-  'method': 'email',
-  'plan': 'free'
-});
-
-// Google Tag Manager (dataLayer)
-dataLayer.push({
-  'event': 'signup_completed',
-  'method': 'email',
-  'plan': 'free'
-});
-```
-
-### Conversions Setup
-
-1. Collect event in GA4
-2. Mark as conversion in Admin > Events
-3. Set conversion counting (once per session or every time)
-4. Import to Google Ads if needed
-
-### Custom Dimensions and Metrics
-
-**When to use:**
-- Properties you want to segment by
-- Metrics you want to aggregate
-- Beyond standard parameters
-
-**Setup:**
-1. Create in Admin > Custom definitions
-2. Scope: Event, User, or Item
-3. Parameter name must match
+Adjust based on your actual historical conversion rates.
 
 ---
 
-## Google Tag Manager Implementation
+## CRM Setup Best Practices
 
-### Container Structure
+### Required Fields (Keep Minimal)
 
-**Tags**
-- GA4 Configuration (base)
-- GA4 Event tags (one per event or grouped)
-- Conversion pixels (Facebook, LinkedIn, etc.)
+**On the Account:**
+- Company name
+- Industry
+- Employee count / revenue range
+- Website
 
-**Triggers**
-- Page View (DOM Ready, Window Loaded)
-- Click - All Elements / Just Links
-- Form Submission
-- Custom Events
+**On the Opportunity:**
+- Deal name
+- Amount
+- Close date
+- Stage
+- Primary contact
+- Source (how they entered pipeline)
 
-**Variables**
-- Built-in: Click Text, Click URL, Page Path, etc.
-- Data Layer variables
-- JavaScript variables
-- Lookup tables
+**On the Contact:**
+- Name, email, phone
+- Title / role
+- Buyer persona
 
-### Best Practices
+### Recommended Fields (For Analysis)
 
-- Use folders to organize
-- Consistent naming (Tag_Type_Description)
-- Version notes on every publish
-- Preview mode for testing
-- Workspaces for team collaboration
+**On the Opportunity:**
+- Loss reason (picklist)
+- Competitor (if applicable)
+- Use case / product interest
+- Champion identified (checkbox)
+- Decision process documented
 
-### Data Layer Pattern
+**On the Activity:**
+- Activity type
+- Outcome
+- Next step scheduled
 
-```javascript
-// Push custom event
-dataLayer.push({
-  'event': 'form_submitted',
-  'form_name': 'contact',
-  'form_location': 'footer'
-});
+### Field Design Principles
 
-// Set user properties
-dataLayer.push({
-  'user_id': '12345',
-  'user_type': 'premium'
-});
+**Use picklists over free text**
+- Enables reporting
+- Ensures consistency
+- Faster to fill out
 
-// E-commerce event
-dataLayer.push({
-  'event': 'purchase',
-  'ecommerce': {
-    'transaction_id': 'T12345',
-    'value': 99.99,
-    'currency': 'USD',
-    'items': [{
-      'item_id': 'SKU123',
-      'item_name': 'Product Name',
-      'price': 99.99
-    }]
-  }
-});
-```
+**Make important fields required**
+- But only truly important ones
+- Every required field reduces compliance
+
+**Add validation rules**
+- Amount can't be $0
+- Close date can't be in the past (for open deals)
+- Stage changes require certain fields
 
 ---
 
-## UTM Parameter Strategy
+## Activity Tracking
 
-### Standard Parameters
+### What Activities to Track
 
-| Parameter | Purpose | Example |
-|-----------|---------|---------|
-| utm_source | Where traffic comes from | google, facebook, newsletter |
-| utm_medium | Marketing medium | cpc, email, social, referral |
-| utm_campaign | Campaign name | spring_sale, product_launch |
-| utm_content | Differentiate versions | hero_cta, sidebar_link |
-| utm_term | Paid search keywords | running+shoes |
+**Minimum:**
+- Emails (auto-logged from email integration)
+- Calls (manual or auto-logged from dialer)
+- Meetings (auto-logged from calendar)
 
-### Naming Conventions
+**Recommended:**
+- LinkedIn messages/connections
+- Demo completions
+- Proposal sends
+- Contract sends
 
-**Lowercase everything**
-- google, not Google
-- email, not Email
+### Activity Outcomes
 
-**Use underscores or hyphens consistently**
-- product_launch or product-launch
-- Pick one, stick with it
+Track outcomes, not just activities:
 
-**Be specific but concise**
-- blog_footer_cta, not cta1
-- 2024_q1_promo, not promo
+| Activity | Outcome Options |
+|----------|-----------------|
+| Call | Connected, Voicemail, No Answer, Wrong Number |
+| Email | Sent, Replied, Bounced |
+| Meeting | Completed, No Show, Rescheduled |
+| Demo | Completed, Partial, No Show |
 
-### UTM Documentation
+### Automation Opportunities
 
-Track all UTMs in a spreadsheet or tool:
+**Auto-log from integrations:**
+- Email sync (Gmail, Outlook)
+- Calendar sync
+- Dialer integration
+- LinkedIn Sales Navigator
 
-| Campaign | Source | Medium | Content | Full URL | Owner | Date |
-|----------|--------|--------|---------|----------|-------|------|
-| ... | ... | ... | ... | ... | ... | ... |
-
-### UTM Builder
-
-Provide a consistent UTM builder link to team:
-- Google's URL builder
-- Internal tool
-- Spreadsheet formula
+**Auto-create tasks:**
+- Follow-up after meeting
+- Check in after proposal
+- Re-engage after quiet period
 
 ---
 
-## Debugging and Validation
+## Sales Dashboards
 
-### Testing Tools
+### Rep Dashboard (Daily View)
 
-**GA4 DebugView**
-- Real-time event monitoring
-- Enable with ?debug_mode=true
-- Or via Chrome extension
+**Activity Section:**
+- Emails sent today/this week
+- Calls made today/this week
+- Meetings completed
+- Activity vs. target
 
-**GTM Preview Mode**
-- Test triggers and tags
-- See data layer state
-- Validate before publish
+**Pipeline Section:**
+- My open pipeline (total value)
+- Deals closing this month
+- Overdue tasks
+- Stale opportunities (no activity in X days)
 
-**Browser Extensions**
-- GA Debugger
-- Tag Assistant
-- dataLayer Inspector
+### Manager Dashboard (Weekly View)
 
-### Validation Checklist
+**Team Activity:**
+- Activity by rep
+- Activity trends (week over week)
+- Activity to result ratios
 
-- [ ] Events firing on correct triggers
-- [ ] Property values populating correctly
-- [ ] No duplicate events
-- [ ] Works across browsers
-- [ ] Works on mobile
-- [ ] Conversions recorded correctly
-- [ ] User ID passing when logged in
-- [ ] No PII leaking
+**Pipeline Health:**
+- Total team pipeline
+- Pipeline by stage
+- Pipeline created this period
+- Deals at risk (stale, pushed, etc.)
 
-### Common Issues
+**Forecast:**
+- Commit vs. target
+- Best case vs. target
+- Weighted pipeline
 
-**Events not firing**
-- Trigger misconfigured
-- Tag paused
-- GTM not loaded on page
+### Executive Dashboard (Monthly View)
 
-**Wrong values**
-- Variable not configured
-- Data layer not pushing correctly
-- Timing issues (fire before data ready)
+**Results:**
+- Closed won vs. target
+- Win rate trends
+- Average deal size trends
+- Sales cycle trends
 
-**Duplicate events**
-- Multiple GTM containers
-- Multiple tag instances
-- Trigger firing multiple times
+**Forecast:**
+- Current quarter forecast
+- Pipeline coverage
+- Forecast accuracy (predicted vs. actual)
 
----
-
-## Privacy and Compliance
-
-### Considerations
-
-- Cookie consent required in EU/UK/CA
-- No PII in analytics properties
-- Data retention settings
-- User deletion capabilities
-- Cross-device tracking consent
-
-### Implementation
-
-**Consent Mode (GA4)**
-- Wait for consent before tracking
-- Use consent mode for partial tracking
-- Integrate with consent management platform
-
-**Data Minimization**
-- Only collect what you need
-- IP anonymization
-- No PII in custom dimensions
+**Efficiency:**
+- Revenue per rep
+- CAC trends
+- Ramp time for new reps
 
 ---
 
-## Output Format
+## Win/Loss Tracking
 
-### Tracking Plan Document
+### Loss Reason Categories
 
-```
-# [Site/Product] Tracking Plan
+Create a picklist of loss reasons:
 
-## Overview
-- Tools: GA4, GTM
-- Last updated: [Date]
-- Owner: [Name]
+**Competitive:**
+- Lost to [Competitor A]
+- Lost to [Competitor B]
+- Lost to incumbent/status quo
 
-## Events
+**Fit Issues:**
+- Budget constraints
+- Timeline mismatch
+- Feature gap
+- Wrong use case
 
-### Marketing Events
+**Process Issues:**
+- No decision made
+- Champion left
+- Priorities changed
+- Went dark
 
-| Event Name | Description | Properties | Trigger |
-|------------|-------------|------------|---------|
-| signup_started | User initiates signup | source, page | Click signup CTA |
-| signup_completed | User completes signup | method, plan | Signup success page |
+**Our Issues:**
+- Poor sales execution
+- Pricing/packaging
+- Implementation concerns
 
-### Product Events
-[Similar table]
+### Win Analysis
 
-## Custom Dimensions
+Track what contributed to wins:
 
-| Name | Scope | Parameter | Description |
-|------|-------|-----------|-------------|
-| user_type | User | user_type | Free, trial, paid |
+- Primary use case
+- Key differentiators that resonated
+- Competitive situation
+- Champion persona
+- Decision process
 
-## Conversions
+### Using Win/Loss Data
 
-| Conversion | Event | Counting | Google Ads |
-|------------|-------|----------|------------|
-| Signup | signup_completed | Once per session | Yes |
+**Monthly review:**
+- Loss reasons by frequency
+- Competitive win/loss rates
+- Patterns by segment, rep, product
 
-## UTM Convention
+**Action from insights:**
+- Lost on price → Review packaging
+- Lost on feature → Inform product
+- Lost to competitor → Update battlecards
+- Went dark → Improve follow-up
 
-[Guidelines]
-```
+---
 
-### Implementation Code
+## Forecasting Framework
 
-Provide ready-to-use code snippets
+### Forecast Categories
 
-### Testing Checklist
+**Commit:**
+- High confidence (90%+)
+- Verbal agreement or contract in progress
+- Known close date
 
-Specific validation steps
+**Best Case:**
+- Medium confidence (50-90%)
+- Demo completed, positive signals
+- Potential to close this period
+
+**Pipeline:**
+- Lower confidence (<50%)
+- Early stage or unknown timing
+- Requires work to close
+
+### Forecast Methodology
+
+**Bottom-up (rep-driven):**
+- Reps categorize each deal
+- Manager reviews and adjusts
+- Roll up to total
+
+**Weighted pipeline:**
+- Stage probability × deal amount
+- Sum across all deals
+- Adjust for historical accuracy
+
+**Historical trend:**
+- Look at past conversion rates
+- Apply to current pipeline
+- Sanity check against rep forecast
+
+### Forecast Accuracy Tracking
+
+| Metric | Calculation |
+|--------|-------------|
+| Forecast Accuracy | Actual ÷ Forecasted |
+| Coverage Accuracy | Deals won from commit ÷ Total commit |
+| Call Accuracy | % of deals forecasted correctly |
+
+Track over time to improve forecasting skill.
+
+---
+
+## Reporting Cadence
+
+### Daily (Rep Self-Management)
+
+- Activities completed
+- Tasks due today
+- Deals with meetings today
+
+### Weekly (Team Meeting)
+
+- Pipeline created
+- Deals won/lost
+- Activity vs. targets
+- Forecast update
+- Deals to discuss
+
+### Monthly (Leadership Review)
+
+- Results vs. target
+- Win rate and cycle time
+- Pipeline health
+- Rep performance
+- Forecast for next period
+
+### Quarterly (Business Review)
+
+- Trend analysis
+- Win/loss insights
+- Process improvements
+- Territory/segment performance
+- Headcount and capacity
+
+---
+
+## Data Quality Management
+
+### Regular Hygiene Tasks
+
+**Weekly (Rep):**
+- Update close dates on all deals
+- Clear completed tasks
+- Update deal stages
+
+**Monthly (Manager):**
+- Review stale opportunities (no activity in 30+ days)
+- Audit high-value deals for completeness
+- Check for duplicate records
+
+**Quarterly (Ops):**
+- Clean up inactive records
+- Review and update picklists
+- Audit stage definitions
+
+### Data Quality Metrics
+
+| Metric | Target |
+|--------|--------|
+| Opportunities with next step | >90% |
+| Opportunities with close date in past | <5% |
+| Contacts with email | >95% |
+| Deals with loss reason (when lost) | 100% |
+
+---
+
+## Tool Integration
+
+### Core Stack
+
+**CRM**: Salesforce, HubSpot, Pipedrive
+- Single source of truth
+- All deal and contact data
+
+**Email Integration**: Native or Outreach/Salesloft
+- Auto-log emails
+- Sequence tracking
+
+**Calendar Integration**: Google/Outlook sync
+- Auto-log meetings
+- Availability for scheduling
+
+**Dialer**: Aircall, Dialpad, native
+- Call logging
+- Recording for coaching
+
+### Analytics Layer
+
+**Built-in CRM reporting**: Good for basics
+**BI tool (Looker, Tableau)**: For advanced analysis
+**Rev ops tools (Clari, Gong)**: For forecasting and insights
+
+---
+
+## Implementation Checklist
+
+### Before Launch
+
+- [ ] Define sales stages with exit criteria
+- [ ] Identify required vs. optional fields
+- [ ] Set up loss reason picklist
+- [ ] Create basic dashboards
+- [ ] Document data entry expectations
+- [ ] Train team on new process
+
+### After Launch
+
+- [ ] Weekly data quality review
+- [ ] Monthly reporting accuracy check
+- [ ] Quarterly process refinement
+- [ ] Ongoing training for new reps
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What tools are you using (GA4, Mixpanel, etc.)?
-2. What key actions do you want to track?
+1. What CRM are you using?
+2. What's your sales process (stages)?
 3. What decisions will this data inform?
-4. Who implements - dev team or marketing?
-5. Are there privacy/consent requirements?
-6. What's already tracked?
+4. What's your current forecasting accuracy?
+5. How large is your sales team?
+6. What's already being tracked?
 
 ---
 
 ## Related Skills
 
-- **ab-test-setup**: For experiment tracking
-- **seo-audit**: For organic traffic analysis
-- **page-cro**: For conversion optimization (uses this data)
+- **ab-test-setup**: For testing sales approaches
+- **cold-outreach**: For outbound activity tracking
+- **discovery-calls**: For tracking discovery metrics
+- **deal-acceleration**: For pipeline velocity

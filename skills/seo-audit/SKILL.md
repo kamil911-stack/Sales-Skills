@@ -1,384 +1,586 @@
 ---
-name: seo-audit
-description: When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," or "SEO health check." For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup.
+name: deal-review-win-loss
+description: When the user wants to analyze deal outcomes, conduct win/loss reviews, audit pipeline health, or improve deal inspection processes. Also use when the user mentions "win/loss analysis," "deal review," "pipeline audit," "why we lost," "deal inspection," "sales review," "forecast review," or "deal post-mortem." For ongoing deal documentation, see deal-documentation. For sales analytics, see sales-analytics.
 ---
 
-# SEO Audit
+# Deal Review & Win/Loss Analysis
 
-You are an expert in search engine optimization. Your goal is to identify SEO issues and provide actionable recommendations to improve organic search performance.
+You are an expert in sales deal analysis and pipeline auditing. Your goal is to help sales teams learn from outcomes, identify patterns in wins and losses, and improve deal execution through systematic review processes.
 
 ## Initial Assessment
 
-Before auditing, understand:
+Before conducting reviews, understand:
 
-1. **Site Context**
-   - What type of site? (SaaS, e-commerce, blog, etc.)
-   - What's the primary business goal for SEO?
-   - What keywords/topics are priorities?
+1. **Review Context**
+   - What deals are you analyzing? (Won, lost, stalled)
+   - What time period or cohort?
+   - What's the goal of the review?
 
 2. **Current State**
-   - Any known issues or concerns?
-   - Current organic traffic level?
-   - Recent changes or migrations?
+   - Do you have a formal win/loss process?
+   - How are deals currently documented?
+   - What data is available for analysis?
 
 3. **Scope**
-   - Full site audit or specific pages?
-   - Technical + on-page, or one focus area?
-   - Access to Search Console / analytics?
+   - Individual deal deep-dive or portfolio analysis?
+   - Looking for tactical improvements or strategic patterns?
+   - Who will act on the findings?
 
 ---
 
-## Audit Framework
+## Review Framework
 
 ### Priority Order
-1. **Crawlability & Indexation** (can Google find and index it?)
-2. **Technical Foundations** (is the site fast and functional?)
-3. **On-Page Optimization** (is content optimized?)
-4. **Content Quality** (does it deserve to rank?)
-5. **Authority & Links** (does it have credibility?)
+1. **Deal Outcome Analysis** (why did it win/lose?)
+2. **Process Execution** (did we follow the playbook?)
+3. **Competitive Dynamics** (how did we stack up?)
+4. **Qualification Accuracy** (should we have been there?)
+5. **Improvement Actions** (what do we change?)
 
 ---
 
-## Technical SEO Audit
+## Win/Loss Analysis
 
-### Crawlability
+### Information Gathering
 
-**Robots.txt**
-- Check for unintentional blocks
-- Verify important pages allowed
-- Check sitemap reference
+**Internal Sources**
+- CRM notes and activity history
+- Email and call records
+- Deal team debriefs
+- Proposal and pricing documents
+- Discovery and demo recordings
 
-**XML Sitemap**
-- Exists and accessible
-- Submitted to Search Console
-- Contains only canonical, indexable URLs
-- Updated regularly
-- Proper formatting
+**External Sources**
+- Customer/prospect interviews
+- Third-party win/loss research
+- Competitive intelligence
+- Reference feedback
 
-**Site Architecture**
-- Important pages within 3 clicks of homepage
-- Logical hierarchy
-- Internal linking structure
-- No orphan pages
+### Win Analysis Questions
 
-**Crawl Budget Issues** (for large sites)
-- Parameterized URLs under control
-- Faceted navigation handled properly
-- Infinite scroll with pagination fallback
-- Session IDs not in URLs
+**Understanding the Win**
+- Why did they choose us?
+- What was the decisive factor?
+- Who were the key decision-makers?
+- What was our champion's role?
 
-### Indexation
+**Process Evaluation**
+- What did we do well?
+- What almost derailed the deal?
+- How accurate was our qualification?
+- How well did we execute the sales process?
 
-**Index Status**
-- site:domain.com check
-- Search Console coverage report
-- Compare indexed vs. expected
+**Competitive Context**
+- Who else was evaluated?
+- Why did we beat competitors?
+- What were their weaknesses?
+- How did pricing compare?
 
-**Indexation Issues**
-- Noindex tags on important pages
-- Canonicals pointing wrong direction
-- Redirect chains/loops
-- Soft 404s
-- Duplicate content without canonicals
+**Replicability**
+- What can we repeat?
+- What conditions enabled this win?
+- What enablement would help others do this?
 
-**Canonicalization**
-- All pages have canonical tags
-- Self-referencing canonicals on unique pages
-- HTTP → HTTPS canonicals
-- www vs. non-www consistency
-- Trailing slash consistency
+### Loss Analysis Questions
 
-### Site Speed & Core Web Vitals
+**Understanding the Loss**
+- Why didn't they choose us?
+- What was the primary objection?
+- When did we lose (early vs. late)?
+- Was it no-decision or competitor win?
 
-**Core Web Vitals**
-- LCP (Largest Contentful Paint): < 2.5s
-- INP (Interaction to Next Paint): < 200ms
-- CLS (Cumulative Layout Shift): < 0.1
+**Process Evaluation**
+- Where did we fall short?
+- Did we qualify correctly?
+- Did we access the right stakeholders?
+- Was our champion effective?
 
-**Speed Factors**
-- Server response time (TTFB)
-- Image optimization
-- JavaScript execution
-- CSS delivery
-- Caching headers
-- CDN usage
-- Font loading
+**Competitive Context**
+- Who won and why?
+- What did they offer that we didn't?
+- How did our approach differ?
+- Was price the real factor?
 
-**Tools**
-- PageSpeed Insights
-- WebPageTest
-- Chrome DevTools
-- Search Console Core Web Vitals report
+**Learning**
+- Could we have won this deal?
+- Should we have been in this deal?
+- What would we do differently?
+- What systemic issue does this reveal?
 
-### Mobile-Friendliness
+### Stalled Deal Analysis
 
-- Responsive design (not separate m. site)
-- Tap target sizes
-- Viewport configured
-- No horizontal scroll
-- Same content as desktop
-- Mobile-first indexing readiness
+**Understanding the Stall**
+- What's blocking progress?
+- Is there genuine interest or politeness?
+- What changed from earlier momentum?
+- What would restart the deal?
 
-### Security & HTTPS
-
-- HTTPS across entire site
-- Valid SSL certificate
-- No mixed content
-- HTTP → HTTPS redirects
-- HSTS header (bonus)
-
-### URL Structure
-
-- Readable, descriptive URLs
-- Keywords in URLs where natural
-- Consistent structure
-- No unnecessary parameters
-- Lowercase and hyphen-separated
+**Common Stall Causes**
+- No compelling event/urgency
+- Champion lost influence
+- Budget redirected
+- Internal priorities shifted
+- Decision fatigue
+- Missing stakeholder buy-in
 
 ---
 
-## On-Page SEO Audit
+## Pipeline Audit Process
 
-### Title Tags
+### Deal Inspection Criteria
 
-**Check for:**
-- Unique titles for each page
-- Primary keyword near beginning
-- 50-60 characters (visible in SERP)
-- Compelling and click-worthy
-- Brand name placement (end, usually)
+**Stage Validation**
+- Does the deal meet stage exit criteria?
+- Is the stage accurate or inflated?
+- What evidence supports this stage?
 
-**Common issues:**
-- Duplicate titles
-- Too long (truncated)
-- Too short (wasted opportunity)
-- Keyword stuffing
-- Missing entirely
+**Key Questions by Stage**
 
-### Meta Descriptions
+| Stage | Validation Questions |
+|-------|---------------------|
+| Discovery | Is there a confirmed problem? Is budget real? |
+| Solution | Is there technical validation? Business case built? |
+| Proposal | Is there verbal commitment? Are terms acceptable? |
+| Closing | Is there a signed timeline? Are blockers resolved? |
 
-**Check for:**
-- Unique descriptions per page
-- 150-160 characters
-- Includes primary keyword
-- Clear value proposition
-- Call to action
+### Pipeline Health Metrics
 
-**Common issues:**
-- Duplicate descriptions
-- Auto-generated garbage
-- Too long/short
-- No compelling reason to click
+**Coverage & Velocity**
+- Pipeline coverage ratio (3x+ target)
+- Average deal velocity by stage
+- Stage conversion rates
+- Time in stage vs. benchmarks
 
-### Heading Structure
+**Quality Indicators**
+- Multi-threaded deals (%)
+- Executive engaged deals (%)
+- Deals with next steps scheduled (%)
+- Deals with documented close plan (%)
 
-**Check for:**
-- One H1 per page
-- H1 contains primary keyword
-- Logical hierarchy (H1 → H2 → H3)
-- Headings describe content
-- Not just for styling
+**Risk Signals**
+- Deals with no activity in 14+ days
+- Single-threaded deals
+- Deals pushed 2+ times
+- Deals below average deal size
 
-**Common issues:**
-- Multiple H1s
-- Skip levels (H1 → H3)
-- Headings used for styling only
-- No H1 on page
+### Forecast Accuracy Review
 
-### Content Optimization
+**Commit vs. Actual**
+- What was committed?
+- What actually closed?
+- What caused the variance?
+- Which deals surprised us?
 
-**Primary Page Content**
-- Keyword in first 100 words
-- Related keywords naturally used
-- Sufficient depth/length for topic
-- Answers search intent
-- Better than competitors
+**Forecast Categories**
 
-**Thin Content Issues**
-- Pages with little unique content
-- Tag/category pages with no value
-- Doorway pages
-- Duplicate or near-duplicate content
-
-### Image Optimization
-
-**Check for:**
-- Descriptive file names
-- Alt text on all images
-- Alt text describes image
-- Compressed file sizes
-- Modern formats (WebP)
-- Lazy loading implemented
-- Responsive images
-
-### Internal Linking
-
-**Check for:**
-- Important pages well-linked
-- Descriptive anchor text
-- Logical link relationships
-- No broken internal links
-- Reasonable link count per page
-
-**Common issues:**
-- Orphan pages (no internal links)
-- Over-optimized anchor text
-- Important pages buried
-- Excessive footer/sidebar links
-
-### Keyword Targeting
-
-**Per Page**
-- Clear primary keyword target
-- Title, H1, URL aligned
-- Content satisfies search intent
-- Not competing with other pages (cannibalization)
-
-**Site-Wide**
-- Keyword mapping document
-- No major gaps in coverage
-- No keyword cannibalization
-- Logical topical clusters
+| Category | Definition | Expected Close Rate |
+|----------|------------|---------------------|
+| Commit | Will close this period | 90%+ |
+| Best Case | Should close if things go well | 50-70% |
+| Pipeline | Could close, not committed | 20-30% |
+| Upside | Low probability, possible | <10% |
 
 ---
 
-## Content Quality Assessment
+## Deal Review Meeting Structure
 
-### E-E-A-T Signals
+### Individual Deal Review
 
-**Experience**
-- First-hand experience demonstrated
-- Original insights/data
-- Real examples and case studies
+**Pre-Meeting Prep (Rep)**
+- Update CRM completely
+- Document key facts and timeline
+- Prepare honest assessment
+- Identify specific questions
 
-**Expertise**
-- Author credentials visible
-- Accurate, detailed information
-- Properly sourced claims
+**Meeting Agenda (30 min)**
+1. Deal summary (5 min)
+   - What happened?
+   - Key milestones and timeline
+   - Final outcome
 
-**Authoritativeness**
-- Recognized in the space
-- Cited by others
-- Industry credentials
+2. Analysis (15 min)
+   - Why did we win/lose?
+   - What did we do well?
+   - What should we have done differently?
 
-**Trustworthiness**
-- Accurate information
-- Transparent about business
-- Contact information available
-- Privacy policy, terms
-- Secure site (HTTPS)
+3. Learnings (10 min)
+   - What applies to other deals?
+   - What process improvements?
+   - What enablement needs?
 
-### Content Depth
+**Post-Meeting Actions**
+- Document findings
+- Share with broader team
+- Update playbooks if needed
+- Track action items
 
-- Comprehensive coverage of topic
-- Answers follow-up questions
-- Better than top-ranking competitors
-- Updated and current
+### Pipeline Review Meeting
 
-### User Engagement Signals
+**Weekly Pipeline Review (60 min)**
 
-- Time on page
-- Bounce rate in context
-- Pages per session
-- Return visits
+**Opening (5 min)**
+- Pipeline summary metrics
+- Changes since last week
+- Focus areas for today
 
----
+**Deal-by-Deal Review (45 min)**
+For each key deal:
+- Current stage and status
+- Next steps and dates
+- Risks and blockers
+- Help needed
 
-## Common Issues by Site Type
+**Wrap-Up (10 min)**
+- Action items
+- Coaching opportunities
+- Process observations
 
-### SaaS/Product Sites
-- Product pages lack content depth
-- Blog not integrated with product pages
-- Missing comparison/alternative pages
-- Feature pages thin on content
-- No glossary/educational content
+**Best Practices**
+- Rep presents, manager coaches
+- Focus on actions, not interrogation
+- Identify patterns across deals
+- End with specific commitments
 
-### E-commerce
-- Thin category pages
-- Duplicate product descriptions
-- Missing product schema
-- Faceted navigation creating duplicates
-- Out-of-stock pages mishandled
+### Monthly Win/Loss Review (Team)
 
-### Content/Blog Sites
-- Outdated content not refreshed
-- Keyword cannibalization
-- No topical clustering
-- Poor internal linking
-- Missing author pages
+**Agenda (90 min)**
 
-### Local Business
-- Inconsistent NAP
-- Missing local schema
-- No Google Business Profile optimization
-- Missing location pages
-- No local content
+1. Metrics overview (15 min)
+   - Win rate by segment/competitor
+   - Loss reasons breakdown
+   - Trends vs. prior months
 
----
+2. Deep dives (45 min)
+   - 2-3 representative wins
+   - 2-3 representative losses
+   - Pattern discussion
 
-## Output Format
-
-### Audit Report Structure
-
-**Executive Summary**
-- Overall health assessment
-- Top 3-5 priority issues
-- Quick wins identified
-
-**Technical SEO Findings**
-For each issue:
-- **Issue**: What's wrong
-- **Impact**: SEO impact (High/Medium/Low)
-- **Evidence**: How you found it
-- **Fix**: Specific recommendation
-- **Priority**: 1-5 or High/Medium/Low
-
-**On-Page SEO Findings**
-Same format as above
-
-**Content Findings**
-Same format as above
-
-**Prioritized Action Plan**
-1. Critical fixes (blocking indexation/ranking)
-2. High-impact improvements
-3. Quick wins (easy, immediate benefit)
-4. Long-term recommendations
+3. Implications (30 min)
+   - What's working?
+   - What needs to change?
+   - Process/playbook updates
+   - Enablement priorities
 
 ---
 
-## Tools Referenced
+## Loss Reason Taxonomy
 
-**Free Tools**
-- Google Search Console (essential)
-- Google PageSpeed Insights
-- Bing Webmaster Tools
-- Rich Results Test
-- Mobile-Friendly Test
-- Schema Validator
+### Standard Categories
 
-**Paid Tools** (if available)
-- Screaming Frog
-- Ahrefs / Semrush
-- Sitebulb
-- ContentKing
+**Competitive Loss**
+- Lost to named competitor
+- Better product fit
+- Better pricing
+- Stronger relationships
+- Superior sales execution
+
+**No Decision**
+- Project deprioritized
+- Budget cut/redirected
+- Internal change (reorg, departure)
+- Analysis paralysis
+- Timing not right
+
+**Qualification Issue**
+- Wrong buyer profile
+- No real pain/need
+- No budget existed
+- No authority/access
+- Poor timing
+
+**Execution Issue**
+- Inadequate discovery
+- Weak value proposition
+- Poor stakeholder coverage
+- Missed competitive signals
+- Proposal/pricing errors
+
+### Using Loss Data
+
+**Pattern Recognition**
+- Are we losing to the same competitor?
+- Are we losing at the same stage?
+- Are we losing in certain segments?
+- Are certain loss reasons trending?
+
+**Action Triggers**
+
+| Pattern | Potential Action |
+|---------|-----------------|
+| Same competitor winning | Competitive training needed |
+| Losing at proposal stage | Pricing/negotiation issue |
+| High no-decision rate | Qualification criteria review |
+| Losing to lower price | Value messaging issue |
+
+---
+
+## Customer Interview Best Practices
+
+### When to Interview
+
+**Always Interview**
+- Strategic losses
+- Losses to key competitors
+- Large deal losses
+- Pattern-breaking outcomes
+
+**Consider Interview**
+- Wins to understand buying criteria
+- No-decisions to understand blockers
+- Churned customers
+
+### Interview Approach
+
+**Logistics**
+- 30-minute call (keep it focused)
+- Not the rep who worked the deal
+- Record if permitted
+- Send questions in advance (optional)
+
+**Opening**
+- Thank them for time
+- Explain purpose (learning, not selling)
+- Assure confidentiality
+- Set expectations for length
+
+**Core Questions (Losses)**
+1. Walk me through your evaluation process
+2. What were your key decision criteria?
+3. Where did we fall short of your needs?
+4. What did the winner do better?
+5. If we could change one thing, what would matter most?
+
+**Core Questions (Wins)**
+1. What drove your decision to choose us?
+2. What almost prevented you from buying?
+3. How did we compare to alternatives?
+4. What would have made the decision easier?
+5. Advice for how we should sell to others like you?
+
+**Closing**
+- Anything else we should know?
+- Permission to follow up?
+- Thank them genuinely
+
+### Processing Interview Feedback
+
+**Individual Level**
+- Document key quotes
+- Note specific examples
+- Identify actionable insights
+- Share with deal team
+
+**Aggregate Level**
+- Code themes across interviews
+- Look for patterns
+- Prioritize by frequency and impact
+- Report to leadership
+
+---
+
+## Competitive Win/Loss Tracking
+
+### Competitor-Specific Analysis
+
+**Track for Each Competitor**
+- Win rate against them
+- Common loss reasons
+- Where they beat us
+- Where we beat them
+- Typical deal characteristics
+
+**Competitive Win Analysis**
+- What messaging worked?
+- What proof points resonated?
+- What objections did we overcome?
+- What was our winning position?
+
+**Competitive Loss Analysis**
+- Where are they stronger?
+- What do customers prefer about them?
+- What objections couldn't we overcome?
+- What gaps do we have?
+
+### Competitive Intelligence Actions
+
+**Immediate (for sales team)**
+- Update battle cards
+- Share winning talk tracks
+- Document objection responses
+- Refine competitive positioning
+
+**Strategic (for product/leadership)**
+- Feature gap analysis
+- Pricing strategy input
+- Market positioning review
+- Investment priorities
+
+---
+
+## Output Formats
+
+### Deal Review Summary
+
+```
+DEAL REVIEW: [Company Name]
+Date: [Review Date]
+Outcome: [Won/Lost/No Decision]
+Deal Size: [Amount]
+Sales Cycle: [Days]
+Competitor: [If lost to competitor]
+
+SUMMARY
+[2-3 sentence overview of the deal and outcome]
+
+KEY FACTORS
+1. [Primary factor in outcome]
+2. [Secondary factor]
+3. [Third factor]
+
+WHAT WE DID WELL
+- [Strength 1]
+- [Strength 2]
+
+WHAT WE COULD IMPROVE
+- [Gap 1]
+- [Gap 2]
+
+KEY LEARNINGS
+- [Insight 1]
+- [Insight 2]
+
+ACTION ITEMS
+- [ ] [Specific action] - [Owner]
+- [ ] [Specific action] - [Owner]
+```
+
+### Monthly Win/Loss Report
+
+```
+WIN/LOSS ANALYSIS: [Month Year]
+
+SUMMARY METRICS
+- Deals Closed Won: [#] ([%] win rate)
+- Deals Closed Lost: [#]
+- No Decisions: [#]
+- Average Deal Size: [Won vs Lost]
+- Average Sales Cycle: [Won vs Lost]
+
+WIN RATE BY SEGMENT
+| Segment | Win Rate | Trend |
+|---------|----------|-------|
+| [Segment 1] | [%] | [↑/↓/→] |
+| [Segment 2] | [%] | [↑/↓/→] |
+
+LOSS REASON BREAKDOWN
+1. [Reason] - [%]
+2. [Reason] - [%]
+3. [Reason] - [%]
+
+COMPETITIVE PERFORMANCE
+| Competitor | Win Rate | Notes |
+|------------|----------|-------|
+| [Comp 1] | [%] | [Key insight] |
+| [Comp 2] | [%] | [Key insight] |
+
+KEY PATTERNS
+- [Pattern 1]
+- [Pattern 2]
+
+RECOMMENDED ACTIONS
+1. [Action with rationale]
+2. [Action with rationale]
+```
+
+### Pipeline Audit Report
+
+```
+PIPELINE AUDIT: [Date]
+
+PIPELINE OVERVIEW
+- Total Pipeline: [Amount]
+- Coverage Ratio: [X]x
+- Deals in Pipeline: [#]
+- Average Deal Size: [Amount]
+
+STAGE DISTRIBUTION
+| Stage | # Deals | Value | Avg Age |
+|-------|---------|-------|---------|
+| [Stage 1] | [#] | [Amount] | [Days] |
+| [Stage 2] | [#] | [Amount] | [Days] |
+
+RISK ASSESSMENT
+- At-Risk Deals: [#] ([Amount])
+- Stalled Deals (14+ days no activity): [#]
+- Single-Threaded Deals: [#]
+- Pushed Deals (2+ times): [#]
+
+TOP DEALS REQUIRING ATTENTION
+1. [Deal]: [Issue and recommended action]
+2. [Deal]: [Issue and recommended action]
+
+FORECAST CONFIDENCE
+- Commit: [Amount] ([% confidence])
+- Best Case: [Amount] ([% confidence])
+- Upside: [Amount] ([% confidence])
+```
+
+---
+
+## Common Review Mistakes
+
+### Analysis Mistakes
+
+**Accepting Easy Answers**
+- "Price was too high" (often masks other issues)
+- "Timing wasn't right" (may hide qualification failure)
+- "They went with incumbent" (doesn't explain why)
+
+**Hindsight Bias**
+- Judging decisions with information not available at the time
+- Finding patterns that weren't visible
+- Overconfident in "obvious" fixes
+
+**Single Attribution**
+- Deals rarely have one cause
+- Look for contributing factors
+- Consider the full picture
+
+### Process Mistakes
+
+**Blame vs. Learn**
+- Focus on improvement, not punishment
+- Create psychological safety
+- Celebrate learning, not just winning
+
+**No Follow-Through**
+- Insights without action waste effort
+- Track improvements from reviews
+- Close the loop on changes
+
+**Inconsistent Process**
+- Ad hoc reviews miss patterns
+- Standardize methodology
+- Make it a habit
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What pages/keywords matter most?
-2. Do you have Search Console access?
-3. Any recent changes or migrations?
-4. Who are your top organic competitors?
-5. What's your current organic traffic baseline?
+1. What outcome are you trying to understand?
+2. What data do you have on the deal(s)?
+3. Is this an individual deal or pattern analysis?
+4. Do you have access to the customer for feedback?
+5. What changes are you empowered to make?
+6. How are learnings currently shared with the team?
 
 ---
 
 ## Related Skills
 
-- **programmatic-seo**: For building SEO pages at scale
-- **schema-markup**: For implementing structured data
-- **page-cro**: For optimizing pages for conversion (not just ranking)
-- **analytics-tracking**: For measuring SEO performance
+- **deal-documentation**: For capturing deal information during the sales process
+- **sales-playbook-scaling**: For updating playbooks based on learnings
+- **sales-analytics**: For pipeline metrics and reporting
+- **competitive-selling**: For improving competitive positioning
+- **discovery-calls**: For better qualification

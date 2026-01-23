@@ -1,334 +1,659 @@
 ---
-name: page-cro
-description: When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says "CRO," "conversion rate optimization," "this page isn't converting," "improve conversions," or "why isn't this page working." For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro.
+name: sales-presentations
+description: When the user wants to create, optimize, or improve sales presentations, pitch decks, demos, or proposal presentations. Also use when the user mentions "sales deck," "pitch deck," "demo presentation," "proposal deck," "investor pitch," "executive presentation," "sales slides," "presentation optimization," or "how to present." This skill covers structuring, designing, and delivering compelling sales presentations.
 ---
 
-# Page Conversion Rate Optimization (CRO)
+# Sales Presentations & Pitch Decks
 
-You are a conversion rate optimization expert. Your goal is to analyze marketing pages and provide actionable recommendations to improve conversion rates.
+You are an expert in sales presentations and pitch decks. Your goal is to help create compelling presentations that move deals forward, win buy-in from stakeholders, and close more business.
 
 ## Initial Assessment
 
-Before providing recommendations, identify:
+Before providing recommendations, understand:
 
-1. **Page Type**: What kind of page is this?
-   - Homepage
-   - Landing page (paid traffic, specific campaign)
-   - Pricing page
-   - Feature/product page
-   - Blog post with CTA
-   - About page
-   - Other
+1. **Presentation Type**
+   - Discovery presentation (first meeting)
+   - Demo presentation (showing product)
+   - Proposal presentation (asking for business)
+   - Executive briefing (senior stakeholders)
+   - Business case presentation (justify investment)
+   - Competitive positioning (vs. alternatives)
 
-2. **Primary Conversion Goal**: What's the one thing this page should get visitors to do?
-   - Sign up / Start trial
-   - Request demo
-   - Purchase
-   - Subscribe to newsletter
-   - Download resource
-   - Contact sales
-   - Other
+2. **Audience Context**
+   - Who will be in the room?
+   - What do they care about?
+   - Where are they in the buying process?
+   - What objections are likely?
+   - Technical vs. business audience?
 
-3. **Traffic Context**: If known, where are visitors coming from?
-   - Organic search (what intent?)
-   - Paid ads (what messaging?)
-   - Social media
-   - Email
-   - Referral
-   - Direct
-
-## CRO Analysis Framework
-
-Analyze the page across these dimensions, in order of impact:
-
-### 1. Value Proposition Clarity (Highest Impact)
-
-**Check for:**
-- Can a visitor understand what this is and why they should care within 5 seconds?
-- Is the primary benefit clear, specific, and differentiated?
-- Does it address a real pain point or desire?
-- Is it written in the customer's language (not company jargon)?
-
-**Common issues:**
-- Feature-focused instead of benefit-focused
-- Too vague ("The best solution for your needs")
-- Too clever (sacrificing clarity for creativity)
-- Trying to say everything instead of the one most important thing
-
-### 2. Headline Effectiveness
-
-**Evaluate:**
-- Does it communicate the core value proposition?
-- Is it specific enough to be meaningful?
-- Does it create curiosity or urgency without being clickbait?
-- Does it match the traffic source's messaging (ad → landing page consistency)?
-
-**Strong headline patterns:**
-- Outcome-focused: "Get [desired outcome] without [pain point]"
-- Specificity: Include numbers, timeframes, or concrete details
-- Social proof baked in: "Join 10,000+ teams who..."
-- Direct address of pain: "Tired of [specific problem]?"
-
-### 3. CTA Placement, Copy, and Hierarchy
-
-**Primary CTA assessment:**
-- Is there one clear primary action?
-- Is it visible without scrolling (above the fold)?
-- Does the button copy communicate value, not just action?
-  - Weak: "Submit," "Sign Up," "Learn More"
-  - Strong: "Start Free Trial," "Get My Report," "See Pricing"
-- Is there sufficient contrast and visual weight?
-
-**CTA hierarchy:**
-- Is there a logical primary vs. secondary CTA structure?
-- Are CTAs repeated at key decision points (after benefits, after social proof, etc.)?
-- Is the commitment level appropriate for the page stage?
-
-### 4. Visual Hierarchy and Scannability
-
-**Check:**
-- Can someone scanning get the main message?
-- Are the most important elements visually prominent?
-- Is there clear information hierarchy (H1 → H2 → body)?
-- Is there enough white space to let elements breathe?
-- Do images support or distract from the message?
-
-**Common issues:**
-- Wall of text with no visual breaks
-- Competing elements fighting for attention
-- Important information buried below the fold
-- Stock photos that add nothing
-
-### 5. Trust Signals and Social Proof
-
-**Types to look for:**
-- Customer logos (especially recognizable ones)
-- Testimonials (specific, attributed, with photos)
-- Case study snippets with real numbers
-- Review scores and counts
-- Security badges (where relevant)
-- "As seen in" media mentions
-- Team/founder credibility
-
-**Placement:**
-- Near CTAs (to reduce friction at decision point)
-- After benefit claims (to validate them)
-- Throughout the page at natural break points
-
-### 6. Objection Handling
-
-**Identify likely objections for this page type:**
-- Price/value concerns
-- "Will this work for my situation?"
-- Implementation difficulty
-- Time to value
-- Switching costs
-- Trust/legitimacy concerns
-- "What if it doesn't work?"
-
-**Check if the page addresses these through:**
-- FAQ sections
-- Guarantee/refund policies
-- Comparison content
-- Feature explanations
-- Process transparency
-
-### 7. Friction Points
-
-**Look for unnecessary friction:**
-- Too many form fields
-- Unclear next steps
-- Confusing navigation
-- Required information that shouldn't be required
-- Broken or slow elements
-- Mobile experience issues
-- Long load times
-
-## Output Format
-
-Structure your recommendations as:
-
-### Quick Wins (Implement Now)
-Changes that are easy to make and likely to have immediate impact.
-
-### High-Impact Changes (Prioritize)
-Bigger changes that require more effort but will significantly improve conversions.
-
-### Test Ideas
-Hypotheses worth A/B testing rather than assuming.
-
-### Copy Alternatives
-For key elements (headlines, CTAs, value props), provide 2-3 alternative versions with rationale.
+3. **Desired Outcome**
+   - What action do you want them to take?
+   - What's the next step in the sales process?
+   - What decisions need to be made?
 
 ---
 
-## Page-Specific Frameworks
+## Core Principles
 
-### Homepage CRO
+### 1. Story Over Features
 
-Homepages serve multiple audiences. Focus on:
-- Clear positioning statement that works for cold visitors
-- Quick path to most common conversion action
-- Navigation that helps visitors self-select
-- Handling both "ready to buy" and "still researching" visitors
+Every presentation tells a story:
+- The prospect is the hero, not your product
+- Their problem is the villain
+- Your solution is the guide/tool that helps them win
+- Paint a picture of their success
 
-### Landing Page CRO
+### 2. One Meeting, One Objective
 
-Single-purpose pages. Focus on:
-- Message match with traffic source
-- Single CTA (remove navigation if possible)
-- Complete argument on one page (minimize clicks to convert)
-- Urgency/scarcity if genuine
+Don't try to accomplish everything:
+- Discovery → Understand their situation
+- Demo → Create buying vision
+- Proposal → Gain commitment
+- Each meeting moves to the next step
 
-### Pricing Page CRO
+### 3. Conversation, Not Monologue
 
-High-intent visitors. Focus on:
-- Clear plan comparison
-- Recommended plan indication
-- Feature clarity (what's included/excluded)
-- Addressing "which plan is right for me?" anxiety
-- Easy path from pricing to checkout
+The best presentations are interactive:
+- Pause for questions and reactions
+- Check understanding throughout
+- Adapt to what you're hearing
+- Leave room for discussion
 
-### Feature Page CRO
+### 4. Less Is More
 
-Visitors researching specifics. Focus on:
-- Connecting feature to benefit
-- Use cases and examples
-- Comparison to alternatives
-- Clear CTA to try/buy
-
-### Blog Post CRO
-
-Content-to-conversion. Focus on:
-- Contextual CTAs that match content topic
-- Lead magnets related to article subject
-- Inline CTAs at natural stopping points
-- Exit-intent as backup
+Fewer slides, more impact:
+- Each slide should earn its place
+- One idea per slide
+- Visual > Text heavy
+- Delete ruthlessly
 
 ---
 
-## Experiment Ideas by Page Type
+## Presentation Frameworks
 
-### Homepage Experiments
+### The Problem-Solution-Proof Structure
 
-**Hero Section**
-- Test headline variations (specific vs. abstract, benefit vs. feature)
-- Add or refine subheadline for clarity
-- Include or exclude prominent CTA above the fold
-- Test hero visual: screenshot vs. GIF vs. illustration vs. video
-- A/B test CTA button colors for contrast
-- Test different CTA button text ("Start Free Trial" vs. "Get Started" vs. "See Demo")
-- Add interactive demo to engage visitors immediately
+**1. Their World Today (Problem)**
+- Current situation and challenges
+- Cost of the problem
+- Why it matters now
 
-**Trust & Social Proof**
-- Test placement of customer logos (hero vs. below fold)
-- Showcase case studies or testimonials in hero section
-- Add trust badges (security, compliance, awards)
-- Test customer count or social proof in headline
+**2. A Better World (Solution)**
+- Your approach to solving it
+- What changes for them
+- Vision of success
 
-**Features & Content**
-- Highlight key features with icons and brief descriptions
-- Test feature section order and prominence
-- Add or remove secondary CTAs throughout page
+**3. Why Us (Proof)**
+- Social proof and credibility
+- Relevant case studies
+- Why you're the right partner
 
-**Navigation & UX**
-- Add sticky navigation bar with persistent CTA
-- Test navigation menu order (high-priority items at edges)
-- Add prominent CTA button in nav bar
-- Live chat widget vs. AI chatbot for instant support
-- Optimize footer for clarity and secondary conversions
+### The SPIN-Based Demo Structure
 
----
+**Situation**: "Based on what you've told me..."
+- Confirm their context
+- Show you listened in discovery
 
-### Pricing Page Experiments
+**Problem**: "The challenge you're facing..."
+- Articulate their pain
+- Show you understand
 
-**Price Presentation**
-- Highlight annual billing discounts vs. show monthly only vs. show both
-- Test different pricing points ($99 vs. $100 vs. $97)
-- Add "Most Popular" or "Recommended" badge to target plan
-- Experiment with number of visible tiers (3 vs. 4 vs. 2)
-- Use price anchoring strategically
+**Implication**: "This is costing you..."
+- Quantify the impact
+- Make status quo uncomfortable
 
-**Pricing UX**
-- Add pricing calculator for complex/usage-based pricing
-- Turn complex pricing table into guided multistep form
-- Test feature comparison table formats
-- Add toggle for monthly/annual with savings highlighted
-- Test "Contact Sales" vs. showing enterprise pricing
+**Need-Payoff**: "With [solution], you could..."
+- Show the future state
+- Demo to their specific use case
 
-**Objection Handling**
-- Add FAQ section addressing common pricing objections
-- Include ROI calculator or value demonstration
-- Add money-back guarantee prominently
-- Show price-per-user breakdowns for team plans
-- Include "What's included" clarity for each tier
+### The Executive Briefing Structure
 
-**Trust Signals**
-- Add testimonials specific to pricing/value
-- Show customer logos near pricing
-- Display review scores from G2/Capterra
+**1. Why We're Here** (30 seconds)
+- Context and objective
 
----
+**2. What We've Learned** (2 minutes)
+- Summary of their situation
+- Key findings from discovery
 
-### Demo Request Page Experiments
+**3. Our Recommendation** (5 minutes)
+- Proposed solution
+- Why this approach
+- Expected outcomes
 
-**Form Optimization**
-- Simplify demo request form (fewer fields)
-- Test multi-step form with progress bar vs. single-step
-- Test form placement: above fold vs. after content
-- Add or remove phone number field
-- Use field enrichment to hide known fields
+**4. Investment and Timeline** (2 minutes)
+- What it takes
+- What they get
+- Key milestones
 
-**Page Content**
-- Optimize demo page content with benefits above form
-- Add product video or GIF showing demo experience
-- Include "What You'll Learn" section
-- Add customer testimonials near form
-- Address common objections in FAQ
-
-**CTA & Routing**
-- Test demo button CTAs ("Book Your Demo" vs. "Schedule 15-Min Call")
-- Offer on-demand demo alongside live option
-- Personalize demo page messaging based on visitor data
-- Remove navigation to reduce distractions
-- Optimize routing: calendar link for qualified, self-serve for others
+**5. Discussion** (remaining time)
+- Questions and concerns
+- Path forward
 
 ---
 
-### Resource/Blog Page Experiments
+## Slide Types and Best Practices
 
-**Content CTAs**
-- Add floating or sticky CTAs on blog posts
-- Test inline CTAs within content vs. end-of-post only
-- Show estimated reading time
-- Add related resources at end of article
-- Test gated vs. free content strategies
+### Title Slide
 
-**Resource Section**
-- Optimize resource section navigation and filtering
-- Add search functionality
-- Highlight featured or popular resources
-- Test grid vs. list view layouts
-- Create resource bundles by topic
+**Include**:
+- Prospect's name/logo (shows preparation)
+- Meeting objective
+- Date and your company
+
+**Don't**:
+- Start with your company history
+- Feature-dump on slide one
+- Use generic "Intro to [Company]" titles
+
+### Agenda Slide
+
+**Purpose**: Set expectations, control the meeting
+
+**Best practice**:
+- 3-5 items maximum
+- End with "Discussion" or "Next Steps"
+- Time-box if appropriate
+- Ask if anything should be added
+
+### Problem/Challenge Slide
+
+**Purpose**: Establish why this conversation matters
+
+**Best practice**:
+- Use their words (from discovery)
+- Quantify impact where possible
+- Make it specific to them, not generic
+- Don't oversell the problem—be credible
+
+**Example structure**:
+```
+[Their Challenge]
+
+- [Specific pain point 1]
+- [Specific pain point 2]
+- [Impact/cost of these issues]
+
+"You mentioned this is costing you [X]..."
+```
+
+### Solution/Approach Slide
+
+**Purpose**: Show how you solve their problem
+
+**Best practice**:
+- Lead with outcome, not features
+- Use "You" language, not "We" language
+- Connect each capability to their need
+- Show, don't just tell
+
+**Example structure**:
+```
+[Outcome They Want]
+
+How we get you there:
+1. [Approach element] → [Their benefit]
+2. [Approach element] → [Their benefit]
+3. [Approach element] → [Their benefit]
+```
+
+### Demo/Product Slides
+
+**Purpose**: Show the product in action
+
+**Best practice**:
+- Use live product when possible
+- Show their use case, not generic features
+- Pause to ask "How would this work for you?"
+- Keep it focused—don't show everything
+
+### Social Proof/Case Study Slides
+
+**Purpose**: Build credibility and reduce risk
+
+**Best practice**:
+- Similar industry or use case
+- Specific, quantified results
+- Named customer if possible
+- Brief—don't belabor
+
+**Example structure**:
+```
+[Customer Logo]
+
+Challenge: [Similar to prospect's challenge]
+Solution: [How they used your product]
+Result: [Specific, quantified outcome]
+
+"Companies like [Customer] have seen [result]..."
+```
+
+### Pricing/Investment Slide
+
+**Purpose**: Present the investment clearly
+
+**Best practice**:
+- Lead with value, not price
+- Provide context (ROI, payback)
+- Clear options if multiple tiers
+- Recommend one option
+
+**Example structure**:
+```
+Your Investment
+
+Based on [scope], we recommend:
+
+[Solution Package]
+- [What's included]
+- [What's included]
+- [What's included]
+
+Investment: $[Amount]
+Expected ROI: [X]x in [timeframe]
+```
+
+### Next Steps Slide
+
+**Purpose**: Gain commitment to move forward
+
+**Best practice**:
+- Clear, specific actions
+- Assign owners and dates
+- Mutual action plan concept
+- End with clear ask
+
+**Example structure**:
+```
+Next Steps
+
+To hit your [goal] by [date]:
+
+Week 1: [Action] - [Owner]
+Week 2: [Action] - [Owner]
+Week 3: [Action] - [Owner]
+
+"Are you ready to move forward?"
+```
 
 ---
 
-## Questions to Ask the User
+## Demo Best Practices
 
-If you need more context, ask:
+### Pre-Demo Preparation
 
-1. What's your current conversion rate and goal?
-2. Where is traffic coming from?
-3. What does your signup/purchase flow look like after this page?
-4. Do you have any user research, heatmaps, or session recordings?
-5. What have you already tried?
+**Know before you show**:
+- What are their specific use cases?
+- Who will be in the demo?
+- What matters most to each person?
+- What's their current process?
+- What objections should I address?
+
+### Demo Structure
+
+**Opening (5 min)**:
+- Confirm goals for the meeting
+- Quick recap of their situation
+- Set agenda for what you'll show
+
+**Core Demo (15-25 min)**:
+- Show their top 3 use cases
+- Connect features to their needs
+- Pause for reactions and questions
+- Address concerns as they arise
+
+**Discussion (10-15 min)**:
+- "How does this compare to what you're doing today?"
+- "What questions do you have?"
+- "What concerns would prevent moving forward?"
+
+**Close (5 min)**:
+- Summarize value
+- Confirm next steps
+- Schedule follow-up
+
+### Demo Principles
+
+**Show, don't tell**:
+- "Let me show you how that works"
+- Use real scenarios
+- Let them experience it
+
+**Personalize relentlessly**:
+- Use their data if possible
+- Use their terminology
+- Reference their specific challenges
+
+**Handle the unexpected**:
+- If something breaks, don't panic
+- Have screenshots as backup
+- Turn problems into credibility ("I'll get you an answer")
+
+---
+
+## Presenting to Different Audiences
+
+### Technical Buyers
+
+**What they care about**:
+- How it works
+- Integration and implementation
+- Security and reliability
+- Technical fit
+
+**How to present**:
+- Go deeper on architecture
+- Show API docs, security specs
+- Bring technical resources
+- Let them ask detailed questions
+
+### Economic Buyers
+
+**What they care about**:
+- ROI and business case
+- Risk and timeline
+- Strategic fit
+- Competitive advantage
+
+**How to present**:
+- Lead with business outcomes
+- Quantify value and ROI
+- Address risk directly
+- Focus on strategic impact
+
+### End Users
+
+**What they care about**:
+- Day-to-day usability
+- Learning curve
+- Will this make their job easier?
+- What changes for them?
+
+**How to present**:
+- Show their actual workflows
+- Emphasize ease of use
+- Address change management
+- Get them excited, not threatened
+
+### Mixed Audiences
+
+**Challenge**: Different priorities in one room
+
+**Strategy**:
+- Acknowledge different perspectives
+- Segment the presentation
+- "For the technical team... For leadership..."
+- Balance depth with accessibility
+
+---
+
+## Handling Presentation Objections
+
+### "We're still evaluating options"
+
+**Response**:
+- Acknowledge the process
+- Ask what criteria they're using
+- Offer to help with evaluation
+- Suggest a proof of value
+
+### "Can you send the deck?"
+
+**Response**:
+- Offer a summary document instead
+- Decks without context lose impact
+- Schedule follow-up discussion
+- "Happy to walk through with anyone who couldn't join"
+
+### "We need to think about it"
+
+**Response**:
+- Understand what specifically
+- Ask what concerns remain
+- Offer additional information
+- Propose a timeline for decision
+
+### "The price is too high"
+
+**Response**:
+- Revisit the value/ROI
+- Ask what budget they had in mind
+- Explore different scope options
+- Don't discount without getting something
+
+---
+
+## Virtual Presentation Best Practices
+
+### Setup
+
+- Test technology before the meeting
+- Use quality audio (headset recommended)
+- Good lighting (face the light source)
+- Clean, professional background
+- Close unnecessary applications
+
+### Engagement
+
+- Use names frequently
+- Ask questions to check engagement
+- Use chat for reactions and questions
+- Share screen judiciously
+- Consider breakout discussions
+
+### Screen Sharing
+
+- Know what you're sharing before you share
+- Close email, Slack, notifications
+- Use presenter view for notes
+- Make text/visuals large enough
+- Don't just read slides
+
+### Keeping Attention
+
+- Shorter segments (5-7 min between interactions)
+- More visuals, less text
+- Polls and questions
+- Camera on (yours and theirs when possible)
+- Standing creates more energy
+
+---
+
+## Presentation Design Principles
+
+### Visual Hierarchy
+
+**Slide structure**:
+1. Headline (the point of the slide)
+2. Supporting visual or content
+3. Minimal additional text
+
+**Typography**:
+- One or two fonts
+- Headline: 28-40pt
+- Body: 18-24pt
+- If they can't read it from the back of a room, it's too small
+
+### Color and Imagery
+
+- Consistent color palette
+- High-contrast for readability
+- Professional imagery (no cheesy stock photos)
+- Product screenshots where relevant
+- Charts/graphs to illustrate data
+
+### Animation and Transitions
+
+- Use sparingly
+- Purposeful reveals for complex slides
+- Avoid flashy transitions
+- Simple builds keep attention
+
+### Slide Count Guidelines
+
+- Discovery: 5-10 slides
+- Demo: 5-15 slides (product does the work)
+- Proposal: 10-20 slides
+- Executive briefing: 10-15 slides
+- Less is almost always more
+
+---
+
+## Presentation Templates
+
+### Discovery Presentation
+
+```
+1. Title + Agenda
+2. About Us (brief, 1 slide)
+3. What We've Heard (pre-research)
+4. Questions for You (discussion guide)
+5. How We Typically Help
+6. Relevant Case Study
+7. Next Steps
+```
+
+### Demo Presentation
+
+```
+1. Title + Agenda
+2. Recap of Their Challenge
+3. Our Approach
+4. Live Demo (their use cases)
+5. How Others Have Succeeded
+6. Implementation Overview
+7. Investment
+8. Next Steps
+```
+
+### Proposal Presentation
+
+```
+1. Title
+2. Executive Summary
+3. Their Challenge (confirm understanding)
+4. Our Recommendation
+5. Proposed Solution Details
+6. Implementation Plan
+7. Investment and ROI
+8. Why Us
+9. Case Studies
+10. Next Steps
+```
+
+### Executive Briefing
+
+```
+1. Title + Purpose
+2. Situation Summary
+3. Key Findings
+4. Recommendation
+5. Expected Outcomes
+6. Investment Overview
+7. Risk Mitigation
+8. Proposed Timeline
+9. Decision and Next Steps
+```
+
+---
+
+## Measuring Presentation Effectiveness
+
+### Leading Indicators
+
+- Meeting attendance (who showed up?)
+- Engagement during presentation
+- Questions asked (quality and quantity)
+- Request for additional information
+- Next meeting scheduled
+
+### Lagging Indicators
+
+- Deal progression rate
+- Time in stage
+- Win rate by presentation type
+- Average deal size
+- Competitive win rate
+
+### Feedback Loop
+
+- Ask for feedback after presentations
+- Review recordings when possible
+- A/B test different approaches
+- Share learnings with the team
+
+---
+
+## Common Presentation Mistakes
+
+### Content Mistakes
+
+**Too much about you**:
+- Nobody cares about your founding story
+- Lead with them, not you
+- Earn the right to talk about yourself
+
+**Feature dumping**:
+- Not every feature is relevant
+- Connect capabilities to their needs
+- Less is more
+
+**Generic messaging**:
+- "Best in class" means nothing
+- Be specific to their situation
+- Customization shows you care
+
+### Delivery Mistakes
+
+**Reading slides**:
+- Slides support, not replace you
+- Know your content
+- Talk to them, not the screen
+
+**No interaction**:
+- Monologues lose attention
+- Check in regularly
+- Make it a conversation
+
+**Running over time**:
+- Respect their schedule
+- Build in buffer
+- Know what to cut
+
+### Strategic Mistakes
+
+**No clear ask**:
+- Know what you want
+- End with next steps
+- Be explicit about the ask
+
+**Wrong audience depth**:
+- Executives don't want technical deep-dives
+- Technical buyers want details
+- Know your audience
+
+**Not addressing objections**:
+- Don't ignore the elephant
+- Address concerns proactively
+- Earn trust through transparency
+
+---
+
+## Questions to Ask
+
+If you need more context:
+1. What type of presentation is this?
+2. Who will be in the audience?
+3. Where are they in the buying process?
+4. What's your desired outcome from this meeting?
+5. What objections or concerns do you anticipate?
+6. What do you know about them from previous conversations?
 
 ---
 
 ## Related Skills
 
-- **signup-flow-cro**: If the issue is in the signup process itself, not the page leading to it
-- **form-cro**: If forms on the page need optimization
-- **popup-cro**: If considering popups as part of the conversion strategy
-- **copywriting**: If the page needs a complete copy rewrite rather than CRO tweaks
-- **ab-test-setup**: To properly test recommended changes
+- **discovery-calls**: For gathering information before presenting
+- **objection-handling**: For addressing concerns during presentations
+- **competitive-selling**: For positioning against alternatives
+- **proposal-writing**: For written proposals alongside presentations
+- **business-reviews**: For customer review presentations

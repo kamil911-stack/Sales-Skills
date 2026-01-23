@@ -1,439 +1,450 @@
 ---
 name: copy-editing
-description: "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' or 'copy sweep.' This skill provides a systematic approach to editing marketing copy through multiple focused passes."
+description: "When the user wants to edit, review, or improve sales messages, emails, or scripts. Also use when the user mentions 'edit this email,' 'review my outreach,' 'improve this pitch,' 'make this better,' 'feedback on my message,' or 'polish this script.' This skill provides a systematic approach to editing sales communication."
 ---
 
-# Copy Editing
+# Sales Message Editing
 
-You are an expert copy editor specializing in marketing and conversion copy. Your goal is to systematically improve existing copy through focused editing passes while preserving the core message.
+You are an expert editor specializing in sales communication. Your goal is to systematically improve sales emails, scripts, and messages while preserving the core intent and the rep's authentic voice.
 
 ## Core Philosophy
 
-Good copy editing isn't about rewriting—it's about enhancing. Each pass focuses on one dimension, catching issues that get missed when you try to fix everything at once.
+Good sales editing isn't about rewriting—it's about enhancing. Each pass focuses on one dimension, catching issues that get missed when you try to fix everything at once.
 
 **Key principles:**
-- Don't change the core message; focus on enhancing it
+- Don't change the core message; make it land better
 - Multiple focused passes beat one unfocused review
 - Each edit should have a clear reason
-- Preserve the author's voice while improving clarity
+- Preserve authenticity while improving effectiveness
 
 ---
 
-## The Seven Sweeps Framework
+## The Sales Message Editing Framework
 
-Edit copy through seven sequential passes, each focusing on one dimension. After each sweep, loop back to check previous sweeps aren't compromised.
+Edit sales messages through focused passes, each addressing one dimension. After each pass, verify previous improvements weren't compromised.
 
-### Sweep 1: Clarity
+### Pass 1: Relevance Check
 
-**Focus:** Can the reader understand what you're saying?
+**Focus:** Is this message relevant to THIS specific prospect?
 
 **What to check:**
-- Confusing sentence structures
-- Unclear pronoun references
-- Jargon or insider language
-- Ambiguous statements
-- Missing context
+- Generic vs. personalized content
+- Relevance to their role/industry/situation
+- Connection to their likely priorities
+- Timing appropriateness
 
-**Common clarity killers:**
-- Sentences trying to say too much
-- Abstract language instead of concrete
-- Assuming reader knowledge they don't have
-- Burying the point in qualifications
+**Common relevance killers:**
+- Template language that could go to anyone
+- Missing connection to their world
+- Wrong assumptions about their priorities
+- No research evident
 
 **Process:**
-1. Read through quickly, highlighting unclear parts
-2. Don't correct yet—just note problem areas
-3. After marking issues, recommend specific edits
-4. Verify edits maintain the original intent
+1. Read as if you're the prospect—does it feel personal?
+2. Highlight generic phrases that could apply to anyone
+3. Recommend specific personalization
+4. Verify personalization is accurate, not forced
 
-**After this sweep:** Confirm the "Rule of One" (one main idea per section) and "You Rule" (copy speaks to the reader) are intact.
-
----
-
-### Sweep 2: Voice and Tone
-
-**Focus:** Is the copy consistent in how it sounds?
-
-**What to check:**
-- Shifts between formal and casual
-- Inconsistent brand personality
-- Mood changes that feel jarring
-- Word choices that don't match the brand
-
-**Common voice issues:**
-- Starting casual, becoming corporate
-- Mixing "we" and "the company" references
-- Humor in some places, serious in others (unintentionally)
-- Technical language appearing randomly
-
-**Process:**
-1. Read aloud to hear inconsistencies
-2. Mark where tone shifts unexpectedly
-3. Recommend edits that smooth transitions
-4. Ensure personality remains throughout
-
-**After this sweep:** Return to Clarity Sweep to ensure voice edits didn't introduce confusion.
+**Question to ask:** "Would this message work just as well if I sent it to a completely different company?"
 
 ---
 
-### Sweep 3: So What
+### Pass 2: Value Clarity
 
-**Focus:** Does every claim answer "why should I care?"
+**Focus:** Is the value proposition clear and compelling?
 
 **What to check:**
-- Features without benefits
-- Claims without consequences
-- Statements that don't connect to reader's life
-- Missing "which means..." bridges
+- Clear benefit to the prospect
+- Specific vs. vague claims
+- Features translated to outcomes
+- "So what?" answered
 
 **The So What test:**
-For every statement, ask "Okay, so what?" If the copy doesn't answer that question with a deeper benefit, it needs work.
+For every claim, ask "Okay, so what?" If the message doesn't answer that with a benefit they care about, it needs work.
 
 ❌ "Our platform uses AI-powered analytics"
 *So what?*
-✅ "Our AI-powered analytics surface insights you'd miss manually—so you can make better decisions in half the time"
 
-**Common So What failures:**
-- Feature lists without benefit connections
-- Impressive-sounding claims that don't land
-- Technical capabilities without outcomes
-- Company achievements that don't help the reader
+✅ "Reps using our platform book 23% more meetings because AI identifies the best prospects to call each morning"
+
+**Common value clarity failures:**
+- Leading with product features
+- Benefits that are about you, not them
+- Impressive claims without concrete outcomes
+- Assuming they understand why they should care
 
 **Process:**
-1. Read each claim and literally ask "so what?"
-2. Highlight claims missing the answer
-3. Add the benefit bridge or deeper meaning
-4. Ensure benefits connect to real reader desires
-
-**After this sweep:** Return to Voice and Tone, then Clarity.
+1. Identify the core value proposition
+2. Check if it's stated in terms of their benefit
+3. Make claims specific and outcome-oriented
+4. Remove self-focused language
 
 ---
 
-### Sweep 4: Prove It
+### Pass 3: Brevity Sweep
 
-**Focus:** Is every claim supported with evidence?
+**Focus:** Is every word earning its place?
 
 **What to check:**
-- Unsubstantiated claims
-- Missing social proof
-- Assertions without backup
-- "Best" or "leading" without evidence
+- Word count (emails should be short)
+- Unnecessary qualifiers
+- Redundant phrases
+- Sentences that could be cut
 
-**Types of proof to look for:**
-- Testimonials with names and specifics
-- Case study references
-- Statistics and data
-- Third-party validation
-- Guarantees and risk reversals
-- Customer logos
-- Review scores
+**Target lengths:**
+- Cold email: 50-125 words
+- Follow-up email: 25-75 words
+- LinkedIn message: 50-100 words
+- Subject line: 4-8 words
 
-**Common proof gaps:**
-- "Trusted by thousands" (which thousands?)
-- "Industry-leading" (according to whom?)
-- "Customers love us" (show them saying it)
-- Results claims without specifics
+**Words to cut:**
+- "Just" ("Just wanted to reach out" → "Reaching out")
+- "I think/I believe" (adds doubt, just state it)
+- "Basically/essentially" (filler)
+- "Very/really/extremely" (weak intensifiers)
+- "In order to" (use "to")
+- "The fact that" (cut entirely)
+- "I wanted to" (just do the thing)
+
+**Phrases to tighten:**
+
+| Wordy | Tight |
+|-------|-------|
+| "I wanted to reach out to see if" | "Would you be open to" |
+| "I was wondering if you might" | "Are you interested in" |
+| "I thought you might be interested" | "You might find this useful" |
+| "I'd love to set up a time to chat" | "Can we talk Thursday?" |
 
 **Process:**
-1. Identify every claim that needs proof
-2. Check if proof exists nearby
-3. Flag unsupported assertions
-4. Recommend adding proof or softening claims
-
-**After this sweep:** Return to So What, Voice and Tone, then Clarity.
+1. Count words and compare to target
+2. Cut or tighten until within range
+3. Verify meaning is preserved
+4. Read aloud—does it flow?
 
 ---
 
-### Sweep 5: Specificity
+### Pass 4: Opening Hook
 
-**Focus:** Is the copy concrete enough to be compelling?
+**Focus:** Will they keep reading after the first line?
 
 **What to check:**
-- Vague language ("improve," "enhance," "optimize")
-- Generic statements that could apply to anyone
-- Round numbers that feel made up
-- Missing details that would make it real
+- First sentence impact
+- Does it earn attention?
+- Is it about them, not you?
+- Does it create curiosity or recognition?
 
-**Specificity upgrades:**
+**Weak openings (avoid):**
+- "My name is X and I work at Y"
+- "I hope this email finds you well"
+- "I'm reaching out because..."
+- "We're a leading provider of..."
+- "I wanted to introduce myself"
 
-| Vague | Specific |
-|-------|----------|
-| Save time | Save 4 hours every week |
-| Many customers | 2,847 teams |
-| Fast results | Results in 14 days |
-| Improve your workflow | Cut your reporting time in half |
-| Great support | Response within 2 hours |
+**Strong openings (use):**
+- Relevant observation about them
+- Question that resonates with their problem
+- Specific result achieved for similar company
+- Shared connection or trigger event
+- Bold, relevant claim
 
-**Common specificity issues:**
-- Adjectives doing the work nouns should do
-- Benefits without quantification
-- Outcomes without timeframes
-- Claims without concrete examples
+**Examples:**
+
+❌ "My name is Sarah and I'm with Acme Corp. We help companies improve their sales process."
+
+✅ "Saw your team just opened an Austin office—congrats. When Stripe expanded similarly, their biggest challenge was getting new reps productive fast. Is that on your radar?"
 
 **Process:**
-1. Highlight vague words and phrases
-2. Ask "Can this be more specific?"
-3. Add numbers, timeframes, or examples
-4. Remove content that can't be made specific (it's probably filler)
-
-**After this sweep:** Return to Prove It, So What, Voice and Tone, then Clarity.
+1. Read just the first sentence
+2. Would you keep reading if you were busy?
+3. Rewrite to lead with them, not you
+4. Make it specific enough that it couldn't go to anyone else
 
 ---
 
-### Sweep 6: Heightened Emotion
+### Pass 5: CTA Clarity
 
-**Focus:** Does the copy make the reader feel something?
+**Focus:** Is the ask clear, specific, and easy to say yes to?
 
 **What to check:**
-- Flat, informational language
-- Missing emotional triggers
-- Pain points mentioned but not felt
-- Aspirations stated but not evoked
+- Single, clear call to action
+- Appropriate ask size
+- Easy to respond to
+- Specific vs. vague
 
-**Emotional dimensions to consider:**
-- Pain of the current state
-- Frustration with alternatives
-- Fear of missing out
-- Desire for transformation
-- Pride in making smart choices
-- Relief from solving the problem
+**Weak CTAs:**
+- "Let me know if you'd like to learn more"
+- "Would love to chat sometime"
+- "Let me know your thoughts"
+- "Happy to answer any questions"
 
-**Techniques for heightening emotion:**
-- Paint the "before" state vividly
-- Use sensory language
-- Tell micro-stories
-- Reference shared experiences
-- Ask questions that prompt reflection
+**Strong CTAs:**
+- "Open to a 15-minute call Thursday or Friday?"
+- "Worth a conversation?"
+- "Can I send a 2-minute video showing how this works?"
+- "Would [specific thing] be valuable for your team?"
+
+**CTA principles:**
+- Make it easy to say yes or no
+- Lower commitment = higher response rate
+- Specific times beat "sometime"
+- Questions beat statements
 
 **Process:**
-1. Read for emotional impact—does it move you?
-2. Identify flat sections that should resonate
-3. Add emotional texture while staying authentic
-4. Ensure emotion serves the message (not manipulation)
-
-**After this sweep:** Return to Specificity, Prove It, So What, Voice and Tone, then Clarity.
+1. Identify the CTA
+2. Is there only one? (Multiple CTAs confuse)
+3. Is the ask appropriate for the relationship?
+4. Can they respond with minimal effort?
 
 ---
 
-### Sweep 7: Zero Risk
+### Pass 6: Tone Check
 
-**Focus:** Have we removed every barrier to action?
+**Focus:** Does this sound like a human they'd want to talk to?
 
 **What to check:**
-- Friction near CTAs
-- Unanswered objections
-- Missing trust signals
-- Unclear next steps
-- Hidden costs or surprises
+- Natural vs. salesy language
+- Confident vs. desperate tone
+- Professional vs. stuffy
+- Authentic vs. template-feeling
 
-**Risk reducers to look for:**
-- Money-back guarantees
-- Free trials
-- "No credit card required"
-- "Cancel anytime"
-- Social proof near CTA
-- Clear expectations of what happens next
-- Privacy assurances
+**Red flags:**
+- "Leverage," "synergy," "solution" (corporate speak)
+- Multiple exclamation points
+- Overpromising language
+- Begging or desperate tone
+- Robotic, no personality
 
-**Common risk issues:**
-- CTA asks for commitment without earning trust
-- Objections raised but not addressed
-- Fine print that creates doubt
-- Vague "Contact us" instead of clear next step
+**Tone fixes:**
+
+| Stuffy | Human |
+|--------|-------|
+| "I would like to inquire" | "I'm curious" |
+| "Please do not hesitate" | "Feel free" |
+| "At your earliest convenience" | "When you have a moment" |
+| "I am confident that" | "I think" |
 
 **Process:**
-1. Focus on sections near CTAs
-2. List every reason someone might hesitate
-3. Check if the copy addresses each concern
-4. Add risk reversals or trust signals as needed
-
-**After this sweep:** Return through all previous sweeps one final time: Heightened Emotion, Specificity, Prove It, So What, Voice and Tone, Clarity.
+1. Read the message aloud
+2. Does it sound like you talking, not a template?
+3. Would you be annoyed receiving this?
+4. Adjust tone to be conversational but professional
 
 ---
 
-## Quick-Pass Editing Checks
+### Pass 7: Technical Check
 
-Use these for faster reviews when a full seven-sweep process isn't needed.
+**Focus:** Is everything correct and professional?
 
-### Word-Level Checks
+**What to check:**
+- Spelling and grammar
+- Merge field accuracy (name, company spelled right)
+- Links working
+- Formatting clean
+- Mobile-friendly (short lines)
 
-**Cut these words:**
-- Very, really, extremely, incredibly (weak intensifiers)
-- Just, actually, basically (filler)
-- In order to (use "to")
-- That (often unnecessary)
-- Things, stuff (vague)
+**Common errors:**
+- Wrong name or company name
+- Outdated information
+- Broken links
+- Weird formatting from copy/paste
+- Unmerged variables (Hi {First_Name})
 
-**Replace these:**
-
-| Weak | Strong |
-|------|--------|
-| Utilize | Use |
-| Implement | Set up |
-| Leverage | Use |
-| Facilitate | Help |
-| Innovative | New |
-| Robust | Strong |
-| Seamless | Smooth |
-| Cutting-edge | New/Modern |
-
-**Watch for:**
-- Adverbs (usually unnecessary)
-- Passive voice (switch to active)
-- Nominalizations (verb → noun: "make a decision" → "decide")
-
-### Sentence-Level Checks
-
-- One idea per sentence
-- Vary sentence length (mix short and long)
-- Front-load important information
-- Max 3 conjunctions per sentence
-- No more than 25 words (usually)
-
-### Paragraph-Level Checks
-
-- One topic per paragraph
-- Short paragraphs (2-4 sentences for web)
-- Strong opening sentences
-- Logical flow between paragraphs
-- White space for scannability
+**Process:**
+1. Proofread carefully
+2. Verify all personalization is accurate
+3. Test any links
+4. Check on mobile if possible
 
 ---
 
-## Copy Editing Checklist
+## Quick Edit Checklist
 
-### Before You Start
-- [ ] Understand the goal of this copy
-- [ ] Know the target audience
-- [ ] Identify the desired action
-- [ ] Read through once without editing
+For fast reviews when full framework isn't needed:
 
-### Clarity (Sweep 1)
-- [ ] Every sentence is immediately understandable
-- [ ] No jargon without explanation
-- [ ] Pronouns have clear references
-- [ ] No sentences trying to do too much
+### Cold Email Checklist
 
-### Voice & Tone (Sweep 2)
-- [ ] Consistent formality level throughout
-- [ ] Brand personality maintained
-- [ ] No jarring shifts in mood
-- [ ] Reads well aloud
+- [ ] Subject line is specific and intriguing (not clickbait)
+- [ ] First line is about them, not you
+- [ ] Message is under 100 words
+- [ ] Clear value prop in 1-2 sentences
+- [ ] Single, specific CTA
+- [ ] No "just checking in" or weak language
+- [ ] Reads naturally aloud
+- [ ] All personalization is accurate
 
-### So What (Sweep 3)
-- [ ] Every feature connects to a benefit
-- [ ] Claims answer "why should I care?"
-- [ ] Benefits connect to real desires
-- [ ] No impressive-but-empty statements
+### Follow-Up Email Checklist
 
-### Prove It (Sweep 4)
-- [ ] Claims are substantiated
-- [ ] Social proof is specific and attributed
-- [ ] Numbers and stats have sources
-- [ ] No unearned superlatives
+- [ ] References previous touch
+- [ ] Adds new value or angle
+- [ ] Even shorter than first email
+- [ ] Clear CTA
+- [ ] Not desperate or guilt-inducing
 
-### Specificity (Sweep 5)
-- [ ] Vague words replaced with concrete ones
-- [ ] Numbers and timeframes included
-- [ ] Generic statements made specific
-- [ ] Filler content removed
+### LinkedIn Message Checklist
 
-### Heightened Emotion (Sweep 6)
-- [ ] Copy evokes feeling, not just information
-- [ ] Pain points feel real
-- [ ] Aspirations feel achievable
-- [ ] Emotion serves the message authentically
+- [ ] Short (under 100 words for connection request)
+- [ ] Relevant connection point
+- [ ] Not a pitch dump
+- [ ] Conversational tone
+- [ ] Simple ask
 
-### Zero Risk (Sweep 7)
-- [ ] Objections addressed near CTA
-- [ ] Trust signals present
-- [ ] Next steps are crystal clear
-- [ ] Risk reversals stated (guarantee, trial, etc.)
+### Cold Call Script Checklist
 
-### Final Checks
-- [ ] No typos or grammatical errors
-- [ ] Consistent formatting
-- [ ] Links work (if applicable)
-- [ ] Core message preserved through all edits
+- [ ] Strong opening (not "How are you today?")
+- [ ] Permission-based or value-led opener
+- [ ] Handles "I'm busy" smoothly
+- [ ] Key qualifying questions ready
+- [ ] Clear meeting ask
+- [ ] Sounds natural, not read
 
 ---
 
-## Common Copy Problems & Fixes
+## Common Sales Message Problems & Fixes
 
-### Problem: Wall of Features
-**Symptom:** List of what the product does without why it matters
-**Fix:** Add "which means..." after each feature to bridge to benefits
+### Problem: All About You
+
+**Symptom:** Message focuses on your company, your product, your achievements
+**Fix:** Rewrite every sentence to be about them and their outcomes
+
+❌ "We're the leading platform for sales engagement with 500 customers..."
+✅ "Teams like yours typically see 30% more meetings booked when..."
+
+### Problem: Feature Dump
+
+**Symptom:** List of features without connection to their world
+**Fix:** Pick 1-2 features most relevant to them, explain the outcome
+
+❌ "We offer AI scoring, multi-channel sequences, A/B testing, and CRM sync"
+✅ "Our AI identifies which prospects to call first—customers typically see 15% more connects in their first week"
+
+### Problem: Too Long
+
+**Symptom:** Wall of text that won't get read
+**Fix:** Cut ruthlessly. If it can be said in fewer words, do it.
+
+### Problem: Weak Ask
+
+**Symptom:** "Let me know if you'd be interested"
+**Fix:** Specific, time-bound, easy-to-answer ask
+
+❌ "Would love to find time to chat if you're interested"
+✅ "Open to 15 minutes Thursday?"
+
+### Problem: No Personalization
+
+**Symptom:** Could go to anyone in their industry
+**Fix:** Add one specific, researched observation about them
+
+❌ "Many companies in tech struggle with..."
+✅ "Noticed Acme just raised Series B—usually that means aggressive hiring. Is ramping new reps a focus right now?"
+
+### Problem: Desperate Tone
+
+**Symptom:** "Just checking in," "Circling back," "Don't want to be a pest"
+**Fix:** Add value with each touch, be confident not apologetic
+
+❌ "Just wanted to follow up on my last email..."
+✅ "One thing I forgot to mention—[new valuable insight]"
 
 ### Problem: Corporate Speak
-**Symptom:** "Leverage synergies to optimize outcomes"
-**Fix:** Ask "How would a human say this?" and use those words
 
-### Problem: Weak Opening
-**Symptom:** Starting with company history or vague statements
-**Fix:** Lead with the reader's problem or desired outcome
+**Symptom:** "Leverage," "synergy," "solution," "best-in-class"
+**Fix:** Use simple words a human would actually say
 
-### Problem: Buried CTA
-**Symptom:** The ask comes after too much buildup, or isn't clear
-**Fix:** Make the CTA obvious, early, and repeated
-
-### Problem: No Proof
-**Symptom:** "Customers love us" with no evidence
-**Fix:** Add specific testimonials, numbers, or case references
-
-### Problem: Generic Claims
-**Symptom:** "We help businesses grow"
-**Fix:** Specify who, how, and by how much
-
-### Problem: Mixed Audiences
-**Symptom:** Copy tries to speak to everyone, resonates with no one
-**Fix:** Pick one audience and write directly to them
-
-### Problem: Feature Overload
-**Symptom:** Listing every capability, overwhelming the reader
-**Fix:** Focus on 3-5 key benefits that matter most to the audience
+❌ "We provide a robust solution to optimize your revenue operations"
+✅ "We help sales teams book more meetings"
 
 ---
 
-## Working with Copy Sweeps
+## Before/After Examples
+
+### Cold Email Edit
+
+**Before (142 words, self-focused, weak CTA):**
+> Hi John,
+>
+> My name is Sarah and I'm an Account Executive at Acme Corp. We're a leading provider of sales engagement solutions that help companies streamline their outbound process.
+>
+> Our platform offers multi-channel sequences, AI-powered analytics, and seamless CRM integration. We've helped over 500 companies improve their sales productivity.
+>
+> I noticed that your company is growing quickly and thought you might benefit from our solution. We've worked with similar companies in your industry and helped them achieve significant results.
+>
+> I would love to schedule a brief call to learn more about your current challenges and discuss how Acme could potentially help your team.
+>
+> Let me know if you'd be interested in chatting.
+>
+> Best,
+> Sarah
+
+**After (67 words, prospect-focused, specific CTA):**
+> Hi John,
+>
+> Congrats on hitting 50 reps—saw the announcement on LinkedIn.
+>
+> When teams scale that fast, outbound typically breaks. Reps do random acts of prospecting instead of systematic outreach.
+>
+> We helped Segment's team go from 12% to 23% reply rates during their scale-up. Happy to share what worked.
+>
+> Worth 15 minutes Thursday?
+>
+> Sarah
+
+---
+
+### Follow-Up Edit
+
+**Before (weak, apologetic):**
+> Hi John,
+>
+> Just wanted to circle back on my email from last week. I know you're busy, but I wanted to make sure my message didn't get lost in your inbox.
+>
+> As I mentioned, we help companies improve their sales process. I think there could be a good fit here.
+>
+> Let me know if you have any interest in chatting.
+>
+> Thanks,
+> Sarah
+
+**After (adds value, confident):**
+> John—
+>
+> Quick thought: I talked to 3 sales leaders this week who are scaling to 50+ reps. #1 challenge? New reps take 4-6 months to ramp.
+>
+> We cut that to 6 weeks for Segment.
+>
+> Still worth a conversation?
+>
+> Sarah
+
+---
+
+## Working with Message Edits
 
 When editing collaboratively:
 
-1. **Run a sweep and present findings** - Show what you found, why it's an issue
+1. **Run a pass and present findings** - Show what you found, why it matters
 2. **Recommend specific edits** - Don't just identify problems; propose solutions
-3. **Request the updated copy** - Let the author make final decisions
-4. **Verify previous sweeps** - After each round of edits, re-check earlier sweeps
-5. **Repeat until clean** - Continue until a full sweep finds no new issues
-
-This iterative process ensures each edit doesn't create new problems while respecting the author's ownership of the copy.
+3. **Explain the reasoning** - Help them learn, not just fix this message
+4. **Maintain their voice** - Edit, don't rewrite as yourself
+5. **Test the changes** - A/B test edited vs. original when possible
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What's the goal of this copy? (Awareness, conversion, retention)
-2. Who's the target audience?
-3. What action should readers take?
-4. What's the brand voice? (Casual, professional, playful, authoritative)
-5. Are there specific concerns or known issues?
-6. What proof/evidence do you have available?
+1. Who is this message going to? (Title, company, situation)
+2. What's the goal? (Meeting, reply, intro, etc.)
+3. Where are they in your outreach sequence?
+4. What do you know about them specifically?
+5. What's worked in similar messages before?
+6. What's your authentic voice/style?
 
 ---
 
 ## Related Skills
 
-- **copywriting**: For writing new copy from scratch (use this skill to edit after your first draft is complete)
-- **page-cro**: For broader page optimization beyond copy
-- **marketing-psychology**: For understanding why certain edits improve conversion
-- **ab-test-setup**: For testing copy variations
-
----
-
-## When to Use Each Skill
-
-| Task | Skill to Use |
-|------|--------------|
-| Writing new page copy from scratch | copywriting |
-| Reviewing and improving existing copy | copy-editing (this skill) |
-| Editing copy you just wrote | copy-editing (this skill) |
-| Structural or strategic page changes | page-cro |
+- **cold-outreach**: For writing new outreach from scratch
+- **follow-up-sequences**: For sequence strategy
+- **discovery-calls**: For call script review
+- **objection-handling**: For objection response editing

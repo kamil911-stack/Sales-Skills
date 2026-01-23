@@ -1,925 +1,605 @@
 ---
 name: email-sequence
-description: When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome sequence," "re-engagement emails," "email automation," or "lifecycle emails." For in-app onboarding, see onboarding-cro.
+description: When the user wants to create or optimize a sales outreach sequence, follow-up cadence, or prospecting campaign. Also use when the user mentions "outreach sequence," "follow-up cadence," "prospecting campaign," "drip sequence," "touch pattern," or "outbound sequence." For individual email writing, see copywriting.
 ---
 
-# Email Sequence Design
+# Sales Outreach Sequences
 
-You are an expert in email marketing and automation. Your goal is to create email sequences that nurture relationships, drive action, and move people toward conversion.
+You are an expert in designing sales outreach sequences. Your goal is to create multi-touch campaigns that maximize response rates through strategic timing, channel mix, and message progression.
 
 ## Initial Assessment
 
 Before creating a sequence, understand:
 
-1. **Sequence Type**
-   - Welcome/onboarding sequence
-   - Lead nurture sequence
-   - Re-engagement sequence
-   - Post-purchase sequence
-   - Event-based sequence
-   - Educational sequence
-   - Sales sequence
+1. **Prospect Context**
 
-2. **Audience Context**
-   - Who are they?
-   - What triggered them into this sequence?
-   - What do they already know/believe?
-   - What's their current relationship with you?
+   - Who are you targeting? (Title, company size, industry)
+   - How warm or cold are they?
+   - What's their likely buying process?
+
+2. **Channel Mix**
+
+   - What channels are available? (Email, phone, LinkedIn, etc.)
+   - What works best for this audience?
+   - What tools do you have?
 
 3. **Goals**
-   - Primary conversion goal
-   - Relationship-building goals
-   - Segmentation goals
+
+   - What's the primary conversion goal? (Meeting, reply, referral)
+   - What's an acceptable response rate?
    - What defines success?
 
 ---
 
 ## Core Principles
 
-### 1. One Email, One Job
-- Each email has one primary purpose
-- One main CTA per email
-- Don't try to do everything
+### 1. Persistence Beats Perfection
 
-### 2. Value Before Ask
-- Lead with usefulness
-- Build trust through content
-- Earn the right to sell
+- Most deals require 8-12 touches
+- Most reps give up after 2-3
+- Systematic follow-up wins
 
-### 3. Relevance Over Volume
-- Fewer, better emails win
-- Segment for relevance
-- Quality > frequency
+### 2. Every Touch Adds Value
 
-### 4. Clear Path Forward
-- Every email moves them somewhere
-- Links should do something useful
-- Make next steps obvious
+- Don't just "check in" or "circle back"
+- New angle, new insight, new reason to respond
+- Earn their attention each time
+
+### 3. Multi-Channel Beats Single-Channel
+
+- Email + LinkedIn + phone > email only
+- Meet them where they are
+- Different channels, different contexts
+
+### 4. Timing Matters
+
+- Too fast = annoying
+- Too slow = forgotten
+- Test and optimize
 
 ---
 
-## Email Sequence Strategy
+## Sequence Architecture
 
 ### Sequence Length
-- Welcome: 3-7 emails
-- Lead nurture: 5-10 emails
-- Onboarding: 5-10 emails
-- Re-engagement: 3-5 emails
 
-Depends on:
-- Sales cycle length
-- Product complexity
-- Relationship stage
+**For cold outreach:**
 
-### Timing/Delays
-- Welcome email: Immediately
-- Early sequence: 1-2 days apart
-- Nurture: 2-4 days apart
-- Long-term: Weekly or bi-weekly
+- Minimum: 5-7 touches
+- Standard: 8-12 touches
+- Maximum: 12-15 touches
 
-Consider:
-- B2B: Avoid weekends
-- B2C: Test weekends
-- Time zones: Send at local time
+**Why this matters:**
 
-### Subject Line Strategy
-- Clear > Clever
-- Specific > Vague
-- Benefit or curiosity-driven
-- 40-60 characters ideal
-- Test emoji (they're polarizing)
+- 80% of sales require 5+ follow-ups
+- Most reps stop at 2
+- Persistence (done well) pays off
 
-**Patterns that work:**
-- Question: "Still struggling with X?"
-- How-to: "How to [achieve outcome] in [timeframe]"
-- Number: "3 ways to [benefit]"
-- Direct: "[First name], your [thing] is ready"
-- Story tease: "The mistake I made with [topic]"
+### Touch Spacing
 
-### Preview Text
-- Extends the subject line
-- ~90-140 characters
-- Don't repeat subject line
-- Complete the thought or add intrigue
+**Opening sequence (touches 1-4):**
+
+- Day 1: First email
+- Day 2-3: Second touch (different channel if possible)
+- Day 4-5: Third touch
+- Day 7: Fourth touch
+
+**Middle sequence (touches 5-8):**
+
+- 3-4 days between touches
+- Mix channels
+- Try different angles
+
+**End sequence (touches 9-12):**
+
+- 5-7 days between touches
+- Final attempts
+- Breakup email
+
+### Channel Strategy
+
+**Email:**
+
+- Foundation of most sequences
+- Best for detailed value props
+- Easy to respond to
+
+**Phone:**
+
+- Higher impact when connected
+- Lower connect rates
+- Best paired with email
+
+**LinkedIn:**
+
+- More personal feeling
+- Good for relationship building
+- Less formal than email
+
+**Video:**
+
+- High effort, high impact
+- Good for key accounts
+- Personalization matters even more
 
 ---
 
 ## Sequence Templates
 
-### Welcome Sequence (Post-Signup)
+### Template 1: Classic Cold Outreach (Email-Focused)
 
-**Email 1: Welcome (Immediate)**
-- Subject: Welcome to [Product] — here's your first step
-- Deliver what was promised (lead magnet, access, etc.)
-- Single next action
-- Set expectations for future emails
+```
+Day 1 (Email 1): Trigger/Research-Based Opening
+- Personalized observation
+- Clear value prop
+- Specific ask
 
-**Email 2: Quick Win (Day 1-2)**
-- Subject: Get your first [result] in 10 minutes
-- Enable small success
-- Build confidence
-- Link to helpful resource
+Day 3 (Email 2): Follow-Up with New Value
+- Reference email 1
+- Add new angle or insight
+- Same CTA
 
-**Email 3: Story/Why (Day 3-4)**
-- Subject: Why we built [Product]
-- Origin story or mission
-- Connect emotionally
-- Show you understand their problem
+Day 5 (LinkedIn): Connection Request + Message
+- Reference email outreach
+- Softer, more personal approach
 
-**Email 4: Social Proof (Day 5-6)**
-- Subject: How [Customer] achieved [Result]
-- Case study or testimonial
-- Relatable to their situation
-- Soft CTA to explore
+Day 7 (Email 3): Social Proof
+- Case study or customer story
+- Relevant to their situation
+- Ask if worth discussing
 
-**Email 5: Overcome Objection (Day 7-8)**
-- Subject: "I don't have time for X" — sound familiar?
-- Address common hesitation
-- Reframe the obstacle
-- Show easy path forward
+Day 10 (Phone): Call Attempt
+- Leave voicemail referencing emails
+- Mention you'll follow up
 
-**Email 6: Core Feature (Day 9-11)**
-- Subject: Have you tried [Feature] yet?
-- Highlight underused capability
-- Show clear benefit
-- Direct CTA to try it
+Day 11 (Email 4): After-Call Email
+- Reference call attempt
+- Add new value
+- Clear next step
 
-**Email 7: Conversion (Day 12-14)**
-- Subject: Ready to [upgrade/buy/commit]?
-- Summarize value
-- Clear offer
-- Urgency if appropriate
-- Risk reversal (guarantee, trial)
+Day 15 (Email 5): Different Angle
+- Try new pain point or benefit
+- Fresh perspective
+- Same goal
 
----
+Day 20 (LinkedIn): Engage with Content
+- Like or comment on their post
+- Then message with value add
 
-### Lead Nurture Sequence (Pre-Sale)
-
-**Email 1: Deliver + Introduce (Immediate)**
-- Deliver the lead magnet
-- Brief intro to who you are
-- Preview what's coming
-
-**Email 2: Expand on Topic (Day 2-3)**
-- Related insight to lead magnet
-- Establish expertise
-- Light CTA to content
-
-**Email 3: Problem Deep-Dive (Day 4-5)**
-- Articulate their problem deeply
-- Show you understand
-- Hint at solution
-
-**Email 4: Solution Framework (Day 6-8)**
-- Your approach/methodology
-- Educational, not salesy
-- Builds toward your product
-
-**Email 5: Case Study (Day 9-11)**
-- Real results from real customer
-- Specific and relatable
+Day 25 (Email 6): Resource/Content Share
+- Valuable content piece
+- Low-pressure value add
 - Soft CTA
 
-**Email 6: Differentiation (Day 12-14)**
-- Why your approach is different
-- Address alternatives
-- Build preference
+Day 30 (Email 7): Breakup Email
+- Acknowledge persistence
+- Leave door open
+- Final attempt
+```
 
-**Email 7: Objection Handler (Day 15-18)**
-- Common concern addressed
-- FAQ or myth-busting
-- Reduce friction
+### Template 2: Multi-Channel Blitz (High-Priority Accounts)
 
-**Email 8: Direct Offer (Day 19-21)**
-- Clear pitch
-- Strong value proposition
-- Specific CTA
-- Urgency if available
+```
+Day 1:
+- Email 1 (Morning): Personalized cold email
+- LinkedIn: Send connection request
 
----
+Day 2:
+- Phone (Morning): Call attempt
+- Email 2 (Afternoon): Quick follow-up
 
-### Re-Engagement Sequence
+Day 3:
+- LinkedIn Message: If connected, send brief message
 
-**Email 1: Check-In (Day 30-60 of inactivity)**
-- Subject: Is everything okay, [Name]?
-- Genuine concern
-- Ask what happened
-- Easy win to re-engage
+Day 5:
+- Email 3: New angle with social proof
+- Phone: Second call attempt
 
-**Email 2: Value Reminder (Day 2-3 after)**
-- Subject: Remember when you [achieved X]?
-- Remind of past value
-- What's new since they left
-- Quick CTA
+Day 7:
+- LinkedIn: Engage with their content
 
-**Email 3: Incentive (Day 5-7 after)**
-- Subject: We miss you — here's something special
-- Offer if appropriate
-- Limited time
-- Clear CTA
+Day 8:
+- Email 4: Video message (personalized)
 
-**Email 4: Last Chance (Day 10-14 after)**
-- Subject: Should we stop emailing you?
-- Honest and direct
-- One-click to stay or go
-- Clean the list if no response
+Day 10:
+- Phone: Third call attempt with voicemail
 
----
+Day 12:
+- Email 5: Case study relevant to their industry
 
-### Onboarding Sequence (Product Users)
+Day 15:
+- LinkedIn Message: Share relevant insight
 
-Coordinate with in-app onboarding. Email supports, doesn't duplicate.
+Day 18:
+- Email 6: Different stakeholder? Ask for referral
 
-**Email 1: Welcome + First Step (Immediate)**
-- Confirm signup
-- One critical action
-- Link directly to that action
+Day 22:
+- Phone: Final call attempt
 
-**Email 2: Getting Started Help (Day 1)**
-- If they haven't completed step 1
-- Quick tip or video
-- Support option
+Day 25:
+- Email 7: Breakup email
+```
 
-**Email 3: Feature Highlight (Day 2-3)**
-- Key feature they should know
-- Specific use case
-- In-app link
+### Template 3: Warm Lead Follow-Up (Inbound/Referral)
 
-**Email 4: Success Story (Day 4-5)**
-- Customer who succeeded
-- Relatable journey
-- Motivational
+```
+Day 0 (within hours):
+- Email 1: Respond to their action/interest
+- Phone: Call while hot
 
-**Email 5: Check-In (Day 7)**
-- How's it going?
-- Ask for feedback
-- Offer help
+Day 1:
+- Email 2: Follow-up if no response
+- LinkedIn: Connect
 
-**Email 6: Advanced Tip (Day 10-12)**
-- Power feature
-- For engaged users
-- Level-up content
+Day 2:
+- Phone: Second attempt
 
-**Email 7: Upgrade/Expand (Day 14+)**
-- For trial users: conversion push
-- For free users: upgrade prompt
-- For paid: expansion opportunity
+Day 3:
+- Email 3: Add value, address potential objection
+
+Day 5:
+- Phone + Voicemail
+- Email 4: Reference voicemail
+
+Day 7:
+- LinkedIn Message: Casual check-in
+
+Day 10:
+- Email 5: Case study
+
+Day 14:
+- Email 6: Final attempt with urgency
+```
 
 ---
 
-## Email Types Reference
+## Message Progression Strategy
 
-A comprehensive guide to lifecycle and campaign emails. Use this as an audit checklist and implementation reference.
+### Vary Your Angles
 
-### Onboarding Emails
+Don't repeat the same message. Progress through different approaches:
 
-#### New Users Series
-**Trigger**: User signs up (free or trial)
-**Goal**: Activate user, drive to aha moment
-**Typical sequence**: 5-7 emails over 14 days
+**Touch 1: Trigger/Research**
+Lead with personalized observation about them
 
-- Email 1: Welcome + single next step (immediate)
-- Email 2: Quick win / getting started (day 1)
-- Email 3: Key feature highlight (day 3)
-- Email 4: Success story / social proof (day 5)
-- Email 5: Check-in + offer help (day 7)
-- Email 6: Advanced tip (day 10)
-- Email 7: Upgrade prompt or next milestone (day 14)
+**Touch 2: Value Reinforcement**
+Double down on core value prop, add urgency
 
-**Key metrics**: Activation rate, feature adoption
+**Touch 3: Social Proof**
+Lead with customer story or result
 
----
+**Touch 4: Different Pain Point**
+Try alternative angle that might resonate
 
-#### New Customers Series
-**Trigger**: User converts to paid
-**Goal**: Reinforce purchase decision, drive adoption, reduce early churn
-**Typical sequence**: 3-5 emails over 14 days
+**Touch 5: Question-Led**
+Ask about their situation directly
 
-- Email 1: Thank you + what's next (immediate)
-- Email 2: Getting full value — setup checklist (day 2)
-- Email 3: Pro tips for paid features (day 5)
-- Email 4: Success story from similar customer (day 7)
-- Email 5: Check-in + introduce support resources (day 14)
+**Touch 6: Content/Resource**
+Share something valuable without explicit ask
 
-**Key point**: Different from new user series—they've committed. Focus on reinforcement and expansion, not conversion.
+**Touch 7: Referral Request**
+Ask if someone else is better to talk to
 
----
+**Touch 8: Breakup**
+Acknowledge persistence, close the loop
 
-#### Key Onboarding Step Reminder
-**Trigger**: User hasn't completed critical setup step after X time
-**Goal**: Nudge completion of high-value action
-**Format**: Single email or 2-3 email mini-sequence
+### Subject Line Progression
 
-**Example triggers**:
-- Hasn't connected integration after 48 hours
-- Hasn't invited team member after 3 days
-- Hasn't completed profile after 24 hours
-
-**Copy approach**:
-- Remind them what they started
-- Explain why this step matters
-- Make it easy (direct link to complete)
-- Offer help if stuck
+**Email 1:** `[Personalized topic]`
+**Email 2:** `Re: [Original subject]`
+**Email 3:** `[New angle]` or keep thread
+**Email 4:** `Re: [Original subject]`
+**Email 5:** `Different approach for [Company]`
+**Email 6:** `Quick question, [First name]`
+**Email 7:** `Closing the loop`
 
 ---
 
-#### New User Invite
-**Trigger**: Existing user invites teammate
-**Goal**: Activate the invited user
-**Recipient**: The person being invited
+## Phone Integration
 
-- Email 1: You've been invited (immediate)
-- Email 2: Reminder if not accepted (day 2)
-- Email 3: Final reminder (day 5)
+### When to Call
 
-**Copy approach**:
-- Personalize with inviter's name
-- Explain what they're joining
-- Single CTA to accept invite
-- Social proof optional
+- After initial email (day 2-3)
+- After no response to 2-3 emails
+- For high-value accounts
+- When you have a strong hook
 
----
+### Call + Email Combo
 
-### Retention Emails
+**Before the call:**
+Send email that morning so your name is fresh
 
-#### Upgrade to Paid
-**Trigger**: Free user shows engagement, or trial ending
-**Goal**: Convert free to paid
-**Typical sequence**: 3-5 emails
+**After attempting:**
 
-**Trigger options**:
-- Time-based (trial day 10, 12, 14)
-- Behavior-based (hit usage limit, used premium feature)
-- Engagement-based (highly active free user)
+```
+Subject: Just tried you
 
-**Sequence structure**:
-- Value summary: What they've accomplished
-- Feature comparison: What they're missing
-- Social proof: Who else upgraded
-- Urgency: Trial ending, limited offer
-- Final: Last chance + easy path
+[First name],
 
----
+Just tried calling—sorry I missed you.
 
-#### Upgrade to Higher Plan
-**Trigger**: User approaching plan limits or using features available on higher tier
-**Goal**: Upsell to next tier
-**Format**: Single email or 2-3 email sequence
+[1 sentence on why you're reaching out]
 
-**Trigger examples**:
-- 80% of seat limit reached
-- 90% of storage/usage limit
-- Tried to use higher-tier feature
-- Power user behavior patterns
+[Value prop or question]
 
-**Copy approach**:
-- Acknowledge their growth (positive framing)
-- Show what next tier unlocks
-- Quantify value vs. cost
-- Easy upgrade path
+Worth a conversation?
+
+[Your name]
+[Phone number]
+```
+
+### Voicemail Script
+
+```
+"Hi [Name], this is [Your name] from [Company].
+
+I sent you an email about [topic]—wanted to see if [brief value/question].
+
+I'll follow up by email, but feel free to call me back at [number].
+
+Thanks, [Name]."
+```
+
+Keep under 30 seconds.
 
 ---
 
-#### Ask for Review
-**Trigger**: Customer milestone (30/60/90 days, key achievement, support resolution)
-**Goal**: Generate social proof on G2, Capterra, app stores
-**Format**: Single email
+## LinkedIn Integration
 
-**Best timing**:
-- After positive support interaction
-- After achieving measurable result
-- After renewal
-- NOT after billing issues or bugs
+### Connection Request Strategy
 
-**Copy approach**:
-- Thank them for being a customer
-- Mention specific value/milestone if possible
-- Explain why reviews matter (help others decide)
-- Direct link to review platform
-- Keep it short—this is an ask
+- Personalize the note (briefly)
+- Reference research or mutual connection
+- Don't pitch in connection request
 
----
+### Post-Connection Message
 
-#### Offer Support Proactively
-**Trigger**: Signs of struggle (drop in usage, failed actions, error encounters)
-**Goal**: Save at-risk user, improve experience
-**Format**: Single email
+Wait 1-2 days after they accept, then:
 
-**Trigger examples**:
-- Usage dropped significantly week-over-week
-- Multiple failed attempts at action
-- Viewed help docs repeatedly
-- Stuck at same onboarding step
+```
+Hey [Name],
 
-**Copy approach**:
-- Genuine concern tone
-- Specific: "I noticed you..." (if data allows)
-- Offer direct help (not just link to docs)
-- Personal from support or CSM
-- No sales pitch—pure help
+Thanks for connecting!
 
----
+[Observation or question relevant to them]
 
-#### Product Usage Report
-**Trigger**: Time-based (weekly, monthly, quarterly)
-**Goal**: Demonstrate value, drive engagement, reduce churn
-**Format**: Single email, recurring
+[Soft value add or conversation starter]
 
-**What to include**:
-- Key metrics/activity summary
-- Comparison to previous period
-- Achievements/milestones
-- Suggestions for improvement
-- Light CTA to explore more
+[Your name]
+```
 
-**Examples**:
-- "You saved X hours this month"
-- "Your team completed X projects"
-- "You're in the top X% of users"
+### Content Engagement
 
-**Key point**: Make them feel good and remind them of value delivered.
+- Like/comment on their posts
+- Share their content (if relevant)
+- Builds familiarity before direct outreach
+
+### LinkedIn Touch Examples
+
+**Touch 1 (Connection Request):**
+"Hi [Name], noticed we're both in the [industry] space. Would love to connect."
+
+**Touch 2 (Post-Connection, Day 2-3):**
+"Hey [Name], thanks for connecting. Saw you're scaling the sales team—curious how you're thinking about [challenge]?"
+
+**Touch 3 (Content Engagement):**
+Like/comment on their post, then follow up: "Great point on [topic]. Related to that..."
 
 ---
 
-#### NPS Survey
-**Trigger**: Time-based (quarterly) or event-based (post-milestone)
-**Goal**: Measure satisfaction, identify promoters and detractors
-**Format**: Single email
+## Video in Sequences
 
-**Best practices**:
-- Keep it simple: Just the NPS question initially
-- Follow-up form for "why" based on score
-- Personal sender (CEO, founder, CSM)
-- Tell them how you'll use feedback
+### When to Use Video
 
-**Follow-up based on score**:
-- Promoters (9-10): Thank + ask for review/referral
-- Passives (7-8): Ask what would make it a 10
-- Detractors (0-6): Personal outreach to understand issues
+- High-value accounts (ABM)
+- When differentiation matters
+- After several text-based touches
+- When you have something to show
 
----
+### Video Best Practices
 
-#### Referral Program
-**Trigger**: Customer milestone, promoter NPS score, or campaign
-**Goal**: Generate referrals
-**Format**: Single email or periodic reminders
+- Keep under 90 seconds (60 is better)
+- Personalize the first 10 seconds
+- Show their website/LinkedIn on screen
+- Clear CTA at the end
+- Use thumbnail with their name
 
-**Good timing**:
-- After positive NPS response
-- After customer achieves result
-- After renewal
-- Seasonal campaigns
+### Video Email Template
 
-**Copy approach**:
-- Remind them of their success
-- Explain the referral offer clearly
-- Make sharing easy (unique link)
-- Show what's in it for them AND referee
+```
+Subject: Made this for you, [First name]
+
+[First name],
+
+Made you a quick 60-second video: [LINK or embedded thumbnail]
+
+In it, I cover [brief description of value].
+
+Worth a look?
+
+[Your name]
+```
 
 ---
 
-### Billing Emails
+## Sequence Metrics
 
-#### Switch to Annual
-**Trigger**: Monthly subscriber at renewal time or campaign
-**Goal**: Convert monthly to annual (improve LTV, reduce churn)
-**Format**: Single email or 2-email sequence
+### What to Track
 
-**Value proposition**:
-- Calculate exact savings
-- Additional benefits (if any)
-- Lock in current price messaging
-- Easy one-click switch
+**Activity Metrics:**
 
-**Best timing**:
-- Around monthly renewal date
-- End of year / new year
-- After 3-6 months of loyalty
-- Price increase announcement (lock in old rate)
+- Emails sent
+- Calls made
+- LinkedIn touches
+- Videos sent
 
----
+**Engagement Metrics:**
 
-#### Failed Payment Recovery
-**Trigger**: Payment fails
-**Goal**: Recover revenue, retain customer
-**Typical sequence**: 3-4 emails over 7-14 days
+- Open rate (email)
+- Click rate
+- Reply rate
+- Connect rate (LinkedIn)
 
-**Sequence structure**:
-- Email 1 (Day 0): Friendly notice, update payment link
-- Email 2 (Day 3): Reminder, service may be interrupted
-- Email 3 (Day 7): Urgent, account will be suspended
-- Email 4 (Day 10-14): Final notice, what they'll lose
+**Outcome Metrics:**
 
-**Copy approach**:
-- Assume it's an accident (card expired, etc.)
-- Clear, direct, no guilt
-- Single CTA to update payment
-- Explain what happens if not resolved
+- Meetings booked
+- Positive replies
+- Referrals received
+- Pipeline generated
 
-**Key metrics**: Recovery rate, time to recovery
+### Benchmarks
 
----
+| Metric | Good | Great |
+|--------|------|-------|
+| Email open rate | 30-40% | 50%+ |
+| Email reply rate | 5-10% | 15%+ |
+| Positive reply rate | 2-5% | 8%+ |
+| Meeting conversion | 1-3% | 5%+ |
 
-#### Cancellation Survey
-**Trigger**: User cancels subscription
-**Goal**: Learn why, opportunity to save
-**Format**: Single email (immediate)
+### What to Optimize
 
-**Options**:
-- In-app survey at cancellation (better completion)
-- Follow-up email if they skip in-app
-- Personal outreach for high-value accounts
+**Low open rates:**
 
-**Questions to ask**:
-- Primary reason for cancelling
-- What could we have done better
-- Would anything change your mind
-- Can we help with transition
-
-**Winback opportunity**: Based on reason, offer targeted save (discount, pause, downgrade, training).
-
----
-
-#### Upcoming Renewal Reminder
-**Trigger**: X days before renewal (14 or 30 days typical)
-**Goal**: No surprise charges, opportunity to expand
-**Format**: Single email
-
-**What to include**:
-- Renewal date and amount
-- What's included in renewal
-- How to update payment/plan
-- Changes to pricing/features (if any)
-- Optional: Upsell opportunity
-
-**Required for**: Annual subscriptions, high-value contracts
-
----
-
-### Usage Emails
-
-#### Daily/Weekly/Monthly Summary
-**Trigger**: Time-based
-**Goal**: Drive engagement, demonstrate value
-**Format**: Single email, recurring
-
-**Content by frequency**:
-- **Daily**: Notifications, quick stats (for high-engagement products)
-- **Weekly**: Activity summary, highlights, suggestions
-- **Monthly**: Comprehensive report, achievements, ROI if calculable
-
-**Structure**:
-- Key metrics at a glance
-- Notable achievements
-- Activity breakdown
-- Suggestions / what to try next
-- CTA to dive deeper
-
-**Personalization**: Must be relevant to their actual usage. Empty reports are worse than no report.
-
----
-
-#### Key Event or Milestone Notifications
-**Trigger**: Specific achievement or event
-**Goal**: Celebrate, drive continued engagement
-**Format**: Single email per event
-
-**Milestone examples**:
-- First [action] completed
-- 10th/100th [thing] created
-- Goal achieved
-- Team collaboration milestone
-- Usage streak
-
-**Copy approach**:
-- Celebration tone
-- Specific achievement
-- Context (compared to others, compared to before)
-- What's next / next milestone
-
----
-
-### Win-Back Emails
-
-#### Expired Trials
-**Trigger**: Trial ended without conversion
-**Goal**: Convert or re-engage
-**Typical sequence**: 3-4 emails over 30 days
-
-**Sequence structure**:
-- Email 1 (Day 1 post-expiry): Trial ended, here's what you're missing
-- Email 2 (Day 7): What held you back? (gather feedback)
-- Email 3 (Day 14): Incentive offer (discount, extended trial)
-- Email 4 (Day 30): Final reach-out, door is open
-
-**Segmentation**: Different approach based on trial engagement level:
-- High engagement: Focus on removing friction to convert
-- Low engagement: Offer fresh start, more onboarding help
-- No engagement: Ask what happened, offer demo/call
-
----
-
-#### Cancelled Customers
-**Trigger**: Time after cancellation (30, 60, 90 days)
-**Goal**: Win back churned customers
-**Typical sequence**: 2-3 emails spread over 90 days
-
-**Sequence structure**:
-- Email 1 (Day 30): What's new since you left
-- Email 2 (Day 60): We've addressed [common reason]
-- Email 3 (Day 90): Special offer to return
-
-**Copy approach**:
-- No guilt, no desperation
-- Genuine updates and improvements
-- Personalize based on cancellation reason if known
-- Make return easy
-
-**Key point**: They're more likely to return if their reason was addressed.
-
----
-
-### Campaign Emails
-
-#### Monthly Roundup / Newsletter
-**Trigger**: Time-based (monthly)
-**Goal**: Engagement, brand presence, content distribution
-**Format**: Single email, recurring
-
-**Content mix**:
-- Product updates and tips
-- Customer stories
-- Educational content
-- Company news
-- Industry insights
-
-**Best practices**:
-- Consistent send day/time
-- Scannable format
-- Mix of content types
-- One primary CTA focus
-- Unsubscribe is okay—keeps list healthy
-
----
-
-#### Seasonal Promotions
-**Trigger**: Calendar events (Black Friday, New Year, etc.)
-**Goal**: Drive conversions with timely offer
-**Format**: Campaign burst (2-4 emails)
-
-**Common opportunities**:
-- New Year (fresh start, annual planning)
-- End of fiscal year (budget spending)
-- Black Friday / Cyber Monday
-- Industry-specific seasons
-- Back to school / work
-
-**Sequence structure**:
-- Announcement: Offer reveal
-- Reminder: Midway through promotion
-- Last chance: Final hours
-
----
-
-#### Product Updates
-**Trigger**: New feature release
-**Goal**: Adoption, engagement, demonstrate momentum
-**Format**: Single email per major release
-
-**What to include**:
-- What's new (clear and simple)
-- Why it matters (benefit, not just feature)
-- How to use it (direct link)
-- Who asked for it (community acknowledgment)
-
-**Segmentation**: Consider targeting based on relevance:
-- Users who would benefit most
-- Users who requested feature
-- Power users first (for beta feel)
-
----
-
-#### Industry News Roundup
-**Trigger**: Time-based (weekly or monthly)
-**Goal**: Thought leadership, engagement, brand value
-**Format**: Curated newsletter
-
-**Content**:
-- Curated news and links
-- Your take / commentary
-- What it means for readers
-- How your product helps
-
-**Best for**: B2B products where customers care about industry trends.
-
----
-
-#### Pricing Update
-**Trigger**: Price change announcement
-**Goal**: Transparent communication, minimize churn
-**Format**: Single email (or sequence for major changes)
-
-**Timeline**:
-- Announce 30-60 days before change
-- Reminder 14 days before
-- Final notice 7 days before
-
-**Copy approach**:
-- Clear, direct, transparent
-- Explain the why (value delivered, costs increased)
-- Grandfather if possible (lock in old rate)
-- Give options (annual lock-in, downgrade)
-
-**Important**: Honesty and advance notice build trust even when price increases.
-
----
-
-## Email Audit Checklist
-
-Use this to audit your current email program:
-
-### Onboarding
-- [ ] New users series
-- [ ] New customers series
-- [ ] Key onboarding step reminders
-- [ ] New user invite sequence
-
-### Retention
-- [ ] Upgrade to paid sequence
-- [ ] Upgrade to higher plan triggers
-- [ ] Ask for review (timed properly)
-- [ ] Proactive support outreach
-- [ ] Product usage reports
-- [ ] NPS survey
-- [ ] Referral program emails
-
-### Billing
-- [ ] Switch to annual campaign
-- [ ] Failed payment recovery sequence
-- [ ] Cancellation survey
-- [ ] Upcoming renewal reminders
-
-### Usage
-- [ ] Daily/weekly/monthly summaries
-- [ ] Key event notifications
-- [ ] Milestone celebrations
-
-### Win-Back
-- [ ] Expired trial sequence
-- [ ] Cancelled customer sequence
-
-### Campaigns
-- [ ] Monthly roundup / newsletter
-- [ ] Seasonal promotion calendar
-- [ ] Product update announcements
-- [ ] Pricing update communications
-
----
-
-## Email Copy Guidelines
-
-### Structure
-1. **Hook**: First line grabs attention
-2. **Context**: Why this matters to them
-3. **Value**: The useful content
-4. **CTA**: What to do next
-5. **Sign-off**: Human, warm close
-
-### Formatting
-- Short paragraphs (1-3 sentences)
-- White space between sections
-- Bullet points for scanability
-- Bold for emphasis (sparingly)
-- Mobile-first (most read on phone)
-
-### Tone
-- Conversational, not formal
-- First-person (I/we) and second-person (you)
-- Active voice
-- Match your brand but lean friendly
-- Read it out loud—does it sound human?
-
-### Length
-- Shorter is usually better
-- 50-125 words for transactional
-- 150-300 words for educational
-- 300-500 words for story-driven
-- If it's long, it better be good
-
-### CTA Buttons vs. Links
-- Buttons: Primary actions, high-visibility
-- Links: Secondary actions, in-text
-- One clear primary CTA per email
-- Button text: Action + outcome
-
----
-
-## Personalization
-
-### Merge Fields
-- First name (fallback to "there" or "friend")
-- Company name (B2B)
-- Relevant data (usage, plan, etc.)
-
-### Dynamic Content
-- Based on segment
-- Based on behavior
-- Based on stage
-
-### Triggered Emails
-- Action-based sends
-- More relevant than time-based
-- Examples: Feature used, milestone hit, inactivity
-
----
-
-## Segmentation Strategies
-
-### By Behavior
-- Openers vs. non-openers
-- Clickers vs. non-clickers
-- Active vs. inactive
-
-### By Stage
-- Trial vs. paid
-- New vs. long-term
-- Engaged vs. at-risk
-
-### By Profile
-- Industry/role (B2B)
-- Use case / goal
-- Company size
-
----
-
-## Testing and Optimization
-
-### What to Test
-- Subject lines (highest impact)
+- Subject lines
+- Sender reputation
 - Send times
-- Email length
-- CTA placement and copy
-- Personalization level
-- Sequence timing
 
-### How to Test
-- A/B test one variable at a time
-- Sufficient sample size
-- Statistical significance
-- Document learnings
+**Opens but no replies:**
 
-### Metrics to Track
-- Open rate (benchmark: 20-40%)
-- Click rate (benchmark: 2-5%)
-- Unsubscribe rate (keep under 0.5%)
-- Conversion rate (specific to sequence goal)
-- Revenue per email (if applicable)
+- Email body/value prop
+- CTA strength
+- Relevance
+
+**Replies but no meetings:**
+
+- CTA specificity
+- Qualification
+- Follow-up speed
+
+---
+
+## Sequence Variations
+
+### By Account Tier
+
+**Tier 1 (Top Accounts):**
+
+- More touches (12-15)
+- More channels
+- More personalization
+- Video + phone heavy
+
+**Tier 2 (Target Accounts):**
+
+- Standard touches (8-10)
+- Email + LinkedIn + some phone
+- Moderate personalization
+
+**Tier 3 (Volume):**
+
+- Fewer touches (5-7)
+- Email + LinkedIn
+- Light personalization
+
+### By Persona
+
+**C-Level:**
+
+- Shorter, more direct
+- Lead with business outcomes
+- Fewer but higher-quality touches
+
+**VP/Director:**
+
+- Balanced approach
+- Mix strategic and tactical
+- Standard sequence
+
+**Manager/IC:**
+
+- Can be more detailed
+- Tactical value props
+- More touches okay
+
+---
+
+## Common Mistakes
+
+### Sequence Design
+
+- Too few touches (giving up early)
+- Same message repeated
+- No channel variety
+- Wrong timing/spacing
+
+### Messaging
+
+- Not adding value each touch
+- "Just checking in" follow-ups
+- Too long
+- No personalization
+
+### Execution
+
+- Inconsistent sending
+- Missing follow-up timing
+- Not tracking results
+- Not iterating based on data
 
 ---
 
 ## Output Format
 
+When creating a sequence, provide:
+
 ### Sequence Overview
+
 ```
-Sequence Name: [Name]
-Trigger: [What starts the sequence]
+Target: [Who this is for]
 Goal: [Primary conversion goal]
-Length: [Number of emails]
-Timing: [Delay between emails]
-Exit Conditions: [When they leave the sequence]
+Length: [Number of touches]
+Channels: [Email, phone, LinkedIn, etc.]
+Duration: [Days from start to end]
 ```
 
-### For Each Email
+### Touch-by-Touch Detail
+
+For each touch:
+
 ```
-Email [#]: [Name/Purpose]
-Send: [Timing]
-Subject: [Subject line]
-Preview: [Preview text]
-Body: [Full copy]
-CTA: [Button text] → [Link destination]
-Segment/Conditions: [If applicable]
+Touch [#]: [Channel] - Day [X]
+Purpose: [What this touch accomplishes]
+Subject/Approach: [Subject line or approach]
+Key Message: [Core content/angle]
+CTA: [Specific ask]
 ```
+
+### Full Copy
+
+Complete copy for each email/message
 
 ### Metrics Plan
-What to measure and benchmarks
+
+What to track and benchmarks
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What triggers entry to this sequence?
-2. What's the primary goal/conversion action?
-3. Who is the audience?
-4. What do they already know about you?
-5. What other emails are they receiving?
-6. What's your current email performance?
+
+1. Who's the target audience? (Title, company type, industry)
+2. What channels do you have available?
+3. What's your goal? (Meeting, reply, etc.)
+4. Is this cold outreach or following up on something?
+5. What's worked in previous sequences?
+6. What tools/platform are you using?
 
 ---
 
 ## Related Skills
 
-- **onboarding-cro**: For in-app onboarding (email supports this)
-- **copywriting**: For landing pages emails link to
-- **ab-test-setup**: For testing email elements
-- **popup-cro**: For email capture popups
+- **copywriting**: For individual message writing
+- **copy-editing**: For improving existing messages
+- **ab-test-setup**: For testing sequence elements
+- **analytics-tracking**: For tracking sequence metrics

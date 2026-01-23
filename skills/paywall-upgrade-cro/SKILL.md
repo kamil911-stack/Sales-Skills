@@ -1,570 +1,624 @@
 ---
-name: paywall-upgrade-cro
-description: When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions "paywall," "upgrade screen," "upgrade modal," "upsell," "feature gate," "convert free to paid," "freemium conversion," "trial expiration screen," "limit reached screen," "plan upgrade prompt," or "in-app pricing." Distinct from public pricing pages (see page-cro) — this skill focuses on in-product upgrade moments where the user has already experienced value.
+name: deal-upselling
+description: When the user wants to increase deal sizes, upsell existing opportunities, or expand accounts during the sales process. Also use when the user mentions "upselling," "cross-selling," "deal expansion," "increase deal size," "land and expand," "add-on sales," "upgrade during sales," "premium tier," or "expand scope." This skill covers identifying and capturing expansion opportunities within active deals and existing accounts.
 ---
 
-# Paywall and Upgrade Screen CRO
+# Deal Upselling & Expansion
 
-You are an expert in in-app paywalls and upgrade flows. Your goal is to convert free users to paid, or upgrade users to higher tiers, at moments when they've experienced enough value to justify the commitment.
+You are an expert in deal expansion and upselling. Your goal is to help increase deal sizes, identify add-on opportunities, and expand account value during the sales process and beyond.
 
 ## Initial Assessment
 
 Before providing recommendations, understand:
 
-1. **Upgrade Context**
-   - Freemium → Paid conversion
-   - Trial → Paid conversion
-   - Tier upgrade (Basic → Pro)
-   - Feature-specific upsell
-   - Usage limit upsell
+1. **Deal Context**
+   - Where are you in the sales cycle?
+   - What was the original scope/proposal?
+   - What have they seen/experienced?
+   - What's driving their purchase decision?
 
-2. **Product Model**
-   - What's free forever?
-   - What's behind the paywall?
-   - What triggers upgrade prompts?
-   - What's the current conversion rate?
+2. **Expansion Opportunity**
+   - Additional users/seats
+   - Higher tier/premium features
+   - Additional products/modules
+   - Professional services
+   - Longer commitment (annual vs. monthly)
 
-3. **User Journey**
-   - At what point does this appear?
-   - What have they experienced already?
-   - What are they trying to do when blocked?
+3. **Account Potential**
+   - Full organizational need
+   - Other departments/teams
+   - Future growth trajectory
+   - Budget authority and cycle
 
 ---
 
 ## Core Principles
 
-### 1. Value Before Ask
-- User should have experienced real value first
-- The upgrade should feel like a natural next step
-- Timing: After "aha moment," not before
+### 1. Value Before Upsell
 
-### 2. Show, Don't Just Tell
-- Demonstrate the value of paid features
-- Preview what they're missing
-- Make the upgrade feel tangible
+The expansion must make sense for the customer:
+- They should see additional value
+- It should address real needs
+- Timing should be appropriate
+- Never feel pushed or tricked
 
-### 3. Friction-Free Path
-- Easy to upgrade when ready
-- Don't make them hunt for pricing
-- Remove barriers to conversion
+### 2. Discovery Reveals Opportunity
 
-### 4. Respect the No
-- Don't trap or pressure
-- Make it easy to continue free
-- Maintain trust for future conversion
+Expansion starts with understanding:
+- What's their full scope of need?
+- Where else does this problem exist?
+- What would "ideal" look like?
+- What's the cost of partial solutions?
 
----
+### 3. Land to Expand
 
-## Paywall Trigger Points
+Start small, grow over time:
+- Prove value in initial scope
+- Build trust and credibility
+- Identify expansion paths early
+- Execute on planned expansion
 
-### Feature Gates
-When user clicks a paid-only feature:
-- Clear explanation of why it's paid
-- Show what the feature does
-- Quick path to unlock
-- Option to continue without
+### 4. The Best Time to Expand
 
-### Usage Limits
-When user hits a limit:
-- Clear indication of what limit was reached
-- Show what upgrading provides
-- Option to buy more without full upgrade
-- Don't block abruptly
-
-### Trial Expiration
-When trial is ending:
-- Early warnings (7 days, 3 days, 1 day)
-- Clear "what happens" on expiration
-- Easy re-activation if expired
-- Summarize value received
-
-### Time-Based Prompts
-After X days/sessions of free use:
-- Gentle upgrade reminder
-- Highlight unused paid features
-- Not intrusive—banner or subtle modal
-- Easy to dismiss
-
-### Context-Triggered
-When behavior indicates upgrade fit:
-- Power users who'd benefit
-- Teams using solo features
-- Heavy usage approaching limits
-- Inviting teammates
+Certain moments create natural expansion opportunities:
+- After demonstrating value
+- Before closing (packaging)
+- After successful implementation
+- During business reviews
+- At renewal
 
 ---
 
-## Paywall Screen Components
+## Expansion Triggers
 
-### 1. Headline
-Focus on what they get, not what they pay:
-- "Unlock [Feature] to [Benefit]"
-- "Get more [value] with [Plan]"
-- Not: "Upgrade to Pro for $X/month"
+### During Active Sales Cycle
 
-### 2. Value Demonstration
-Show what they're missing:
-- Preview of the feature in action
-- Before/after comparison
-- "With Pro, you could..." examples
-- Specific to their use case if possible
+**Discovery reveals bigger scope**:
+- "You mentioned three teams have this problem..."
+- "If we're solving this, should we include [related area]?"
+- "What about the [other region/department]?"
 
-### 3. Feature Comparison
-If showing tiers:
-- Highlight key differences
-- Current plan clearly marked
-- Recommended plan emphasized
-- Focus on outcomes, not feature lists
+**Stakeholder expansion**:
+- New stakeholders join evaluation
+- Executive gets involved
+- Technical teams added
+- Other departments express interest
 
-### 4. Pricing
-- Clear, simple pricing
-- Annual vs. monthly options
-- Per-seat clarity if applicable
-- Any trials or guarantees
+**Competitive pressure**:
+- They're comparing complete solutions
+- Competitor includes more in their quote
+- Need to match full scope
 
-### 5. Social Proof (Optional)
-- Customer quotes about the upgrade
-- "X teams use this feature"
-- Success metrics from upgraded users
+**Budget becomes clearer**:
+- Approved budget is larger than proposed
+- Fiscal year-end spending
+- Use-it-or-lose-it dynamics
 
-### 6. CTA
-- Specific: "Upgrade to Pro" not "Upgrade"
-- Value-oriented: "Start Getting [Benefit]"
-- If trial: "Start Free Trial"
+### After Initial Purchase
 
-### 7. Escape Hatch
-- Clear "Not now" or "Continue with Free"
-- Don't make them feel bad
-- "Maybe later" vs. "No, I'll stay limited"
+**Value demonstrated**:
+- Success metrics achieved
+- User adoption is high
+- Champion is happy
+- Executive sponsor sees results
+
+**Business changes**:
+- Company growth (hiring, expansion)
+- New initiatives launched
+- Leadership changes with new priorities
+- Increased budget
+
+**Usage signals**:
+- Hitting limits
+- Feature usage growth
+- Adding users
+- Integration requests
+
+**Time-based triggers**:
+- Quarterly business reviews
+- Renewal approaching
+- New budget cycle
+- Annual planning
 
 ---
 
-## Specific Paywall Types
+## Upsell Conversation Frameworks
 
-### Feature Lock Paywall
-When clicking a paid feature:
+### Discovery for Expansion
 
+**Uncovering full scope**:
+- "Walk me through everywhere this problem exists..."
+- "If budget weren't a constraint, what would your ideal solution look like?"
+- "Who else in the organization deals with similar challenges?"
+- "What would you need to address the complete workflow?"
+
+**Quantifying the gap**:
+- "You mentioned three teams—what's the cost if only one team has this solved?"
+- "What happens to [other department] while we're rolling this out to [first department]?"
+- "If we phase this, how long will [other users] be without a solution?"
+
+### Positioning the Upsell
+
+**Value-based framing**:
 ```
-[Lock Icon]
-This feature is available on Pro
+"Based on what you've shared, here's what I'm thinking:
 
-[Feature preview/screenshot]
+You could start with [original scope] at [price], and
+that would definitely solve [specific problem].
 
-[Feature name] helps you [benefit]:
-• [Specific capability]
-• [Specific capability]
-• [Specific capability]
+But given that [other need you uncovered], you might
+actually get more value from [expanded scope] at [price].
 
-[Upgrade to Pro - $X/mo]
-[Maybe Later]
-```
-
-### Usage Limit Paywall
-When hitting a limit:
-
-```
-You've reached your free limit
-
-[Visual: Progress bar at 100%]
-
-Free plan: 3 projects
-Pro plan: Unlimited projects
-
-You're active! Upgrade to keep building.
-
-[Upgrade to Pro]    [Delete a project]
+The incremental investment is [amount], but the additional
+value is [specific benefit]. Does that make sense?"
 ```
 
-### Trial Expiration Paywall
-When trial is ending:
-
+**ROI-based framing**:
 ```
-Your trial ends in 3 days
+"Let me share what I'm seeing:
 
-What you'll lose:
-• [Feature they've used]
-• [Feature they've used]
-• [Data/work they've created]
+With [original scope], you'll achieve [X outcome].
+With [expanded scope], you'll achieve [Y outcome].
 
-What you've accomplished:
-• Created X projects
-• [Specific value metric]
+The difference in investment is $[amount].
+The difference in value is $[amount].
 
-[Continue with Pro - $X/mo]
-[Remind me later]    [Downgrade to Free]
+That's a [X]x return on the incremental investment.
+Which approach makes more sense for your situation?"
 ```
 
-### Soft Upgrade Prompt
-Non-blocking suggestion:
-
+**Risk-based framing**:
 ```
-[Banner or subtle modal]
+"One thing to consider:
 
-You've been using [Product] for 2 weeks!
-Teams like yours get X% more [value] with Pro.
+If we go with [smaller scope], you'll need to come
+back for [expanded scope] later, which means:
+- Separate implementation effort
+- Delayed time-to-value for [other area]
+- Potentially higher total cost
 
-[See Pro Features]    [Dismiss]
-```
-
-### Team/Seat Upgrade
-When adding users:
-
-```
-Invite your team
-
-Your plan: Solo (1 user)
-Team plans start at $X/user
-
-• Shared projects
-• Collaboration features
-• Admin controls
-
-[Upgrade to Team]    [Continue Solo]
+Many customers in your situation find it more
+effective to address the full scope upfront.
+What are your thoughts?"
 ```
 
 ---
 
-## Mobile Paywall Patterns
+## Expansion by Type
 
-### iOS/Android Conventions
-- System-like styling builds trust
-- Standard paywall patterns users recognize
-- Free trial emphasis common
-- Subscription terminology they expect
+### User/Seat Expansion
 
-### Mobile-Specific UX
-- Full-screen often acceptable
-- Swipe to dismiss
-- Large tap targets
-- Plan selection with clear visual state
+**When to propose**:
+- Discovery reveals more users than quoted
+- Other teams need access
+- Growth is expected
 
-### App Store Considerations
-- Clear pricing display
-- Subscription terms visible
-- Restore purchases option
-- Meet review guidelines
+**How to position**:
+```
+"You mentioned [team] would also benefit from this.
 
----
+If we include them now:
+- Pricing: [volume pricing benefit]
+- Implementation: Single rollout vs. multiple
+- Value: [team] benefits immediately
 
-## Timing and Frequency
+Would it make sense to include them in the initial scope?"
+```
 
-### When to Show
-- **Best**: After value moment, before frustration
-- After activation/aha moment
-- When hitting genuine limits
-- When using adjacent-to-paid features
+**Pricing strategies**:
+- Volume discounts for more seats
+- Tiered pricing with breakpoints
+- Team vs. individual plans
+- Enterprise agreements for full company
 
-### When NOT to Show
-- During onboarding (too early)
-- When they're in a flow
-- Repeatedly after dismissal
-- Before they understand the product
+### Feature/Tier Upgrades
 
-### Frequency Rules
-- Limit to X per session
-- Cool-down after dismiss (days, not hours)
-- Escalate urgency appropriately (trial end)
-- Track annoyance signals (rage clicks, churn)
+**When to propose**:
+- Needs align with premium features
+- Use case requires advanced capabilities
+- Scale justifies enterprise tier
 
----
+**How to position**:
+```
+"Based on your requirements, I want to show you
+something in our [Premium/Enterprise] tier.
 
-## Upgrade Flow Optimization
+You mentioned needing [specific capability]. That's
+actually a feature in our [higher tier].
 
-### From Paywall to Payment
-- Minimize steps
-- Keep them in-context if possible
-- Pre-fill known information
-- Show security signals
+The difference is [price], but it includes:
+- [Premium feature 1] — which addresses [their need]
+- [Premium feature 2] — which addresses [their need]
+- [Premium feature 3] — which you'll likely need as you scale
 
-### Plan Selection
-- Default to recommended plan
-- Annual vs. monthly clear trade-off
-- Feature comparison if helpful
-- FAQ or objection handling nearby
+Would that be worth exploring?"
+```
 
-### Checkout
-- Minimal fields
-- Multiple payment methods
-- Trial terms clear
-- Easy cancellation visible (builds trust)
+**Feature differentiation**:
+- Tie premium features to their specific needs
+- Show what they'd be missing
+- Quantify value of premium capabilities
+- Demonstrate ROI of upgrade
 
-### Post-Upgrade
-- Immediate access to features
-- Confirmation and receipt
-- Guide to new features
-- Celebrate the upgrade
+### Product Cross-Sell
 
----
+**When to propose**:
+- Workflow spans multiple products
+- Adjacent problems uncovered
+- Integration creates additional value
 
-## A/B Testing Paywalls
+**How to position**:
+```
+"While we're solving [primary problem], I noticed
+you mentioned [adjacent challenge].
 
-### What to Test
-- Trigger timing (earlier vs. later)
-- Trigger type (feature gate vs. soft prompt)
-- Headline/copy variations
-- Price presentation
-- Trial length
-- Feature emphasis
-- Social proof presence
-- Design/layout
+We have [other product] that integrates directly
+with what we're implementing. Customers who use
+both see [specific benefit].
 
-### Metrics to Track
-- Paywall impression rate
-- Click-through to upgrade
-- Upgrade completion rate
-- Revenue per user
-- Churn rate post-upgrade
-- Time to upgrade
+It might be worth looking at the bundle—there's
+typically a pricing advantage to packaging them together."
+```
 
----
+**Bundle strategies**:
+- Suite pricing for multiple products
+- Integration incentives
+- Unified implementation discount
+- Single vendor advantage
 
-## Output Format
+### Professional Services Upsell
 
-### Paywall Design
-For each paywall:
-- **Trigger**: When it appears
-- **Context**: What user was doing
-- **Type**: Feature gate, limit, trial, etc.
-- **Copy**: Full copy with headline, body, CTA
-- **Design notes**: Layout, visual elements
-- **Mobile**: Mobile-specific considerations
-- **Frequency**: How often shown
-- **Exit path**: How to dismiss
+**When to propose**:
+- Complex implementation
+- Custom requirements
+- Limited internal resources
+- Time-sensitive deadline
 
-### Upgrade Flow
-- Step-by-step screens
-- Copy for each step
-- Decision points
-- Success state
+**How to position**:
+```
+"Given your timeline and the customization you need,
+I'd recommend including our professional services.
 
-### Metrics Plan
-What to measure and expected benchmarks
+You could self-implement, but:
+- Our team has done this [X] times
+- Average time to value: [faster with services]
+- We handle the [complex parts]
+- Guaranteed outcomes
 
----
+The investment is [price], but it typically
+[accelerates value / reduces risk / ensures success]."
+```
 
-## Common Patterns by Business Model
+**Services offerings**:
+- Implementation and setup
+- Data migration
+- Custom integrations
+- Training and enablement
+- Ongoing managed services
 
-### Freemium SaaS
-- Generous free tier to build habit
-- Feature gates for power features
-- Usage limits for volume
-- Soft prompts for heavy free users
+### Contract Term Extension
 
-### Free Trial
-- Trial countdown prominent
-- Value summary at expiration
-- Grace period or easy restart
-- Win-back for expired trials
+**When to propose**:
+- They're ready to commit
+- Budget conversation happens
+- Annual vs. monthly decision
+- Multi-year opportunity
 
-### Usage-Based
-- Clear usage tracking
-- Alerts at thresholds (75%, 100%)
-- Easy to add more without plan change
-- Volume discounts visible
+**How to position**:
+```
+"Before we finalize, let me share an option.
 
-### Per-Seat
-- Friction at invitation
-- Team feature highlights
-- Volume pricing clear
-- Admin value proposition
+If you commit to an annual contract:
+- Monthly rate drops from [X] to [Y] (save [Z]%)
+- Total savings: $[amount] per year
+- Rate protection (no increases)
+- Priority support
+
+Most of our customers choose annual for the savings
+and simplicity. Would that work for you?"
+```
+
+**Term incentives**:
+- Annual payment discount (10-20%)
+- Multi-year rate locks
+- Additional features for commitment
+- Enhanced support or services
 
 ---
 
-## Anti-Patterns to Avoid
+## Expansion Discovery Questions
 
-### Dark Patterns
-- Hiding the close button
-- Confusing plan selection
-- Buried downgrade option
-- Misleading urgency
-- Guilt-trip copy
+### Scope Questions
 
-### Conversion Killers
-- Asking before value delivered
-- Too frequent prompts
-- Blocking critical flows
-- Unclear pricing
-- Complicated upgrade process
+- "How many people ultimately need to use this?"
+- "What other teams or departments deal with this challenge?"
+- "If you could roll this out to the entire organization, what would that look like?"
+- "What's your ideal end state vs. where we're starting?"
 
-### Trust Destroyers
-- Surprise charges
-- Hard-to-cancel subscriptions
-- Bait and switch
-- Data hostage tactics
+### Value Questions
 
----
+- "What would solving this completely be worth to the business?"
+- "What's the cost of partial solutions vs. comprehensive?"
+- "If we could deliver [additional capability], what would that mean for you?"
+- "Where else would you see value from this investment?"
 
-## Experiment Ideas
+### Timeline Questions
 
-### Trigger & Timing Experiments
+- "When do you envision needing [expanded scope]?"
+- "What's driving the phased approach vs. doing everything now?"
+- "If budget weren't a constraint, would you do more now?"
+- "What happens between now and when you'd add [expansion]?"
 
-**When to Show**
-- Test trigger timing: after aha moment vs. at feature attempt
-- Early trial reminder (7 days) vs. late reminder (1 day before)
-- Show after X actions completed vs. after X days
-- Test soft prompts at different engagement thresholds
-- Trigger based on usage patterns vs. time-based only
+### Budget Questions
 
-**Trigger Type**
-- Hard gate (can't proceed) vs. soft gate (preview + prompt)
-- Feature lock vs. usage limit as primary trigger
-- In-context modal vs. dedicated upgrade page
-- Banner reminder vs. modal prompt
-- Exit-intent on free plan pages
+- "Is the budget allocated specifically for [original scope] or for solving the problem?"
+- "Would expanding scope change the budget conversation?"
+- "Are there other budget sources we could tap for [expansion]?"
+- "What's the approval process if we wanted to expand scope?"
 
 ---
 
-### Paywall Design Experiments
+## Handling Expansion Objections
 
-**Layout & Format**
-- Full-screen paywall vs. modal overlay
-- Minimal paywall (CTA-focused) vs. feature-rich paywall
-- Single plan display vs. plan comparison
-- Image/preview included vs. text-only
-- Vertical layout vs. horizontal layout on desktop
+### "We want to start small and see how it goes"
 
-**Value Presentation**
-- Feature list vs. benefit statements
-- Show what they'll lose (loss aversion) vs. what they'll gain
-- Personalized value summary based on usage
-- Before/after demonstration
-- ROI calculator or value quantification
+**Response**:
+```
+"Completely understand—that's a sensible approach.
 
-**Visual Elements**
-- Add product screenshots or previews
-- Include short demo video or GIF
-- Test illustration vs. product imagery
-- Animated vs. static paywall
-- Progress visualization (what they've accomplished)
+Let me ask: what would you need to see before
+expanding? If we hit [success criteria], would
+you be ready to add [expansion]?
 
----
+I want to make sure we're set up so that when
+you're ready, the expansion is seamless."
+```
 
-### Pricing Presentation Experiments
+**Actions**:
+- Define success criteria for expansion
+- Build expansion into contract terms
+- Set timeline for expansion review
+- Document agreed expansion path
 
-**Price Display**
-- Show monthly vs. annual vs. both with toggle
-- Highlight savings for annual ($ amount vs. % off)
-- Price per day framing ("Less than a coffee")
-- Show price after trial vs. emphasize "Start Free"
-- Display price prominently vs. de-emphasize until click
+### "The budget only covers [original scope]"
 
-**Plan Options**
-- Single recommended plan vs. multiple tiers
-- Add "Most Popular" badge to target plan
-- Test number of visible plans (2 vs. 3)
-- Show enterprise/custom tier vs. hide it
-- Include one-time purchase option alongside subscription
+**Response**:
+```
+"Got it—the current budget is for [scope].
 
-**Discounts & Offers**
-- First month/year discount for conversion
-- Limited-time upgrade offer with countdown
-- Loyalty discount based on free usage duration
-- Bundle discount for annual commitment
-- Referral discount for social proof
+A few questions:
+- Is there additional budget available if the
+  value justified it?
+- Are there other budget pools we could tap?
+- Would a phased payment approach help?
+- What would it take to get additional budget approved?"
+```
 
----
+**Actions**:
+- Explore payment terms
+- Identify other budget sources
+- Build business case for additional budget
+- Offer creative financing options
 
-### Copy & Messaging Experiments
+### "We don't need the premium features"
 
-**Headlines**
-- Benefit-focused ("Unlock unlimited projects") vs. feature-focused ("Get Pro features")
-- Question format ("Ready to do more?") vs. statement format
-- Urgency-based ("Don't lose your work") vs. value-based
-- Personalized headline with user's name or usage data
-- Social proof headline ("Join 10,000+ Pro users")
+**Response**:
+```
+"Fair point—let's make sure you're in the right tier.
 
-**CTAs**
-- "Start Free Trial" vs. "Upgrade Now" vs. "Continue with Pro"
-- First person ("Start My Trial") vs. second person ("Start Your Trial")
-- Value-specific ("Unlock Unlimited") vs. generic ("Upgrade")
-- Add urgency ("Upgrade Today") vs. no pressure
-- Include price in CTA vs. separate price display
+Can I ask a few questions about how you plan to use this?
+[Ask about specific use cases that require premium features]
 
-**Objection Handling**
-- Add money-back guarantee messaging
-- Show "Cancel anytime" prominently
-- Include FAQ on paywall
-- Address specific objections based on feature gated
-- Add chat/support option on paywall
+The reason I bring up [premium tier] is that [specific
+feature] would address [their need]. Without it,
+you'd need to [workaround]. Does that matter?"
+```
 
----
+**Actions**:
+- Validate actual feature needs
+- Show specific premium feature value
+- Quantify cost of not having features
+- Offer trial of premium capabilities
 
-### Trial & Conversion Experiments
+### "We'll add more users later"
 
-**Trial Structure**
-- 7-day vs. 14-day vs. 30-day trial length
-- Credit card required vs. not required for trial
-- Full-access trial vs. limited feature trial
-- Trial extension offer for engaged users
-- Second trial offer for expired/churned users
+**Response**:
+```
+"That's often how it works—start lean, then grow.
 
-**Trial Expiration**
-- Countdown timer visibility (always vs. near end)
-- Email reminders: frequency and timing
-- Grace period after expiration vs. immediate downgrade
-- "Last chance" offer with discount
-- Pause option vs. immediate cancellation
+A few things to consider:
+- Adding users later may be at full price vs.
+  volume discount now
+- Separate implementation/training effort later
+- Delayed value for those users
+- [Other department] continues manual process
 
-**Upgrade Path**
-- One-click upgrade from paywall vs. separate checkout
-- Pre-filled payment info for returning users
-- Multiple payment methods offered
-- Quarterly plan option alongside monthly/annual
-- Team invite flow for solo-to-team conversion
+Would it make sense to at least lock in pricing
+for the users you know you'll add?"
+```
+
+**Actions**:
+- Offer volume pricing for commitment
+- Create add-on pricing agreements
+- Build expansion terms into contract
+- Set triggers for automatic expansion
 
 ---
 
-### Personalization Experiments
+## Account Expansion Playbook
 
-**Usage-Based**
-- Personalize paywall copy based on features used
-- Highlight most-used premium features
-- Show usage stats ("You've created 50 projects")
-- Recommend plan based on behavior patterns
-- Dynamic feature emphasis based on user segment
+### Post-Sale Expansion Motion
 
-**Segment-Specific**
-- Different paywall for power users vs. casual users
-- B2B vs. B2C messaging variations
-- Industry-specific value propositions
-- Role-based feature highlighting
-- Traffic source-based messaging
+**Month 1-3: Establish Value**
+- Successful implementation
+- Initial user adoption
+- First quick wins documented
+- Relationship building
+
+**Month 3-6: Identify Opportunities**
+- Usage analysis
+- Stakeholder expansion
+- Business review conversations
+- Adjacent need discovery
+
+**Month 6-12: Propose Expansion**
+- Present expansion business case
+- Quantify additional value
+- Propose specific expansion
+- Negotiate terms
+
+**Ongoing: Land and Expand**
+- Regular business reviews
+- Usage monitoring
+- Relationship development
+- Strategic account planning
+
+### Expansion Conversation Framework
+
+**Review current state**:
+```
+"Since we started working together:
+- [Metric 1] has improved by [X]
+- [Metric 2] has improved by [Y]
+- [Value delivered] is now [Z]
+
+You mentioned [original goal]—how do you feel
+about progress toward that?"
+```
+
+**Explore new needs**:
+```
+"What's changed since we started?
+What other challenges are on your plate?
+Are there other teams dealing with similar issues?
+What's coming up that we should know about?"
+```
+
+**Propose expansion**:
+```
+"Based on what you've shared, here's an idea:
+
+[Expansion proposal] would help you [benefit].
+
+Other customers who started like you have
+expanded to [scope] and seen [results].
+
+Would this be worth exploring?"
+```
 
 ---
 
-### Frequency & UX Experiments
+## Metrics for Expansion Success
 
-**Frequency Capping**
-- Test number of prompts per session
-- Cool-down period after dismiss (hours vs. days)
-- Escalating urgency over time vs. consistent messaging
-- Once per feature vs. consolidated prompts
-- Re-show rules after major engagement
+### Leading Indicators
 
-**Dismiss Behavior**
-- "Maybe later" vs. "No thanks" vs. "Remind me tomorrow"
-- Ask reason for declining
-- Offer alternative (lower tier, annual discount)
-- Exit survey on dismiss
-- Friendly vs. neutral decline copy
+- Expansion opportunities in pipeline
+- Expansion conversations per account
+- Net new contacts added to accounts
+- Usage trends in existing accounts
+
+### Lagging Indicators
+
+- Net Revenue Retention (NRR)
+- Expansion revenue percentage
+- Average deal size growth
+- Time to first expansion
+
+### Expansion Scorecard
+
+| Metric | Target | Actual |
+|--------|--------|--------|
+| Accounts with expansion pipeline | | |
+| Expansion opportunities created | | |
+| Expansion revenue won | | |
+| Average expansion deal size | | |
+| Time from initial sale to expansion | | |
+| Net Revenue Retention | | |
+
+---
+
+## Expansion Pricing Strategies
+
+### Volume-Based Incentives
+
+- Tier pricing with breakpoints
+- Bundle discounts for multiple products
+- Commitment discounts for more users
+- Usage-based with volume breaks
+
+### Commitment-Based Incentives
+
+- Annual vs. monthly savings
+- Multi-year discount escalation
+- Prepayment discounts
+- Expansion commitments in contract
+
+### Success-Based Pricing
+
+- Expansion triggers tied to outcomes
+- Performance-based pricing tiers
+- Value-based pricing for expansion
+- ROI-guaranteed expansions
+
+---
+
+## Common Expansion Mistakes
+
+### Timing Mistakes
+
+**Too early**:
+- Asking before value proven
+- Rushing before trust built
+- Proposing before needs understood
+
+**Too late**:
+- Missing buying window
+- After budget is spent
+- When renewal is too close
+
+### Approach Mistakes
+
+**Pushy upselling**:
+- Forcing irrelevant features
+- Ignoring customer signals
+- Prioritizing quota over customer
+
+**Missing opportunities**:
+- Not asking discovery questions
+- Not monitoring usage signals
+- Not maintaining relationships
+- Not proposing expansion
+
+### Execution Mistakes
+
+**Poor positioning**:
+- Features, not value
+- Price, not ROI
+- Your needs, not theirs
+
+**Weak follow-through**:
+- Not documenting expansion opportunities
+- Not following up on interest
+- Not creating expansion plans
 
 ---
 
 ## Questions to Ask
 
 If you need more context:
-1. What's your current free → paid conversion rate?
-2. What triggers upgrade prompts today?
-3. What features are behind the paywall?
-4. What's your "aha moment" for users?
-5. What pricing model? (per seat, usage, flat)
-6. Mobile app, web app, or both?
+1. Where are you in the sales cycle or customer relationship?
+2. What was the original scope/proposal?
+3. What expansion opportunity are you trying to capture?
+4. What additional value would expansion provide them?
+5. What's their budget situation?
+6. What signals indicate they might be open to expansion?
 
 ---
 
 ## Related Skills
 
-- **page-cro**: For public pricing page optimization
-- **onboarding-cro**: For driving to aha moment before upgrade
-- **ab-test-setup**: For testing paywall variations
-- **analytics-tracking**: For measuring upgrade funnel
+- **discovery-calls**: For uncovering expansion opportunities
+- **business-reviews**: For ongoing expansion conversations
+- **negotiation**: For expansion deal structuring
+- **account-planning**: For strategic expansion planning
+- **pricing-negotiation**: For expansion pricing discussions
